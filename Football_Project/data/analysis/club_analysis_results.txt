@@ -1,0 +1,2622 @@
+
+Overall Analysis for Arsenal (31 years):
+  Average yearly spending: -65.72M
+  Average yearly points difference: 0.58
+  Average yearly goals for difference: 1.23
+  Average yearly goals against difference: 0.03
+  Overall cost per point: -113.19M
+  Overall cost per goal for: -53.62M
+  Overall cost per goal against: -2.04B
+
+Overall Analysis for Aston Villa (28 years):
+  Average yearly spending: -38.25M
+  Average yearly points difference: -0.25
+  Average yearly goals for difference: 1.07
+  Average yearly goals against difference: 0.39
+  Overall cost per point: 152.98M
+  Overall cost per goal for: -35.70M
+  Overall cost per goal against: -97.35M
+
+Overall Analysis for Barnsley (1 years):
+  Average yearly spending: -710.00K
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+
+Overall Analysis for Birmingham (7 years):
+  Average yearly spending: -15.15M
+  Average yearly points difference: -3.57
+  Average yearly goals for difference: -0.57
+  Average yearly goals against difference: 1.29
+  Overall cost per point: 4.24M
+  Overall cost per goal for: 26.52M
+  Overall cost per goal against: -11.78M
+
+Overall Analysis for Blackburn (17 years):
+  Average yearly spending: 2.77M
+  Average yearly points difference: -3.76
+  Average yearly goals for difference: -0.88
+  Average yearly goals against difference: 2.47
+  Overall cost per point: -735.94K
+  Overall cost per goal for: -3.14M
+  Overall cost per goal against: 1.12M
+
+Overall Analysis for Blackpool (0 years):
+  Average yearly spending: 0.00
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+
+Overall Analysis for Bolton (10 years):
+  Average yearly spending: -9.34M
+  Average yearly points difference: -0.40
+  Average yearly goals for difference: 0.70
+  Average yearly goals against difference: 0.60
+  Overall cost per point: 23.35M
+  Overall cost per goal for: -13.34M
+  Overall cost per goal against: -15.56M
+
+Overall Analysis for Bournemouth (7 years):
+  Average yearly spending: -88.88M
+  Average yearly points difference: 0.14
+  Average yearly goals for difference: 1.29
+  Average yearly goals against difference: 0.00
+  Overall cost per point: -622.17M
+  Overall cost per goal for: -69.13M
+
+Overall Analysis for Bradford (0 years):
+  Average yearly spending: 0.00
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+  Overall cost per point: -0.00
+  Overall cost per goal for: -0.00
+  Overall cost per goal against: 0.00
+
+Overall Analysis for Brentford (3 years):
+  Average yearly spending: -95.34M
+  Average yearly points difference: -2.33
+  Average yearly goals for difference: 2.67
+  Average yearly goals against difference: 3.00
+  Overall cost per point: 40.86M
+  Overall cost per goal for: -35.75M
+  Overall cost per goal against: -31.78M
+
+Overall Analysis for Brighton (7 years):
+  Average yearly spending: -8.97M
+  Average yearly points difference: 1.14
+  Average yearly goals for difference: 3.00
+  Average yearly goals against difference: 1.14
+  Overall cost per point: -7.85M
+  Overall cost per goal for: -2.99M
+  Overall cost per goal against: -7.85M
+
+Overall Analysis for Burnley (9 years):
+  Average yearly spending: -26.23M
+  Average yearly points difference: -0.56
+  Average yearly goals for difference: -0.11
+  Average yearly goals against difference: -0.44
+  Overall cost per point: 47.22M
+  Overall cost per goal for: 236.08M
+  Overall cost per goal against: 59.02M
+
+Overall Analysis for Cardiff (0 years):
+  Average yearly spending: 0.00
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+  Overall cost per goal for: 0.00
+  Overall cost per goal against: -0.00
+
+Overall Analysis for Charlton (8 years):
+  Average yearly spending: -8.80M
+  Average yearly points difference: -2.25
+  Average yearly goals for difference: -0.88
+  Average yearly goals against difference: 0.50
+  Overall cost per point: 3.91M
+  Overall cost per goal for: 10.06M
+  Overall cost per goal against: -17.61M
+
+Overall Analysis for Chelsea (31 years):
+  Average yearly spending: -120.80M
+  Average yearly points difference: 0.39
+  Average yearly goals for difference: 0.90
+  Average yearly goals against difference: 0.32
+  Overall cost per point: -312.06M
+  Overall cost per goal for: -133.74M
+  Overall cost per goal against: -374.47M
+
+Overall Analysis for Coventry (8 years):
+  Average yearly spending: 1.96M
+  Average yearly points difference: -2.75
+  Average yearly goals for difference: -0.88
+  Average yearly goals against difference: 2.25
+  Overall cost per point: -714.32K
+  Overall cost per goal for: -2.25M
+  Overall cost per goal against: 873.06K
+
+Overall Analysis for Crystal Palace (13 years):
+  Average yearly spending: -53.43M
+  Average yearly points difference: 0.31
+  Average yearly goals for difference: 1.77
+  Average yearly goals against difference: 0.69
+  Overall cost per point: -173.63M
+  Overall cost per goal for: -30.20M
+  Overall cost per goal against: -77.17M
+
+Overall Analysis for Derby (5 years):
+  Average yearly spending: -1.21M
+  Average yearly points difference: -3.20
+  Average yearly goals for difference: -5.00
+  Average yearly goals against difference: 6.20
+  Overall cost per point: 376.88K
+  Overall cost per goal for: 241.20K
+  Overall cost per goal against: -194.52K
+
+Overall Analysis for Everton (31 years):
+  Average yearly spending: -20.63M
+  Average yearly points difference: -0.13
+  Average yearly goals for difference: -0.06
+  Average yearly goals against difference: -0.39
+  Overall cost per point: 159.84M
+  Overall cost per goal for: 319.69M
+  Overall cost per goal against: 53.28M
+
+Overall Analysis for Fulham (17 years):
+  Average yearly spending: -24.99M
+  Average yearly points difference: -1.00
+  Average yearly goals for difference: 1.12
+  Average yearly goals against difference: 1.00
+  Overall cost per point: 24.99M
+  Overall cost per goal for: -22.36M
+  Overall cost per goal against: -24.99M
+
+Overall Analysis for Huddersfield (2 years):
+  Average yearly spending: -55.47M
+  Average yearly points difference: -10.50
+  Average yearly goals for difference: -3.00
+  Average yearly goals against difference: 9.00
+  Overall cost per point: 5.28M
+  Overall cost per goal for: 18.49M
+  Overall cost per goal against: -6.16M
+
+Overall Analysis for Hull City (5 years):
+  Average yearly spending: -16.17M
+  Average yearly points difference: -1.40
+  Average yearly goals for difference: -0.40
+  Average yearly goals against difference: 3.20
+  Overall cost per point: 11.55M
+  Overall cost per goal for: 40.43M
+  Overall cost per goal against: -5.05M
+
+Overall Analysis for Ipswich (2 years):
+  Average yearly spending: -1.31M
+  Average yearly points difference: -23.00
+  Average yearly goals for difference: 3.00
+  Average yearly goals against difference: 3.00
+  Overall cost per point: 57.17K
+  Overall cost per goal for: -438.33K
+  Overall cost per goal against: -438.33K
+
+Overall Analysis for Leeds (14 years):
+  Average yearly spending: -27.80M
+  Average yearly points difference: -4.64
+  Average yearly goals for difference: -1.21
+  Average yearly goals against difference: 2.79
+  Overall cost per point: 5.99M
+  Overall cost per goal for: 22.89M
+  Overall cost per goal against: -9.98M
+
+Overall Analysis for Leicester (17 years):
+  Average yearly spending: -19.62M
+  Average yearly points difference: -1.53
+  Average yearly goals for difference: 0.35
+  Average yearly goals against difference: -0.71
+  Overall cost per point: 12.83M
+  Overall cost per goal for: -55.60M
+  Overall cost per goal against: 27.80M
+
+Overall Analysis for Liverpool (31 years):
+  Average yearly spending: -57.07M
+  Average yearly points difference: 0.71
+  Average yearly goals for difference: 0.87
+  Average yearly goals against difference: -0.45
+  Overall cost per point: -80.41M
+  Overall cost per goal for: -65.52M
+  Overall cost per goal against: 126.36M
+
+Overall Analysis for Luton (1 years):
+  Average yearly spending: -25.62M
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+
+Overall Analysis for Man City (26 years):
+  Average yearly spending: -129.38M
+  Average yearly points difference: 1.27
+  Average yearly goals for difference: 2.23
+  Average yearly goals against difference: -0.58
+  Overall cost per point: -101.94M
+  Overall cost per goal for: -58.00M
+  Overall cost per goal against: 224.26M
+
+Overall Analysis for Man Utd (31 years):
+  Average yearly spending: -108.73M
+  Average yearly points difference: -1.03
+  Average yearly goals for difference: -0.74
+  Average yearly goals against difference: 0.65
+  Overall cost per point: 105.33M
+  Overall cost per goal for: 146.55M
+  Overall cost per goal against: -168.53M
+
+Overall Analysis for Middlesbrough (14 years):
+  Average yearly spending: -21.38M
+  Average yearly points difference: -1.64
+  Average yearly goals for difference: -0.57
+  Average yearly goals against difference: 0.21
+  Overall cost per point: 13.01M
+  Overall cost per goal for: 37.42M
+  Overall cost per goal against: -99.78M
+
+Overall Analysis for Newcastle (29 years):
+  Average yearly spending: -54.77M
+  Average yearly points difference: -1.24
+  Average yearly goals for difference: 0.10
+  Average yearly goals against difference: 0.72
+  Overall cost per point: 44.12M
+  Overall cost per goal for: -529.41M
+  Overall cost per goal against: -75.63M
+
+Overall Analysis for Norwich (7 years):
+  Average yearly spending: -19.04M
+  Average yearly points difference: -3.43
+  Average yearly goals for difference: -6.00
+  Average yearly goals against difference: 3.29
+  Overall cost per point: 5.55M
+  Overall cost per goal for: 3.17M
+  Overall cost per goal against: -5.79M
+
+Overall Analysis for Nottm Forest (6 years):
+  Average yearly spending: -47.03M
+  Average yearly points difference: -8.17
+  Average yearly goals for difference: -3.83
+  Average yearly goals against difference: 4.00
+  Overall cost per point: 5.76M
+  Overall cost per goal for: 12.27M
+  Overall cost per goal against: -11.76M
+
+Overall Analysis for Oldham (0 years):
+  Average yearly spending: 0.00
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+
+Overall Analysis for Portsmouth (7 years):
+  Average yearly spending: 4.50M
+  Average yearly points difference: -3.71
+  Average yearly goals for difference: -1.86
+  Average yearly goals against difference: 1.71
+  Overall cost per point: -1.21M
+  Overall cost per goal for: -2.42M
+  Overall cost per goal against: 2.62M
+
+Overall Analysis for QPR (5 years):
+  Average yearly spending: -23.48M
+  Average yearly points difference: -7.80
+  Average yearly goals for difference: -4.00
+  Average yearly goals against difference: 2.40
+  Overall cost per point: 3.01M
+  Overall cost per goal for: 5.87M
+  Overall cost per goal against: -9.78M
+
+Overall Analysis for Reading (3 years):
+  Average yearly spending: -4.76M
+  Average yearly points difference: -6.33
+  Average yearly goals for difference: -3.00
+  Average yearly goals against difference: 8.67
+  Overall cost per point: 751.58K
+  Overall cost per goal for: 1.59M
+  Overall cost per goal against: -549.23K
+
+Overall Analysis for Sheff Utd (4 years):
+  Average yearly spending: -53.49M
+  Average yearly points difference: -7.75
+  Average yearly goals for difference: -1.75
+  Average yearly goals against difference: 11.00
+  Overall cost per point: 6.90M
+  Overall cost per goal for: 30.56M
+  Overall cost per goal against: -4.86M
+
+Overall Analysis for Sheff Wed (6 years):
+  Average yearly spending: -6.35M
+  Average yearly points difference: -5.50
+  Average yearly goals for difference: -6.33
+  Average yearly goals against difference: 2.67
+  Overall cost per point: 1.15M
+  Overall cost per goal for: 1.00M
+  Overall cost per goal against: -2.38M
+
+Overall Analysis for Southampton (22 years):
+  Average yearly spending: -12.11M
+  Average yearly points difference: -1.23
+  Average yearly goals for difference: -0.59
+  Average yearly goals against difference: 0.32
+  Overall cost per point: 9.87M
+  Overall cost per goal for: 20.50M
+  Overall cost per goal against: -38.07M
+
+Overall Analysis for Stoke City (9 years):
+  Average yearly spending: -45.91M
+  Average yearly points difference: -1.33
+  Average yearly goals for difference: -0.33
+  Average yearly goals against difference: 1.44
+  Overall cost per point: 34.43M
+  Overall cost per goal for: 137.72M
+  Overall cost per goal against: -31.78M
+
+Overall Analysis for Sunderland (16 years):
+  Average yearly spending: -27.90M
+  Average yearly points difference: -3.38
+  Average yearly goals for difference: -0.38
+  Average yearly goals against difference: 1.00
+  Overall cost per point: 8.27M
+  Overall cost per goal for: 74.40M
+  Overall cost per goal against: -27.90M
+
+Overall Analysis for Swansea (0 years):
+  Average yearly spending: 0.00
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+  Overall cost per point: -0.00
+  Overall cost per goal for: -0.00
+  Overall cost per goal against: 0.00
+
+Overall Analysis for Swindon (1 years):
+  Average yearly spending: 1.18M
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+
+Overall Analysis for Tottenham (31 years):
+  Average yearly spending: -56.89M
+  Average yearly points difference: 0.68
+  Average yearly goals for difference: 0.65
+  Average yearly goals against difference: 0.06
+  Overall cost per point: -83.98M
+  Overall cost per goal for: -88.18M
+  Overall cost per goal against: -881.81M
+
+Overall Analysis for Watford (7 years):
+  Average yearly spending: -20.15M
+  Average yearly points difference: -1.57
+  Average yearly goals for difference: -0.14
+  Average yearly goals against difference: 0.00
+  Overall cost per point: 12.82M
+  Overall cost per goal for: 141.02M
+
+Overall Analysis for West Brom (13 years):
+  Average yearly spending: -24.87M
+  Average yearly points difference: -1.54
+  Average yearly goals for difference: 0.46
+  Average yearly goals against difference: 0.85
+  Overall cost per point: 16.17M
+  Overall cost per goal for: -53.89M
+  Overall cost per goal against: -29.39M
+
+Overall Analysis for West Ham (28 years):
+  Average yearly spending: -35.52M
+  Average yearly points difference: -0.93
+  Average yearly goals for difference: 0.46
+  Average yearly goals against difference: 0.57
+  Overall cost per point: 38.26M
+  Overall cost per goal for: -76.51M
+  Overall cost per goal against: -62.16M
+
+Overall Analysis for Wigan (8 years):
+  Average yearly spending: 93.75K
+  Average yearly points difference: -1.88
+  Average yearly goals for difference: 0.25
+  Average yearly goals against difference: 2.62
+  Overall cost per point: -50.00K
+  Overall cost per goal for: 375.00K
+  Overall cost per goal against: 35.71K
+
+Overall Analysis for Wimbledon (0 years):
+  Average yearly spending: 0.00
+  Average yearly points difference: 0.00
+  Average yearly goals for difference: 0.00
+  Average yearly goals against difference: 0.00
+  Overall cost per point: -0.00
+  Overall cost per goal for: -0.00
+  Overall cost per goal against: 0.00
+
+Overall Analysis for Wolves (10 years):
+  Average yearly spending: -43.19M
+  Average yearly points difference: -2.40
+  Average yearly goals for difference: 1.20
+  Average yearly goals against difference: -1.20
+  Overall cost per point: 17.99M
+  Overall cost per goal for: -35.99M
+  Overall cost per goal against: 35.99M
+
+
+Arsenal Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 33.15M
+  Avg spending per GF gained: 55.25M
+  Avg spending per GA decreased: 11.84M
+Year 2022:
+  Avg spending per Point gained: 21.89M
+  Avg spending per GF gained: 12.16M
+  Avg spending per GA decreased: 65.67M
+Year 2021:
+  Avg spending per Point gained: 37.33M
+  Avg spending per GF gained: 49.77M
+  Avg spending per GA increased: 33.18M
+Year 2020:
+  Avg spending per Point gained: 40.57M
+  Avg spending per GF dropped: 202.85M
+  Avg spending per GA decreased: 22.54M
+Year 2019:
+  Avg spending per Point dropped: 12.43M
+  Avg spending per GF dropped: 10.24M
+  Avg spending per GA decreased: 58.00M
+Year 2018:
+  Avg spending per Point gained: 25.46M
+  Avg spending per GF dropped: 178.20M
+Year 2017:
+  Avg spending per Point dropped: 5.12M
+  Avg spending per GF dropped: 20.50M
+  Avg spending per GA increased: 8.79M
+Year 2016:
+  Avg spending per Point gained: 23.27M
+  Avg spending per GF gained: 7.76M
+  Avg spending per GA increased: 11.64M
+Year 2015:
+  Avg spending per Point dropped: 31.66M
+  Avg spending per GF dropped: 21.11M
+Year 2014:
+  Avg spending per Point dropped: 28.80M
+  Avg spending per GF gained: 38.39M
+  Avg spending per GA decreased: 23.04M
+Year 2013:
+  Avg spending per Point gained: 21.38M
+  Avg spending per GF dropped: 32.07M
+  Avg spending per GA increased: 32.07M
+Year 2012:
+  Avg spending per Point gained: 9.08M
+  Avg spending per GF dropped: 13.62M
+  Avg spending per GA decreased: 2.27M
+Year 2011:
+  Avg income per Point gained: 11.34M
+  Avg income per GF gained: 11.34M
+  Avg income per GA increased: 3.78M
+Year 2010:
+  Avg spending per Point dropped: 298.57K
+  Avg spending per GF dropped: 190.00K
+  Avg spending per GA increased: 1.04M
+Year 2009:
+  Avg income per Point gained: 6.93M
+  Avg income per GF gained: 1.39M
+  Avg income per GA increased: 5.20M
+Year 2008:
+  Avg income per Point dropped: 1.94M
+  Avg income per GF dropped: 3.56M
+  Avg income per GA increased: 3.56M
+Year 2007:
+  Avg income per Point gained: 762.00K
+  Avg income per GF gained: 1.04M
+  Avg income per GA decreased: 2.86M
+Year 2006:
+  Avg income per Point gained: 23.70M
+  Avg income per GF dropped: 4.74M
+  Avg income per GA increased: 5.92M
+Year 2005:
+  Avg spending per Point dropped: 1.44M
+  Avg spending per GF dropped: 1.21M
+  Avg spending per GA decreased: 4.62M
+Year 2004:
+  Avg spending per Point dropped: 4.23M
+  Avg spending per GF gained: 2.11M
+  Avg spending per GA increased: 2.96M
+Year 2003:
+  Avg spending per Point gained: 2.91M
+  Avg spending per GF dropped: 2.91M
+  Avg spending per GA decreased: 2.18M
+Year 2002:
+  Avg spending per Point dropped: 3.44M
+  Avg spending per GF gained: 5.16M
+  Avg spending per GA increased: 5.16M
+Year 2001:
+  Avg spending per Point gained: 1.49M
+  Avg spending per GF gained: 1.58M
+  Avg spending per GA decreased: 12.64M
+Year 2000:
+  Avg spending per Point dropped: 9.15M
+  Avg spending per GF dropped: 2.75M
+  Avg spending per GA decreased: 5.49M
+Year 1999:
+  Avg income per Point dropped: 1.88M
+  Avg income per GF gained: 670.00K
+  Avg income per GA increased: 360.77K
+Year 1998:
+  Avg income per GF dropped: 105.56K
+  Avg income per GA decreased: 59.38K
+Year 1997:
+  Avg spending per Point gained: 2.88M
+  Avg spending per GF gained: 4.80M
+  Avg spending per GA increased: 28.81M
+Year 1996:
+  Avg spending per Point gained: 2.31M
+  Avg spending per GF gained: 890.00K
+Year 1995:
+  Avg spending per Point gained: 1.18M
+  Avg spending per GF dropped: 4.71M
+  Avg spending per GA decreased: 830.59K
+Year 1994:
+  Avg spending per Point dropped: 931.50K
+  Avg spending per GF dropped: 18.63M
+  Avg spending per GA increased: 887.14K
+
+Aston Villa Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 10.71M
+  Avg spending per GF gained: 3.00M
+  Avg spending per GA increased: 5.00M
+Year 2022:
+  Avg spending per Point gained: 7.82M
+  Avg spending per GF dropped: 125.09M
+  Avg spending per GA decreased: 15.64M
+Year 2021:
+  Avg spending per Point dropped: 4.89M
+  Avg spending per GF dropped: 16.31M
+  Avg spending per GA increased: 6.12M
+Year 2020:
+  Avg spending per Point gained: 5.07M
+  Avg spending per GF gained: 7.24M
+  Avg spending per GA decreased: 4.83M
+Year 2019:
+  Avg spending per GF gained: 18.22M
+  Avg spending per GA decreased: 28.34M
+Year 2015:
+  Avg spending per Point dropped: 1.98M
+  Avg spending per GF dropped: 10.39M
+  Avg spending per GA increased: 2.19M
+Year 2014:
+  Avg spending per GF dropped: 1.75M
+  Avg spending per GA decreased: 3.50M
+Year 2013:
+  Avg spending per Point dropped: 7.96M
+  Avg spending per GF dropped: 2.98M
+  Avg spending per GA decreased: 2.98M
+Year 2012:
+  Avg spending per Point gained: 12.12M
+  Avg spending per GF gained: 3.64M
+  Avg spending per GA increased: 2.27M
+Year 2011:
+  Avg spending per Point dropped: 122.00K
+  Avg spending per GF dropped: 110.91K
+  Avg spending per GA decreased: 203.33K
+Year 2010:
+  Avg income per Point dropped: 900.62K
+  Avg income per GF dropped: 3.60M
+  Avg income per GA increased: 720.50K
+Year 2009:
+  Avg spending per Point gained: 16.90M
+  Avg spending per GF dropped: 16.90M
+  Avg spending per GA decreased: 3.76M
+Year 2008:
+  Avg spending per Point gained: 36.59M
+  Avg spending per GF dropped: 4.30M
+  Avg spending per GA decreased: 24.39M
+Year 2007:
+  Avg spending per Point gained: 5.54M
+  Avg spending per GF gained: 1.98M
+  Avg spending per GA increased: 5.54M
+Year 2006:
+  Avg spending per Point gained: 3.42M
+  Avg spending per GF gained: 27.38M
+  Avg spending per GA decreased: 1.96M
+Year 2005:
+  Avg spending per Point dropped: 6.10M
+  Avg spending per GF dropped: 10.17M
+  Avg spending per GA increased: 10.17M
+Year 2004:
+  Avg spending per Point dropped: 1.87M
+  Avg spending per GF dropped: 5.62M
+  Avg spending per GA increased: 2.11M
+Year 2003:
+  Avg spending per Point gained: 1.35M
+  Avg spending per GF gained: 2.47M
+  Avg spending per GA decreased: 4.93M
+Year 2002:
+  Avg spending per Point dropped: 2.05M
+  Avg spending per GF dropped: 2.56M
+Year 2001:
+  Avg spending per Point dropped: 2.85M
+  Avg spending per GA increased: 2.85M
+Year 2000:
+  Avg spending per Point dropped: 2.38M
+  Avg spending per GA increased: 1.19M
+Year 1999:
+  Avg spending per Point gained: 1.28M
+  Avg spending per GF dropped: 768.00K
+  Avg spending per GA decreased: 349.09K
+Year 1998:
+  Avg spending per Point dropped: 10.18M
+  Avg spending per GF gained: 10.18M
+  Avg spending per GA decreased: 10.18M
+Year 1997:
+  Avg spending per Point dropped: 6.32M
+  Avg spending per GF gained: 12.63M
+  Avg spending per GA increased: 1.80M
+Year 1996:
+  Avg spending per Point dropped: 6.08M
+  Avg spending per GF dropped: 2.43M
+  Avg spending per GA decreased: 12.16M
+Year 1995:
+  Avg spending per Point gained: 658.67K
+  Avg spending per GF gained: 9.88M
+  Avg spending per GA decreased: 470.48K
+Year 1994:
+  Avg spending per Point dropped: 627.78K
+  Avg spending per GF gained: 1.13M
+  Avg spending per GA increased: 941.67K
+
+Barnsley Year by year analysis:
+
+Birmingham Year by year analysis:
+Year 2010:
+  Avg income per Point dropped: 799.09K
+  Avg income per GF dropped: 8.79M
+  Avg income per GA increased: 799.09K
+Year 2009:
+  Avg spending per GF dropped: 5.63M
+  Avg spending per GA decreased: 3.01M
+Year 2007:
+  Avg spending per GF gained: 747.22K
+  Avg spending per GA increased: 1.12M
+Year 2005:
+  Avg income per Point dropped: 718.18K
+  Avg income per GF dropped: 658.33K
+  Avg income per GA increased: 1.98M
+Year 2004:
+  Avg spending per Point dropped: 2.35M
+  Avg spending per GF dropped: 3.92M
+  Avg spending per GA decreased: 5.88M
+Year 2003:
+  Avg spending per Point gained: 11.38M
+  Avg spending per GF gained: 11.38M
+  Avg spending per GA decreased: 22.77M
+
+Blackburn Year by year analysis:
+Year 2011:
+  Avg income per Point dropped: 1.15M
+  Avg income per GF gained: 6.88M
+  Avg income per GA increased: 724.74K
+Year 2010:
+  Avg income per Point dropped: 2.14M
+  Avg income per GF gained: 3.00M
+  Avg income per GA increased: 3.75M
+Year 2009:
+  Avg income per Point gained: 2.07M
+  Avg income per GF gained: 18.60M
+  Avg income per GA decreased: 3.72M
+Year 2008:
+  Avg income per Point dropped: 2.25M
+  Avg income per GF dropped: 3.82M
+  Avg income per GA increased: 3.18M
+Year 2007:
+  Avg income per Point gained: 2.10M
+  Avg income per GF dropped: 6.30M
+  Avg income per GA decreased: 2.10M
+Year 2006:
+  Avg spending per Point dropped: 299.09K
+  Avg spending per GF gained: 3.29M
+  Avg spending per GA increased: 274.17K
+Year 2005:
+  Avg spending per Point gained: 370.00K
+  Avg spending per GF gained: 408.95K
+  Avg spending per GA decreased: 7.77M
+Year 2004:
+  Avg spending per Point dropped: 3.44M
+  Avg spending per GF dropped: 362.11K
+  Avg spending per GA decreased: 430.00K
+Year 2003:
+  Avg income per Point dropped: 771.25K
+  Avg income per GF dropped: 12.34M
+  Avg income per GA increased: 771.25K
+Year 2002:
+  Avg income per Point gained: 504.29K
+  Avg income per GF dropped: 2.35M
+  Avg income per GA decreased: 882.50K
+Year 2001:
+  Avg spending per GF gained: 1.63M
+  Avg spending per GA decreased: 27.79M
+Year 1998:
+  Avg spending per Point dropped: 816.96K
+  Avg spending per GF dropped: 988.95K
+Year 1997:
+  Avg spending per Point gained: 1.25M
+  Avg spending per GF gained: 1.34M
+  Avg spending per GA increased: 2.23M
+Year 1996:
+  Avg income per Point dropped: 2.06M
+  Avg income per GF dropped: 2.06M
+  Avg income per GA decreased: 9.80M
+Year 1995:
+  Avg income per Point dropped: 291.79K
+  Avg income per GF dropped: 430.00K
+  Avg income per GA increased: 1.02M
+Year 1994:
+  Avg spending per Point gained: 3.25M
+  Avg spending per GF gained: 955.29K
+  Avg spending per GA increased: 5.41M
+
+Blackpool Year by year analysis:
+
+Bolton Year by year analysis:
+Year 2011:
+  Avg spending per Point dropped: 276.00K
+  Avg spending per GF dropped: 460.00K
+  Avg spending per GA increased: 131.43K
+Year 2010:
+  Avg spending per Point gained: 467.14K
+  Avg spending per GF gained: 327.00K
+  Avg spending per GA decreased: 297.27K
+Year 2009:
+  Avg spending per Point dropped: 7.00M
+  Avg spending per GF gained: 14.00M
+  Avg spending per GA increased: 1.00M
+Year 2008:
+  Avg spending per Point gained: 5.71M
+  Avg spending per GF gained: 4.57M
+  Avg spending per GA decreased: 22.83M
+Year 2007:
+  Avg spending per Point dropped: 695.26K
+  Avg spending per GF dropped: 1.20M
+  Avg spending per GA increased: 6.61M
+Year 2006:
+  Avg spending per GF dropped: 6.76M
+  Avg spending per GA increased: 1.23M
+Year 2005:
+  Avg spending per Point dropped: 9.68M
+  Avg spending per GA decreased: 6.45M
+Year 2004:
+  Avg spending per Point gained: 1.44M
+  Avg spending per GF gained: 7.20M
+  Avg spending per GA decreased: 600.00K
+Year 1997:
+  Avg spending per GF gained: 1.16M
+  Avg spending per GA decreased: 232.00K
+
+Bournemouth Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 18.41M
+  Avg spending per GF gained: 9.75M
+  Avg spending per GA decreased: 41.42M
+Year 2022:
+  Avg spending per GF dropped: 69.63M
+  Avg spending per GA increased: 34.81M
+Year 2019:
+  Avg income per Point dropped: 6.60M
+  Avg income per GF dropped: 4.54M
+  Avg income per GA decreased: 14.51M
+Year 2018:
+  Avg spending per Point gained: 91.69M
+  Avg spending per GF gained: 8.34M
+  Avg spending per GA increased: 10.19M
+Year 2017:
+  Avg spending per Point dropped: 52.85M
+  Avg spending per GF dropped: 10.57M
+  Avg spending per GA decreased: 17.62M
+Year 2016:
+  Avg spending per Point gained: 12.82M
+  Avg spending per GF gained: 5.13M
+
+Bradford Year by year analysis:
+
+Brentford Year by year analysis:
+Year 2023:
+  Avg spending per Point dropped: 4.76M
+  Avg spending per GF dropped: 47.63M
+  Avg spending per GA increased: 5.01M
+Year 2022:
+  Avg spending per Point gained: 8.30M
+  Avg spending per GF gained: 10.79M
+  Avg spending per GA decreased: 10.79M
+
+Brighton Year by year analysis:
+Year 2023:
+  Avg income per Point dropped: 4.78M
+  Avg income per GF dropped: 3.94M
+  Avg income per GA increased: 7.43M
+Year 2022:
+  Avg income per Point gained: 15.37M
+  Avg income per GF gained: 5.64M
+  Avg income per GA increased: 18.79M
+Year 2021:
+  Avg income per Point gained: 8.65M
+  Avg income per GF gained: 43.25M
+  Avg income per GA decreased: 43.25M
+Year 2020:
+  Avg spending per GF gained: 25.70M
+  Avg spending per GA decreased: 3.21M
+Year 2019:
+  Avg spending per Point gained: 16.55M
+  Avg spending per GF gained: 20.68M
+  Avg spending per GA decreased: 13.79M
+Year 2018:
+  Avg spending per Point dropped: 32.56M
+  Avg spending per GF gained: 130.24M
+  Avg spending per GA increased: 21.71M
+
+Burnley Year by year analysis:
+Year 2023:
+  Avg spending per GF gained: 19.61M
+  Avg spending per GA increased: 5.49M
+Year 2021:
+  Avg income per Point dropped: 6.09M
+  Avg income per GF gained: 24.36M
+  Avg income per GA decreased: 12.18M
+Year 2020:
+  Avg spending per Point dropped: 513.33K
+  Avg spending per GF dropped: 770.00K
+  Avg spending per GA increased: 1.54M
+Year 2019:
+  Avg spending per Point gained: 650.00K
+  Avg spending per GF dropped: 4.55M
+  Avg spending per GA decreased: 505.56K
+Year 2018:
+  Avg spending per Point dropped: 2.52M
+  Avg spending per GF gained: 3.92M
+  Avg spending per GA increased: 1.22M
+Year 2017:
+  Avg spending per Point gained: 767.14K
+  Avg spending per GF dropped: 3.58M
+  Avg spending per GA decreased: 671.25K
+Year 2016:
+  Avg spending per GF gained: 2.74M
+  Avg spending per GA increased: 15.07M
+Year 2014:
+  Avg spending per GF dropped: 1.26M
+  Avg spending per GA decreased: 607.93K
+
+Cardiff Year by year analysis:
+
+Charlton Year by year analysis:
+Year 2006:
+  Avg income per Point dropped: 552.31K
+  Avg income per GF dropped: 1.03M
+  Avg income per GA increased: 1.44M
+Year 2005:
+  Avg spending per Point gained: 22.77M
+  Avg spending per GF dropped: 22.77M
+  Avg spending per GA decreased: 7.59M
+Year 2004:
+  Avg spending per Point dropped: 2.10M
+  Avg spending per GF dropped: 1.63M
+  Avg spending per GA increased: 2.10M
+Year 2003:
+  Avg income per Point gained: 550.00K
+  Avg income per GF gained: 366.67K
+  Avg income per GA decreased: 440.00K
+Year 2002:
+  Avg income per Point gained: 1.88M
+  Avg income per GF gained: 1.34M
+  Avg income per GA increased: 1.34M
+Year 2001:
+  Avg spending per Point dropped: 2.03M
+  Avg spending per GF dropped: 1.35M
+  Avg spending per GA decreased: 2.03M
+Year 2000:
+  Avg spending per GF gained: 3.60M
+  Avg spending per GA increased: 32.39M
+
+Chelsea Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 8.94M
+  Avg spending per GF gained: 4.35M
+  Avg spending per GA increased: 10.61M
+Year 2022:
+  Avg spending per Point dropped: 25.49M
+  Avg spending per GF dropped: 20.13M
+  Avg spending per GA increased: 54.63M
+Year 2021:
+  Avg spending per Point gained: 75.12M
+  Avg spending per GF gained: 29.21M
+  Avg spending per GA decreased: 175.27M
+Year 2020:
+  Avg spending per Point gained: 153.37M
+  Avg spending per GF dropped: 13.94M
+  Avg spending per GA decreased: 8.52M
+Year 2019:
+  Avg spending per Point dropped: 12.00M
+  Avg spending per GF gained: 12.00M
+  Avg spending per GA increased: 4.80M
+Year 2018:
+  Avg spending per Point gained: 3.74M
+  Avg spending per GF gained: 7.48M
+  Avg spending per GA increased: 7.48M
+Year 2017:
+  Avg spending per Point dropped: 8.32M
+  Avg spending per GF dropped: 8.32M
+  Avg spending per GA increased: 38.29M
+Year 2016:
+  Avg spending per Point gained: 2.09M
+  Avg spending per GF gained: 3.45M
+  Avg spending per GA decreased: 4.49M
+Year 2015:
+  Avg spending per Point dropped: 889.46K
+  Avg spending per GF dropped: 2.35M
+  Avg spending per GA increased: 1.57M
+Year 2014:
+  Avg spending per Point gained: 780.00K
+  Avg spending per GF gained: 1.95M
+  Avg spending per GA increased: 780.00K
+Year 2013:
+  Avg spending per Point gained: 6.76M
+  Avg spending per GF dropped: 11.83M
+  Avg spending per GA decreased: 3.94M
+Year 2012:
+  Avg spending per Point gained: 12.42M
+  Avg spending per GF gained: 13.67M
+  Avg spending per GA decreased: 19.52M
+Year 2011:
+  Avg spending per Point dropped: 21.31M
+  Avg spending per GF dropped: 37.28M
+  Avg spending per GA increased: 11.47M
+Year 2010:
+  Avg spending per Point dropped: 11.33M
+  Avg spending per GF dropped: 5.00M
+  Avg spending per GA increased: 169.89M
+Year 2009:
+  Avg spending per Point gained: 43.73M
+  Avg spending per GF gained: 3.75M
+  Avg spending per GA increased: 16.40M
+Year 2008:
+  Avg spending per Point dropped: 6.08M
+  Avg spending per GF gained: 4.05M
+  Avg spending per GA decreased: 6.08M
+Year 2007:
+  Avg spending per Point gained: 650.00K
+  Avg spending per GF gained: 1.30M
+  Avg spending per GA increased: 650.00K
+Year 2006:
+  Avg spending per Point dropped: 6.47M
+  Avg spending per GF dropped: 6.47M
+  Avg spending per GA increased: 25.86M
+Year 2005:
+  Avg spending per Point dropped: 23.32M
+  Avg spending per GA increased: 13.33M
+Year 2004:
+  Avg spending per Point gained: 13.50M
+  Avg spending per GF gained: 43.20M
+  Avg spending per GA decreased: 14.40M
+Year 2003:
+  Avg spending per Point gained: 27.65M
+  Avg spending per GF dropped: 331.85M
+  Avg spending per GA decreased: 41.48M
+Year 2002:
+  Avg spending per Point gained: 56.88M
+  Avg spending per GF gained: 85.33M
+Year 2001:
+  Avg spending per Point gained: 11.09M
+  Avg spending per GF dropped: 16.64M
+  Avg spending per GA decreased: 4.75M
+Year 2000:
+  Avg spending per Point dropped: 12.51M
+  Avg spending per GF gained: 3.34M
+  Avg spending per GA increased: 4.55M
+Year 1999:
+  Avg spending per Point dropped: 3.31M
+  Avg spending per GF dropped: 8.29M
+  Avg spending per GA increased: 8.29M
+Year 1998:
+  Avg spending per Point gained: 2.48M
+  Avg spending per GF dropped: 2.12M
+  Avg spending per GA decreased: 2.29M
+Year 1997:
+  Avg spending per Point gained: 7.17M
+  Avg spending per GF gained: 2.21M
+  Avg spending per GA decreased: 2.39M
+Year 1996:
+  Avg spending per Point gained: 3.16M
+  Avg spending per GF gained: 2.37M
+  Avg spending per GA increased: 2.58M
+Year 1995:
+  Avg spending per Point dropped: 2.76M
+  Avg spending per GF dropped: 2.76M
+  Avg spending per GA decreased: 1.00M
+Year 1994:
+  Avg spending per Point gained: 1.48M
+  Avg spending per GF gained: 4.45M
+  Avg spending per GA increased: 2.23M
+
+Coventry Year by year analysis:
+Year 2000:
+  Avg income per Point dropped: 3.14M
+  Avg income per GF dropped: 2.85M
+  Avg income per GA increased: 3.49M
+Year 1999:
+  Avg income per Point gained: 1.18M
+  Avg income per GF gained: 293.75K
+  Avg income per GA increased: 783.33K
+Year 1998:
+  Avg income per Point dropped: 18.00K
+  Avg income per GF dropped: 25.71K
+  Avg income per GA increased: 25.71K
+Year 1997:
+  Avg income per Point gained: 382.73K
+  Avg income per GF gained: 526.25K
+  Avg income per GA decreased: 421.00K
+Year 1996:
+  Avg spending per Point gained: 2.30M
+  Avg spending per GF dropped: 1.73M
+  Avg spending per GA decreased: 1.15M
+Year 1995:
+  Avg spending per Point dropped: 854.17K
+  Avg spending per GF dropped: 5.12M
+  Avg spending per GA decreased: 5.12M
+Year 1994:
+  Avg spending per Point dropped: 766.67K
+  Avg spending per GF gained: 4.60M
+  Avg spending per GA increased: 270.59K
+
+Crystal Palace Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 16.95M
+  Avg spending per GF gained: 3.99M
+  Avg spending per GA increased: 7.53M
+Year 2022:
+  Avg spending per Point dropped: 36.32M
+  Avg spending per GF dropped: 10.89M
+  Avg spending per GA increased: 36.32M
+Year 2021:
+  Avg spending per Point gained: 31.69M
+  Avg spending per GF gained: 14.08M
+  Avg spending per GA decreased: 6.34M
+Year 2020:
+  Avg spending per Point gained: 88.02M
+  Avg spending per GF gained: 8.80M
+  Avg spending per GA increased: 5.50M
+Year 2019:
+  Avg income per Point dropped: 7.56M
+  Avg income per GF dropped: 2.27M
+  Avg income per GA decreased: 15.13M
+Year 2017:
+  Avg spending per Point gained: 21.48M
+  Avg spending per GF dropped: 12.89M
+  Avg spending per GA decreased: 8.06M
+Year 2016:
+  Avg spending per Point dropped: 103.95M
+  Avg spending per GF gained: 9.45M
+  Avg spending per GA increased: 8.66M
+Year 2015:
+  Avg spending per Point dropped: 12.40M
+  Avg spending per GF dropped: 9.30M
+Year 2014:
+  Avg spending per Point gained: 17.25M
+  Avg spending per GF gained: 3.70M
+  Avg spending per GA increased: 17.25M
+Year 2013:
+  Avg spending per GF dropped: 7.67M
+  Avg spending per GA decreased: 4.38M
+Year 2004:
+  Avg spending per GF gained: 2.05M
+  Avg spending per GA decreased: 911.11K
+Year 1997:
+  Avg income per GF gained: 1.72M
+  Avg income per GA increased: 234.09K
+
+Derby Year by year analysis:
+Year 2007:
+  Avg spending per GF dropped: 1.12M
+  Avg spending per GA increased: 561.15K
+Year 2000:
+  Avg income per Point gained: 1.62M
+  Avg income per GF dropped: 924.29K
+  Avg income per GA increased: 3.23M
+Year 1999:
+  Avg spending per Point dropped: 871.43K
+  Avg spending per GF gained: 3.05M
+  Avg spending per GA increased: 1.02M
+Year 1998:
+  Avg income per Point dropped: 1.57M
+  Avg income per GF dropped: 392.50K
+  Avg income per GA decreased: 1.18M
+Year 1997:
+  Avg income per Point gained: 1.06M
+  Avg income per GF gained: 1.37M
+  Avg income per GA decreased: 1.06M
+
+Everton Year by year analysis:
+Year 2023:
+  Avg income per Point gained: 10.57M
+  Avg income per GF gained: 7.05M
+  Avg income per GA decreased: 7.05M
+Year 2022:
+  Avg income per Point dropped: 22.57M
+  Avg income per GF dropped: 7.52M
+  Avg income per GA decreased: 7.52M
+Year 2021:
+  Avg income per Point dropped: 1.59M
+  Avg income per GF dropped: 7.97M
+  Avg income per GA increased: 1.77M
+Year 2020:
+  Avg spending per Point gained: 6.34M
+  Avg spending per GF gained: 21.15M
+  Avg spending per GA decreased: 7.93M
+Year 2019:
+  Avg spending per Point dropped: 20.63M
+  Avg spending per GF dropped: 10.31M
+  Avg spending per GA increased: 10.31M
+Year 2018:
+  Avg spending per Point gained: 20.87M
+  Avg spending per GF gained: 10.44M
+  Avg spending per GA decreased: 8.70M
+Year 2017:
+  Avg spending per Point dropped: 12.33M
+  Avg spending per GF dropped: 8.22M
+  Avg spending per GA increased: 10.57M
+Year 2016:
+  Avg spending per Point gained: 7.29M
+  Avg spending per GF gained: 34.01M
+  Avg spending per GA decreased: 9.27M
+Year 2015:
+  Avg spending per GF gained: 5.67M
+  Avg spending per GA increased: 12.48M
+Year 2014:
+  Avg spending per Point dropped: 3.02M
+  Avg spending per GF dropped: 5.80M
+  Avg spending per GA increased: 6.86M
+Year 2013:
+  Avg spending per Point gained: 2.66M
+  Avg spending per GF gained: 3.99M
+  Avg spending per GA decreased: 23.96M
+Year 2012:
+  Avg income per Point gained: 1.63M
+  Avg income per GF gained: 2.28M
+Year 2011:
+  Avg income per Point gained: 8.35M
+  Avg income per GF dropped: 16.70M
+  Avg income per GA decreased: 3.34M
+Year 2010:
+  Avg income per Point dropped: 3.50M
+  Avg income per GF dropped: 2.72M
+  Avg income per GA decreased: 6.12M
+Year 2009:
+  Avg income per Point dropped: 4.97M
+  Avg income per GF gained: 1.99M
+  Avg income per GA increased: 828.33K
+Year 2008:
+  Avg spending per Point dropped: 3.37M
+  Avg spending per GA increased: 1.69M
+Year 2007:
+  Avg spending per Point gained: 4.93M
+  Avg spending per GF gained: 11.51M
+  Avg spending per GA decreased: 11.51M
+Year 2006:
+  Avg spending per Point gained: 4.77M
+  Avg spending per GF gained: 2.12M
+  Avg spending per GA decreased: 2.93M
+Year 2005:
+  Avg spending per Point dropped: 3.72M
+  Avg spending per GF dropped: 3.72M
+  Avg spending per GA increased: 13.64M
+Year 2004:
+  Avg income per Point gained: 363.64K
+  Avg income per GA decreased: 727.27K
+Year 2003:
+  Avg income per Point dropped: 1.23M
+  Avg income per GF dropped: 8.20M
+  Avg income per GA increased: 3.07M
+Year 2002:
+  Avg spending per Point gained: 1.40M
+  Avg spending per GF gained: 7.48M
+  Avg spending per GA decreased: 2.81M
+Year 2001:
+  Avg spending per Point gained: 12.08M
+  Avg spending per GA decreased: 6.04M
+Year 2000:
+  Avg income per Point dropped: 312.50K
+  Avg income per GF dropped: 178.57K
+  Avg income per GA increased: 250.00K
+Year 1999:
+  Avg income per Point gained: 2.04M
+  Avg income per GF gained: 841.18K
+  Avg income per GA increased: 7.15M
+Year 1998:
+  Avg spending per Point gained: 1.29M
+  Avg spending per GF gained: 3.87M
+  Avg spending per GA decreased: 430.00K
+Year 1997:
+  Avg spending per Point dropped: 5.59M
+  Avg spending per GF dropped: 3.73M
+  Avg spending per GA decreased: 11.18M
+Year 1996:
+  Avg income per Point dropped: 555.79K
+  Avg income per GF dropped: 528.00K
+  Avg income per GA increased: 812.31K
+Year 1995:
+  Avg spending per Point gained: 1.08M
+  Avg spending per GF gained: 596.00K
+  Avg spending per GA decreased: 1.70M
+Year 1994:
+  Avg spending per Point gained: 4.45M
+  Avg spending per GF gained: 13.35M
+  Avg spending per GA decreased: 2.22M
+
+Fulham Year by year analysis:
+Year 2023:
+  Avg spending per Point dropped: 3.05M
+  Avg spending per GA increased: 1.91M
+Year 2022:
+  Avg spending per GF gained: 2.38M
+Year 2020:
+  Avg spending per GF dropped: 7.58M
+  Avg spending per GA decreased: 1.89M
+Year 2018:
+  Avg spending per GF dropped: 19.94M
+  Avg spending per GA decreased: 29.91M
+Year 2013:
+  Avg spending per Point dropped: 2.24M
+  Avg spending per GF dropped: 2.47M
+  Avg spending per GA increased: 987.20K
+Year 2012:
+  Avg spending per Point dropped: 414.44K
+  Avg spending per GF gained: 1.86M
+  Avg spending per GA increased: 414.44K
+Year 2011:
+  Avg income per Point gained: 3.66M
+  Avg income per GF dropped: 10.97M
+  Avg income per GA increased: 1.37M
+Year 2010:
+  Avg spending per Point gained: 2.90M
+  Avg spending per GF gained: 870.00K
+  Avg spending per GA decreased: 2.90M
+Year 2009:
+  Avg spending per Point dropped: 764.29K
+  Avg spending per GA increased: 445.83K
+Year 2008:
+  Avg spending per Point gained: 1.04M
+  Avg spending per GF gained: 17.63M
+  Avg spending per GA decreased: 678.08K
+Year 2007:
+  Avg spending per Point dropped: 13.82M
+Year 2006:
+  Avg spending per Point dropped: 3.80M
+  Avg spending per GF dropped: 3.42M
+  Avg spending per GA increased: 17.11M
+Year 2005:
+  Avg spending per Point gained: 1.30M
+  Avg spending per GF dropped: 1.30M
+  Avg spending per GA decreased: 2.60M
+Year 2004:
+  Avg spending per Point dropped: 1.33M
+  Avg spending per GA increased: 762.86K
+Year 2003:
+  Avg income per Point gained: 1.95M
+  Avg income per GF gained: 710.00K
+  Avg income per GA decreased: 1.95M
+Year 2002:
+  Avg income per Point gained: 3.60M
+  Avg income per GF gained: 2.88M
+  Avg income per GA increased: 2.40M
+
+Huddersfield Year by year analysis:
+Year 2018:
+  Avg spending per Point dropped: 1.06M
+  Avg spending per GF dropped: 3.71M
+  Avg spending per GA increased: 1.24M
+
+Hull City Year by year analysis:
+Year 2016:
+  Avg income per GF gained: 3.56M
+  Avg income per GA increased: 490.69K
+Year 2014:
+  Avg spending per Point dropped: 2.91M
+  Avg spending per GF dropped: 1.16M
+  Avg spending per GA decreased: 2.91M
+Year 2013:
+  Avg spending per GF gained: 14.94M
+  Avg spending per GA decreased: 2.72M
+Year 2009:
+  Avg spending per Point dropped: 766.00K
+  Avg spending per GF dropped: 766.00K
+  Avg spending per GA increased: 348.18K
+
+Ipswich Year by year analysis:
+Year 2001:
+  Avg income per Point dropped: 316.67K
+  Avg income per GF dropped: 593.75K
+  Avg income per GA increased: 431.82K
+Year 2000:
+  Avg spending per GF gained: 577.62K
+  Avg spending per GA decreased: 237.84K
+
+Leeds Year by year analysis:
+Year 2022:
+  Avg spending per Point dropped: 6.46M
+  Avg spending per GF gained: 7.54M
+  Avg spending per GA decreased: 45.21M
+Year 2021:
+  Avg spending per Point dropped: 4.87M
+  Avg spending per GF dropped: 5.11M
+  Avg spending per GA increased: 4.09M
+Year 2020:
+  Avg spending per GF gained: 8.50M
+  Avg spending per GA decreased: 7.48M
+Year 2003:
+  Avg income per Point dropped: 2.89M
+  Avg income per GF dropped: 2.25M
+  Avg income per GA increased: 1.84M
+Year 2002:
+  Avg income per Point dropped: 4.86M
+  Avg income per GF gained: 18.47M
+  Avg income per GA increased: 4.62M
+Year 2001:
+  Avg income per Point dropped: 16.95M
+  Avg income per GF dropped: 3.08M
+  Avg income per GA decreased: 5.65M
+Year 2000:
+  Avg spending per Point dropped: 82.55M
+  Avg spending per GF gained: 13.76M
+Year 1999:
+  Avg spending per Point gained: 27.14M
+  Avg spending per GF dropped: 13.57M
+  Avg spending per GA increased: 6.03M
+Year 1998:
+  Avg spending per Point gained: 2.99M
+  Avg spending per GF gained: 4.78M
+  Avg spending per GA decreased: 1.99M
+Year 1997:
+  Avg spending per Point gained: 1.45M
+  Avg spending per GF gained: 648.62K
+  Avg spending per GA increased: 2.35M
+Year 1996:
+  Avg spending per Point gained: 8.01M
+  Avg spending per GF dropped: 2.00M
+  Avg spending per GA decreased: 1.27M
+Year 1995:
+  Avg spending per Point dropped: 512.00K
+  Avg spending per GF dropped: 808.42K
+  Avg spending per GA increased: 808.42K
+Year 1994:
+  Avg spending per Point gained: 916.67K
+  Avg spending per GF dropped: 458.33K
+  Avg spending per GA decreased: 2.75M
+
+Leicester Year by year analysis:
+Year 2022:
+  Avg income per Point dropped: 5.20M
+  Avg income per GF dropped: 8.51M
+  Avg income per GA increased: 10.41M
+Year 2021:
+  Avg spending per Point dropped: 2.23M
+  Avg spending per GF dropped: 5.20M
+  Avg spending per GA increased: 3.47M
+Year 2020:
+  Avg spending per Point gained: 17.31M
+  Avg spending per GF gained: 69.23M
+  Avg spending per GA increased: 7.69M
+Year 2019:
+  Avg spending per Point gained: 2.14M
+  Avg spending per GF gained: 1.34M
+  Avg spending per GA decreased: 3.06M
+Year 2018:
+  Avg spending per Point gained: 6.92M
+  Avg spending per GF dropped: 6.92M
+  Avg spending per GA decreased: 2.88M
+Year 2017:
+  Avg spending per Point gained: 17.52M
+  Avg spending per GF gained: 6.57M
+  Avg spending per GA decreased: 17.52M
+Year 2016:
+  Avg spending per Point dropped: 1.62M
+  Avg spending per GF dropped: 2.99M
+  Avg spending per GA increased: 2.21M
+Year 2015:
+  Avg spending per Point gained: 1.66M
+  Avg spending per GF gained: 3.02M
+  Avg spending per GA decreased: 3.50M
+Year 2014:
+  Avg spending per GF dropped: 31.66M
+  Avg spending per GA decreased: 6.33M
+Year 2003:
+  Avg spending per GF gained: 77.78K
+  Avg spending per GA increased: 1.40M
+Year 2001:
+  Avg spending per Point dropped: 133.50K
+  Avg spending per GF dropped: 296.67K
+  Avg spending per GA increased: 205.38K
+Year 2000:
+  Avg spending per Point dropped: 2.60M
+  Avg spending per GF dropped: 1.14M
+  Avg spending per GA decreased: 4.54M
+Year 1999:
+  Avg income per Point gained: 1.38M
+  Avg income per GF gained: 552.00K
+  Avg income per GA increased: 920.00K
+Year 1998:
+  Avg income per Point dropped: 595.00K
+  Avg income per GF dropped: 216.36K
+  Avg income per GA increased: 476.00K
+Year 1997:
+  Avg spending per Point gained: 1.50M
+  Avg spending per GF gained: 1.80M
+  Avg spending per GA decreased: 690.77K
+Year 1996:
+  Avg spending per GF gained: 6.21M
+  Avg spending per GA decreased: 238.85K
+
+Liverpool Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 7.42M
+  Avg spending per GF gained: 10.12M
+  Avg spending per GA decreased: 18.55M
+Year 2022:
+  Avg spending per Point dropped: 6.92M
+  Avg spending per GF dropped: 9.10M
+  Avg spending per GA increased: 8.23M
+Year 2021:
+  Avg spending per Point gained: 5.31M
+  Avg spending per GF gained: 4.69M
+  Avg spending per GA decreased: 7.63M
+Year 2020:
+  Avg spending per Point dropped: 4.24M
+  Avg spending per GF dropped: 7.49M
+  Avg spending per GA increased: 14.14M
+Year 2019:
+  Avg spending per Point gained: 14.62M
+  Avg spending per GF dropped: 7.31M
+  Avg spending per GA increased: 2.66M
+Year 2018:
+  Avg spending per Point gained: 4.69M
+  Avg spending per GF gained: 20.66M
+  Avg spending per GA decreased: 6.46M
+Year 2017:
+  Avg spending per Point dropped: 130.03M
+  Avg spending per GF gained: 21.67M
+  Avg spending per GA decreased: 32.51M
+Year 2016:
+  Avg income per Point gained: 1.02M
+  Avg income per GF gained: 1.09M
+  Avg income per GA decreased: 2.04M
+Year 2015:
+  Avg spending per Point dropped: 15.23M
+  Avg spending per GF gained: 2.77M
+  Avg spending per GA increased: 15.23M
+Year 2014:
+  Avg spending per Point dropped: 4.00M
+  Avg spending per GF dropped: 1.80M
+  Avg spending per GA decreased: 44.05M
+Year 2013:
+  Avg spending per Point gained: 3.38M
+  Avg spending per GF gained: 2.59M
+  Avg spending per GA increased: 11.11M
+Year 2012:
+  Avg spending per Point gained: 9.53M
+  Avg spending per GF gained: 3.57M
+  Avg spending per GA increased: 28.58M
+Year 2011:
+  Avg spending per Point dropped: 17.91M
+  Avg spending per GF dropped: 8.96M
+  Avg spending per GA decreased: 26.87M
+Year 2010:
+  Avg spending per Point dropped: 8.41M
+  Avg spending per GF dropped: 21.02M
+  Avg spending per GA increased: 4.67M
+Year 2009:
+  Avg income per Point dropped: 449.13K
+  Avg income per GF dropped: 645.62K
+  Avg income per GA increased: 1.29M
+Year 2008:
+  Avg spending per Point gained: 2.00M
+  Avg spending per GF gained: 2.00M
+  Avg spending per GA decreased: 19.95M
+Year 2007:
+  Avg spending per Point gained: 8.62M
+  Avg spending per GF gained: 6.89M
+  Avg spending per GA increased: 68.95M
+Year 2006:
+  Avg spending per Point dropped: 4.66M
+  Avg spending per GA increased: 32.61M
+Year 2005:
+  Avg spending per Point gained: 1.93M
+  Avg spending per GF gained: 9.26M
+  Avg spending per GA decreased: 2.89M
+Year 2004:
+  Avg spending per Point dropped: 29.43M
+  Avg spending per GF dropped: 19.62M
+  Avg spending per GA increased: 14.71M
+Year 2003:
+  Avg spending per Point dropped: 12.37M
+  Avg spending per GF dropped: 8.25M
+  Avg spending per GA decreased: 12.37M
+Year 2002:
+  Avg spending per Point dropped: 2.21M
+  Avg spending per GF dropped: 5.89M
+  Avg spending per GA increased: 3.21M
+Year 2001:
+  Avg spending per Point gained: 2.06M
+  Avg spending per GF dropped: 5.65M
+  Avg spending per GA decreased: 2.51M
+Year 2000:
+  Avg spending per Point gained: 8.65M
+  Avg spending per GF gained: 865.50K
+  Avg spending per GA increased: 1.92M
+Year 1999:
+  Avg spending per Point gained: 4.41M
+  Avg spending per GF dropped: 3.37M
+  Avg spending per GA decreased: 3.02M
+Year 1998:
+  Avg spending per Point dropped: 4.49M
+  Avg spending per GA increased: 7.06M
+Year 1997:
+  Avg spending per Point dropped: 4.00M
+  Avg spending per GF gained: 2.00M
+  Avg spending per GA increased: 2.40M
+Year 1996:
+  Avg spending per Point dropped: 2.01M
+  Avg spending per GF dropped: 753.75K
+  Avg spending per GA increased: 2.01M
+Year 1995:
+  Avg spending per Point dropped: 6.02M
+  Avg spending per GF gained: 3.61M
+  Avg spending per GA decreased: 6.02M
+Year 1994:
+  Avg spending per Point gained: 1.85M
+  Avg spending per GF gained: 4.31M
+  Avg spending per GA decreased: 1.44M
+
+Luton Year by year analysis:
+
+Man City Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 55.40M
+  Avg spending per GF gained: 55.40M
+  Avg spending per GA increased: 110.80M
+Year 2022:
+  Avg spending per Point dropped: 31.66M
+  Avg spending per GF dropped: 25.33M
+  Avg spending per GA increased: 18.09M
+Year 2021:
+  Avg spending per Point gained: 5.42M
+  Avg spending per GF gained: 2.37M
+  Avg spending per GA decreased: 6.32M
+Year 2020:
+  Avg spending per Point gained: 30.90M
+  Avg spending per GF dropped: 8.13M
+  Avg spending per GA decreased: 51.50M
+Year 2019:
+  Avg spending per Point dropped: 12.25M
+  Avg spending per GF gained: 29.75M
+  Avg spending per GA increased: 17.35M
+Year 2018:
+  Avg spending per Point dropped: 59.91M
+  Avg spending per GF dropped: 10.89M
+  Avg spending per GA decreased: 29.95M
+Year 2017:
+  Avg spending per Point gained: 11.23M
+  Avg spending per GF gained: 9.51M
+  Avg spending per GA decreased: 20.59M
+Year 2016:
+  Avg spending per Point gained: 33.92M
+  Avg spending per GF gained: 45.23M
+  Avg spending per GA decreased: 203.53M
+Year 2015:
+  Avg spending per Point dropped: 24.76M
+  Avg spending per GF dropped: 26.83M
+  Avg spending per GA increased: 107.31M
+Year 2014:
+  Avg spending per Point dropped: 30.50M
+  Avg spending per GF dropped: 11.24M
+  Avg spending per GA increased: 213.53M
+Year 2013:
+  Avg spending per Point gained: 22.09M
+  Avg spending per GF gained: 4.91M
+  Avg spending per GA increased: 58.90M
+Year 2012:
+  Avg spending per Point dropped: 11.08M
+  Avg spending per GF dropped: 4.51M
+  Avg spending per GA increased: 24.37M
+Year 2011:
+  Avg spending per Point gained: 4.31M
+  Avg spending per GF gained: 2.35M
+  Avg spending per GA decreased: 19.38M
+Year 2010:
+  Avg spending per Point gained: 50.83M
+  Avg spending per GF dropped: 15.64M
+  Avg spending per GA decreased: 16.94M
+Year 2009:
+  Avg spending per Point gained: 15.39M
+  Avg spending per GF gained: 17.44M
+  Avg spending per GA decreased: 52.31M
+Year 2008:
+  Avg spending per Point dropped: 49.79M
+  Avg spending per GF gained: 19.15M
+  Avg spending per GA decreased: 82.98M
+Year 2007:
+  Avg spending per Point gained: 15.25M
+  Avg spending per GF gained: 12.39M
+  Avg spending per GA increased: 22.03M
+Year 2006:
+  Avg spending per Point dropped: 69.69M
+  Avg spending per GF dropped: 4.98M
+  Avg spending per GA decreased: 17.42M
+Year 2005:
+  Avg income per Point dropped: 1.97M
+  Avg income per GF dropped: 4.43M
+  Avg income per GA increased: 1.97M
+Year 2004:
+  Avg income per Point gained: 2.41M
+  Avg income per GF dropped: 3.31M
+  Avg income per GA decreased: 1.76M
+Year 2003:
+  Avg spending per Point dropped: 120.00K
+  Avg spending per GF gained: 150.00K
+Year 2002:
+  Avg spending per GF gained: 8.63M
+  Avg spending per GA decreased: 4.71M
+Year 2000:
+  Avg spending per GF gained: 4.03M
+  Avg spending per GA increased: 4.61M
+Year 1995:
+  Avg spending per Point dropped: 524.55K
+  Avg spending per GF dropped: 288.50K
+  Avg spending per GA decreased: 961.67K
+Year 1994:
+  Avg spending per Point gained: 1.12M
+  Avg spending per GF gained: 298.67K
+  Avg spending per GA increased: 298.67K
+
+Man Utd Year by year analysis:
+Year 2023:
+  Avg spending per Point dropped: 9.20M
+  Avg spending per GF dropped: 137.96M
+  Avg spending per GA increased: 9.20M
+Year 2022:
+  Avg spending per Point gained: 21.39M
+  Avg spending per GF gained: 363.59M
+  Avg spending per GA decreased: 25.97M
+Year 2021:
+  Avg spending per Point dropped: 20.66M
+  Avg spending per GF dropped: 20.66M
+  Avg spending per GA increased: 25.43M
+Year 2020:
+  Avg spending per Point gained: 21.90M
+  Avg spending per GF gained: 25.03M
+  Avg spending per GA increased: 21.90M
+Year 2019:
+  Avg spending per GF gained: 219.92M
+  Avg spending per GA decreased: 12.22M
+Year 2018:
+  Avg spending per Point dropped: 13.85M
+  Avg spending per GF dropped: 69.26M
+  Avg spending per GA increased: 7.99M
+Year 2017:
+  Avg spending per Point gained: 17.09M
+  Avg spending per GF gained: 14.65M
+  Avg spending per GA decreased: 205.05M
+Year 2016:
+  Avg spending per Point gained: 96.88M
+  Avg spending per GF gained: 58.13M
+  Avg spending per GA decreased: 48.44M
+Year 2015:
+  Avg spending per Point dropped: 48.27M
+  Avg spending per GF dropped: 14.85M
+  Avg spending per GA decreased: 96.54M
+Year 2014:
+  Avg spending per Point gained: 34.00M
+  Avg spending per GF dropped: 101.99M
+  Avg spending per GA decreased: 34.00M
+Year 2013:
+  Avg spending per Point dropped: 8.96M
+  Avg spending per GF dropped: 10.18M
+Year 2012:
+  Avg spending per GF dropped: 47.38M
+  Avg spending per GA increased: 14.21M
+Year 2011:
+  Avg spending per Point gained: 12.91M
+  Avg spending per GF gained: 10.56M
+  Avg spending per GA decreased: 29.05M
+Year 2010:
+  Avg spending per Point dropped: 12.35M
+  Avg spending per GF dropped: 7.72M
+  Avg spending per GA increased: 6.86M
+Year 2009:
+  Avg income per Point dropped: 12.97M
+  Avg income per GF gained: 3.60M
+  Avg income per GA increased: 16.21M
+Year 2008:
+  Avg income per Point gained: 13.12M
+  Avg income per GF dropped: 3.28M
+  Avg income per GA increased: 19.68M
+Year 2007:
+  Avg spending per Point dropped: 48.85M
+  Avg spending per GF dropped: 32.57M
+  Avg spending per GA decreased: 19.54M
+Year 2006:
+  Avg spending per Point gained: 11.52M
+  Avg spending per GF gained: 6.28M
+  Avg spending per GA decreased: 9.87M
+Year 2005:
+  Avg spending per Point gained: 5.52M
+  Avg spending per GF gained: 2.36M
+  Avg spending per GA increased: 4.14M
+Year 2004:
+  Avg spending per Point gained: 37.80M
+  Avg spending per GF dropped: 12.60M
+  Avg spending per GA decreased: 8.40M
+Year 2003:
+  Avg spending per Point dropped: 6.11M
+  Avg spending per GF dropped: 4.89M
+  Avg spending per GA increased: 48.91M
+Year 2002:
+  Avg spending per Point gained: 7.04M
+  Avg spending per GF dropped: 3.25M
+  Avg spending per GA decreased: 3.84M
+Year 2001:
+  Avg spending per Point dropped: 29.09M
+  Avg spending per GF gained: 10.91M
+  Avg spending per GA increased: 6.23M
+Year 2000:
+  Avg spending per Point dropped: 4.01M
+  Avg spending per GF dropped: 2.45M
+  Avg spending per GA decreased: 3.15M
+Year 1999:
+  Avg spending per Point gained: 785.83K
+  Avg spending per GF gained: 554.71K
+  Avg spending per GA increased: 1.18M
+Year 1998:
+  Avg spending per Point gained: 24.30M
+  Avg spending per GF gained: 6.94M
+  Avg spending per GA increased: 4.42M
+Year 1997:
+  Avg spending per Point gained: 25.07M
+  Avg spending per GF dropped: 16.71M
+  Avg spending per GA decreased: 2.79M
+Year 1996:
+  Avg spending per Point dropped: 1.77M
+  Avg spending per GF gained: 4.12M
+  Avg spending per GA increased: 1.37M
+Year 1995:
+  Avg income per Point dropped: 2.70M
+  Avg income per GF dropped: 4.04M
+  Avg income per GA increased: 2.31M
+Year 1994:
+  Avg income per Point dropped: 3.28M
+  Avg income per GF dropped: 4.37M
+  Avg income per GA decreased: 1.31M
+
+Middlesbrough Year by year analysis:
+Year 2016:
+  Avg spending per GF dropped: 35.80M
+  Avg spending per GA decreased: 8.95M
+Year 2008:
+  Avg income per Point dropped: 3.56M
+  Avg income per GF dropped: 2.38M
+  Avg income per GA increased: 8.91M
+Year 2007:
+  Avg spending per Point dropped: 6.12M
+  Avg spending per GF dropped: 24.46M
+  Avg spending per GA increased: 6.12M
+Year 2006:
+  Avg spending per Point gained: 27.00M
+  Avg spending per GF dropped: 6.75M
+  Avg spending per GA decreased: 3.00M
+Year 2005:
+  Avg spending per Point dropped: 2.06M
+  Avg spending per GF dropped: 4.12M
+  Avg spending per GA increased: 1.72M
+Year 2004:
+  Avg spending per Point gained: 2.47M
+  Avg spending per GF gained: 1.92M
+  Avg spending per GA decreased: 2.88M
+Year 2003:
+  Avg spending per Point dropped: 12.38M
+  Avg spending per GF dropped: 3.10M
+  Avg spending per GA increased: 1.55M
+Year 2002:
+  Avg spending per Point gained: 10.79M
+  Avg spending per GF gained: 3.32M
+  Avg spending per GA decreased: 14.38M
+Year 2001:
+  Avg spending per Point gained: 17.17M
+  Avg spending per GF dropped: 5.72M
+  Avg spending per GA increased: 17.17M
+Year 2000:
+  Avg spending per Point dropped: 4.09M
+  Avg spending per GF dropped: 20.45M
+  Avg spending per GA decreased: 5.11M
+Year 1999:
+  Avg spending per Point gained: 33.74M
+  Avg spending per GF dropped: 16.87M
+  Avg spending per GA decreased: 16.87M
+Year 1998:
+  Avg spending per GF dropped: 2.83M
+  Avg spending per GA decreased: 1.42M
+Year 1996:
+  Avg spending per Point dropped: 219.00K
+  Avg spending per GF gained: 54.75K
+  Avg spending per GA increased: 87.60K
+
+Newcastle Year by year analysis:
+Year 2023:
+  Avg spending per Point dropped: 12.83M
+  Avg spending per GF gained: 8.30M
+  Avg spending per GA increased: 4.87M
+Year 2022:
+  Avg spending per Point gained: 12.72M
+  Avg spending per GF gained: 11.66M
+  Avg spending per GA decreased: 9.65M
+Year 2021:
+  Avg spending per Point gained: 75.45M
+  Avg spending per GF dropped: 150.90M
+Year 2020:
+  Avg spending per Point gained: 168.98M
+  Avg spending per GF gained: 21.12M
+  Avg spending per GA increased: 42.24M
+Year 2019:
+  Avg spending per Point dropped: 75.24M
+  Avg spending per GF dropped: 18.81M
+  Avg spending per GA increased: 7.52M
+Year 2018:
+  Avg spending per Point gained: 45.46M
+  Avg spending per GF gained: 15.15M
+  Avg spending per GA increased: 45.46M
+Year 2017:
+  Avg spending per GF dropped: 6.80M
+  Avg spending per GA decreased: 1.89M
+Year 2015:
+  Avg spending per Point dropped: 32.92M
+  Avg spending per GF gained: 16.46M
+  Avg spending per GA increased: 32.92M
+Year 2014:
+  Avg spending per Point dropped: 12.36M
+  Avg spending per GF dropped: 41.21M
+  Avg spending per GA increased: 30.91M
+Year 2013:
+  Avg income per Point gained: 115.00K
+  Avg income per GF dropped: 460.00K
+  Avg income per GA decreased: 102.22K
+Year 2012:
+  Avg income per Point dropped: 204.58K
+  Avg income per GF dropped: 446.36K
+  Avg income per GA increased: 288.82K
+Year 2011:
+  Avg spending per Point gained: 1.48M
+  Avg spending per GA decreased: 4.69M
+Year 2010:
+  Avg income per GF gained: 1.05M
+  Avg income per GA decreased: 8.40M
+Year 2008:
+  Avg income per Point dropped: 2.97M
+  Avg income per GF dropped: 5.34M
+  Avg income per GA decreased: 4.45M
+Year 2007:
+  Avg spending per GF gained: 32.14K
+  Avg spending per GA increased: 12.50K
+Year 2006:
+  Avg spending per Point dropped: 1.79M
+  Avg spending per GF dropped: 2.98M
+  Avg spending per GA increased: 5.37M
+Year 2005:
+  Avg spending per Point gained: 3.68M
+  Avg spending per GA decreased: 3.44M
+Year 2004:
+  Avg spending per Point dropped: 3.17M
+  Avg spending per GF dropped: 7.61M
+  Avg spending per GA increased: 2.24M
+Year 2003:
+  Avg spending per Point dropped: 167.69K
+  Avg spending per GF dropped: 198.18K
+  Avg spending per GA decreased: 272.50K
+Year 2002:
+  Avg spending per Point dropped: 14.66M
+  Avg spending per GF dropped: 2.67M
+  Avg spending per GA decreased: 7.33M
+Year 2001:
+  Avg spending per Point gained: 3.25M
+  Avg spending per GF gained: 2.17M
+  Avg spending per GA increased: 32.51M
+Year 2000:
+  Avg spending per Point dropped: 30.22M
+  Avg spending per GF dropped: 1.59M
+  Avg spending per GA decreased: 7.55M
+Year 1999:
+  Avg spending per Point gained: 888.33K
+  Avg spending per GF gained: 355.33K
+Year 1998:
+  Avg spending per Point gained: 8.56M
+  Avg spending per GF gained: 1.32M
+  Avg spending per GA increased: 1.71M
+Year 1997:
+  Avg spending per Point dropped: 1.12M
+  Avg spending per GF dropped: 705.26K
+  Avg spending per GA increased: 6.70M
+Year 1996:
+  Avg spending per Point dropped: 2.50M
+  Avg spending per GF gained: 3.57M
+  Avg spending per GA increased: 8.34M
+Year 1995:
+  Avg spending per Point gained: 5.40M
+  Avg spending per GF dropped: 32.41M
+  Avg spending per GA decreased: 3.24M
+Year 1994:
+  Avg spending per Point dropped: 4.55M
+  Avg spending per GF dropped: 1.52M
+  Avg spending per GA increased: 3.79M
+
+Norwich Year by year analysis:
+Year 2021:
+  Avg spending per GF dropped: 12.03M
+  Avg spending per GA increased: 4.01M
+Year 2015:
+  Avg spending per GF gained: 1.71M
+  Avg spending per GA increased: 3.75M
+Year 2013:
+  Avg spending per Point dropped: 2.38M
+  Avg spending per GF dropped: 2.01M
+  Avg spending per GA increased: 6.54M
+Year 2012:
+  Avg spending per Point dropped: 11.97M
+  Avg spending per GF dropped: 3.27M
+  Avg spending per GA decreased: 4.49M
+Year 2011:
+  Avg spending per GF gained: 2.54M
+  Avg spending per GA decreased: 2.31M
+Year 2004:
+  Avg spending per GF gained: 82.00K
+  Avg spending per GA increased: 17.83K
+
+Nottm Forest Year by year analysis:
+Year 2023:
+  Avg spending per Point dropped: 7.29M
+  Avg spending per GF gained: 3.98M
+  Avg spending per GA decreased: 43.73M
+Year 2022:
+  Avg spending per GF gained: 79.26M
+  Avg spending per GA decreased: 237.78M
+Year 1998:
+  Avg income per GF gained: 1.25M
+  Avg income per GA increased: 499.00K
+Year 1996:
+  Avg spending per Point dropped: 498.75K
+  Avg spending per GF dropped: 630.00K
+  Avg spending per GA increased: 2.39M
+Year 1995:
+  Avg income per Point dropped: 98.95K
+  Avg income per GF dropped: 85.45K
+  Avg income per GA increased: 170.91K
+
+Oldham Year by year analysis:
+
+Portsmouth Year by year analysis:
+Year 2009:
+  Avg income per Point dropped: 2.62M
+  Avg income per GF dropped: 14.42M
+  Avg income per GA increased: 6.41M
+Year 2008:
+  Avg income per Point dropped: 4.21M
+  Avg income per GF dropped: 6.74M
+  Avg income per GA increased: 3.97M
+Year 2007:
+  Avg spending per Point gained: 3.11M
+  Avg spending per GF gained: 3.11M
+  Avg spending per GA decreased: 4.66M
+Year 2006:
+  Avg spending per Point gained: 2.69M
+  Avg spending per GF gained: 5.39M
+  Avg spending per GA decreased: 2.16M
+Year 2005:
+  Avg spending per Point dropped: 14.48M
+  Avg spending per GF dropped: 2.41M
+  Avg spending per GA increased: 4.83M
+Year 2004:
+  Avg spending per Point dropped: 1.81M
+  Avg spending per GF dropped: 2.72M
+  Avg spending per GA increased: 2.18M
+
+QPR Year by year analysis:
+Year 2014:
+  Avg spending per GF gained: 1.93M
+  Avg spending per GA increased: 1.78M
+Year 2012:
+  Avg spending per Point dropped: 3.55M
+  Avg spending per GF dropped: 3.28M
+  Avg spending per GA decreased: 7.10M
+Year 2011:
+  Avg spending per GF gained: 13.85M
+  Avg spending per GA increased: 7.70M
+Year 1995:
+  Avg income per Point dropped: 204.81K
+  Avg income per GF dropped: 240.43K
+  Avg income per GA decreased: 2.77M
+Year 1994:
+  Avg income per GF dropped: 12.08M
+  Avg income per GA decreased: 6.04M
+
+Reading Year by year analysis:
+Year 2012:
+  Avg spending per GF gained: 3.40M
+  Avg spending per GA increased: 970.00K
+Year 2007:
+  Avg income per Point dropped: 407.37K
+  Avg income per GF dropped: 703.64K
+  Avg income per GA increased: 407.37K
+
+Sheff Utd Year by year analysis:
+Year 2023:
+  Avg spending per GF gained: 2.40M
+  Avg spending per GA increased: 879.27K
+Year 2020:
+  Avg spending per Point dropped: 1.13M
+  Avg spending per GF dropped: 1.84M
+  Avg spending per GA increased: 1.46M
+Year 2019:
+  Avg spending per GF gained: 19.26M
+  Avg spending per GA decreased: 8.43M
+Year 2006:
+  Avg spending per GF dropped: 805.00K
+  Avg spending per GA decreased: 1.61M
+
+Sheff Wed Year by year analysis:
+Year 1998:
+  Avg spending per Point gained: 2.73M
+  Avg spending per GF dropped: 495.45K
+  Avg spending per GA decreased: 218.00K
+Year 1997:
+  Avg spending per Point dropped: 582.31K
+  Avg spending per GF gained: 3.79M
+  Avg spending per GA increased: 473.12K
+Year 1996:
+  Avg spending per Point gained: 701.76K
+  Avg spending per GF gained: 5.96M
+  Avg spending per GA decreased: 1.19M
+Year 1995:
+  Avg spending per Point dropped: 1.12M
+  Avg spending per GF dropped: 12.29M
+  Avg spending per GA increased: 3.07M
+Year 1994:
+  Avg spending per Point dropped: 197.69K
+  Avg spending per GF dropped: 95.19K
+  Avg spending per GA increased: 856.67K
+
+Southampton Year by year analysis:
+Year 2022:
+  Avg income per Point dropped: 1.27M
+  Avg income per GF dropped: 2.73M
+  Avg income per GA increased: 3.18M
+Year 2021:
+  Avg spending per Point dropped: 49.89M
+  Avg spending per GF dropped: 37.41M
+  Avg spending per GA decreased: 149.66M
+Year 2020:
+  Avg spending per Point dropped: 1.56M
+  Avg spending per GF dropped: 3.51M
+  Avg spending per GA increased: 1.76M
+Year 2019:
+  Avg spending per Point gained: 3.48M
+  Avg spending per GF gained: 7.53M
+  Avg spending per GA decreased: 9.04M
+Year 2018:
+  Avg spending per Point gained: 23.45M
+  Avg spending per GF gained: 8.79M
+  Avg spending per GA increased: 7.82M
+Year 2017:
+  Avg income per Point dropped: 95.00K
+  Avg income per GF dropped: 237.50K
+  Avg income per GA increased: 118.75K
+Year 2016:
+  Avg income per Point dropped: 3.13M
+  Avg income per GF dropped: 2.96M
+  Avg income per GA increased: 7.61M
+Year 2015:
+  Avg income per Point gained: 2.92M
+  Avg income per GF gained: 1.75M
+  Avg income per GA increased: 1.09M
+Year 2014:
+  Avg income per Point gained: 5.11M
+  Avg income per GA decreased: 1.57M
+Year 2013:
+  Avg spending per Point gained: 504.67K
+  Avg spending per GF gained: 1.51M
+  Avg spending per GA decreased: 540.71K
+Year 2012:
+  Avg spending per GF gained: 19.23M
+  Avg spending per GA decreased: 12.82M
+Year 2004:
+  Avg income per Point dropped: 1.66M
+  Avg income per GF gained: 24.90M
+  Avg income per GA increased: 1.19M
+Year 2003:
+  Avg income per Point dropped: 145.00K
+  Avg income per GF gained: 725.00K
+  Avg income per GA decreased: 725.00K
+Year 2002:
+  Avg spending per Point gained: 1.44M
+  Avg spending per GF dropped: 3.37M
+  Avg spending per GA decreased: 1.26M
+Year 2001:
+  Avg spending per Point dropped: 2.41M
+  Avg spending per GF gained: 2.82M
+  Avg spending per GA increased: 2.82M
+Year 2000:
+  Avg spending per Point gained: 595.00K
+  Avg spending per GF dropped: 952.00K
+  Avg spending per GA decreased: 340.00K
+Year 1998:
+  Avg income per Point dropped: 411.43K
+  Avg income per GF dropped: 221.54K
+  Avg income per GA increased: 320.00K
+Year 1997:
+  Avg income per Point gained: 265.71K
+  Avg income per GA decreased: 1.86M
+Year 1996:
+  Avg spending per Point gained: 620.00K
+  Avg spending per GF gained: 116.25K
+  Avg spending per GA increased: 465.00K
+Year 1995:
+  Avg spending per Point dropped: 14.38K
+  Avg spending per GF dropped: 8.52K
+  Avg spending per GA decreased: 20.91K
+Year 1994:
+  Avg spending per Point gained: 218.18K
+  Avg spending per GF gained: 200.00K
+  Avg spending per GA decreased: 800.00K
+
+Stoke City Year by year analysis:
+Year 2017:
+  Avg spending per Point dropped: 5.03M
+  Avg spending per GF dropped: 9.22M
+  Avg spending per GA increased: 4.61M
+Year 2016:
+  Avg spending per Point dropped: 8.70M
+  Avg spending per GA increased: 60.93M
+Year 2015:
+  Avg spending per Point dropped: 22.94M
+  Avg spending per GF dropped: 9.83M
+  Avg spending per GA increased: 6.88M
+Year 2014:
+  Avg spending per Point gained: 7.11M
+  Avg spending per GF gained: 9.48M
+  Avg spending per GA decreased: 4.06M
+Year 2012:
+  Avg spending per Point dropped: 10.01M
+  Avg spending per GF dropped: 15.02M
+  Avg spending per GA decreased: 3.75M
+Year 2011:
+  Avg spending per Point dropped: 45.86M
+  Avg spending per GF dropped: 4.59M
+  Avg spending per GA increased: 9.17M
+Year 2010:
+  Avg spending per Point dropped: 37.14M
+  Avg spending per GF gained: 3.10M
+Year 2009:
+  Avg spending per Point gained: 16.94M
+  Avg spending per GF dropped: 8.47M
+  Avg spending per GA decreased: 4.84M
+
+Sunderland Year by year analysis:
+Year 2016:
+  Avg income per Point dropped: 907.33K
+  Avg income per GF dropped: 716.32K
+  Avg income per GA increased: 1.94M
+Year 2015:
+  Avg spending per Point gained: 73.18M
+  Avg spending per GF gained: 4.30M
+  Avg spending per GA increased: 8.13M
+Year 2014:
+  Avg spending per GF dropped: 7.03M
+  Avg spending per GA decreased: 10.05M
+Year 2013:
+  Avg spending per Point dropped: 26.80M
+  Avg spending per GA increased: 4.47M
+Year 2012:
+  Avg spending per Point dropped: 5.83M
+  Avg spending per GF dropped: 8.75M
+  Avg spending per GA increased: 4.38M
+Year 2011:
+  Avg spending per Point dropped: 12.54M
+  Avg spending per GA decreased: 2.51M
+Year 2010:
+  Avg income per Point gained: 3.69M
+  Avg income per GF dropped: 3.69M
+Year 2009:
+  Avg spending per Point gained: 381.25K
+  Avg spending per GF gained: 217.86K
+  Avg spending per GA increased: 1.52M
+Year 2008:
+  Avg spending per Point dropped: 12.56M
+  Avg spending per GF dropped: 18.84M
+  Avg spending per GA decreased: 7.54M
+Year 2007:
+  Avg spending per GF gained: 8.31M
+  Avg spending per GA decreased: 8.31M
+Year 2005:
+  Avg spending per GF gained: 2.05M
+  Avg spending per GA increased: 2.56M
+Year 2002:
+  Avg spending per Point dropped: 291.90K
+  Avg spending per GF dropped: 766.25K
+  Avg spending per GA increased: 437.86K
+Year 2001:
+  Avg spending per Point dropped: 2.74M
+  Avg spending per GF dropped: 2.74M
+  Avg spending per GA increased: 4.66M
+Year 2000:
+  Avg spending per Point dropped: 27.93M
+  Avg spending per GF dropped: 2.54M
+  Avg spending per GA decreased: 1.86M
+Year 1999:
+  Avg spending per GF gained: 724.55K
+  Avg spending per GA increased: 5.31M
+
+Swansea Year by year analysis:
+
+Swindon Year by year analysis:
+
+Tottenham Year by year analysis:
+Year 2023:
+  Avg spending per Point gained: 26.90M
+  Avg spending per GF gained: 40.35M
+  Avg spending per GA decreased: 80.70M
+Year 2022:
+  Avg spending per Point dropped: 26.60M
+  Avg spending per GF gained: 292.55M
+  Avg spending per GA increased: 12.72M
+Year 2021:
+  Avg spending per Point gained: 22.49M
+  Avg spending per GF gained: 202.43M
+  Avg spending per GA decreased: 40.49M
+Year 2020:
+  Avg spending per Point gained: 52.83M
+  Avg spending per GF gained: 22.64M
+  Avg spending per GA decreased: 79.24M
+Year 2019:
+  Avg spending per Point dropped: 15.27M
+  Avg spending per GF dropped: 30.53M
+  Avg spending per GA increased: 22.90M
+Year 2018:
+  Avg spending per Point dropped: 13.44M
+  Avg spending per GF dropped: 11.52M
+  Avg spending per GA increased: 26.88M
+Year 2017:
+  Avg spending per Point dropped: 1.32M
+  Avg spending per GF dropped: 987.50K
+  Avg spending per GA increased: 1.19M
+Year 2016:
+  Avg spending per Point gained: 3.02M
+  Avg spending per GF gained: 2.85M
+  Avg spending per GA decreased: 5.38M
+Year 2015:
+  Avg spending per Point gained: 2.49M
+  Avg spending per GF gained: 1.36M
+  Avg spending per GA decreased: 830.56K
+Year 2014:
+  Avg income per Point dropped: 2.38M
+  Avg income per GF gained: 3.97M
+  Avg income per GA increased: 5.96M
+Year 2013:
+  Avg income per Point dropped: 3.84M
+  Avg income per GF dropped: 1.05M
+  Avg income per GA increased: 2.30M
+Year 2012:
+  Avg income per Point gained: 5.13M
+  Avg income per GA increased: 3.08M
+Year 2011:
+  Avg income per Point gained: 4.83M
+  Avg income per GF gained: 3.07M
+  Avg income per GA decreased: 6.76M
+Year 2010:
+  Avg income per Point dropped: 1.32M
+  Avg income per GF dropped: 882.50K
+  Avg income per GA increased: 2.12M
+Year 2009:
+  Avg spending per Point gained: 1.70M
+  Avg spending per GF gained: 1.47M
+  Avg spending per GA decreased: 8.07M
+Year 2008:
+  Avg spending per Point gained: 12.90M
+  Avg spending per GF dropped: 3.07M
+  Avg spending per GA decreased: 4.03M
+Year 2007:
+  Avg spending per Point dropped: 9.11M
+  Avg spending per GF gained: 14.17M
+  Avg spending per GA increased: 18.21M
+Year 2006:
+  Avg spending per Point dropped: 18.79M
+  Avg spending per GF gained: 23.49M
+  Avg spending per GA increased: 5.87M
+Year 2005:
+  Avg spending per Point gained: 2.57M
+  Avg spending per GF gained: 5.57M
+  Avg spending per GA decreased: 11.14M
+Year 2004:
+  Avg spending per Point gained: 6.81M
+  Avg spending per GA decreased: 2.98M
+Year 2003:
+  Avg spending per Point dropped: 12.93M
+  Avg spending per GF dropped: 16.16M
+  Avg spending per GA decreased: 12.93M
+Year 2002:
+  Avg spending per GF gained: 18.57M
+  Avg spending per GA increased: 4.13M
+Year 2001:
+  Avg spending per Point gained: 27.45M
+  Avg spending per GF gained: 13.72M
+  Avg spending per GA decreased: 27.45M
+Year 2000:
+  Avg spending per Point dropped: 10.40M
+  Avg spending per GF dropped: 4.16M
+  Avg spending per GA increased: 8.32M
+Year 1999:
+  Avg spending per Point gained: 6.42M
+  Avg spending per GF gained: 3.85M
+  Avg spending per GA decreased: 38.49M
+Year 1998:
+  Avg spending per Point gained: 8.05M
+  Avg spending per GF gained: 8.05M
+  Avg spending per GA decreased: 4.03M
+Year 1997:
+  Avg spending per Point dropped: 10.44M
+  Avg spending per GA increased: 4.17M
+Year 1996:
+  Avg spending per Point dropped: 1.23M
+  Avg spending per GF dropped: 3.08M
+  Avg spending per GA increased: 1.42M
+Year 1995:
+  Avg spending per Point dropped: 5.74M
+  Avg spending per GF dropped: 358.75K
+  Avg spending per GA decreased: 287.00K
+Year 1994:
+  Avg spending per Point gained: 495.88K
+  Avg spending per GF gained: 702.50K
+  Avg spending per GA decreased: 8.43M
+
+Watford Year by year analysis:
+Year 2021:
+  Avg income per GF dropped: 5.68M
+  Avg income per GA increased: 874.62K
+Year 2019:
+  Avg income per Point dropped: 2.49M
+  Avg income per GF dropped: 2.49M
+  Avg income per GA increased: 7.98M
+Year 2018:
+  Avg spending per Point gained: 984.44K
+  Avg spending per GF gained: 1.11M
+  Avg spending per GA decreased: 1.77M
+Year 2017:
+  Avg spending per Point gained: 32.92M
+  Avg spending per GF gained: 8.23M
+  Avg spending per GA decreased: 8.23M
+Year 2016:
+  Avg spending per Point dropped: 13.40M
+  Avg spending per GA increased: 3.72M
+Year 2015:
+  Avg spending per GF gained: 7.76M
+  Avg spending per GA decreased: 9.49M
+Year 2006:
+  Avg income per GF dropped: 316.67K
+  Avg income per GA decreased: 105.56K
+
+West Brom Year by year analysis:
+Year 2020:
+  Avg spending per GF gained: 5.40M
+  Avg spending per GA increased: 1.08M
+Year 2017:
+  Avg spending per Point dropped: 2.86M
+  Avg spending per GF dropped: 3.34M
+  Avg spending per GA increased: 8.01M
+Year 2016:
+  Avg spending per Point gained: 31.19M
+  Avg spending per GF gained: 6.93M
+  Avg spending per GA increased: 20.79M
+Year 2015:
+  Avg spending per Point dropped: 40.91M
+  Avg spending per GF dropped: 10.23M
+  Avg spending per GA decreased: 13.64M
+Year 2014:
+  Avg spending per Point gained: 6.57M
+  Avg spending per GF dropped: 10.51M
+  Avg spending per GA decreased: 6.57M
+Year 2013:
+  Avg spending per Point dropped: 2.07M
+  Avg spending per GF dropped: 2.69M
+  Avg spending per GA increased: 13.44M
+Year 2012:
+  Avg spending per Point gained: 2.79M
+  Avg spending per GF gained: 697.50K
+  Avg spending per GA increased: 1.12M
+Year 2011:
+  Avg income per GF dropped: 64.27K
+  Avg income per GA decreased: 37.21K
+Year 2010:
+  Avg spending per GF gained: 550.00K
+  Avg spending per GA increased: 2.75M
+Year 2008:
+  Avg spending per GF gained: 3.30M
+  Avg spending per GA increased: 1.83M
+Year 2005:
+  Avg spending per Point dropped: 1.63M
+  Avg spending per GF dropped: 1.31M
+  Avg spending per GA decreased: 2.18M
+Year 2004:
+  Avg spending per GF gained: 2.88M
+  Avg spending per GA decreased: 5.03M
+
+West Ham Year by year analysis:
+Year 2023:
+  Avg income per Point gained: 3.07M
+  Avg income per GF gained: 2.04M
+  Avg income per GA increased: 1.94M
+Year 2022:
+  Avg spending per Point dropped: 8.70M
+  Avg spending per GF dropped: 7.74M
+  Avg spending per GA increased: 34.81M
+Year 2021:
+  Avg spending per Point dropped: 26.15M
+  Avg spending per GF dropped: 117.66M
+  Avg spending per GA increased: 58.83M
+Year 2020:
+  Avg spending per Point gained: 3.06M
+  Avg spending per GF gained: 6.12M
+  Avg spending per GA decreased: 5.30M
+Year 2019:
+  Avg spending per Point dropped: 5.64M
+  Avg spending per GF dropped: 24.45M
+  Avg spending per GA increased: 10.48M
+Year 2018:
+  Avg spending per Point gained: 15.12M
+  Avg spending per GF gained: 37.80M
+  Avg spending per GA decreased: 11.63M
+Year 2017:
+  Avg spending per Point dropped: 26.64M
+  Avg spending per GF gained: 79.91M
+  Avg spending per GA increased: 19.98M
+Year 2016:
+  Avg spending per Point dropped: 2.08M
+  Avg spending per GF dropped: 1.96M
+  Avg spending per GA increased: 2.71M
+Year 2015:
+  Avg spending per Point gained: 5.11M
+  Avg spending per GF gained: 3.65M
+  Avg spending per GA increased: 19.17M
+Year 2014:
+  Avg spending per Point gained: 9.28M
+  Avg spending per GF gained: 16.23M
+  Avg spending per GA decreased: 16.23M
+Year 2013:
+  Avg spending per Point dropped: 9.04M
+  Avg spending per GF dropped: 10.84M
+  Avg spending per GA decreased: 27.11M
+Year 2012:
+  Avg spending per GF gained: 21.16M
+  Avg spending per GA decreased: 2.49M
+Year 2010:
+  Avg spending per Point dropped: 7.48M
+  Avg spending per GF dropped: 3.74M
+  Avg spending per GA increased: 3.74M
+Year 2009:
+  Avg income per Point dropped: 411.25K
+  Avg income per GF gained: 1.32M
+  Avg income per GA increased: 313.33K
+Year 2008:
+  Avg income per Point gained: 36.24M
+  Avg income per GA decreased: 14.50M
+Year 2007:
+  Avg income per Point gained: 5.96M
+  Avg income per GF gained: 6.81M
+  Avg income per GA decreased: 5.30M
+Year 2006:
+  Avg spending per Point dropped: 4.88M
+  Avg spending per GF dropped: 4.01M
+  Avg spending per GA increased: 17.06M
+Year 2005:
+  Avg spending per GF gained: 8.41M
+  Avg spending per GA decreased: 21.04M
+Year 2002:
+  Avg income per Point dropped: 3.54M
+  Avg income per GF dropped: 6.49M
+  Avg income per GA increased: 19.46M
+Year 2001:
+  Avg spending per Point gained: 387.27K
+  Avg spending per GF gained: 1.42M
+  Avg spending per GA increased: 608.57K
+Year 2000:
+  Avg income per Point dropped: 1.52M
+  Avg income per GF dropped: 2.83M
+  Avg income per GA decreased: 6.61M
+Year 1999:
+  Avg income per Point dropped: 12.99M
+  Avg income per GF gained: 4.33M
+Year 1998:
+  Avg income per Point gained: 10.10M
+  Avg income per GF dropped: 1.01M
+  Avg income per GA decreased: 2.52M
+Year 1997:
+  Avg spending per Point gained: 195.00K
+  Avg spending per GF gained: 160.59K
+  Avg spending per GA increased: 303.33K
+Year 1996:
+  Avg spending per Point dropped: 2.57M
+  Avg spending per GF dropped: 5.79M
+  Avg spending per GA decreased: 5.79M
+Year 1995:
+  Avg spending per Point gained: 12.19M
+  Avg spending per GF dropped: 12.19M
+  Avg spending per GA increased: 3.05M
+Year 1994:
+  Avg spending per Point dropped: 2.88M
+  Avg spending per GF dropped: 1.92M
+  Avg spending per GA decreased: 576.00K
+
+Wigan Year by year analysis:
+Year 2012:
+  Avg income per Point dropped: 2.96M
+  Avg income per GF gained: 4.14M
+  Avg income per GA increased: 1.88M
+Year 2011:
+  Avg income per Point gained: 1.63M
+  Avg income per GF gained: 815.00K
+  Avg income per GA increased: 1.63M
+Year 2010:
+  Avg spending per Point gained: 1.51M
+  Avg spending per GF gained: 3.03M
+  Avg spending per GA decreased: 505.00K
+Year 2009:
+  Avg spending per Point dropped: 50.56K
+  Avg spending per GF gained: 151.67K
+  Avg spending per GA increased: 13.38K
+Year 2008:
+  Avg income per Point gained: 1.59M
+  Avg income per GA decreased: 1.32M
+Year 2007:
+  Avg income per Point gained: 162.50K
+  Avg income per GF dropped: 108.33K
+  Avg income per GA decreased: 40.62K
+Year 2006:
+  Avg spending per Point dropped: 394.62K
+  Avg spending per GF dropped: 641.25K
+  Avg spending per GA increased: 732.86K
+
+Wimbledon Year by year analysis:
+
+Wolves Year by year analysis:
+Year 2023:
+  Avg income per Point gained: 16.24M
+  Avg income per GF gained: 4.27M
+  Avg income per GA increased: 11.60M
+Year 2022:
+  Avg spending per Point dropped: 3.30M
+  Avg spending per GF dropped: 4.72M
+  Avg spending per GA increased: 2.20M
+Year 2021:
+  Avg spending per Point gained: 20.01M
+  Avg spending per GF gained: 60.02M
+  Avg spending per GA decreased: 13.34M
+Year 2020:
+  Avg spending per Point dropped: 1.01M
+  Avg spending per GF dropped: 946.00K
+  Avg spending per GA increased: 1.18M
+Year 2019:
+  Avg spending per Point gained: 50.49M
+  Avg spending per GF gained: 25.25M
+  Avg spending per GA decreased: 16.83M
+Year 2018:
+  Avg spending per GF gained: 26.01M
+  Avg spending per GA decreased: 5.06M
+Year 2011:
+  Avg income per Point dropped: 359.33K
+  Avg income per GF dropped: 898.33K
+  Avg income per GA increased: 336.88K
+Year 2010:
+  Avg spending per Point gained: 11.62M
+  Avg spending per GF gained: 1.66M
+  Avg spending per GA increased: 2.32M
+Year 2009:
+  Avg spending per GF dropped: 5.39M
+  Avg spending per GA decreased: 1.54M

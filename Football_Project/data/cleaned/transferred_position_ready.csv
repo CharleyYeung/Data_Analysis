@@ -1,0 +1,625 @@
+Club,Year,defender,forward,goalkeeper,midfielder
+Arsenal,2023,4,3,5,3
+Arsenal,2022,8,6,4,7
+Arsenal,2021,6,0,3,4
+Arsenal,2020,4,1,4,7
+Arsenal,2019,6,6,2,2
+Arsenal,2018,3,5,5,4
+Arsenal,2017,3,3,1,3
+Arsenal,2016,4,3,1,3
+Arsenal,2015,1,9,3,2
+Arsenal,2014,6,6,2,4
+Arsenal,2013,6,7,2,6
+Arsenal,2012,3,7,2,4
+Arsenal,2011,10,11,2,10
+Arsenal,2010,4,3,2,9
+Arsenal,2009,7,0,1,5
+Arsenal,2008,3,2,1,9
+Arsenal,2007,8,4,1,4
+Arsenal,2006,5,2,1,7
+Arsenal,2005,1,7,3,6
+Arsenal,2004,8,3,4,7
+Arsenal,2003,8,4,2,4
+Arsenal,2002,8,3,2,1
+Arsenal,2001,8,5,2,6
+Arsenal,2000,9,6,4,4
+Arsenal,1999,7,5,0,5
+Arsenal,1998,4,6,1,4
+Arsenal,1997,3,5,1,7
+Arsenal,1996,3,1,1,3
+Arsenal,1995,0,4,0,3
+Arsenal,1994,2,7,2,1
+Arsenal,1993,0,4,0,1
+Aston Villa,2023,6,3,4,3
+Aston Villa,2022,6,8,4,5
+Aston Villa,2021,6,10,2,4
+Aston Villa,2020,2,4,2,4
+Aston Villa,2019,8,8,2,4
+Aston Villa,2015,12,7,4,6
+Aston Villa,2014,9,8,2,10
+Aston Villa,2013,9,15,5,5
+Aston Villa,2012,6,5,0,7
+Aston Villa,2011,7,3,1,9
+Aston Villa,2010,6,3,1,10
+Aston Villa,2009,11,1,3,6
+Aston Villa,2008,5,8,3,3
+Aston Villa,2007,6,2,1,2
+Aston Villa,2006,4,3,3,8
+Aston Villa,2005,2,7,2,5
+Aston Villa,2004,4,3,1,6
+Aston Villa,2003,3,6,6,4
+Aston Villa,2002,3,7,4,9
+Aston Villa,2001,2,5,2,6
+Aston Villa,2000,3,8,1,4
+Aston Villa,1999,2,6,2,2
+Aston Villa,1998,5,7,1,6
+Aston Villa,1997,2,3,1,0
+Aston Villa,1996,3,2,1,1
+Aston Villa,1995,6,3,0,2
+Aston Villa,1994,4,3,0,3
+Aston Villa,1993,3,3,1,3
+Barnsley,1997,7,4,1,1
+Birmingham,2010,5,8,1,10
+Birmingham,2009,7,7,2,10
+Birmingham,2007,12,5,5,8
+Birmingham,2005,7,10,4,10
+Birmingham,2004,6,10,5,7
+Birmingham,2003,4,4,4,4
+Birmingham,2002,8,8,1,5
+Blackburn,2011,7,11,2,6
+Blackburn,2010,4,7,7,11
+Blackburn,2009,16,5,3,15
+Blackburn,2008,6,6,7,6
+Blackburn,2007,5,4,4,6
+Blackburn,2006,15,8,1,3
+Blackburn,2005,7,7,3,6
+Blackburn,2004,4,4,1,12
+Blackburn,2003,6,2,3,12
+Blackburn,2002,10,6,1,4
+Blackburn,2001,8,9,3,1
+Blackburn,1998,8,7,4,7
+Blackburn,1997,6,4,8,4
+Blackburn,1996,1,3,0,1
+Blackburn,1995,4,3,3,4
+Blackburn,1994,3,1,1,4
+Blackburn,1993,3,1,1,2
+Blackpool,2010,8,9,3,7
+Bolton,2011,6,10,0,8
+Bolton,2010,6,9,1,1
+Bolton,2009,10,8,1,6
+Bolton,2008,4,5,2,3
+Bolton,2007,8,4,1,12
+Bolton,2006,9,2,4,5
+Bolton,2005,4,6,2,2
+Bolton,2004,10,7,3,4
+Bolton,2003,9,8,1,9
+Bolton,2002,6,9,2,8
+Bolton,2001,7,7,4,8
+Bolton,1997,11,8,2,1
+Bolton,1995,7,3,1,3
+Bournemouth,2023,4,9,3,9
+Bournemouth,2022,5,3,3,6
+Bournemouth,2019,3,5,1,4
+Bournemouth,2018,4,6,1,3
+Bournemouth,2017,4,6,5,0
+Bournemouth,2016,6,8,1,4
+Bournemouth,2015,8,17,5,6
+Bradford,2000,5,7,1,3
+Bradford,1999,5,4,4,3
+Brentford,2023,5,3,3,8
+Brentford,2022,7,7,4,5
+Brentford,2021,5,3,6,5
+Brighton,2023,6,9,4,15
+Brighton,2022,6,7,2,6
+Brighton,2021,7,10,3,6
+Brighton,2020,10,11,2,5
+Brighton,2019,6,11,0,8
+Brighton,2018,8,10,3,7
+Brighton,2017,3,8,5,7
+Burnley,2023,7,14,2,5
+Burnley,2021,3,3,2,0
+Burnley,2020,2,0,1,3
+Burnley,2019,1,3,1,3
+Burnley,2018,1,6,3,0
+Burnley,2017,6,8,4,2
+Burnley,2016,7,9,1,10
+Burnley,2014,12,5,3,4
+Burnley,2009,15,7,6,5
+Cardiff City,2018,4,10,1,3
+Cardiff City,2013,11,9,4,8
+Charlton,2006,10,9,3,11
+Charlton,2005,12,9,5,5
+Charlton,2004,4,3,7,3
+Charlton,2003,5,8,4,3
+Charlton,2002,5,2,3,2
+Charlton,2001,5,5,1,3
+Charlton,2000,4,5,2,4
+Charlton,1998,5,6,3,5
+Chelsea,2023,6,10,3,10
+Chelsea,2022,10,8,2,8
+Chelsea,2021,7,3,1,10
+Chelsea,2020,9,8,2,12
+Chelsea,2019,7,2,3,10
+Chelsea,2018,11,9,3,7
+Chelsea,2017,14,9,3,14
+Chelsea,2016,8,8,4,7
+Chelsea,2015,10,12,3,14
+Chelsea,2014,10,10,5,17
+Chelsea,2013,8,12,3,15
+Chelsea,2012,6,6,2,15
+Chelsea,2011,4,3,3,12
+Chelsea,2010,8,5,1,5
+Chelsea,2009,6,7,1,2
+Chelsea,2008,6,5,0,4
+Chelsea,2007,8,11,0,1
+Chelsea,2006,6,3,4,5
+Chelsea,2005,8,2,1,4
+Chelsea,2004,7,7,1,6
+Chelsea,2003,4,3,5,12
+Chelsea,2002,2,4,1,4
+Chelsea,2001,3,4,1,2
+Chelsea,2000,7,12,2,3
+Chelsea,1999,8,5,2,5
+Chelsea,1998,6,3,1,5
+Chelsea,1997,4,3,2,3
+Chelsea,1996,6,4,2,3
+Chelsea,1995,4,2,1,4
+Chelsea,1994,4,2,2,3
+Chelsea,1993,4,2,2,2
+Coventry,2000,4,6,1,3
+Coventry,1999,4,7,4,5
+Coventry,1998,9,8,0,4
+Coventry,1997,2,5,2,6
+Coventry,1996,5,5,0,3
+Coventry,1995,7,5,2,5
+Coventry,1994,6,7,1,4
+Coventry,1993,6,2,1,5
+Crystal Palace,2023,2,1,2,3
+Crystal Palace,2022,1,6,3,4
+Crystal Palace,2021,3,5,1,4
+Crystal Palace,2020,6,5,1,1
+Crystal Palace,2019,5,3,2,3
+Crystal Palace,2018,2,3,3,3
+Crystal Palace,2017,5,3,2,5
+Crystal Palace,2016,4,8,1,9
+Crystal Palace,2015,3,5,4,7
+Crystal Palace,2014,16,12,2,11
+Crystal Palace,2013,11,16,3,12
+Crystal Palace,2004,4,5,2,7
+Crystal Palace,1997,9,8,3,7
+Crystal Palace,1994,4,6,2,5
+Derby,2007,13,6,4,7
+Derby,2001,9,1,1,3
+Derby,2000,7,4,0,5
+Derby,1999,3,3,7,5
+Derby,1998,7,6,2,4
+Derby,1997,2,4,1,5
+Derby,1996,9,4,3,8
+Everton,2023,5,7,1,3
+Everton,2022,5,4,2,4
+Everton,2021,3,6,3,2
+Everton,2020,6,6,3,5
+Everton,2019,4,10,1,7
+Everton,2018,8,7,0,4
+Everton,2017,7,7,1,8
+Everton,2016,4,9,2,3
+Everton,2015,7,9,0,2
+Everton,2014,4,6,0,7
+Everton,2013,3,10,1,5
+Everton,2012,4,3,0,5
+Everton,2011,4,7,1,7
+Everton,2010,2,6,3,1
+Everton,2009,5,5,2,3
+Everton,2008,3,4,2,5
+Everton,2007,4,3,3,6
+Everton,2006,2,3,6,2
+Everton,2005,6,1,6,4
+Everton,2004,1,4,1,3
+Everton,2003,2,3,5,7
+Everton,2002,8,4,3,7
+Everton,2001,2,2,0,2
+Everton,2000,5,1,3,8
+Everton,1999,3,6,2,3
+Everton,1998,7,3,2,5
+Everton,1997,8,4,3,6
+Everton,1996,7,2,2,1
+Everton,1995,7,2,2,6
+Everton,1994,8,2,1,2
+Everton,1993,1,3,0,4
+Fulham,2023,6,6,2,3
+Fulham,2022,7,7,1,5
+Fulham,2020,9,5,3,6
+Fulham,2018,6,6,2,4
+Fulham,2013,6,8,4,15
+Fulham,2012,5,8,6,7
+Fulham,2011,6,7,2,6
+Fulham,2010,4,4,2,6
+Fulham,2009,7,7,1,12
+Fulham,2008,10,9,5,5
+Fulham,2007,14,12,3,9
+Fulham,2006,4,5,6,4
+Fulham,2005,6,4,5,9
+Fulham,2004,7,5,3,7
+Fulham,2003,16,6,6,4
+Fulham,2002,3,3,1,2
+Fulham,2001,4,3,3,3
+Huddersfield,2018,3,5,3,3
+Huddersfield,2017,6,6,2,8
+Hull City,2016,8,10,2,6
+Hull City,2014,11,15,0,4
+Hull City,2013,6,14,5,7
+Hull City,2009,4,5,2,10
+Hull City,2008,6,6,3,11
+Ipswich,2001,8,7,2,4
+Ipswich,2000,8,3,0,3
+Ipswich,1994,6,3,0,3
+Ipswich,1993,1,2,0,3
+Leeds,2022,7,9,2,7
+Leeds,2021,6,4,1,2
+Leeds,2020,4,6,1,5
+Leeds,2003,7,6,3,10
+Leeds,2002,8,5,2,5
+Leeds,2001,1,5,1,4
+Leeds,2000,4,2,1,4
+Leeds,1999,4,3,2,2
+Leeds,1998,5,6,2,7
+Leeds,1997,4,4,1,7
+Leeds,1996,2,6,2,2
+Leeds,1995,6,5,1,0
+Leeds,1994,2,6,2,2
+Leeds,1993,3,4,0,1
+Leicester,2022,3,3,1,3
+Leicester,2021,4,4,1,2
+Leicester,2020,6,5,3,5
+Leicester,2019,4,4,0,5
+Leicester,2018,5,4,1,6
+Leicester,2017,4,4,1,5
+Leicester,2016,6,5,1,5
+Leicester,2015,11,8,2,4
+Leicester,2014,5,13,5,7
+Leicester,2003,12,11,1,6
+Leicester,2001,6,6,6,5
+Leicester,2000,5,9,1,3
+Leicester,1999,5,2,2,4
+Leicester,1998,6,3,1,3
+Leicester,1997,5,6,2,3
+Leicester,1996,3,4,1,4
+Leicester,1994,1,4,1,4
+Liverpool,2023,9,1,0,6
+Liverpool,2022,2,2,0,4
+Liverpool,2021,6,4,1,3
+Liverpool,2020,5,5,0,6
+Liverpool,2019,4,5,4,2
+Liverpool,2018,2,8,2,6
+Liverpool,2017,5,5,0,3
+Liverpool,2016,5,7,4,5
+Liverpool,2015,9,8,3,4
+Liverpool,2014,9,7,3,6
+Liverpool,2013,6,4,1,7
+Liverpool,2012,4,7,1,7
+Liverpool,2011,8,3,4,6
+Liverpool,2010,5,6,5,5
+Liverpool,2009,8,5,4,4
+Liverpool,2008,10,9,6,4
+Liverpool,2007,6,14,2,4
+Liverpool,2006,8,8,4,7
+Liverpool,2005,7,9,4,6
+Liverpool,2004,7,8,3,4
+Liverpool,2003,9,5,1,4
+Liverpool,2002,6,4,1,5
+Liverpool,2001,2,2,3,1
+Liverpool,2000,6,4,1,9
+Liverpool,1999,5,5,4,3
+Liverpool,1998,6,2,2,3
+Liverpool,1997,2,2,3,5
+Liverpool,1996,2,3,0,2
+Liverpool,1995,0,4,1,7
+Liverpool,1994,6,0,3,3
+Liverpool,1993,3,2,1,3
+Luton,2023,8,11,3,7
+Man City,2023,7,4,0,8
+Man City,2022,10,10,3,6
+Man City,2021,9,7,2,3
+Man City,2020,9,12,2,5
+Man City,2019,6,8,3,8
+Man City,2018,5,6,2,6
+Man City,2017,9,10,4,8
+Man City,2016,7,11,4,9
+Man City,2015,6,9,0,7
+Man City,2014,4,3,2,5
+Man City,2013,3,5,0,8
+Man City,2012,11,5,2,6
+Man City,2011,10,4,5,10
+Man City,2010,11,12,1,9
+Man City,2009,7,7,4,4
+Man City,2008,8,9,4,5
+Man City,2007,9,11,4,7
+Man City,2006,7,5,4,4
+Man City,2005,4,3,1,5
+Man City,2004,5,5,3,4
+Man City,2003,4,4,5,8
+Man City,2002,4,4,2,5
+Man City,2000,9,7,2,8
+Man City,1995,9,3,2,5
+Man City,1994,1,1,3,6
+Man City,1993,2,7,2,4
+Man Utd,2023,7,1,3,4
+Man Utd,2022,6,6,4,8
+Man Utd,2021,5,7,1,3
+Man Utd,2020,5,5,2,5
+Man Utd,2019,5,4,2,2
+Man Utd,2018,5,1,2,2
+Man Utd,2017,4,3,2,3
+Man Utd,2016,2,3,1,2
+Man Utd,2015,4,9,4,4
+Man Utd,2014,6,8,5,6
+Man Utd,2013,2,8,3,5
+Man Utd,2012,5,6,3,4
+Man Utd,2011,7,2,5,1
+Man Utd,2010,7,5,3,1
+Man Utd,2009,5,6,3,3
+Man Utd,2008,4,6,1,5
+Man Utd,2007,8,5,2,10
+Man Utd,2006,8,7,3,5
+Man Utd,2005,6,5,4,9
+Man Utd,2004,5,6,4,5
+Man Utd,2003,6,10,1,6
+Man Utd,2002,6,5,1,3
+Man Utd,2001,5,10,3,3
+Man Utd,2000,3,2,3,1
+Man Utd,1999,8,5,4,4
+Man Utd,1998,2,4,0,5
+Man Utd,1997,6,5,1,9
+Man Utd,1996,4,3,2,6
+Man Utd,1995,3,3,2,2
+Man Utd,1994,3,3,1,7
+Man Utd,1993,4,1,0,6
+Middlesbrough,2016,6,5,3,4
+Middlesbrough,2008,11,5,1,1
+Middlesbrough,2007,6,8,1,6
+Middlesbrough,2006,8,8,2,3
+Middlesbrough,2005,7,7,1,3
+Middlesbrough,2004,6,4,4,6
+Middlesbrough,2003,8,4,8,9
+Middlesbrough,2002,4,6,2,10
+Middlesbrough,2001,9,5,4,7
+Middlesbrough,2000,8,6,4,4
+Middlesbrough,1999,3,2,2,5
+Middlesbrough,1998,7,5,1,0
+Middlesbrough,1996,3,5,5,4
+Middlesbrough,1995,2,4,2,4
+Newcastle,2023,5,5,0,5
+Newcastle,2022,6,3,4,4
+Newcastle,2021,4,2,1,5
+Newcastle,2020,1,3,3,3
+Newcastle,2019,3,4,0,6
+Newcastle,2018,4,8,2,8
+Newcastle,2017,6,12,4,5
+Newcastle,2015,6,11,1,8
+Newcastle,2014,4,7,5,7
+Newcastle,2013,4,6,0,4
+Newcastle,2012,9,4,0,8
+Newcastle,2011,5,12,7,3
+Newcastle,2010,5,6,1,6
+Newcastle,2008,4,9,4,5
+Newcastle,2007,9,4,2,4
+Newcastle,2006,4,3,1,3
+Newcastle,2005,2,4,0,10
+Newcastle,2004,5,6,0,6
+Newcastle,2003,4,3,1,6
+Newcastle,2002,5,3,1,5
+Newcastle,2001,11,5,0,2
+Newcastle,2000,4,9,0,8
+Newcastle,1999,6,3,5,9
+Newcastle,1998,7,5,2,10
+Newcastle,1997,7,10,3,10
+Newcastle,1996,1,3,2,4
+Newcastle,1995,1,5,2,1
+Newcastle,1994,3,2,1,5
+Newcastle,1993,1,6,3,3
+Norwich,2021,11,12,3,6
+Norwich,2019,8,6,2,7
+Norwich,2015,5,12,5,11
+Norwich,2013,5,8,2,6
+Norwich,2012,9,7,4,8
+Norwich,2011,5,7,1,6
+Norwich,2004,3,6,4,5
+Norwich,1994,3,5,1,2
+Norwich,1993,3,4,3,0
+Nottm Forest,2023,10,12,4,9
+Nottm Forest,2022,13,11,6,12
+Nottm Forest,1998,9,15,2,6
+Nottm Forest,1996,8,8,3,4
+Nottm Forest,1995,2,6,3,3
+Nottm Forest,1994,3,3,0,2
+Oldham,1993,3,2,1,2
+Portsmouth,2009,12,8,2,10
+Portsmouth,2008,10,9,2,8
+Portsmouth,2007,8,9,2,8
+Portsmouth,2006,10,8,6,4
+Portsmouth,2005,8,16,5,10
+Portsmouth,2004,8,10,3,6
+Portsmouth,2003,11,11,3,12
+QPR,2014,12,4,6,13
+QPR,2012,8,17,2,11
+QPR,2011,15,17,2,12
+QPR,1995,3,5,2,3
+QPR,1994,2,1,1,3
+QPR,1993,3,5,0,0
+Reading,2012,13,9,2,8
+Reading,2007,12,8,8,12
+Reading,2006,11,3,6,7
+Sheff Utd,2023,6,3,1,8
+Sheff Utd,2020,4,3,4,5
+Sheff Utd,2019,9,5,3,6
+Sheff Utd,2006,13,14,3,9
+Sheff Utd,1993,5,4,2,3
+Sheff Wed,1999,2,7,2,5
+Sheff Wed,1998,3,5,3,7
+Sheff Wed,1997,7,5,2,7
+Sheff Wed,1996,4,6,1,6
+Sheff Wed,1995,4,5,1,3
+Sheff Wed,1994,5,2,0,2
+Sheff Wed,1993,4,2,0,2
+Southampton,2022,6,8,2,5
+Southampton,2021,4,5,1,0
+Southampton,2020,6,10,2,5
+Southampton,2019,4,5,2,3
+Southampton,2018,4,5,1,6
+Southampton,2017,3,4,2,3
+Southampton,2016,3,5,3,1
+Southampton,2015,6,6,1,3
+Southampton,2014,8,11,2,4
+Southampton,2013,5,8,0,2
+Southampton,2012,10,8,3,8
+Southampton,2004,13,8,3,9
+Southampton,2003,7,4,4,6
+Southampton,2002,3,5,4,3
+Southampton,2001,3,6,2,6
+Southampton,2000,7,3,1,2
+Southampton,1999,9,4,0,6
+Southampton,1998,6,8,2,4
+Southampton,1997,5,6,3,5
+Southampton,1996,5,5,2,6
+Southampton,1995,3,0,1,3
+Southampton,1994,1,2,1,4
+Southampton,1993,5,4,1,4
+Stoke City,2017,11,5,0,2
+Stoke City,2016,4,5,3,2
+Stoke City,2015,3,4,2,4
+Stoke City,2014,7,5,1,5
+Stoke City,2013,5,8,2,5
+Stoke City,2012,6,6,2,9
+Stoke City,2011,9,10,0,7
+Stoke City,2010,10,8,1,5
+Stoke City,2009,5,4,3,11
+Stoke City,2008,9,6,3,6
+Sunderland,2016,14,6,1,4
+Sunderland,2015,10,9,2,8
+Sunderland,2014,7,4,5,5
+Sunderland,2013,9,11,7,9
+Sunderland,2012,7,11,0,8
+Sunderland,2011,15,7,6,7
+Sunderland,2010,10,7,4,10
+Sunderland,2009,6,12,0,6
+Sunderland,2008,11,13,3,7
+Sunderland,2007,16,6,3,6
+Sunderland,2005,7,8,3,6
+Sunderland,2002,7,6,7,5
+Sunderland,2001,4,5,1,4
+Sunderland,2000,4,9,2,5
+Sunderland,1999,9,5,2,12
+Sunderland,1996,3,5,2,4
+Swansea,2017,6,7,1,7
+Swansea,2016,6,9,2,4
+Swansea,2015,4,11,1,4
+Swansea,2014,11,7,2,4
+Swansea,2013,9,7,1,7
+Swansea,2012,9,8,0,3
+Swansea,2011,6,8,4,5
+Swindon,1993,4,2,1,1
+Tottenham,2023,15,6,1,4
+Tottenham,2022,5,4,2,4
+Tottenham,2021,4,3,4,3
+Tottenham,2020,7,4,1,3
+Tottenham,2019,2,4,2,4
+Tottenham,2018,1,1,0,2
+Tottenham,2017,7,4,2,2
+Tottenham,2016,2,2,1,3
+Tottenham,2015,4,2,1,4
+Tottenham,2014,9,2,2,7
+Tottenham,2013,7,8,3,12
+Tottenham,2012,8,7,4,10
+Tottenham,2011,8,12,6,10
+Tottenham,2010,8,10,8,13
+Tottenham,2009,12,7,6,7
+Tottenham,2008,9,11,7,7
+Tottenham,2007,12,6,4,4
+Tottenham,2006,7,4,5,3
+Tottenham,2005,6,8,2,9
+Tottenham,2004,12,7,8,10
+Tottenham,2003,3,7,1,6
+Tottenham,2002,3,6,4,10
+Tottenham,2001,3,1,3,3
+Tottenham,2000,2,3,1,2
+Tottenham,1999,4,5,0,6
+Tottenham,1998,5,4,3,4
+Tottenham,1997,2,7,1,5
+Tottenham,1996,11,2,2,2
+Tottenham,1995,5,7,0,9
+Tottenham,1994,6,5,0,4
+Tottenham,1993,5,4,2,6
+Watford,2021,7,9,3,12
+Watford,2019,6,13,0,2
+Watford,2018,9,11,3,3
+Watford,2017,8,10,5,9
+Watford,2016,8,13,1,7
+Watford,2015,8,11,4,10
+Watford,2006,10,10,1,11
+Watford,1999,6,6,1,2
+West Brom,2020,2,8,5,8
+West Brom,2017,6,7,1,3
+West Brom,2016,6,5,0,2
+West Brom,2015,2,4,2,4
+West Brom,2014,5,4,0,7
+West Brom,2013,3,6,2,5
+West Brom,2012,4,5,2,5
+West Brom,2011,7,5,4,9
+West Brom,2010,9,11,4,4
+West Brom,2008,8,7,2,4
+West Brom,2005,4,3,2,7
+West Brom,2004,6,4,2,6
+West Brom,2002,3,1,2,4
+West Ham,2023,2,3,0,7
+West Ham,2022,3,3,3,3
+West Ham,2021,3,2,1,4
+West Ham,2020,6,5,1,4
+West Ham,2019,2,3,3,2
+West Ham,2018,5,7,1,5
+West Ham,2017,5,5,1,4
+West Ham,2016,9,9,0,4
+West Ham,2015,9,6,1,9
+West Ham,2014,4,10,2,9
+West Ham,2013,5,8,2,9
+West Ham,2012,4,12,5,3
+West Ham,2010,4,10,1,3
+West Ham,2009,7,9,2,4
+West Ham,2008,8,9,5,5
+West Ham,2007,4,7,2,5
+West Ham,2006,7,6,3,7
+West Ham,2005,8,12,5,7
+West Ham,2002,8,5,2,4
+West Ham,2001,4,1,4,2
+West Ham,2000,11,9,2,4
+West Ham,1999,10,14,5,4
+West Ham,1998,8,6,1,11
+West Ham,1997,3,7,6,4
+West Ham,1996,5,8,3,6
+West Ham,1995,4,9,3,7
+West Ham,1994,5,6,3,5
+West Ham,1993,4,6,2,4
+Wigan,2012,7,7,2,5
+Wigan,2011,9,6,3,5
+Wigan,2010,4,6,6,7
+Wigan,2009,4,4,1,9
+Wigan,2008,4,7,1,10
+Wigan,2007,9,4,4,8
+Wigan,2006,6,6,6,5
+Wigan,2005,6,3,1,8
+Wimbledon FC,1999,6,4,1,4
+Wimbledon FC,1998,0,5,1,3
+Wimbledon FC,1997,1,1,0,3
+Wimbledon FC,1996,5,2,0,1
+Wimbledon FC,1995,6,3,3,4
+Wimbledon FC,1994,4,5,3,1
+Wimbledon FC,1993,2,3,0,0
+Wolves,2023,6,6,3,11
+Wolves,2022,7,13,3,9
+Wolves,2021,8,8,4,6
+Wolves,2020,10,6,2,3
+Wolves,2019,8,13,2,5
+Wolves,2018,9,17,4,5
+Wolves,2011,6,12,3,8
+Wolves,2010,9,11,2,6
+Wolves,2009,15,7,5,6
+Wolves,2003,4,10,2,11

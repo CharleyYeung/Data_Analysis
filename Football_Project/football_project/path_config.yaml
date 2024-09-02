@@ -1,0 +1,28 @@
+raw_files:
+  league: 'league_table.csv'
+  player_in: 'player_transfer.csv'
+  player_out: 'player_transfer_out.csv'
+  passes: 'total_passes.csv'
+  money: 'transfer_data.csv'
+
+preprocessed_files:
+  league: 'league_table_temp.csv'
+  player_in: 'player_transfer_temp.csv'
+  player_out: 'player_transfer_out_temp.csv'
+  passes: 'total_passes_temp.csv'
+  money: 'transfer_data_temp.csv'
+
+
+ready_files:
+  league: 'league_table_ready.csv'
+  player_in: 'player_transfer_ready.csv'
+  player_out: 'player_transfer_out_ready.csv'
+  passes: 'total_passes_ready.csv'
+  money: 'transfer_data_ready.csv'
+  position_in: 'transferred_position_ready.csv'
+  combined: 'combined_ready.csv'
+  balance: 'transferred_positions_balance_ready.csv'
+  position_out: 'transferred_position_out_ready.csv'
+
+general_config_files:
+  general_config: 'general_config.yaml'

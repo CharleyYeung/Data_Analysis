@@ -1,0 +1,16 @@
+top_clubs: 20
+min_seasons: 2
+
+scenarios:
+  Expensed, More League Points: 0
+  Gain in Market, More League Points: 0
+  Expensed, Less League Points: 0
+  Gain in Market, Less League Points: 0
+  Expensed, More Goals Scored: 0
+  Gain in Market, More Goals Scored: 0
+  Expensed, Less Goals Scored: 0
+  Gain in Market, Less Goals Scored: 0
+  Expensed, More Goals Conceded: 0
+  Gain in Market, More Goals Conceded: 0
+  Expensed, Less Goals Conceded: 0
+  Gain in Market, Less Goals Conceded: 0

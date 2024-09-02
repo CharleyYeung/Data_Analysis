@@ -1,0 +1,31 @@
+position_names:
+  forward: 
+    - 'ST'
+    - 'FW'
+    - 'Striker'
+    - 'LW'
+    - 'RW'
+    - 'SS'
+    - 'CF'
+    - 'SW'
+    - 'Forward'
+  midfielder: 
+    - 'CM'
+    - 'LM'
+    - 'RM'
+    - 'Mid'
+    - 'AM'
+    - 'DM'
+    - 'Midfielder'
+  defender: 
+    - 'DF'
+    - 'LB'
+    - 'RB'
+    - 'LWB'
+    - 'RWB'
+    - 'CD'
+    - 'CB'
+    - 'Defender'
+  goalkeeper: 
+    - 'GK'
+    - 'Goalkeeper'
