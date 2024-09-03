@@ -96,8 +96,6 @@ y_min = df_top_clubs['Inverted_Balance'].min() - 0.1 * abs(df_top_clubs['Inverte
 y_max = df_top_clubs['Inverted_Balance'].max() + 0.1 * abs(df_top_clubs['Inverted_Balance'].max())
 plt.ylim(y_max, y_min)
 
-
-
 ax.yaxis.set_major_formatter(plt.FuncFormatter(millions_formatter))
 
 plt.title(f'Distribution of Net Expense for Top {top_n} Clubs by Average Points')
@@ -128,7 +126,7 @@ for club in clubs:
     total_ga_diff = 0
     years_count = 0
     
-    # Calculate overall statistics first
+    # Calculate overall statistics 
     for i, row in club_data.iterrows():
         balance = row['Balance']
         pts_diff = row['Pts Diff']
@@ -205,14 +203,23 @@ with open(output_file_text, 'w') as f:
 
 print(f"Analysis results saved to {output_file_text}")
 
-# Scenario Analysis and Bar Plot
+# Scenario Analysis and Stacked Percentage Bar Plot
 
-fig, ax = plt.subplots(figsize=(15, 10),num='Scenario Analysis for Each Club')
+fig, ax = plt.subplots(figsize=(15, 10), num='Scenario Analysis for Each Club')
 colors = plt.get_cmap('tab20')(np.linspace(0, 1, 12))
 bottom = np.zeros(len(clubs))
 
 scenarios = general_config['scenarios']
 all_club_scenarios = analyze_club_scenarios(df_combined, scenarios.copy())
+
+
+total_values = np.zeros(len(clubs))
+
+for club in clubs:
+    club_data = df_combined[df_combined['Club'] == club]
+    club_scenarios = analyze_club_scenarios(club_data, scenarios.copy())
+    club_index = np.where(clubs == club)[0][0]
+    total_values[club_index] = sum(club_scenarios.values())
 
 for i, scenario in enumerate(all_club_scenarios.keys()):
     values = []
@@ -221,23 +228,25 @@ for i, scenario in enumerate(all_club_scenarios.keys()):
         club_scenarios = analyze_club_scenarios(club_data, scenarios.copy())
         values.append(club_scenarios[scenario])
     
-    ax.bar(clubs, values, bottom=bottom, label=scenario, color=colors[i])
-    bottom += values
+    percentage_values = [v / total * 100 if total > 0 else 0 for v, total in zip(values, total_values)]
+    
+    ax.bar(clubs, percentage_values, bottom=bottom, label=scenario, color=colors[i])
+    bottom += percentage_values
 
-ax.set_title('Scenario Analysis for Each Club', fontsize=16)
+ax.set_title('Scenario Analysis for Each Club (Stacked Percentage)', fontsize=16)
 ax.set_xlabel('Clubs', fontsize=12)
-ax.set_ylabel('Number of Years', fontsize=12)
+ax.set_ylabel('Percentage of Years (%)', fontsize=12)
 ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=10)
 plt.xticks(rotation=90)
+plt.ylim(0, 100) 
 plt.tight_layout()
 
-
-output_file_plot = os.path.join(analysis_folder, 'scenario_analysis_plot.png')
+output_file_plot = os.path.join(analysis_folder, 'scenario_analysis_percentage_plot.png')
 plt.savefig(output_file_plot, dpi=300, bbox_inches='tight')
-print(f"Scenario analysis plot saved as {output_file_plot}")
+print(f"Scenario analysis percentage plot saved as {output_file_plot}")
 plt.close()
 
-# Compare the transfer window opeartion on each position and the performance
+# Compare the transfer window operation on each position and the performance
 
 
 df_merged = pd.merge(df_balance, df_passes, on=['Club', 'Year'])
