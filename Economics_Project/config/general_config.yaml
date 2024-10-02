@@ -1,0 +1,39 @@
+api_key: ''
+
+ticker:
+  SP500: 'SP500'
+  DJIA: 'DJIA'
+  NASDAQ: 'NASDAQCOM'
+  NIKKEI: 'NIKKEI225'
+  13w: 'DGS3MO'
+  26w: 'DGS6MO'
+  1y: 'DGS1'
+  2y: 'DGS2'
+  5y: 'DGS5'
+  10y: 'DGS10'
+  30y: 'DGS30'
+  HSI: '^HSI'
+  SH: '000001.SS'
+  TWII: '^TWII'
+
+equity_asset: ['SP500', 'DJIA', 'NASDAQ', 'NIKKEI', 'HSI', 'SH', 'TWII']
+
+yield_spread:
+  long_term: '10y'
+  short_term: '2y'
+
+start: '2014-09-06'
+end: '2024-09-06'
+
+trimming:
+  begin: 15
+  end: 1
+
+clustering:
+  n_clusters_range:
+    start: 3
+    end: 7
+  metric: 'dtw'
+
+volatility:
+  window: 252

@@ -1,0 +1,37 @@
+raw:
+  SP500: 'SP500_raw.csv'
+  DJIA: 'DJIA_raw.csv'
+  NASDAQ: 'NASDAQ_raw.csv'
+  NIKKEI: 'NIKKEI_raw.csv'
+  13w: '13w_raw.csv'
+  26w: '26w_raw.csv'
+  1y: '1y_raw.csv'
+  2y: '2y_raw.csv'
+  5y: '5y_raw.csv'
+  10y: '10y_raw.csv'
+  30y: '30y_raw.csv'
+  HSI: 'HSI_raw.csv'
+  SH: 'SH_raw.csv'
+  TWII: 'TWII_raw.csv'
+
+
+preprocessed:
+  SP500: 'SP500_temp.csv'
+  DJIA: 'DJIA_temp.csv'
+  NASDAQ: 'NASDAQ_temp.csv'
+  NIKKEI: 'NIKKEI_temp.csv'
+  13w: '13w_temp.csv'
+  26w: '26w_temp.csv'
+  1y: '1y_temp.csv'
+  2y: '2y_temp.csv'
+  5y: '5y_temp.csv'
+  10y: '10y_temp.csv'
+  30y: '30y_temp.csv'
+  HSI: 'HSI_temp.csv'
+  SH: 'SH_temp.csv'
+  TWII: 'TWII_temp.csv'
+
+
+general_config_files:
+  general_config: 'general_config.yaml'
+
