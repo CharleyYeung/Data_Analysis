@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from config.get_paths import load_data_and_clusters, get_prediction_paths
-from config.ML_functions import prepare_data, train_and_evaluate, predict_future, evaluate_model
-from config.visualization_functions import plot_predictions, plot_future_predictions
+from functions.ML_functions import prepare_data, train_and_evaluate, predict_future, evaluate_model
+from functions.visualization_functions import plot_predictions, plot_future_predictions
 
 # Load data and clustering results
 all_data, optimal_labels = load_data_and_clusters()

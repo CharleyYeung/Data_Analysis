@@ -2,10 +2,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-from config.preprocessing_functions import *
+from functions.preprocessing_functions import *
 from config.get_paths import get_yaml_path, get_general_config, get_raw_paths, get_cleaned_paths
-from config.visualization_functions import plot_dtw_matrix, plot_silhouette, plot_elbow_from_scores
-from config.clustering_functions import find_optimal_clusters, kmeans_clustering, print_cluster_assignments
+from functions.visualization_functions import plot_dtw_matrix, plot_silhouette, plot_elbow_from_scores
+from functions.clustering_functions import find_optimal_clusters, kmeans_clustering, print_cluster_assignments
 
 path_config = get_yaml_path()
 general_config = get_general_config()

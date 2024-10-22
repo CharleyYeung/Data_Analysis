@@ -1,9 +1,6 @@
 from fredapi import Fred
 import yfinance as yf
-import pandas as pd
-import numpy as np
-import yaml
-import os
+
 
 
 def fred_scraping(api_key,ticker,start,end):

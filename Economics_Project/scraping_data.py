@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from config.get_paths import get_yaml_path, get_general_config, get_raw_paths
-from config.scraping_functions import *
+from functions.scraping_functions import *
 import yaml
 import os
 

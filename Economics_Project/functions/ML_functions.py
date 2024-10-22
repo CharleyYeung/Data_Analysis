@@ -69,5 +69,6 @@ def evaluate_model(y_true, y_pred):
     mae = mean_absolute_error(y_true, y_pred)
     mse = mean_squared_error(y_true, y_pred)
     rmse = np.sqrt(mse)
-    mape = np.mean(np.abs((y_true - y_pred) / y_true)) * 100
+    non_zero_indices = y_true != 0
+    mape = np.mean(np.abs((y_true[non_zero_indices] - y_pred[non_zero_indices]) / y_true[non_zero_indices])) * 100
     return mae, mse, rmse, mape

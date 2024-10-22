@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 from config.get_paths import load_analysis_paths,load_data_and_clusters, get_analysis_paths,  get_general_config
-from config.analysis_functions import (
+from functions.analysis_functions import (
     calculate_trend, calculate_intra_cluster_correlations, calculate_correlations, calculate_volatility
 )
-from config.visualization_functions import (
+from functions.visualization_functions import (
     plot_trends, plot_trend_comparisons, plot_intra_cluster_correlations, plot_correlation_matrix, 
     plot_asset_volatility, plot_cluster_volatility
 )
