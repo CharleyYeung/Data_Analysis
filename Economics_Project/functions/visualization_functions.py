@@ -96,12 +96,12 @@ def plot_silhouette(X, labels, n_clusters, metric):
     return plt
 
 
-def plot_elbow_from_scores(silhouette_scores, optimal_n_clusters, min_clusters):
+def plot_silhouette_scores(silhouette_scores, optimal_n_clusters, min_clusters):
     plt.figure(figsize=(10, 7))
     plt.plot(range(min_clusters, len(silhouette_scores) + min_clusters), silhouette_scores, 'bx-')
     plt.xlabel('Number of clusters (k)')
     plt.ylabel('Silhouette Score')
-    plt.title('Elbow Method using Silhouette Score')
+    plt.title('Silhouette Score')
     plt.axvline(x=optimal_n_clusters, color='r', linestyle='--', label=f'Optimal clusters: {optimal_n_clusters}')
     plt.legend()
     return plt

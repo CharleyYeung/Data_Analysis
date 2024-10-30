@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 from functions.preprocessing_functions import *
 from config.get_paths import get_yaml_path, get_general_config, get_raw_paths, get_cleaned_paths
-from functions.visualization_functions import plot_dtw_matrix, plot_silhouette, plot_elbow_from_scores
+from functions.visualization_functions import plot_dtw_matrix, plot_silhouette, plot_silhouette_scores
 from functions.clustering_functions import find_optimal_clusters, kmeans_clustering, print_cluster_assignments
 
 path_config = get_yaml_path()
@@ -82,9 +82,9 @@ np.save(get_cleaned_paths('clustering_results.npy'), {
     'kmeans_model': kmeans
 })
 
-# Plot elbow curve using silhouette scores
-elbow_plot = plot_elbow_from_scores(silhouette_scores, optimal_n_clusters, min_clusters)
-elbow_plot.savefig(get_cleaned_paths('elbow_plot.png'))
+# Plot silhouette score curve
+silhouette_plot = plot_silhouette_scores(silhouette_scores, optimal_n_clusters, min_clusters)
+silhouette_plot.savefig(get_cleaned_paths('silhouette_score_curve.png'))
 plt.close()
 
 # Plot silhouette for optimal number of clusters
@@ -95,4 +95,4 @@ if len(np.unique(optimal_labels)) > 1:  # Only plot if there's more than one clu
 else:
     print("Cannot create silhouette plot: only one cluster in optimal solution.")
 
-print("Elbow plot and Silhouette plot have been saved.")
+print("Silhouettes plot have been saved.")
