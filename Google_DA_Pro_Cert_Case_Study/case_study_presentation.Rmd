@@ -1,7 +1,7 @@
 ---
-title: "Google_DA_Cert_Case_study"
-author: "Charley"
-date: "`r Sys.Date()`"
+title: "Google Data Analytics Professional Certificate Case Study"
+author: "Chor Fung Yeung"
+date: "11 Dec 2024"
 output: html_document
 ---
 
@@ -16,7 +16,7 @@ $\\ \\ \\ \\$
 $\\ \\ \\ \\$   
    
    
-##### Course 8 - Google Data Analytics Capstone- Complete a Case Study   
+![](Heading.png)
 $\\$      
    
 ##### Case Study 2: How Can a Wellness Technology Company Play It Smart?   
@@ -28,7 +28,9 @@ company that has helped millions of women track their cycle,
 pregnancies, and live more in sync with their cycles.
 [Bellabeat](https://bellabeat.com/)   
    
-  
+![](jogging.jpg)  
+   
+      
 #### 1. Ask  
 
 *What is the business task?*   
@@ -57,6 +59,9 @@ $\\ \\$
 $\\ \\$   
    
    
+![](scale.jpg)   
+   
+      
 #### 2. Prepare  
 
 *What data is to be analyzed?*
@@ -108,6 +113,9 @@ $\\$
    
 $\\ \\$   
    
+![](sleep.jpg)   
+   
+      
 #### 4. Analysis    
    
 *A Quick Glimpse of the data*   
@@ -228,6 +236,9 @@ The graph shows a positive then rather strongly negative relation between sedent
 
 $\\ \\$   
    
+![](idea.jpg)   
+      
+   
 #### 5. Share  
    
 In conclusion, I would recommend 4 directions of wellness by using Bellabeat products.   
@@ -257,5 +268,10 @@ In conclusion, I would recommend 4 directions of wellness by using Bellabeat pro
 - (## 2) Although we have looked into how the weight of the participants changed over the period, the number of participants who used weight tracking is not sufficient for drawing effective conclusions in terms of representing the whole population. For more representative calculations, we can consider a broader data source or longer period. It is also worthy to point out that marketing team can attract the users to track their weight with including the tracking as a part of the competition.     
    
 - (## 3) More than 2/3 of the participants used the sleep time tracking. This sounds promising for the sake of marketing scheme. The marketing team should not neglect this pattern and should design campaigns of making use of it to promote quality of sleep.   
-
-##Thank you very much for your reading. Hope you enjoy it!##
+    
+#### Thank you very much for your reading. Hope you enjoy it!
+  
+$\\ \\ \\$    
+  
+Special thanks to:  
+[![](coursera.png)](https://www.coursera.org/professional-certificates/google-data-analytics)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](kaggle.png)](https://www.kaggle.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](bellabeat.png)](https://bellabeat.com/)
