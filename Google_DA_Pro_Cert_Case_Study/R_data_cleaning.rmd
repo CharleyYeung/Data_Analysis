@@ -1,0 +1,269 @@
+***
+02:16 18/12/2024.  
+Created a database in SQLite and load the datasets.   
+Skim through the schema to grab a rough idea of how the data is organized.   
+   
+***.  
+02:20 18/12/2024.  
+Get to know that the dailyActivity_merged.csv is the master file containing.  
+the merged and grouped data of all of the other files, except for sleepDay_merged and dailyCalorie_merged.   
+Also in April folder, there is a daily weightLog_merged.csv, while in March folder, only minutes data.   exists. So I have to merge the transform file into a daily collection first.   
+    
+So I will focus on these files.   
+   
+***.  
+02:22 18/12/2024.  
+Load library and March data.  
+
+```{r Loading the libraries and datasets warning=FALSE}
+library(tidyverse)
+library(tidyr)
+library(dplyr)
+library(readr)
+library(lubridate)
+
+march_master <- read_csv("march_dailyActivity_merged.csv")
+march_minute_sleep <- read_csv("march_sleep_merged.csv")
+march_weight <-read_csv("march_weightLogInfo_merged.csv")
+
+```
+```{r Summary of March master data warning=FALSE}
+str(march_master)
+summary(march_master)
+```
+In the summary, we can already notice some data integrity:   
+- Id's are all 10 digits.  
+- ActivityDate are strings. We need to deal with it.   
+- SedentaryMinutes shows maximum value of 1440, which equals to 24 hours.  
+- Minimum of 0 Calories are found too. It must be the case that those participants did not use the devices.    
+***.  
+04:35 18/12/2024.  
+The date format is not correct. We have to change it using mutate function from dplyr.   
+```{r Formatting Date warning=FALSE}
+march_master <- march_master %>% 
+  mutate(ActivityDate = as.Date(ActivityDate,format = "%m/%d/%Y"))
+```
+
+We can see in the summary that there seems no illogical values except for the 0's in Calories. We will follow.   
+
+Let's find out how many unique Id's in March dataset.   
+```{r Counting total Id's warning=FALSE}
+march_master %>%
+  summarise(count = n_distinct(Id)) 
+```
+   
+Total of 35 Id's registered FitBit in March data.   
+   
+From the summary, we know that there are some 0s in the Calories column. We are checking the number of zeros as it represents the users did not use the device.   
+
+```{r Counting 0 calorie warning=FALSE}
+march_master %>%
+  filter(Calories == 0) %>% 
+  summarise(count = n_distinct(Id))  
+```
+There are 5 out of the total 35 Id's without Calories data. We should can verify this later on. (## 1).  
+
+We then investigate the weightLogInfo_merged table.   
+```{r Summary of March weightLogInfo_merge table warning=FALSE}
+str(march_weight)
+summary(march_weight)
+```
+Similar conditions found in the weight_LogInfo_merged table.   
+- Id's and LogId's are consistent in terms of the number of digits.   
+- Date format has to be adjusted.   
+- Only 33 entries recorded. We can find out how many Id's actually recorded.   
+```{r Formatting Date warning=FALSE}
+march_weight <- march_weight %>% 
+  mutate(Date = as.Date(Date, format = "%m/%d/%Y"))
+```
+Let's look at how many Id's recorded their weight.   
+``` {r Counting Id's with weight records warning=FALSE}
+march_weight %>%
+  summarise(count = n_distinct(Id)) 
+```
+Only 11 users recorded their weight. This may be a problem in analysis. Let's leave it to investigate more in the next phase. (## 2).  
+   
+***.   
+06:25 20/12/2024.  
+I move on to cleaning the April data.   
+   
+``` {r Cleaning April data warning=FALSE}
+april_master <- read_csv("april_dailyActivity_merged.csv")
+april_daily_sleep <- read_csv("april_SleepDay_merged.csv")
+april_weight <- read_csv("april_weightLogInfo_merged.csv")
+```
+Examining the master file:   
+```{r Summary of April master data warning=FALSE}
+str(april_master)
+summary(april_master)
+```
+Like the March master data, in this summary, we note that:   
+- Id's are all 10 digits.  
+- ActivityDate are strings. We need to deal with it.   
+- SedentaryMinutes shows maximum value of 1440, which equals to 24 hours.  
+- Minimum of 0 Calories are found too. It must be the case that those Id's owners did not use the devices.    
+   
+***.  
+06:35 20/12/2024.  
+The date format is not correct. We have to change it using mutate function from dplyr.   
+```{r Formatting Date warning=FALSE}
+april_master <- april_master %>% 
+  mutate(ActivityDate = as.Date(ActivityDate,format = "%m/%d/%Y"))
+```
+Let's find out how many unique Id's in April dataset.   
+```{r Counting total Id's warning=FALSE}
+april_master %>%
+  summarise(count = n_distinct(Id)) 
+april_master %>%
+  filter(Calories == 0) %>% 
+  summarise(count = n_distinct(Id))  
+```
+Out of 33 Id's, only 4 did not use the device. We can verify if these users are those who did not record in March. We will discuss it in the analysis and action phase. (## 1).   
+   
+***.  
+We then investigate the weightLogInfo_merged table.   
+```{r Summary of April weightLogInfo_merge table warning=FALSE}
+str(april_weight)
+summary(april_weight)
+```
+Similar conditions found in the weight_LogInfo_merged table.   
+- Id's and LogId's are consistent in terms of the number of digits.   
+- Date format has to be adjusted.   
+- 67 entries recorded. Much better than that of March. We can find out how many Id's actually recorded.   
+```{r Formatting Date warning=FALSE}
+april_weight <- april_weight %>% 
+  mutate(Date = as.Date(Date, format = "%m/%d/%Y"))
+```
+Let's look at how many Id's recorded their weight.   
+``` {r Counting Id's with weight records warning=FALSE}
+april_weight %>%
+  summarise(count = n_distinct(Id)) 
+```
+Only 8 users recorded their weight, even less than March! This may be a problem in analysis. Let's leave it to investigate more in the next phase. (## 2).  
+
+***.  
+07:30 20/12/2024   
+For sleeping time data, the source does not provide a reconciled dataset for March. After assessing April's SleepDay_merged.csv and minuteSleep_merged.csv, it is found that on some day users have fragmented sleep periods (represented by multiple logID for a single day). This potentially affects the efficiency and reliability of reconciling the March minuteSleep_merged.csv into a daily dataset. Thus I decide to skip the analysis of sleep data in March.   
+
+Here let's have a look in the april_SleepDay_merged table.
+``` {r Summary of SleepDay table warning=FALSE}
+str(april_daily_sleep)
+summary(april_daily_sleep)
+```
+With the summary, we can see some facts:   
+- Consistency is achieved in terms of number of Id digits.   
+- SleepDay data type has to be fixed.   
+- 413 records are enough for analysis. However, it's safer to check how many Id's actually recorded.
+``` {r Checking distinct Id's warning=FALSE}
+april_daily_sleep %>% 
+  summarize(IdCount = n_distinct(Id)) 
+```
+- 24 out of 33 participants recorded their sleeping time. This is not a critical problem, but still need to address its limitation in the action phase. (## 3).  
+- I am going to insert a column called TimeInBedAwake, which is the difference between total time in bed and total minutes asleep.   
+``` {r Formatting Date warning=FALSE}
+april_daily_sleep <- april_daily_sleep %>% 
+  mutate(SleepDay = as.Date(SleepDay, format = "%m/%d/%Y"))
+```
+Inserting the column:   
+``` {r inserting a column warning=FALSE}
+april_daily_sleep <-april_daily_sleep %>% 
+  mutate(TimeInBedAwake = TotalTimeInBed - TotalMinutesAsleep)
+```
+
+***.  
+08:00 20/12/2024.  
+
+Now we have transformed the data type of the ActivityDate in master files and weight logs in both months. The same is also handled in April's SleepDay_merged table.  
+   
+We have enough materials to merge with. Now we merge the master data of the two months.   
+   
+In this newly merged table (combined_data), columns those are not the keys are explicitly coalesced since RStudio does not perform automatically.   
+   
+```{r Full-Joining March and April master data, message=FALSE, warning=FALSE}
+
+combined_data <- march_master %>%
+  full_join(april_master, by = c("Id", "ActivityDate"))
+
+combined_data <- combined_data %>% 
+  mutate(
+  TotalSteps = coalesce(TotalSteps.x, TotalSteps.y),
+  TotalDistance = coalesce(TotalDistance.x, TotalDistance.y),
+  TrackerDistance = coalesce(TrackerDistance.x, TrackerDistance.y),
+  LoggedActivitiesDistance = coalesce(LoggedActivitiesDistance.x, LoggedActivitiesDistance.y),
+  VeryActiveDistance = coalesce(VeryActiveDistance.x, VeryActiveDistance.y),
+  ModeratelyActiveDistance = coalesce(ModeratelyActiveDistance.x, ModeratelyActiveDistance.y),
+  LightActiveDistance = coalesce(LightActiveDistance.x, LightActiveDistance.y),
+  SedentaryActiveDistance = coalesce(SedentaryActiveDistance.x, SedentaryActiveDistance.y),
+  VeryActiveMinutes = coalesce(VeryActiveMinutes.x, VeryActiveMinutes.y),
+  FairlyActiveMinutes = coalesce(FairlyActiveMinutes.x, FairlyActiveMinutes.y),
+  LightlyActiveMinutes = coalesce(LightlyActiveMinutes.x, LightlyActiveMinutes.y),
+  SedentaryMinutes = coalesce(SedentaryMinutes.x, SedentaryMinutes.y),
+  Calories = coalesce(Calories.x, Calories.y)) %>% 
+  select(-ends_with(".x"),-ends_with(".y"))
+
+```
+   
+I then merge the two weight record tables on id and assign as combined_weight.  
+   
+``` {r Full-Joining March and April weight record tables warning=FALSE}
+combined_weight <- march_weight %>% 
+  full_join(april_weight, by=c("Id","Date"))
+
+combined_weight <- combined_weight %>% 
+  mutate(
+    WeightKg = coalesce(WeightKg.x, WeightKg.y),
+    WeightPounds = coalesce(WeightPounds.x, WeightPounds.y),
+    Fat = coalesce(Fat.x, Fat.y),
+    BMI = coalesce(BMI.x, BMI.y),
+    IsManualReport = coalesce(IsManualReport.x, IsManualReport.y),
+    LogId = coalesce(LogId.x, LogId.y)
+  ) %>%
+  select(-ends_with(".x"), -ends_with(".y"))
+
+```
+   
+By creating a new table joining sleep data and master table with selected columns, I can analyze the possible relationship.   
+   
+``` {r Creating new table of sleep data with master table warning=FALSE}
+renamed_sleep <- april_daily_sleep %>% 
+  rename(ActivityDate = SleepDay)
+master_and_sleep <- combined_data %>% 
+  select(Id, ActivityDate, TotalSteps, SedentaryMinutes, Calories) %>% 
+  right_join(renamed_sleep, by=c("Id","ActivityDate"))
+
+```
+   
+Now that we have three tables intact, we can try to fix or even eliminate the problematic data.    
+   
+To fix the Issue ## 1, we have to identify the inactive participants.  
+   
+``` {r Identify the sedentary participants of the device warning=FALSE}
+combined_data %>% 
+  summarise(CountId = n_distinct(Id))
+combined_data %>% 
+  filter(Calories == 0) %>% 
+  select(Id, ActivityDate) %>% 
+  print(n=Inf)
+```
+   
+It seems like only 9 out of 1373 observations have 0 value in Calories. I assume this impact is minimal so I would like to remain these records in the table.  
+   
+``` {r 4020332650's Sleeping Data warning=FALSE}
+april_daily_sleep %>% 
+  filter(Id == 4020332650) %>% 
+  select(TotalMinutesAsleep) %>% 
+  print(n=Inf)
+```
+   
+   
+Now save them as csv files.   
+   
+``` {r Saving as csv files warning=FALSE}
+write.csv(combined_data, "combined_data.csv", row.names = FALSE)
+write.csv(combined_weight, "combined_weight.csv", row.names = FALSE)
+write.csv(master_and_sleep, "master_and_sleep.csv", row.names = FALSE)
+write.csv(april_daily_sleep, "april_daily_sleep.csv", row.names = FALSE)
+```
+Three tables are cleaned. We can progress to next phase: analysis.   
+
+- END of Data Cleaning Documentary -
