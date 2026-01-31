@@ -1,0 +1,23 @@
+# Web Scraping & Automation
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+lxml
+
+# Data Manipulation & Excel Handling
+pandas
+numpy
+openpyxl
+
+# Machine Learning & Analytics
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Environment Support
+ipykernel
+nbformat
