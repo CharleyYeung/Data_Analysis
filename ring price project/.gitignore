@@ -8,6 +8,7 @@ data/raw/*.xlsx
 data/processed/*.xlsx
 data/*.xlsx
 data/*.csv
+data/*.py
 
 modules/Scrape.ipynb
 modules/get_links.ipynb
