@@ -1,9 +1,9 @@
 # Jewelry Price Prediction: An End-to-End Data Pipeline
 
 ## Project Overview
-This project was born from a rigorous, real-world application in 2024: providing critical data support for my wife's **Bachelor’s degree final gemmology certification exam**. To assist her academic research and exam preparation, I initially developed a system for **automated web scraping, data cleaning, and market price analysis** to synthesize complex gemstone datasets.
+This project was born from a rigorous, real-world application in 2024: providing critical data support for my wife's **Bachelor’s degree final gemmology exam**. To assist her academic research and exam preparation, I initially developed a system for **automated web scraping, and data cleaning** to synthesize complex gemstone datasets.
 
-Following the successful completion of her degree, I re-engineered the project to showcase advanced data engineering principles. I transitioned the original scripts into a robust **End-to-End Pipeline**, implementing a systematic **migration from raw XLSX files to a structured SQLite database** and containerizing the entire environment with **Docker**. This evolution represents a shift from a functional study tool to a production-grade analytical framework. Excel (XLSX) to a structured SQLite database**, all containerized using **Docker** for seamless deployment and reproducibility.
+Following the successful completion of her degree, I re-engineered the project to showcase advanced data engineering principles and data analytics skills. I transitioned the original scripts into a robust **End-to-End Pipeline**, implementing a systematic **migration from raw XLSX files to a structured SQLite database** and containerizing the entire environment with **Docker**. This evolution represents a shift from a functional study tool to a production-grade analytical framework. Excel (XLSX) to a structured SQLite database**, all containerized using **Docker** for seamless deployment and reproducibility.
 
 ### Privacy and Data Integrity
 To comply with data privacy standards and respect source integrity:
