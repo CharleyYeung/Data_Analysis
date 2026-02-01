@@ -1,71 +1,96 @@
-# 💍 Jewelry Price Prediction: An End-to-End Data Pipeline
+# Jewelry Price Prediction: An End-to-End Data Pipeline
 
-## 📖 Project Origin: From Study Aid to Data Science
-This project began with a practical, personal mission: **supporting my wife's Gemmology exam**. 
+## Project Overview
+This project originated from a practical application: supporting gemmology certification studies by collecting real-world gemstone ring data. It has since evolved into a comprehensive Data Engineering and Machine Learning pipeline that automates the transition from raw web data to predictive analytics.
 
-Initially, I developed a web scraping program to extract real-world gemstone ring data to create study materials and practice tests for her certification. As the dataset grew, I recognized a unique opportunity to showcase my data engineering skills. I transformed the initial scraper into a full-scale **End-to-End Data Science Project**, bridging the gap between raw web data and predictive machine learning.
-
-> **Note on Privacy & Usage**: To comply with data usage limitations and privacy standards, certain sensitive files (configs, specific URLs, and credential logic) have been excluded. The dataset used in the final analysis has been anonymized.
-
----
-
-## 🏗️ The Data Pipeline
-The project follows a modular, production-grade data engineering workflow:
-
-1.  **Automated Collection**: A Selenium-based scraper navigates authenticated sessions to fetch dynamic jewelry listings from professional platforms.
-2.  **Modular Extraction**: A specialized `extractor` module uses **BeautifulSoup4** and **Regex** to transform messy HTML into structured data (extracting carats, dimensions, and alloy types from unstructured text).
-3.  **Data Cleaning**: Advanced preprocessing using **Pandas** to handle missing values, feature scaling, and categorical encoding.
-4.  **Predictive Modeling**: A regression analysis pipeline that interprets price fluctuations with high accuracy.
-
-
+### Privacy and Data Integrity
+To comply with data privacy standards and respect source integrity:
+* **Excluded Files**: Sensitive configurations, specific URLs, and authentication credentials are excluded from this repository.
+* **Pre-populated Database**: A cleaned SQLite database (`jewelry.db`) and a sample Excel file (`ring_details.xlsx`) are included in the Docker image and repository to allow immediate validation of the migration and regression models without requiring live scraping access.
+* **Defensive Design**: The system is designed to handle missing configuration files gracefully, allowing the analytical components to function even when the scraper module is inactive.
 
 ---
 
-## 📊 Key Results & Insights
-* **Model Performance**: The final regression model achieved an **$R^2$ score of 0.84**, demonstrating that the features extracted successfully explain 84% of the price variance.
-* **Feature Importance**: 
-    * **Guide Weight** and **Stone Size (Carat)** were identified as the strongest predictors of price.
-    * Specific setting styles (e.g., **Six Claw**) and high-grade alloys show a measurable price premium.
-* **Stability**: A minimal gap (**0.02**) between Validation and Test $R^2$ indicates a robust model that generalizes well to unseen data.
+## Data Pipeline Architecture
+The project follows a modular, production-grade workflow:
+
+1.  **Automated Collection**: A Selenium-based pipeline managing session persistence and dynamic content navigation.
+2.  **Modular Extraction**: A specialized extractor utilizing BeautifulSoup4 and Regular Expressions (Regex) to transform unstructured HTML text into structured numerical features (e.g., carats, dimensions, alloy types).
+3.  **Data Migration**: Automated migration scripts that handle data lineage from raw Excel exports to a structured SQL environment.
+4.  **Predictive Modeling**: A Scikit-Learn regression pipeline analyzing price variance through feature scaling and categorical encoding.
 
 
 
 ---
 
-## 🛠️ Tech Stack
-- **Automation**: Selenium, WebDriver Manager
-- **Parsing**: BeautifulSoup4 (BS4), Regex (Regular Expressions)
-- **Data Science**: Pandas, NumPy, Scikit-Learn
-- **Visualization**: Matplotlib, Seaborn
-- **Excel Engineering**: OpenPyXL (with image-to-cell embedding support)
+## Technical Performance and Insights
+* **Model Accuracy**: The regression model achieved an R-squared ($R^2$) score of 0.84, successfully explaining 84% of price variance.
+* **Generalization**: A minimal delta (0.02) between Validation and Test $R^2$ scores indicates high model stability and resistance to overfitting.
+* **Predictive Drivers**: Feature importance analysis identified Stone Size (Carat) and Guide Weight as the primary price determinants.
 
 ---
 
-## 📁 Repository Structure
-To maintain professional standards, the project is organized into a modular directory:
-
-- `main.py`: The entry point for the scraping and data collection pipeline.
-- `modules/`: Reusable logic for web automation (`scraper.py`) and data parsing (`extractor.py`).
-- `config/`: (Excluded from Git) Sensitive environment variables and URLs.
-- `notebooks/`: `pricing_regression.ipynb` - Exploratory Data Analysis (EDA) and ML modeling.
-- `data/`: Segregated into `raw/` and `processed/` folders to ensure data lineage and integrity.
-
----
-
-## 📈 Competencies Showcase
-Through this project, I demonstrated proficiency in:
-- **Complex Web Scraping**: Managing session persistence, dynamic content, and anti-detection.
-- **Regex for Feature Engineering**: Converting unstructured descriptive text into numerical features for machine learning.
-- **Modular Programming**: Writing decoupled, maintainable Python code following DRY (Don't Repeat Yourself) principles.
-- **Statistical Interpretation**: Not just building a model, but interpreting **Beta Coefficients** to derive real-world market insights.
+## Technology Stack
+* **Core Language**: Python 3.12
+* **Automation**: Selenium, WebDriver Manager
+* **Data Processing**: Pandas, NumPy, BeautifulSoup4, Regex
+* **Machine Learning**: Scikit-Learn, Scipy
+* **Visualization**: Matplotlib, Seaborn
+* **Containerization**: Docker, Docker Compose
 
 ---
 
-## ⚙️ Setup & Usage
-1.  Clone the repository.
-2.  Install dependencies:  
-    `pip install -r requirements.txt`
-3.  Run the pipeline:  
-    `python main.py`
-4.  Explore the analysis:  
-    Open `notebooks/pricing_regression.ipynb` in a Jupyter environment.
+## Repository Structure
+* `main.py`: Entry point for the data collection and migration pipeline.
+* `modules/`: Contains `scraper.py`, `extractor.py`, and `database.py` for decoupled logic.
+* `notebooks/`: `price_regression.ipynb` for Exploratory Data Analysis (EDA) and ML modeling.
+* `data/`: Directory for `jewelry.db` and sample Excel files for demonstration.
+* `docker-compose.yml`: Orchestration file for running the pipeline or analysis environments.
+
+---
+
+## Setup and Usage
+
+### Prerequisites
+* Docker and Docker Compose installed.
+* (Optional) Python 3.12+ for local execution.
+
+### Option 1: Using Docker (Recommended)
+The project is containerized to ensure environment consistency.
+
+**Run the Analysis Environment (Jupyter Lab)**
+This launches a Jupyter interface to explore the repository structure and run the regression model using the provided database.
+```bash
+docker-compose up analysis
+```
+
+Access via http://localhost:8888 (Token: demo)
+
+Run the Automated Pipeline Note: This requires a valid config/ directory (not provided in the public repo).
+
+```bash
+docker-compose run --rm pipeline
+```
+
+### Option 2: Local Installation
+1.  Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2.  Open notebooks/price_regression.ipynb to view the analysis.
+
+---
+
+## Competencies Demonstrated
+
+Feature Engineering: Utilizing Regex to extract numerical values from unstructured descriptive text.
+
+Defensive Programming: Implementing robust error handling (Try-Except blocks) to allow code execution even when optional configuration modules are absent.
+
+Modular Architecture: Adhering to DRY principles to create maintainable and testable code.
+
+Containerized Deployment: Using Docker orchestration to provide a ready-to-use analytical environment.
+
+
+---

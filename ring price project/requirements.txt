@@ -5,10 +5,11 @@ requests
 beautifulsoup4
 lxml
 
-# Data Manipulation & Excel Handling
+# Data Manipulation & Database + Excel Handling
 pandas
 numpy
 openpyxl
+
 
 # Machine Learning & Analytics
 scikit-learn
@@ -21,3 +22,4 @@ seaborn
 # Environment Support
 ipykernel
 nbformat
+jupyterlab
