@@ -1,0 +1,38 @@
+
+# 1. Sensitive Information
+
+config/
+.env
+secrets.json
+
+
+# 2. Data Files
+
+data/raw/ring_details.xlsx
+data/processed/*.xlsx
+data/processed/*.csv
+
+!data/raw/ring_details.xlsx
+!data/jewelry.db
+
+*.xlsx
+
+
+
+# 3. Development and Documentation Files
+
+*.html
+modules/*.ipynb
+notebooks/new_rings_collab.ipynb
+venv/
+.git/
+.gitignore
+
+
+# 4. System and Cache Files
+
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+migration.log

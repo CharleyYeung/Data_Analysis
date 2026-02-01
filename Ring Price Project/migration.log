@@ -1,0 +1,3 @@
+2026-02-01 00:16:38,873 - INFO - --- Starting Migration from: data/raw/ring_details.xlsx ---
+2026-02-01 00:16:39,222 - INFO - Successfully loaded 2303 rows from Excel.
+2026-02-01 00:16:39,264 - INFO - --- Migration Completed Successfully: 2303 records stored ---
