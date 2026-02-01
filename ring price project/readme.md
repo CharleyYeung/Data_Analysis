@@ -1,7 +1,9 @@
 # Jewelry Price Prediction: An End-to-End Data Pipeline
 
 ## Project Overview
-This project originated from a practical application: supporting gemmology certification studies by collecting real-world gemstone ring data. It has since evolved into a comprehensive Data Engineering and Machine Learning pipeline that automates the transition from raw web data to predictive analytics.
+This project originated from a real-world application in 2024: assisting my wife's preparation for her **Gemmology certification exam**. Initially, I developed a suite of scripts for **web scraping, data cleaning, and preliminary price analysis** to provide her with comprehensive study materials and market insights. 
+
+Following her successful certification, I decided to refine and professionalize the codebase into a production-grade **Data Engineering and Machine Learning pipeline**. The current iteration features a modular architecture that manages the complete data lifecycle—from raw web extraction to **automated migration from Excel (XLSX) to a structured SQLite database**, all containerized using **Docker** for seamless deployment and reproducibility.
 
 ### Privacy and Data Integrity
 To comply with data privacy standards and respect source integrity:
