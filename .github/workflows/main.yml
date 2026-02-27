@@ -28,7 +28,7 @@ jobs:
       - name: Sync to S3
         uses: jakejarvis/s3-sync-action@master
         with:
-          args: --exclude ".DS_Store"
+          args: --delete
         env:
           AWS_S3_BUCKET: "cloudy-weather-center-intimate-dogfish"
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
