@@ -1,32 +1,7 @@
-name: Scheduled Weather ETL
-
-on:
-  schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
-
+name: test
+on: workflow_dispatch
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.9"
-
-      - name: Run ETL
-        run: python etl/transform.py
-
-      - name: Sync to S3
-        uses: jakejarvis/s3-sync-action@master
-        with:
-          args: --exclude ".DS_Store"
-        env:
-          AWS_S3_BUCKET: "cloudy-weather-center-intimate-dogfish"
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: "eu-west-2"
-          SOURCE_DIR: "src"
+      - run: echo "hello"
