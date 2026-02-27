@@ -25,13 +25,13 @@ jobs:
         working-directory: "./AWS workshop"
         run: python etl/transform.py
 
-      - name: Sync to S3
-        uses: jakejarvis/s3-sync-action@master
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v2
         with:
-          args: --delete
-        env:
-          AWS_S3_BUCKET: "cloudy-weather-center-intimate-dogfish"
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: "eu-west-2"
-          SOURCE_DIR: "AWS workshop/src"
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-west-2
+
+      - name: Sync to S3
+        run: |
+          aws s3 sync "AWS workshop/src" s3://cloudy-weather-center-intimate-dogfish --delete
