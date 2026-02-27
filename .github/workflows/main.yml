@@ -17,8 +17,13 @@ jobs:
         with:
           python-version: "3.9"
 
+      - name: Install dependencies
+        run: |
+          pip install requests
+
       - name: Run ETL
-        run: python "AWS workshop/etl/transform.py"
+        working-directory: "./AWS workshop"
+        run: python etl/transform.py
 
       - name: Sync to S3
         uses: jakejarvis/s3-sync-action@master
