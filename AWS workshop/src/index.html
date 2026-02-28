@@ -103,7 +103,8 @@
                 cityListElement.innerHTML = '';
 
                 if (data.length > 0) {
-                    updateBanner.innerText = `Last Updated: ${data[0].date}`;
+                    const lastUpdated = data[0].last_updated_utc || data[0].date;
+                    updateBanner.innerText = `Last Updated: ${lastUpdated} (UTC)`;
                 }
 
                 data.forEach((item) => {
