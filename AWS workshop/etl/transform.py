@@ -1,10 +1,9 @@
 import requests
 import json
 import sqlite3
-from datetime import datetime
+from datetime import datetime, timezone
 
 def run_etl():
-    # Define city coordinates for data extraction
     cities = {
         "Tokyo": {"lat": 35.6895, "lon": 139.6917},
         "London": {"lat": 51.5074, "lon": -0.1278},
@@ -12,10 +11,11 @@ def run_etl():
         "New York": {"lat": 40.7128, "lon": -74.0060},
         "Vancouver": {"lat": 49.2827, "lon": -123.1207},
         "Sydney": {"lat": -33.8688, "lon": 151.2093},
-        "Bangkok": {"lat": 13.7563, "lon": 100.5018}  # Added Bangkok
+        "Bangkok": {"lat": 13.7563, "lon": 100.5018}
     }
     
     raw_results = []
+    current_utc_time = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
 
     for city, coord in cities.items():
         try:
@@ -25,22 +25,15 @@ def run_etl():
             data = response.json()
             
             current_weather = data['current_weather']
-            # Temporarily store raw data for SQL staging
             raw_results.append((city, current_weather['temperature'], current_weather['time']))
         except Exception as e:
             print(f"Failed to fetch data for {city}: {e}")
 
-    # Initialize in-memory SQLite database
     with sqlite3.connect(':memory:') as conn:
         cursor = conn.cursor()
-        
-        # Create staging table
         cursor.execute('CREATE TABLE weather_staging (city TEXT, temp REAL, raw_time TEXT)')
-        
-        # Load raw data
         cursor.executemany('INSERT INTO weather_staging VALUES (?, ?, ?)', raw_results)
         
-        # Transform data
         query = """
         SELECT 
             city, temp, 
@@ -56,7 +49,6 @@ def run_etl():
     for row in transformed_rows:
         city, temp, full_timestamp, date_string = row
         
-        # Business Logic: Determine Cloudy's status based on temperature
         if temp < 15:
             cat_status = "Cloudy is snuggling in the blankets on the bed."
         elif 15 <= temp <= 25:
@@ -69,7 +61,8 @@ def run_etl():
             "temperature": f"{temp}°C",
             "date": date_string,
             "timestamp": full_timestamp,
-            "status": cat_status
+            "status": cat_status,
+            "last_updated_utc": current_utc_time
         })
 
     output_path = 'src/data/weather_data.json'

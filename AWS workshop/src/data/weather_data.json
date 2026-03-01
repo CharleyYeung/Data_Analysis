@@ -1,51 +1,58 @@
 [
     {
         "city": "Tokyo",
-        "temperature": "8.5\u00b0C",
-        "date": "2026-02-27",
-        "timestamp": "2026-02-27 17:45",
-        "status": "Cloudy is snuggling in the blankets on the bed."
+        "temperature": "9.1\u00b0C",
+        "date": "2026-03-01",
+        "timestamp": "2026-03-01 13:45",
+        "status": "Cloudy is snuggling in the blankets on the bed.",
+        "last_updated_utc": "2026-03-01 13:55:18"
     },
     {
         "city": "London",
-        "temperature": "12.7\u00b0C",
-        "date": "2026-02-27",
-        "timestamp": "2026-02-27 17:45",
-        "status": "Cloudy is snuggling in the blankets on the bed."
+        "temperature": "11.5\u00b0C",
+        "date": "2026-03-01",
+        "timestamp": "2026-03-01 13:45",
+        "status": "Cloudy is snuggling in the blankets on the bed.",
+        "last_updated_utc": "2026-03-01 13:55:18"
     },
     {
         "city": "Hong Kong",
-        "temperature": "22.1\u00b0C",
-        "date": "2026-02-27",
-        "timestamp": "2026-02-27 17:45",
-        "status": "Cloudy feels comfy!"
+        "temperature": "21.4\u00b0C",
+        "date": "2026-03-01",
+        "timestamp": "2026-03-01 13:45",
+        "status": "Cloudy feels comfy!",
+        "last_updated_utc": "2026-03-01 13:55:18"
     },
     {
         "city": "New York",
-        "temperature": "3.3\u00b0C",
-        "date": "2026-02-27",
-        "timestamp": "2026-02-27 17:45",
-        "status": "Cloudy is snuggling in the blankets on the bed."
+        "temperature": "1.5\u00b0C",
+        "date": "2026-03-01",
+        "timestamp": "2026-03-01 13:45",
+        "status": "Cloudy is snuggling in the blankets on the bed.",
+        "last_updated_utc": "2026-03-01 13:55:18"
     },
     {
         "city": "Vancouver",
-        "temperature": "8.1\u00b0C",
-        "date": "2026-02-27",
-        "timestamp": "2026-02-27 17:45",
-        "status": "Cloudy is snuggling in the blankets on the bed."
+        "temperature": "1.5\u00b0C",
+        "date": "2026-03-01",
+        "timestamp": "2026-03-01 13:45",
+        "status": "Cloudy is snuggling in the blankets on the bed.",
+        "last_updated_utc": "2026-03-01 13:55:18"
     },
     {
         "city": "Sydney",
-        "temperature": "18.3\u00b0C",
-        "date": "2026-02-27",
-        "timestamp": "2026-02-27 17:45",
-        "status": "Cloudy feels comfy!"
+        "temperature": "20.8\u00b0C",
+        "date": "2026-03-01",
+        "timestamp": "2026-03-01 13:45",
+        "status": "Cloudy feels comfy!",
+        "last_updated_utc": "2026-03-01 13:55:18"
     },
     {
         "city": "Bangkok",
-        "temperature": "26.2\u00b0C",
-        "date": "2026-02-27",
-        "timestamp": "2026-02-27 17:45",
-        "status": "Cloudy is sticking his tongue out to cool down."
+        "temperature": "28.5\u00b0C",
+        "date": "2026-03-01",
+        "timestamp": "2026-03-01 13:45",
+        "status": "Cloudy is sticking his tongue out to cool down.",
+        "last_updated_utc": "2026-03-01 13:55:18"
     }
 ]
