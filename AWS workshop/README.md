@@ -3,7 +3,7 @@
 An automated weather monitoring dashboard. This project demonstrates a full data pipeline including API data extraction, SQL-based transformation, and cloud-native deployment via Infrastructure as Code (IaC).
 
 ## Live Demo
-  [Cloudy's Weather Center](http://cloudy-weather-center-intimate-dogfish.s3-website.eu-west-2.amazonaws.com/)
+  [Cloudy's Weather Center](https://cloudy-weather-center-intimate-dogfish.s3.eu-west-2.amazonaws.com/index.html)
 
 ## Architecture
 - **Data Source**: Open-Meteo API
