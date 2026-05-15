@@ -1,0 +1,50 @@
+# VS Code & Python Runtime Adjustments
+
+**/__pycache__/
+*.pyc
+
+
+# Airflow & Docker Local Runtime Files
+
+logs/
+plugins/
+.env
+
+# Ignore SQLite or metadata DBs generated locally (if any)
+
+*.db
+*.sqlite
+
+
+# Data & Credential Artifacts (Crucial for Security)
+
+*.json
+*.csv
+*.xlsx
+.aws/
+credentials*
+*.pfx
+*.key
+
+
+# macOS System Garbage Files
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.Trashes
+
+
+# IDE & Environment Configs
+
+.vscode/
+.idea/
+.venv/
+env/
+venv/
+ENV/
+config/
