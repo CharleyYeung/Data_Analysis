@@ -2,22 +2,24 @@ name: TfL Realtime Tracker Daemon
 
 on:
   schedule:
-    # EVERY 15 MINUTES, EXCEPT 2-4AM (MAINTENANCE WINDOW)
     - cron: "*/15 0-1,5-23 * * *"
-  workflow_dispatch: # ALLOW MANUAL TRIGGERING OF THE WORKFLOW
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   refresh-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ALLOW THE BOT TO PUSH CHANGES BACK TO THE REPOSITORY
+      contents: write
 
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/checkout@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
