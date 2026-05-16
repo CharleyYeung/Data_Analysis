@@ -5,14 +5,16 @@ import requests
 def fetch_and_save_tfl_status():
     # GET API KEY FROM ENVIRONMENT VARIABLE
     tfl_key = os.environ.get("TFL_APP_KEY")
+
+    modes = "tube,elizabeth-line,overground,dlr,tram"
     
     # URL DECISION: IF KEY EXISTS, USE IT; OTHERWISE, USE PUBLIC API
     if tfl_key:
-        print(" Detecting TFL_APP_KEY, fetching with credentials...")
-        url = f"https://api.tfl.gov.uk/line/mode/tube/status?app_key={tfl_key}"
+        print("🔑 Detecting TFL_APP_KEY, fetching with credentials...")
+        url = f"https://api.tfl.gov.uk/line/mode/{modes}/status?app_key={tfl_key}"
     else:
-        print(" No API key detected. Fetching via Public Anonymous API...")
-        url = "https://api.tfl.gov.uk/line/mode/tube/status"
+        print("🌐 No API key detected. Fetching via Public Anonymous API...")
+        url = f"https://api.tfl.gov.uk/line/mode/{modes}/status"
         
     try:
         response = requests.get(url, timeout=10)
