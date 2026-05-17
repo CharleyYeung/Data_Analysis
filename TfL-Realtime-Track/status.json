@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "ELIZABETH LINE: Sunday 17 May, until 0740, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway. In addition the 2345 Saturday evening GWR Didcot Parkway to Paddington train terminates at Ealing Broadway and does not call at Burnham. The 0034 GWR Paddington to Reading train will not call at Burnham. For Burnham, use connecting buses to/from Slough."
+        "reason": "No service between Paddington and Heathrow Terminals / Reading due to a late finish of engineering work. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Sunday 17 May, from 0625 and every 15 minutes, additional trains will run in both directions between Camden Road and Stratford for travel to the Hackney Half Marathon. Please note that Homerton station will be closed eastbound until 1100."
     },
     "Northern": {
         "is_disrupted": false,
