@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Edgware while we respond to a fire alert at Belsize Park. NO SERVICE between Charing Cross and Battersea Power Station while we respond to a fire alert at Kennington. London Underground tickets will be accepted on London buses. GOOD service on the rest of the line. "
+        "reason": "Northern Line: Minor delays due to earlier fire alerts.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
