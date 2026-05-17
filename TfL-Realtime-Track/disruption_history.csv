@@ -1,1 +1,7 @@
-timestamp,line_name,status_description,is_disrupted
+timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,CENTRAL LINE: Saturday 16 May  from 0515 and all day Sunday 17 May  including Saturday Night Tube  no service between Marble Arch and Leytonstone. Replacement bus service CL5 operates between Stratford City Bus Station (for Stratford) and Leytonstone via Leyton.,True
+2026-05-17 14:44:22,DLR,DOCKLANDS LIGHT RAILWAY: Sunday 17 May  no service between Shadwell and Tower Gateway.,True
+2026-05-17 14:44:22,Jubilee,Jubilee Line: Minor delays between Wembley Park and Stanmore while we fix a faulty train at Stanmore. GOOD SERVICE on the rest of the line. ,True
+2026-05-17 14:44:22,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next southbound train will be at 16:00. GOOD SERVICE on the rest of the line. ,True
+2026-05-17 14:44:22,Mildmay,Mildmay Line: Severe delays due to an earlier person ill on a train at Hackney Central. ,True
+2026-05-17 14:44:22,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-05-17 14:44:22,Windrush,WINDRUSH LINE: Sunday 17 May  no service between New Cross Gate and West Croydon / Crystal Palace. There will also be no SOUTHERN services between London Bridge and Crystal Palace / Norwood Junction via Forest Hill. Use local London Buses services for Penge West and Anerley  and connecting Southern services between Crystal Palace  Norwood Junction and East Croydon. Replacement buses operate between New Cross Gate and Crystal Palace via Brockley  Honor Oak Park  Forest Hill and Sydenham.,True
