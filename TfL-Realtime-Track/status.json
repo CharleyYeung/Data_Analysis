@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 17 May, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Airport/Reading while we fix a signal failure at West Ealing. GOOD service on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between South Acton and Richmond / Shepherd's Bush and Clapham Junction while we help a person ill on a train. SEVERE DELAYS on the rest of the line. "
+        "reason": "Mildmay Line: Minor delays due to an earlier customer incident.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -60,8 +60,8 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: No service between Wandle Park and Reeves Corner while we help a person ill on a tram. GOOD SERVICE on the rest of the line. "
     },
     "Victoria": {
         "is_disrupted": false,
