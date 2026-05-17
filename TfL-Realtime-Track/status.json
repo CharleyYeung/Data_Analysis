@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Abbey Wood due to a person ill on a train earlier at Tottenham Court Road. GOOD SERVICE on the rest of the line. "
+        "reason": "Minor delays between Paddington and Heathrow Airport/Reading while we fix a signal failure at West Ealing. GOOD service on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between South Acton and Richmond / Shepherd's Bush and Clapham Junction while we help a person ill on a train. SEVERE DELAYS on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
