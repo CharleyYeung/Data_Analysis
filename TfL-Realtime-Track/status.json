@@ -17,11 +17,11 @@
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Friday 15 and Saturday 16 May, from 2330 each evening, no service on the entire network"
+        "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 17 May, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "ELIZABETH LINE: Sunday 17 May, until 0740, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway. In addition the 2345 Saturday evening GWR Didcot Parkway to Paddington train terminates at Ealing Broadway and does not call at Burnham. The 0034 GWR Paddington to Reading train will not call at Burnham. For Burnham, use connecting buses to/from Slough."
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WINDRUSH LINE: Sunday 17 May, no service between New Cross Gate and West Croydon / Crystal Palace. There will also be no SOUTHERN services between London Bridge and Crystal Palace / Norwood Junction via Forest Hill. Use local London Buses services for Penge West and Anerley, and connecting Southern services between Crystal Palace, Norwood Junction and East Croydon. Replacement buses operate between New Cross Gate and Crystal Palace via Brockley, Honor Oak Park, Forest Hill and Sydenham."
     }
 }
