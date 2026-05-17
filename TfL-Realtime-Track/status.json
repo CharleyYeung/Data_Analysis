@@ -20,16 +20,16 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 17 May, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Paddington and Heathrow Airport/Reading while we fix a signal failure at West Ealing. GOOD service on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays between Wembley Park and Stanmore while we fix a faulty train at Stanmore. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next southbound train will be at 16:00. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to an earlier person ill on a train at Hackney Central. "
+        "reason": "Mildmay Line: No service between South Acton and Richmond / Shepherd's Bush and Clapham Junction while we help a person ill on a train. SEVERE DELAYS on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
