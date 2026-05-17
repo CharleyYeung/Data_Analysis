@@ -39,5 +39,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add TfL-Realtime-Track/status.json
+          git add TfL-Realtime-Track/status.json TfL-Realtime-Track/disruption_history.csv
           git diff-index --quiet HEAD || (git commit -m "🤖 Automatically updated TfL live status" && git push)
