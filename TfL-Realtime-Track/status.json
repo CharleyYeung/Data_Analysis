@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 17 May, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminals / Reading  following a late finish of engineering work. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 17 May, from 0625 and every 15 minutes, additional trains will run in both directions between Camden Road and Stratford for travel to the Hackney Half Marathon. Please note that Homerton station will be closed eastbound until 1100."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
