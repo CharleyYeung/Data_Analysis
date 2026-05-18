@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "DOCKLANDS LIGHT RAILWAY: Monday 18 and Tuesday 19 May, from 2330 each evening, no service on the entire network"
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -36,24 +36,24 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Monday 18, Tuesday 19, Wednesday 20 and Thursday 21 May, the 2345 Euston to Watford Junction train will not run."
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to a faulty train at Rayners Lane. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Monday 18, Tuesday 19, Wednesday 20 and Thursday 21 May, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
         "reason": "NORTHERN LINE: From Monday 12 January to Thursday 28 May, on Monday to Thursday evenings (including Bank Holidays, but not Thursday 2 April), after 2200 each evening, no service between Kennington and Camden Town (via Bank). All trains operate via Charing Cross, and the Mill Hill East service operates as a shuttle service between Finchley Central and Mill Hill East"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Rayners Lane while we fix a faulty train at Rayners Lane. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
