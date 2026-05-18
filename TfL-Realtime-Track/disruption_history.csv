@@ -77,3 +77,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-18 01:36:02,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-05-18 10:11:03,Northern,Northern Line: No Service between Kennington and Moorgate northbound only while we fix a faulty train at Borough. Tickets will be accepted on London Buses and Thameslink services via any reasonable route. MINOR DELAYS on the rest of the line. ,True
 2026-05-18 10:11:03,Victoria,Victoria Line: Minor delays due to an earlier faulty train at Highbury & Islington. ,True
+2026-05-18 14:00:49,Northern,Northern Line: No Service between Moorgate and Morden via Bank while we fix faulty trains at Borough and at Oval. Tickets will be accepted on London Buses  London Trams  Southeastern  Thameslink and South Western Railway services via any reasonable route. SEVERE DELAYS on the rest of the line. ,True
+2026-05-18 14:00:49,Victoria,Victoria Line: Minor delays due to an earlier faulty train at King's Cross St. Pancras.  ,True
