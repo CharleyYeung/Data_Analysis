@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No Service between Kennington and Moorgate northbound only while we fix a faulty train at Borough. Tickets will be accepted on London Buses and Thameslink services via any reasonable route. MINOR DELAYS on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to an earlier faulty train at Highbury & Islington. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
