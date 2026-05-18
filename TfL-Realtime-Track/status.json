@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays Anticlockwise only due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "District": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No Service between Moorgate and Morden via Bank while we fix faulty trains at Borough and at Oval. Tickets will be accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route. SEVERE DELAYS on the rest of the line. "
+        "reason": "Northern Line: Severe delays due to earlier faulty trains at Borough and at Oval. Tickets will be accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier faulty train at King's Cross St. Pancras.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
