@@ -44,12 +44,12 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Monday 18, Tuesday 19, Wednesday 20 and Thursday 21 May, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction."
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to earlier faulty trains at Borough and at Oval. "
+        "reason": "NORTHERN LINE: From Monday 12 January to Thursday 28 May, on Monday to Thursday evenings (including Bank Holidays, but not Thursday 2 April), after 2200 each evening, no service between Kennington and Camden Town (via Bank). All trains operate via Charing Cross, and the Mill Hill East service operates as a shuttle service between Finchley Central and Mill Hill East"
     },
     "Piccadilly": {
         "is_disrupted": false,
