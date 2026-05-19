@@ -107,3 +107,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-19 17:24:54,Central,Central Line: Minor delays due to train cancellations  ,True
 2026-05-19 17:24:54,Circle,Circle Line: Minor delays due to train cancellations. ,True
 2026-05-19 17:24:54,District,District Line: Severe delays between Barking and Upminster due to an earlier points failure at West Ham. GOOD SERVICE on the rest of the line ,True
+2026-05-19 19:24:59,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-05-19 19:24:59,Elizabeth line,Severe delays between Paddington and Heathrow Terminals / Reading while we fix a track fault at West Ealing. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. ,True
