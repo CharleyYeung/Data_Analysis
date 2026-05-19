@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and MINOR DELAYS between Leytonstone and Epping/Woodford via Hainault due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between New Cross and Surrey Quays, and SEVERE DELAYS between Surrey Quays and Clapham Junction due to an earlier fire alert at Dalston Junction. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: No service between New Cross and Surrey Quays, and SEVERE DELAYS between Surrey Quays and Clapham Junction due to an earlier fire alert at Dalston Junction. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     }
 }
