@@ -100,3 +100,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-19 08:24:17,Central,Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip  and MINOR DELAYS between Leytonstone and Epping/Woodford via Hainault due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-05-19 08:24:17,Windrush,Windrush Line: No service between New Cross and Surrey Quays  and SEVERE DELAYS between Surrey Quays and Clapham Junction due to an earlier fire alert at Dalston Junction. GOOD SERVICE on the rest of the line. ,True
 2026-05-19 11:38:22,Windrush,Windrush Line: No service between New Cross and Surrey Quays  and SEVERE DELAYS between Surrey Quays and Clapham Junction due to an earlier fire alert at Dalston Junction. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-05-19 14:15:46,Circle,Circle Line: Severe delays due to an earlier points failure at West Ham. Tickets are being accepted on London Buses via any reasonable route. ,True
+2026-05-19 14:15:46,District,District Line: Severe delays due to an earlier points failure at West Ham. London Buses  Elizabeth line and C2C are accepting valid tickets via any reasonable route. ,True
+2026-05-19 14:15:46,Elizabeth line,Severe delays due to earlier faulty communications equipment.  ,True
+2026-05-19 14:15:46,Hammersmith & City,Hammersmith and City Line: No service while we fix a points failure at West Ham. London Buses and C2C are accepting valid tickets via any reasonable route.  ,True

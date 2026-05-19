@@ -8,24 +8,24 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to an earlier points failure at West Ham. Tickets are being accepted on London Buses via any reasonable route. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays due to an earlier points failure at West Ham. London Buses, Elizabeth line and C2C are accepting valid tickets via any reasonable route. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays due to earlier faulty communications equipment.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: No service while we fix a points failure at West Ham. London Buses and C2C are accepting valid tickets via any reasonable route.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between New Cross and Surrey Quays, and SEVERE DELAYS between Surrey Quays and Clapham Junction due to an earlier fire alert at Dalston Junction. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
