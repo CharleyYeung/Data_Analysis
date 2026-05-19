@@ -104,3 +104,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-19 14:15:46,District,District Line: Severe delays due to an earlier points failure at West Ham. London Buses  Elizabeth line and C2C are accepting valid tickets via any reasonable route. ,True
 2026-05-19 14:15:46,Elizabeth line,Severe delays due to earlier faulty communications equipment.  ,True
 2026-05-19 14:15:46,Hammersmith & City,Hammersmith and City Line: No service while we fix a points failure at West Ham. London Buses and C2C are accepting valid tickets via any reasonable route.  ,True
+2026-05-19 17:24:54,Central,Central Line: Minor delays due to train cancellations  ,True
+2026-05-19 17:24:54,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-05-19 17:24:54,District,District Line: Severe delays between Barking and Upminster due to an earlier points failure at West Ham. GOOD SERVICE on the rest of the line ,True
