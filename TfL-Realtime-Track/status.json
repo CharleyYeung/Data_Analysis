@@ -17,7 +17,7 @@
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Monday 18 and Tuesday 19 May, from 2330 each evening, no service on the entire network"
+        "reason": "Docklands Light Railway: Minor delays while we fix a track fault at Beckton.  "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -36,20 +36,20 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Tuesday 19, Wednesday 20, Thursday 21 and Friday 22 May, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to a faulty train at Rayners Lane. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
-    },
-    "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Northern": {
+    "Mildmay": {
         "is_disrupted": true,
-        "reason": "NORTHERN LINE: From Monday 12 January to Thursday 28 May, on Monday to Thursday evenings (including Bank Holidays, but not Thursday 2 April), after 2200 each evening, no service between Kennington and Camden Town (via Bank). All trains operate via Charing Cross, and the Mill Hill East service operates as a shuttle service between Finchley Central and Mill Hill East"
+        "reason": "MILDMAY LINE: Tuesday 19, Wednesday 20, Thursday 21 and Friday 22 May, until 0615, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743."
+    },
+    "Northern": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": false,
