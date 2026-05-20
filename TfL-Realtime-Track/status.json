@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to an earlier signal failure at Wimbledon. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Turnham Green and Richmond / Ealing Broadway due to an earlier signal system failure.  GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge/ Heathrow Terminals and Arnos Grove and Cockfosters due to an earlier signal system failure. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
