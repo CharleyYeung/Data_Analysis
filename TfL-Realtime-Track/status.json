@@ -12,16 +12,16 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Turnham Green and Richmond / Ealing Broadway due to an earlier signal system failure.  GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minors delays between Paddington and Heathrow Airport/Reading while we fix a signal failure at Southall. GOOD service on the rest of the line.\r\n\r\n "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,16 +44,16 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays between Willesden Junction and Clapham Junction while we fix a track fault at Clapham Junction. GOOD SERVICE on the rest of the line "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge/ Heathrow Terminals and Arnos Grove and Cockfosters due to an earlier signal system failure. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
