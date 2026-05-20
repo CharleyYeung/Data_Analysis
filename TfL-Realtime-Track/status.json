@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to an earlier signal failure at Wimbledon. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -56,12 +56,12 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Tuesday 19, Wednesday 20, Thursday 21 and Friday 22 May, the 0548 train from Barking Riverside to Gospel Oak and the 0624 train from Gospel Oak to Barking Riverside will not run"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Minor delays between East Croydon and New Addington/Elmers End/Beckenham Junction due to emergency engineering works. GOOD SERVICE on all other trams routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
