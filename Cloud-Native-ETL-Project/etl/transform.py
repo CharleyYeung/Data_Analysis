@@ -65,7 +65,7 @@ def run_etl():
             "last_updated_utc": current_utc_time
         })
 
-    output_path = 'src/data/weather_data.json'
+    output_path = 'Cloud-Native-ETL-Project/src/data/weather_data.json'
     with open(output_path, 'w') as f:
         json.dump(final_json, f, indent=4)
     
