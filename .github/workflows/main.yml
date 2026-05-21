@@ -34,4 +34,4 @@ jobs:
 
       - name: Sync to S3
         run: |
-          aws s3 sync "AWS workshop/src" s3://cloudy-weather-center-intimate-dogfish --delete
+          aws s3 sync "Cloud-Native-ETL-Project/src" s3://cloudy-weather-center-intimate-dogfish --delete
