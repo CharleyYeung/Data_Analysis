@@ -22,7 +22,7 @@ jobs:
           pip install requests
 
       - name: Run ETL
-        working-directory: "./AWS workshop"
+        working-directory: "./Cloud-Native-ETL-Project"
         run: python etl/transform.py
 
       - name: Configure AWS Credentials
