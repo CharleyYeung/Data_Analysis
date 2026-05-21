@@ -22,8 +22,8 @@ jobs:
           pip install requests
 
       - name: Run ETL
-        working-directory: "/Cloud-Native-ETL-Project"
-        run: python etl/transform.py
+        working-directory: ""
+        run: python Cloud-Native-ETL-Project/etl/transform.py
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v2
