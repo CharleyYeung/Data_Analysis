@@ -174,3 +174,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-21 12:34:02,Windrush,Windrush Line: Minor delays while we fix a signal failure at Haggerston.  ,True
 2026-05-21 16:01:41,Central,Central Line: Minor delays due train cancellations. ,True
 2026-05-21 20:11:12,District,District Line: Severe delays between Edgware Road and Wimbledon while we fix a signal failure at Wimbledon Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and South Western Railway. Customers are advised to take the first service and change where possible. ,True
+2026-05-21 21:47:49,Circle,Circle Line: Severe delays anticlockwise while we fix a faulty train ,True
+2026-05-21 21:47:49,District,District Line: Severe delays between Edgware Road and Wimbledon while we fix a signal failure at Wimbledon Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and South Western Railway. Customers are advised to take the first service and change where possible. ,True
+2026-05-21 21:47:49,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations  ,True
+2026-05-21 21:47:49,Mildmay,MILDMAY LINE: Monday 18  Tuesday 19  Wednesday 20 and Thursday 21 May  the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.,True
+2026-05-21 21:47:49,Northern,NORTHERN LINE: From Monday 12 January to Thursday 28 May  on Monday to Thursday evenings (including Bank Holidays  but not Thursday 2 April)  after 2200 each evening  no service between Kennington and Camden Town (via Bank). All trains operate via Charing Cross  and the Mill Hill East service operates as a shuttle service between Finchley Central and Mill Hill East,True
