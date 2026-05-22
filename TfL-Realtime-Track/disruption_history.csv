@@ -192,3 +192,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-22 04:37:29,Waterloo & City,Waterloo and City Line: Service will resume at 0600 ,True
 2026-05-22 08:19:52,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-05-22 08:19:52,Elizabeth line,Severe delays due to an earlier signal fault at Liverpool Street. London Underground are accepting tickets via any reasonable route. ,True
+2026-05-22 11:23:04,District,District Line: No service between Wimbledon and Wimbledon Park  and MINOR DELAYS between Earl's Court and Wimbledon Park while we fix a signal failure at Wimbledon Park. Tickets are being accepted on London Buses and South Western Railway services. GOOD SERVICE on the rest of the line. ,True
+2026-05-22 11:23:04,Elizabeth line,Minor delays between Hayes & Harlington and Reading due to an earlier signal failure at Maidenhead. GOOD SERVICE on the rest of the line. ,True
