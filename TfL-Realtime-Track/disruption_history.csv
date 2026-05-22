@@ -205,3 +205,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-22 16:07:40,Hammersmith & City,Hammersmith and City Line: Minor delays between Liverpool Street and Barking due to a points failure at Upminster. GOOD service on the rest of the line.  ,True
 2026-05-22 16:07:40,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
 2026-05-22 16:07:40,Northern,Northern Line: Severe delays due to an earlier points failure at Golders Green. London Buses are accepting valid tickets via any reasonable route. ,True
+2026-05-22 18:03:59,Central,Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and between White City and Ealing Broadway/West Ruislip due to train cancellations. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses  Elizabeth line and Great Western Railway via any reasonable route. ,True
+2026-05-22 18:03:59,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-05-22 18:03:59,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a points failure at Baker Street. GOOD SERVICE on the rest of the line. ,True
+2026-05-22 18:03:59,Mildmay,Mildmay Line: Severe delays due to train cancellations. ,True
+2026-05-22 18:03:59,Northern,Northern Line: Minor delays due to an earlier points failure at Golders Green. ,True
