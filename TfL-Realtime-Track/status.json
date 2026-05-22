@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between South Acton and Richmond due to train cancellations. SEVERE delays on the rest of the line. "
+        "reason": "Mildmay Line: Severe delays between South Acton and Richmond due to train cancellations. MINOR DELAYS on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,

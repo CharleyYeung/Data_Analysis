@@ -213,3 +213,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-22 20:09:36,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-05-22 20:09:36,Circle,Circle Line: Minor delays due to train cancellations. ,True
 2026-05-22 20:09:36,Mildmay,Mildmay Line: No service between South Acton and Richmond due to train cancellations. SEVERE delays on the rest of the line. ,True
+2026-05-22 21:35:30,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-05-22 21:35:30,Mildmay,Mildmay Line: Severe delays between South Acton and Richmond due to train cancellations. MINOR DELAYS on the rest of the line. ,True
