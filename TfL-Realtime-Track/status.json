@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park and between White City and Ealing Broadway/West Ruislip due to train cancellations. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses, Elizabeth line and Great Western Railway via any reasonable route. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -40,16 +40,16 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a points failure at Baker Street. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. "
+        "reason": "Mildmay Line: No service between South Acton and Richmond due to train cancellations. SEVERE delays on the rest of the line. "
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier points failure at Golders Green. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": false,
