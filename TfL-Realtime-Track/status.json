@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park. SEVERE delays between White City and Ealing Broadway/West Ruislip due to train cancellations. MINOR delays on the rest of the line. Tickets will be accepted on London Buses, Elizabeth line and Great Western Railway via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,19 +13,19 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Dagenham East and Upminster and MINOR DELAYS between Barking and Dagenham East due to a points failure at Upminster. London Buses and C2C are accepting tickets. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Barking and Upminster due to a points failure at Upminster. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Bank and Lewisham while we fix a faulty at Crossharbour. GOOD SERVICE on the rest of the line. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Whitechapel and Shenfield while we fix a fault with the signalling system at Seven Kings. London Underground will accept tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking while we fix a points failure at Upminster. GOOD service on the rest of the line.  "
+        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking due to a points failure at Upminster. GOOD service on the rest of the line.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -44,12 +44,12 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Kennington and Battersea Power Station due to an earlier person ill on a train at Camden Town. MINOR DELAYS on the rest of the line. London Buses are accepting valid tickets via any reasonable route. "
+        "reason": "Northern Line: Severe delays due to an earlier points failure at Golders Green. London Buses are accepting valid tickets via any reasonable route. "
     },
     "Piccadilly": {
         "is_disrupted": false,
