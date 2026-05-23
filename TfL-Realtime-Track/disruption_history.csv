@@ -320,3 +320,15 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-23 19:37:46,Piccadilly,PICCADILLY LINE: Saturday 23 May  from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May  including Saturday Night Tube  no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
 2026-05-23 19:37:46,Victoria,Victoria Line: Minor delays due to an earlier customer incident.  ,True
 2026-05-23 19:37:46,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-05-23 20:30:38,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-05-23 20:30:38,Circle,Circle Line: Severe delays due to train cancellations. ,True
+2026-05-23 20:30:38,District,DISTRICT LINE: Saturday 23  Sunday 24 and Bank Holiday Monday 25 May  no service between Earls Court and Ealing Broadway / Richmond. Please use MILDMAY LINE services where available between Gunnersbury  Kew Gardens and Richmond. Replacement buses operate.,True
+2026-05-23 20:30:38,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 23  Sunday 24 and Bank Holiday Monday 25 May  no service between Westferry / Poplar and Lewisham. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate.,True
+2026-05-23 20:30:38,Elizabeth line,Severe delays between Paddington and Heathrow Terminals while we fix a signal fault in the Southall area. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. ,True
+2026-05-23 20:30:38,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-05-23 20:30:38,Jubilee,Jubilee Line: Minor delays due to an earlier faulty train at Wembley Park. ,True
+2026-05-23 20:30:38,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Amersham/Chesham/Watford while we fix a signal failure at Northwood. GOOD SERVICE on the rest of the line. ,True
+2026-05-23 20:30:38,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
+2026-05-23 20:30:38,Piccadilly,PICCADILLY LINE: Saturday 23 May  from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May  including Saturday Night Tube  no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
+2026-05-23 20:30:38,Victoria,Victoria Line: Minor delays due to an earlier customer incident.  ,True
+2026-05-23 20:30:38,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
