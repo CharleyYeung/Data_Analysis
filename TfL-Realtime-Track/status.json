@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+        "reason": "Jubilee Line: Severe delays due to an earlier trespasser on the track at Kingsbury and train cancellations. Tickets are being accepted on London Buses, London Overground and c2c. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: No service between Walthamstow Central and Highbury & Islington and SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, South Western Railway and Southeastern services. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
