@@ -378,3 +378,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-24 01:36:08,Victoria,Victoria Line: Minor delays due to an earlier police investigation. ,True
 2026-05-24 01:36:08,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Tuesday. ,True
 2026-05-24 01:36:08,Weaver,Weaver Line: Service will resume later this morning. ,True
+2026-05-24 05:47:38,District,DISTRICT LINE: Saturday 23  Sunday 24 and Bank Holiday Monday 25 May  no service between Earls Court and Ealing Broadway / Richmond. Please use MILDMAY LINE services where available between Gunnersbury  Kew Gardens and Richmond. Replacement buses operate.,True
+2026-05-24 05:47:38,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 23  Sunday 24 and Bank Holiday Monday 25 May  no service between Westferry / Poplar and Lewisham. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate.,True
+2026-05-24 05:47:38,Piccadilly,PICCADILLY LINE: Saturday 23 May  from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May  including Saturday Night Tube  no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
+2026-05-24 05:47:38,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-05-24 05:47:38,Windrush,WINDRUSH LINE: Sunday 24 May  no service between Surrey Quays and Clapham Junction. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays  New Cross Gate  Queens Road Peckham  Peckham Rye  Denmark Hill  Clapham High Street and Wandsworth Road.,True
