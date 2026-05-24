@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier customer incident. GOOD SERVICE on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: No service between White City and Epping / Hainault via Newbury Park, eastbound only, while we respond to a fire alert at Leytonstone. SEVERE DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route.  "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
         "is_disrupted": true,
@@ -24,20 +24,20 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to train cancellations. London Buses are accepting ticket via any reasonable route.  "
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Severe delays while we deal with a customer incident at Willesden Junction. "
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Edgware and Camden Town due to an earlier fire alert at Hendon Central. Tickets will be accepted on London Buses. MINOR DELAYS on the rest of the line.  "
+        "reason": "Northern Line: Minor delays due to an earlier fire alert at Hendon Central. "
     },
     "Piccadilly": {
         "is_disrupted": true,
