@@ -28,8 +28,8 @@
         "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge / Amersham / Chesham / Watford while we fix a signal failure at Northwood. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford due to train cancellations. After the 19:53 the next departure southbound from Watford will be at 20:38. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Stratford and Canonbury while we respond to a fire alert at Hackney Central. SEVERE DELAYS on the rest of the line. "
+        "reason": "Mildmay Line: No service between Stratford and Gospel Oak while we respond to a fire alert at Hackney Central. SEVERE DELAYS on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": true,
@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Severe delays due to an earlier fire alert at Hackney Central. "
     },
     "Windrush": {
         "is_disrupted": true,
