@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone due to an earlier faulty train at Paddington. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays, eastbound only, while we fix a faulty train at Bond Street. GOOD SERVICE westbound. "
-    },
-    "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Circle": {
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": true,
@@ -32,20 +32,20 @@
         "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: No service while we fix a faulty train at Romford. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of line. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays due to train cancellations.  "
     },
     "Northern": {
         "is_disrupted": false,
