@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier customer incident. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between White City and Epping / Hainault via Newbury Park, eastbound only, while we respond to a fire alert at Leytonstone. SEVERE DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route.  "
+        "reason": "Central Line: Severe delays due to an earlier fire alert at Leytonstone. London Buses are accepting tickets via any reasonable route.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge / Amersham / Chesham / Watford while we fix a signal failure at Northwood. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier fire alert at Hendon Central. "
+        "reason": "Northern Line: Severe delays between High Barnet and Camden Town due to an earlier fire alert at Finchley Central. MINOR DELAYS on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": true,
