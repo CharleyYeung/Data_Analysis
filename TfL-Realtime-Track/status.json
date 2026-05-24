@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays while we deal with a customer incident at Willesden Junction. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -45,19 +45,19 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route.  "
+        "reason": "Mildmay Line: Severe delays due to an earlier faulty train at Acton Central. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between High Barnet and Camden Town due to an earlier fire alert at Finchley Central. MINOR DELAYS on the rest of the line.  "
+        "reason": "Northern Line: Severe delays due to an earlier fire alert at Finchley Central. "
     },
     "Piccadilly": {
         "is_disrupted": true,
         "reason": "PICCADILLY LINE: Saturday 23 May, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May, including Saturday Night Tube, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Minor delays due to train cancellations. "
     },
     "Tram": {
         "is_disrupted": false,
