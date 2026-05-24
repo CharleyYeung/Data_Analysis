@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier fire alert at Leytonstone.  "
+        "reason": "Central Line: Minor delays between Leytonstone and Hainault due to an earlier fire alert at Leytonstone. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -41,23 +41,23 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford due to train cancellations. After the 19:53 the next departure southbound from Watford will be at 20:38. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford / Amersham and Uxbridge due to train cancellations.  The next departure southbound from Watford will be at 22:23. The next departure southbound from Amersham will be at 23:22. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Stratford and Gospel Oak while we respond to a fire alert at Hackney Central. SEVERE DELAYS on the rest of the line. "
+        "reason": "Mildmay Line: Severe delays due to an earlier fire alert at Hackney Central.  "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier fire alert at Finchley Central. "
+        "reason": "Northern Line: Minor delays due to train cancellations.  "
     },
     "Piccadilly": {
         "is_disrupted": true,
         "reason": "PICCADILLY LINE: Saturday 23 May, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May, including Saturday Night Tube, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Severe delays due to an earlier fire alert at Hackney Central. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
