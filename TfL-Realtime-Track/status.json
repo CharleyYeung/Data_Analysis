@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier points failure at Wembley Central. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -21,27 +21,27 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Reading/Heathrow Terminals due to an earlier signal failure at Southall. GOOD SERVICE on the rest of the line.  "
+        "reason": "Severe delays between Hayes & Harlington and Reading while we fix a signal system failure at Maidenhead. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Stanmore. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, Southeastern and Thameslink.    "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Severe delays while we fix a points failure at Stonebridge Park.  "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident at Hillingdon. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -56,12 +56,12 @@
         "reason": "PICCADILLY LINE: Saturday 23 May, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May, including Saturday Night Tube, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Severe delays while we fix a track fault "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: No service between Addiscombe and Beckenham Junction / Elmers End while we fix a fault with the overhead power lines at Arena. GOOD SERVICE on the rest of the line. "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Surrey Quays and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
