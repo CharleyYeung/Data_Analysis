@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Minor delays due to an earlier faulty train at Harrow & Wealdstone.  "
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier customer incident at Hillingdon. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "London Tramlink: No service between Addiscombe and Beckenham Junction / Elmers End while we fix a fault with the overhead power lines at Arena. GOOD SERVICE on the rest of the line. "
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to an earlier customer incident at Stockwell.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
