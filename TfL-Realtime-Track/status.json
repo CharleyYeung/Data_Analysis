@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone  while we respond to a fire alert at South Kenton. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route "
+        "reason": "Bakerloo Line: Minor delays due to an earlier fire alert at South Kenton. "
     },
     "Central": {
         "is_disrupted": false,
@@ -24,20 +24,20 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays between Liverpool Street and Barking due to an earlier fire alert at Whitechapel. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Stanmore. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, Southeastern and Thameslink.    "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.   "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: No service while we respond to a fire alert at South Kenton. London Buses are accepting valid tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WEAVER LINE: Bank Holiday Monday 25, Tuesday 26, Wednesday 27 and Thursday 28 May, after 2245 each evening, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses start at 0014 0044 and 0114 from Liverpool Street and also serve Bethnal Green, Cambridge Heath and London Fields. Last through trains are at 2233 from Liverpool Street to Chingford and at 2255 from Chingford to Liverpool Street."
     },
     "Windrush": {
         "is_disrupted": false,
