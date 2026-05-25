@@ -20,63 +20,63 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 23, Sunday 24 and Bank Holiday Monday 25 May, no service between Westferry / Poplar and Lewisham. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Service will resume later this morning. "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-hill and Watford due to train cancellations. After 23:08 the next southbound departure from Watford will be at 00:07. Minor delays between Harrow-on-the-Hill and Amersham/Uxbridge due to train cancellations. The next departure southbound from Amersham will be at 23:22. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to an earlier fire alert at Hackney Central.  "
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to train cancellations.  "
+        "reason": "Northern Line: Service will resume later this morning. "
     },
     "Piccadilly": {
         "is_disrupted": true,
         "reason": "PICCADILLY LINE: Saturday 23 May, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May, including Saturday Night Tube, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Tuesday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 24 May, no service between Surrey Quays and Clapham Junction. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, New Cross Gate, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road."
+        "reason": "Windrush Line: Service will resume later this morning. "
     }
 }
