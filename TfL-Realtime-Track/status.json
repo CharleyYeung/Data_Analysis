@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone  while we respond to a fire alert at South Kenton. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route "
     },
     "Central": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: No service while we respond to a fire alert at South Kenton. London Buses are accepting valid tickets via any reasonable route. "
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "NORTHERN LINE: From Monday 12 January to Thursday 28 May, on Monday to Thursday evenings (including Bank Holidays, but not Thursday 2 April), after 2200 each evening, no service between Kennington and Camden Town (via Bank). All trains operate via Charing Cross, and the Mill Hill East service operates as a shuttle service between Finchley Central and Mill Hill East"
     },
     "Piccadilly": {
         "is_disrupted": true,
