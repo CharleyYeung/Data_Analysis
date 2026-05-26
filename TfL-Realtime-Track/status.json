@@ -8,8 +8,8 @@
         "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses and London Overground.  "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations.\r\n  "
     },
     "District": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier points failure at Ealing Common. MINOR DELAYS on the rest of the Line.Tickets are being accepted on London Buses, Elizabeth Line and South Western Railway. "
+        "reason": "Piccadilly Line: Minor delays due to an earlier points failure at Acton Town.  "
     },
     "Suffragette": {
         "is_disrupted": false,
