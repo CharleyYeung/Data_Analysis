@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure at Harrow & Wealdstone. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
         "is_disrupted": true,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway due to an earlier points failure at Ealing Common. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays between Turnham Green and Ealing Broadway due to an earlier points failure at Ealing Common. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -29,23 +29,23 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays while we fix a signal systems failure. Tickets are being on London Buses, DLR and Elizabeth Line.  "
+        "reason": "Jubilee Line: Minor delays due to an earlier signal systems failure.  "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays due to a points failure at Euston.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
@@ -53,19 +53,19 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier points failure at Ealing Common. Tickets are being accepted on London Buses, Elizabeth Line and South Western Railway. "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier points failure at Ealing Common. MINOR DELAYS on the rest of the Line.Tickets are being accepted on London Buses, Elizabeth Line and South Western Railway. "
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Barking and Barking Riverside while we fix a points failure at Barking Riverside. SEVERE DELAYS on the rest of the line due to an earlier broken down freight train at Woodgrange Park. London Underground are accepting tickets via any reasonable routes.  "
+        "reason": "Suffragette Line: Severe delays due to an earlier broken down freight train at Woodgrange Park. London Underground are accepting tickets via any reasonable routes.  "
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: No service between Addiscombe and Birkbeck / Elmers End due to emergency engineering works. A shuttle service will operate between Beckenham Junction and Birkbeck. GOOD SERVICE on the rest of the Tramlink Network. "
+        "reason": "London Tramlink: No service between Addiscombe and Birkbeck / Elmers End due to emergency engineering works. A shuttle service will operate between Beckenham Junction and Birkbeck. Tickets will be accepted on local bus routes between Addiscombe and Birkbeck and Elmers End. GOOD SERVICE on the rest of the Tramlink.  "
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
