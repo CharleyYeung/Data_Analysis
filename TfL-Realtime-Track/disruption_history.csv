@@ -653,3 +653,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-26 02:47:09,Waterloo & City,Waterloo and City Line: Service will resume at 06:00.  ,True
 2026-05-26 02:47:09,Weaver,Weaver Line: Service will resume later this morning.  ,True
 2026-05-26 02:47:09,Windrush,Windrush Line: Service will resume later this morning.  ,True
+2026-05-26 08:29:33,Central,Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses  Great Western Railway and Chiltern services via any reasonable route. ,True
+2026-05-26 08:29:33,District,District Line: Severe delays between Parsons Green and Wimbledon following a late finish of engineering work. MINOR delays on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. ,True
+2026-05-26 08:29:33,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-05-26 08:29:33,Piccadilly,Piccadilly Line: Severe delays between Arnos Grove and Cockfosters. SEVERE delays between Acton Town and Heathrow Airport/Uxbridge due to a late finish of engineering work. MINOR Delays on the rest of the line. Tickets will be accepted on London Buses  Elizabeth Line and South Western Railway services via any reasonable route. ,True
+2026-05-26 08:29:33,Tram,LONDON TRAMLINK: Tuesday 26 May  no service between Addiscombe and Birkbeck / Elmers End due to emergency engineering works. A shuttle service will operate between Beckenham Junction and Birkbeck. Please use local bus services for other destinations. Valid Tram tickets will be accepted.,True
+2026-05-26 08:29:33,Windrush,Windrush Line: Severe delays between Surrey Quays and Clapham Junction due to an earlier faulty train at Denmark Hill. GOOD SERVICE on the rest of the line. ,True
