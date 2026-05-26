@@ -1,82 +1,82 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier fire alert at South Kenton. "
+        "reason": "Bakerloo Line: Service will resume later this morning.\r\n "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: Service will resume later this morning.\r\n "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning.\r\n "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 23, Sunday 24 and Bank Holiday Monday 25 May, no service between Earls Court and Ealing Broadway / Richmond. Please use MILDMAY LINE services where available between Gunnersbury, Kew Gardens and Richmond. Replacement buses operate."
+        "reason": "District Line: Service will resume later this morning.\r\n "
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 23, Sunday 24 and Bank Holiday Monday 25 May, no service between Westferry / Poplar and Lewisham. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate."
+        "reason": "Docklands Light Railway: Service will resume later this morning.\r\n "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning.\r\n "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays between Liverpool Street and Barking due to an earlier fire alert at Whitechapel. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "Hammersmith and City Line: Service will resume later this morning.\r\n "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.   "
+        "reason": "Jubilee Line: Service will resume later this morning.\r\n "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning.\r\n "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning.\r\n "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Service will resume later this morning.\r\n "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "NORTHERN LINE: From Monday 12 January to Thursday 28 May, on Monday to Thursday evenings (including Bank Holidays, but not Thursday 2 April), after 2200 each evening, no service between Kennington and Camden Town (via Bank). All trains operate via Charing Cross, and the Mill Hill East service operates as a shuttle service between Finchley Central and Mill Hill East"
+        "reason": "Northern Line: Service will resume later this morning.\r\n "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 23 May, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May, including Saturday Night Tube, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
+        "reason": "Piccadilly Line: Service will resume later this morning.\r\n "
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning.\r\n "
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: No service between Addiscombe and Beckenham Junction / Elmers End while we fix a fault with the overhead power lines at Arena. GOOD SERVICE on the rest of the line. "
+        "reason": "London Tramlink: Service will resume later this morning.\r\n "
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "WEAVER LINE: Bank Holiday Monday 25, Tuesday 26, Wednesday 27 and Thursday 28 May, after 2245 each evening, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses start at 0014 0044 and 0114 from Liverpool Street and also serve Bethnal Green, Cambridge Heath and London Fields. Last through trains are at 2233 from Liverpool Street to Chingford and at 2255 from Chingford to Liverpool Street."
+        "reason": "Weaver Line: Service will resume later this morning.\r\n "
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Service will resume later this morning.\r\n "
     }
 }
