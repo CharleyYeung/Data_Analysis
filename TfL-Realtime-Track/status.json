@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, Great Western Railway and Chiltern services via any reasonable route. "
+        "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses and London Overground.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,15 +13,15 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Parsons Green and Wimbledon following a late finish of engineering work. MINOR delays on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. "
+        "reason": "District Line: No service between Turnham Green and Ealing Broadway while we fix a points failure at Ealing Common. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Overground and South Western Railway.  "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier signal system failure. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -44,20 +44,20 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays between Willesden Junction and Richmond due to train cancellations.  "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays while we fix a points fault at Edgware. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Arnos Grove and Cockfosters. SEVERE delays between Acton Town and Heathrow Airport/Uxbridge due to a late finish of engineering work. MINOR Delays on the rest of the line. Tickets will be accepted on London Buses, Elizabeth Line and South Western Railway services via any reasonable route. "
+        "reason": "Piccadilly Line: No service between Acton Town and Uxbridge while we fix a points failure at Acton Town. SEVERE DELAYS on the rest of the line. Tickets being accepted on London Buses, Elizabeth Line and South Western Railway. "
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service on the entire line due to a broken down freight train at Woodgrange Park. London Underground are accepting tickets via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays between Surrey Quays and Clapham Junction due to an earlier faulty train at Denmark Hill. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
