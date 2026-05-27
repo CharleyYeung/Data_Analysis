@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays westbound only due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier faulty train at Hillingdon. SEVERE DELAYS between Aldgate and Baker Street due to train cancellations. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier faulty train at Hillingdon. MINOR DELAYS between Aldgate and Baker Street due to train cancellations. MINOR DELAYS between Moor Park and Chesham next southbound train from Chesham will be at 00:23.Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
