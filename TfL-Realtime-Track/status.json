@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a faulty train at Harrow & Wealdstone. Tickets will be accepted on London Buses, London Northwestern Railway and Thameslink services. SEVERE DELAYS on the rest of the line. "
     },
     "Central": {
         "is_disrupted": true,
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
-    },
-    "District": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "District": {
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Earl's Court and Ealing Broadway / Richmond due to an earlier fire alert at West Kensington. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: No service between Willesden Junction and Watford Junction while we fix a faulty train at Harrow & Wealdstone. SEVERE DELAYS on the rest of the line.  "
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -52,12 +52,12 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays while we fix a signal failure at Leyton Midland Road. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Severe delays while we fix a fault with a level crossing at Bush Hill Park. "
     },
     "Windrush": {
         "is_disrupted": false,

@@ -737,3 +737,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-27 15:56:42,Mildmay,Mildmay Line: Severe delays due to train cancellations. ,True
 2026-05-27 15:56:42,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-05-27 15:56:42,Suffragette,Suffragette Line: Severe delays while we fix a signal failure at Leyton Midland Road. ,True
+2026-05-27 18:26:24,Bakerloo,Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a faulty train at Harrow & Wealdstone. Tickets will be accepted on London Buses  London Northwestern Railway and Thameslink services. SEVERE DELAYS on the rest of the line. ,True
+2026-05-27 18:26:24,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-05-27 18:26:24,District,District Line: Minor delays between Earl's Court and Ealing Broadway / Richmond due to an earlier fire alert at West Kensington. GOOD SERVICE on the rest of the line. ,True
+2026-05-27 18:26:24,Lioness,Lioness Line: No service between Willesden Junction and Watford Junction while we fix a faulty train at Harrow & Wealdstone. SEVERE DELAYS on the rest of the line.  ,True
+2026-05-27 18:26:24,Mildmay,Mildmay Line: Severe delays due to train cancellations. ,True
+2026-05-27 18:26:24,Weaver,Weaver Line: Severe delays while we fix a fault with a level crossing at Bush Hill Park. ,True
