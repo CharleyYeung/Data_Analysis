@@ -730,3 +730,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-27 08:36:43,Mildmay,Mildmay Line: Severe delays between Willesden Junction and Clapham Junction due to train cancellations. MINOR DELAYS on the rest of the line. ,True
 2026-05-27 08:36:43,Tram,London Tramlink: No service between Addiscombe and Beckenham Junction / Elmers End due to a fault with the overhead power lines at Arena. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
 2026-05-27 08:36:43,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-05-27 15:56:42,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
+2026-05-27 15:56:42,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-05-27 15:56:42,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-05-27 15:56:42,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-05-27 15:56:42,Mildmay,Mildmay Line: Severe delays due to train cancellations. ,True
+2026-05-27 15:56:42,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-05-27 15:56:42,Suffragette,Suffragette Line: Severe delays while we fix a signal failure at Leyton Midland Road. ,True
