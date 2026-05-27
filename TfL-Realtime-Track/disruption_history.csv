@@ -743,3 +743,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-27 18:26:24,Lioness,Lioness Line: No service between Willesden Junction and Watford Junction while we fix a faulty train at Harrow & Wealdstone. SEVERE DELAYS on the rest of the line.  ,True
 2026-05-27 18:26:24,Mildmay,Mildmay Line: Severe delays due to train cancellations. ,True
 2026-05-27 18:26:24,Weaver,Weaver Line: Severe delays while we fix a fault with a level crossing at Bush Hill Park. ,True
+2026-05-27 20:36:46,Bakerloo,Bakerloo Line: Minors delays due to an earlier faulty train at Harrow & Wealdstone.  ,True
+2026-05-27 20:36:46,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-05-27 20:36:46,Mildmay,Mildmay Line: No service between Clapham Junction and Willesden Junction and SEVERE DELAYS on the rest of the line due to train cancellations. ,True
