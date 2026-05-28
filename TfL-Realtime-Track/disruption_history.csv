@@ -779,3 +779,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-28 01:25:51,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-05-28 01:25:51,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-05-28 01:25:51,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-05-28 05:46:45,Bakerloo,Bakerloo Line: No Service Queen's Park and Harrow & Wealdstone due to late finish of engineering work and SEVERE DELAYS on the rest of the line. Tickets being accepted by London Buses.  ,True
+2026-05-28 05:46:45,District,District Line: Minor delays between Turnham Green and Earls Court Eastbound only due to train cancellations. GOOD SERVICE to the rets of the line. ,True
+2026-05-28 05:46:45,Jubilee,Jubilee Line: No service between Stanmore and Canons Park southbound only while we respond to a fire alert at Stanmore. GOOD SERVICE on the rest of the line. ,True
+2026-05-28 05:46:45,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
