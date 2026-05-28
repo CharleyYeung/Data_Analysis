@@ -801,3 +801,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-28 17:28:31,Northern,Northern Line: Minor delays between Camden Town and Edgware due to an earlier points failure at Edgware. GOOD SERVICE on the rest of the line.  ,True
 2026-05-28 17:28:31,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
 2026-05-28 17:28:31,Waterloo & City,Waterloo and City Line: Minor delays while we fix a faulty train.  ,True
+2026-05-28 19:54:01,Central,Central Line: Severe delays between Leytonstone and West Ruislip / Ealing Broadway westbound only due to an earlier faulty train at Tottenham Court Road. MINOR DELAYS on the rest of the line due to train cancellations.  ,True
+2026-05-28 19:54:01,Circle,Circle Line: Minor delays due to train cancellations.  ,True
+2026-05-28 19:54:01,Mildmay,Mildmay Line: Minor delays between Stratford and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-05-28 19:54:01,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
