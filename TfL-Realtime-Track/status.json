@@ -9,15 +9,15 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays while we fix a points failure at Whitechapel.  "
+        "reason": "Circle Line: Minor delays due to an earlier points failure at Whitechapel.  "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Barking and Whitechapel while we fix a points failure at Whitechapel. MINOR DELAYS between Tower Hill and Earl's Court westbound only due to an earlier faulty train at Mansion House. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Severe delays due to an earlier points failure at Whitechapel. London Buses, DLR, Elizabeth Line and C2C are accepting tickets via any reasonable route.  "
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Bank / Tower Gateway and Canary Wharf / Canning Town due to an earlier faulty train at Shadwell. GOOD SERVICE on other DLR routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking while we fix a points failure at Whitechapel. SEVERE DELAYS on the rest of the line. "
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier points failure at Whitechapel.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -44,12 +44,12 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays between Stratford and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Edgware while we fix a signal failure at Edgware. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Northern Line: Minor delays between Camden Town and Edgware due to an earlier points failure at Edgware. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": true,
@@ -68,15 +68,15 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Minor delays while we fix a faulty train.  "
     },
     "Weaver": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Clapham Junction and Surrey Quays while we fix a signal failure at Clapham High Street. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
