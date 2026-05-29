@@ -8,12 +8,12 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to a track fault at Aldgate East. Tickets are being accepted on London buses via any reasonable route.  "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Barking and Upminster westbound only due to an earlier track fault at Aldgate East. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": true,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service due to a signal failure at South Tottenham. "
+        "reason": "Suffragette Line: Severe delays due to an earlier signal failure. "
     },
     "Tram": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: No service while we respond to a fire alert at Bank. "
     },
     "Weaver": {
         "is_disrupted": false,

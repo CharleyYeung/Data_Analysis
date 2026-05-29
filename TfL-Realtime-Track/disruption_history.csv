@@ -849,3 +849,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-29 08:39:51,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
 2026-05-29 08:39:51,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
 2026-05-29 08:39:51,Suffragette,Suffragette Line: No service due to a signal failure at South Tottenham. ,True
+2026-05-29 11:56:02,Circle,Circle Line: Severe delays due to a track fault at Aldgate East. Tickets are being accepted on London buses via any reasonable route.  ,True
+2026-05-29 11:56:02,District,District Line: Minor delays between Barking and Upminster westbound only due to an earlier track fault at Aldgate East. GOOD SERVICE on the rest of the line. ,True
+2026-05-29 11:56:02,DLR,DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May  no service between Prince Regent and Beckton. Use local bus routes.,True
+2026-05-29 11:56:02,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-05-29 11:56:02,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
+2026-05-29 11:56:02,Suffragette,Suffragette Line: Severe delays due to an earlier signal failure. ,True
+2026-05-29 11:56:02,Waterloo & City,Waterloo and City Line: No service while we respond to a fire alert at Bank. ,True
