@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning.\r\n "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "reason": "Central Line: Service will resume later this morning.\r\n "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to train cancellations.  "
+        "reason": "Circle Line: Service will resume later this morning.\r\n "
     },
     "District": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Prince Regent and Beckton due to planned engineering works.\r\n "
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Heathrow All Terminals/Reading while we fix a signal failure at West Ealing. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning.\r\n "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Service will resume later this morning.\r\n "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning.\r\n "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning.\r\n "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. London Underground tickets will be accepted on local bus services. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground and London Buses are accepting valid tickets via any reasonable route. "
+        "reason": "Mildmay Line: Service will resume later this morning.\r\n "
     },
     "Northern": {
         "is_disrupted": true,
@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Thursday 28, Friday 29, Saturday 30 and Sunday 31 May, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning.\r\n "
     },
     "Tram": {
         "is_disrupted": false,
@@ -68,15 +68,15 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
     },
     "Weaver": {
         "is_disrupted": true,
         "reason": "WEAVER LINE: Bank Holiday Monday 25, Tuesday 26, Wednesday 27 and Thursday 28 May, after 2245 each evening, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses start at 0014 0044 and 0114 from Liverpool Street and also serve Bethnal Green, Cambridge Heath and London Fields. Last through trains are at 2233 from Liverpool Street to Chingford and at 2255 from Chingford to Liverpool Street."
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Service will resume later this morning.\r\n "
     }
 }
