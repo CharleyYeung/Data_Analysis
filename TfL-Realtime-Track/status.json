@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: No Service between Stonebridge Park and Harrow & Wealdstone and MINOR DELAYS southbound only between Stonebridge Park and Elephant & Castle due to an earlier late finish of engineering work. Tickets are being accepted by London Buses. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line:  Minor delays between Earls Court and Ealing Broadway / Richmond due to an earlier faulty train at West Kensington. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a signal fault at South Tottenham. GOOD SERVICE on the rest of the line. "
+        "reason": "Suffragette Line: No service due to a signal failure at South Tottenham. "
     },
     "Tram": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,

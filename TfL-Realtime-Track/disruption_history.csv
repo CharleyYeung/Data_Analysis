@@ -845,3 +845,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-29 04:51:47,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
 2026-05-29 04:51:47,Suffragette,Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a signal fault at South Tottenham. GOOD SERVICE on the rest of the line. ,True
 2026-05-29 04:51:47,Waterloo & City,Waterloo and City Line: Service will resume at 06:00.  ,True
+2026-05-29 08:39:51,DLR,DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May  no service between Prince Regent and Beckton. Use local bus routes.,True
+2026-05-29 08:39:51,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-05-29 08:39:51,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
+2026-05-29 08:39:51,Suffragette,Suffragette Line: No service due to a signal failure at South Tottenham. ,True
