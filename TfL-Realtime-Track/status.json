@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone due to an earlier fire alert at Harrow & Wealdstone. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May, no service between Prince Regent and Beckton. Use local bus routes."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminals / Reading due to an earlier signal failure at West Ealing. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next service to depart Chesham will be at 16:54. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. "
+        "reason": "Mildmay Line: Severe delays due to train cancellations.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
