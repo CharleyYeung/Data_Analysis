@@ -891,3 +891,17 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-05-29 23:47:57,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. ,True
 2026-05-29 23:47:57,Mildmay,Mildmay Line: Severe delays due to train cancellations.  ,True
 2026-05-29 23:47:57,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
+2026-05-30 02:43:13,Bakerloo,Bakerloo Line: Service will resume later this morning. There will be no service between Queens Park and Harrow & Wealdstone due to planned engineering work. ,True
+2026-05-30 02:43:13,Circle,Circle Line: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,District,District Line: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,DLR,DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May  no service between Prince Regent and Beckton. Use local bus routes.,True
+2026-05-30 02:43:13,Elizabeth line,Service will resume later this morning.  ,True
+2026-05-30 02:43:13,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,Liberty,Liberty Line: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,Lioness,Lioness Line: Service will resume later this morning. There will be no service between Euston and Watford Junction due to planned engineering work. ,True
+2026-05-30 02:43:13,Metropolitan,Metropolitan Line: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,Mildmay,Mildmay Line: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,Piccadilly,PICCADILLY LINE: Thursday 28  Friday 29  Saturday 30 and Sunday 31 May  no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.,True
+2026-05-30 02:43:13,Suffragette,Suffragette Line: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,Tram,London Tramlink: Service will resume later this morning.  ,True
+2026-05-30 02:43:13,Weaver,Weaver Line: Service will resume later this morning.  ,True

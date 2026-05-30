@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning. There will be no service between Queens Park and Harrow & Wealdstone due to planned engineering work. "
     },
     "Central": {
         "is_disrupted": false,
@@ -9,43 +9,43 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations.  "
+        "reason": "Circle Line: Service will resume later this morning.\r\n "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway westbound only due to train cancellations. Tickets are being accepted on London Buses and Elizabeth line. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Service will resume later this morning.\r\n "
     },
     "DLR": {
         "is_disrupted": true,
         "reason": "DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May, no service between Prince Regent and Beckton. Use local bus routes."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning.\r\n "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning.\r\n "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning.\r\n "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. There will be no service between Euston and Watford Junction due to planned engineering work. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. "
+        "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations.  "
+        "reason": "Mildmay Line: Service will resume later this morning.\r\n "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,12 +56,12 @@
         "reason": "PICCADILLY LINE: Thursday 28, Friday 29, Saturday 30 and Sunday 31 May, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning.\r\n "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning.\r\n "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning.\r\n "
     },
     "Windrush": {
         "is_disrupted": false,
