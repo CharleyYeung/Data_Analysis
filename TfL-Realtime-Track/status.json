@@ -8,12 +8,12 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Tower Hill and Wimbledon and MINOR DELAYS between Earl's Court and Kensington Olympia / Wimbledon due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Severe delays between Tower Hill and Wimbledon and MINOR DELAYS between Earl's Court and Kensington Olympia due to an earlier points failure at Tower Hill. London buses, Elizabeth line and South Western Railway are accepting valid tickets via any reasonable route GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. After the 19:53 departure from Watford the next southbound train with be at 20:38. GOOD SERVICE on the rest of the line\r\n  "
+        "reason": "Metropolitan Line: Minor delays between Watford and Moor Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Sydenham and West Croydon while emergency services deal with a casualty on the track. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line.  "
+        "reason": "Windrush Line: No service between Sydenham and West Croydon, and between Highbury & Islington and Dalston Junction due to an earlier customer incident. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line.  "
     }
 }
