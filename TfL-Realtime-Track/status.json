@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 19:52 departure from Amersham, the next southbound train will be at 20:52,and MINOR DELAYS between Moor Park and Watford due to train cancellations. After the 19:53 departure from Watford. the next southbound train with bee at 20:38. GOOD SERVICE on the rest of the line\r\n  "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. After the 19:53 departure from Watford the next southbound train with be at 20:38. GOOD SERVICE on the rest of the line\r\n  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Sydenham and West Croydon while emergency services deal with a casualty on the track. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line.  "
     }
 }
