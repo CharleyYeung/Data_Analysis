@@ -13,15 +13,15 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Barking due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Tower Hill and Wimbledon and MINOR DELAYS between Earl's Court and Kensington Olympia / Wimbledon due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": true,
         "reason": "DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May, no service between Prince Regent and Beckton. Use local bus routes."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Hayes & Harlington and Heathrow Terminal 4 due to an earlier customer incident. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays between Willesden Green and Stanmore due to train cancellations. MINOR DELAYS due to an earlier signal system failure and an earlier fire alert at Wembley Park. "
+        "reason": "Jubilee Line: Severe delays due to train cancellations and an earlier signal system failure. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "LIONESS LINE: Saturday 30 and Sunday 31 May, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. A very limited SOUTHERN service will continue to serve Wembley Central early and late on Saturday and on Sunday, and Watford Junction on Saturday and Sunday, and LONDON NORTH WESTERN RAILWAY trains stop at Harrow & Wealdstone, Bushey and Watford Junction. If travelling to Wembley for the Rugby League Challenge Cup Finals on Saturday or the Women's FA Cup Final on Sunday, please use Wembley Park. Special bus services 718 and 720 operate."
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 19:52 departure from Amersham, the next southbound train will be at 20:52,and MINOR DELAYS between Moor Park and Watford due to train cancellations. After the 19:53 departure from Watford. the next southbound train with bee at 20:38. GOOD SERVICE on the rest of the line\r\n  "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays between Willesden Junction and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: Minor delays due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": true,
