@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Tower Hill and Upminster due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Tower Hill and Earl's Court westbound only due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": true,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier signal system failure and an earlier fire alert at Wembley Park. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services. "
+        "reason": "Jubilee Line: Minor delays due to an earlier signal system failure and an earlier fire alert at Wembley Park. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays between Willesden Junction and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays between Dalston Junction and New Cross Gate due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
