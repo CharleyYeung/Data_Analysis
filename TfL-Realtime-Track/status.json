@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": false,
@@ -20,16 +20,16 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May, no service between Prince Regent and Beckton. Use local bus routes."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Hayes & Harlington and Heathrow Airport due to a signal failure caused by flooding at Heathrow Terminals 2 & 3. GOOD SERVICE on the rest of the line. Please note that due to planned engineering work, there is no Piccadilly line service to Heathrow Airport today. Your ticket will be accepted on South Western Railway from Waterloo to Feltham and from there you can use London Buses to Heathrow Airport. "
-    },
-    "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Hammersmith & City": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Stanmore and Waterloo while we fix a signal system failure. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays due to an earlier signal failure at South Tottenham. Tickets are being accepted on London Underground. "
+        "reason": "Suffragette Line: Minor delays due to an earlier signal failure at South Tottenham.  "
     },
     "Tram": {
         "is_disrupted": false,
