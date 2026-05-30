@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Hayes & Harlington and Heathrow Airport due to a signal failure caused by flooding at Heathrow Terminals 2 & 3. MINOR DELAYS between Paddington and Hayes & Harlington. GOOD SERVICE on the rest of the line. Please note that due to planned engineering work, there is no Piccadilly line service to Heathrow Airport today. Your ticket will be accepted on South Western Railway from Waterloo to Feltham and from there you can use London Buses to Heathrow Airport. "
+        "reason": "Minor delays between Hayes & Harlington and Heathrow Airport due to a signal failure caused by flooding at Heathrow Terminals 2 & 3. GOOD SERVICE on the rest of the line. Please note that due to planned engineering work, there is no Piccadilly line service to Heathrow Airport today. Your ticket will be accepted on South Western Railway from Waterloo to Feltham and from there you can use London Buses to Heathrow Airport. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Gospel Oak and Woodgrange Park while we fix a signal failure at South Tottenham. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+        "reason": "Suffragette Line: Severe delays due to an earlier signal failure at South Tottenham. Tickets are being accepted on London Underground. "
     },
     "Tram": {
         "is_disrupted": false,
