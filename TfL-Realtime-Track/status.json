@@ -4,8 +4,8 @@
         "reason": "BAKERLOO LINE: Saturday 30 and Sunday 31 May, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. A very limited SOUTHERN service will continue to serve Wembley Central early and late on Saturday and on Sunday, and LONDON NORTH WESTERN RAILWAY trains stop at Harrow & Wealdstone. If travelling to Wembley for the Rugby League Challenge Cup Finals on Saturday or the Women's FA Cup Final on Sunday. Special bus service 718 operates."
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -13,23 +13,23 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Tower Hill and Earl's Court westbound only due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Earl's Court and Barking due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": true,
         "reason": "DOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May, no service between Prince Regent and Beckton. Use local bus routes."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Hayes & Harlington and Heathrow Terminal 4 due to an earlier customer incident. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier signal system failure and an earlier fire alert at Wembley Park. "
+        "reason": "Jubilee Line: Severe delays between Willesden Green and Stanmore due to train cancellations. MINOR DELAYS due to an earlier signal system failure and an earlier fire alert at Wembley Park. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,11 +45,11 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: Severe delays between Willesden Junction and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays due to train cancellations. "
     },
     "Piccadilly": {
         "is_disrupted": true,
