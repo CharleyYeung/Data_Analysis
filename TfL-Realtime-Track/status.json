@@ -12,8 +12,8 @@
         "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Upminster and Barking due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, DLR and the Elizabeth Line. "
     },
     "DLR": {
         "is_disrupted": true,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Stanmore and Waterloo while we fix a signal system failure. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services. "
+        "reason": "Jubilee Line: Severe delays due to an earlier signal system failure and an earlier fire alert at Wembley Park. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,16 +56,16 @@
         "reason": "PICCADILLY LINE: Thursday 28, Friday 29, Saturday 30 and Sunday 31 May, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Minor delays due to an earlier signal failure at South Tottenham.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
