@@ -4,8 +4,8 @@
         "reason": "BAKERLOO LINE: Saturday 30 and Sunday 31 May, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. A very limited SOUTHERN service will continue to serve Wembley Central early and late on Saturday and on Sunday, and LONDON NORTH WESTERN RAILWAY trains stop at Harrow & Wealdstone. If travelling to Wembley for the Rugby League Challenge Cup Finals on Saturday or the Women's FA Cup Final on Sunday. Special bus service 718 operates."
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Tower Hill and Wimbledon due to an earlier points failure at Tower Hill. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Severe delays between Ealing Broadway/ Richmond and Tower Hill eastbound due to an earlier points failure at Tower Hill. Tickets are being accepted on the Elizabeth line. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays due to an earlier customer incident at Norwood Junction. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
