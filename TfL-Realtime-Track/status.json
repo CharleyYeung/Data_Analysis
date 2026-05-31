@@ -40,12 +40,12 @@
         "reason": "LIONESS LINE: Saturday 30 and Sunday 31 May, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. A very limited SOUTHERN service will continue to serve Wembley Central early and late on Saturday and on Sunday, and Watford Junction on Saturday and Sunday, and LONDON NORTH WESTERN RAILWAY trains stop at Harrow & Wealdstone, Bushey and Watford Junction. If travelling to Wembley for the Rugby League Challenge Cup Finals on Saturday or the Women's FA Cup Final on Sunday, please use Wembley Park. Special bus services 718 and 720 operate."
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to earlier trespassers on the track at Highbury & Islington and due to congestion caused by an event.  "
+        "reason": "Mildmay Line: Minor delays due to earlier trespassers on the track at Highbury & Islington and due to congestion caused by an event.  "
     },
     "Northern": {
         "is_disrupted": true,
