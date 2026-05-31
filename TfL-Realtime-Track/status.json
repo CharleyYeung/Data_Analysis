@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays between Clapham Junction and Stratford and MINOR DELAYS between Willesden Junction and Richmond while we fix an electrical fault in the Euston area. "
     },
     "Northern": {
         "is_disrupted": true,
