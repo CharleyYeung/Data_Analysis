@@ -8,72 +8,72 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
-    },
-    "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. "
-    },
-    "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Canning Town and Becton and between Tower Gateway and Shadwell due to planned engineering work.  "
-    },
-    "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
-    },
-    "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Liberty": {
+    "District": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "DLR": {
         "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 31 May, no service between Canning Town and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert, Beckton Park, Cyprus and Beckton"
+    },
+    "Elizabeth line": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Hammersmith & City": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+    },
+    "Liberty": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
         "is_disrupted": true,
         "reason": "LIONESS LINE: Saturday 30 and Sunday 31 May, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. A very limited SOUTHERN service will continue to serve Wembley Central early and late on Saturday and on Sunday, and Watford Junction on Saturday and Sunday, and LONDON NORTH WESTERN RAILWAY trains stop at Harrow & Wealdstone, Bushey and Watford Junction. If travelling to Wembley for the Rugby League Challenge Cup Finals on Saturday or the Women's FA Cup Final on Sunday, please use Wembley Park. Special bus services 718 and 720 operate."
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
-    },
-    "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
-    },
-    "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Mildmay": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Northern": {
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Finchley Central and Mill Hill East due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": true,
         "reason": "PICCADILLY LINE: Thursday 28, Friday 29, Saturday 30 and Sunday 31 May, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
