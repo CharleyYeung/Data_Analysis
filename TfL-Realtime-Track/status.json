@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Leytonstone and Liverpool Street and SEVERE DELAYS on the rest of the line while we fix a signal failure at Stratford. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line, Chiltern Railway and Greater Anglia.  "
+        "reason": "Central Line: Severe delays due to an earlier signal failure at Stratford. Tickets are being accepted on London Buses, the Liberty line, the Elizabeth line, Chiltern Railway and Greater Anglia.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,15 +13,15 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Richmond and MINOR DELAYS on the rest of the line due to a earlier points failure at Tower Hill. "
+        "reason": "District Line: Minor delays due to a earlier points failure at Tower Hill. "
     },
     "DLR": {
         "is_disrupted": true,
         "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 31 May, no service between Canning Town and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert, Beckton Park, Cyprus and Beckton"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Paddington and Abbey Wood and MINOR DELAYS between Whitechapel and Shenfield due to an earlier safety inspection of the track. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground services. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to train cancellations. "
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to congestion caused by an event. "
+        "reason": "Victoria Line: Severe delays due to an earlier track fault at Brixton. Tickets are being accepted on London Buses and Southeastern services. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Highbury & Islington and Dalston Junction, and between Surrey Quays and New Cross, MINOR DELAYS on the rest of the line due to earlier trespassers on the track at Highbury & Islington and congestion caused by an event. \r\n "
+        "reason": "Windrush Line: No service between Surrey Quays and New Cross and  MINOR DELAYS on the rest of the line due to earlier trespassers on the track at Highbury & Islington and congestion caused by an event. \r\n "
     }
 }
