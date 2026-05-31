@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays between Finchley Road and North Greenwich eastbound only due to earlier trespassers on the track at Finchley Road and Kilburn. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses.\r\n\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to earlier trespassers on the track at Highbury & Islington and due to congestion caused by an event.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays due to train cancellations.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
