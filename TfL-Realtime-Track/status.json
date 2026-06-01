@@ -13,15 +13,15 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond / Wimbledon and MINOR DELAYS on the rest of the line due to an earlier signalling problem at Parsons Green. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C and South Western Railway. "
+        "reason": "District Line: Severe delays due to an earlier signalling problem at Parsons Green. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C and South Western Railway. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "ELIZABETH LINE: Monday 1, Tuesday 2 and Wednesday 3 June, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell."
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals/Uxbridge due to an earlier fire alert at Acton Town. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, South Western Railway and Great Northern. "
+        "reason": "Piccadilly Line: Minor delays due to an earlier fire alert at Acton Town. "
     },
     "Suffragette": {
         "is_disrupted": false,
