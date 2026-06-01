@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays while we fix a faulty train at Earl's Court.  Tickets will be accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C and South Western Railway via any reasonable route. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier signal failure at Green Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Thameslink and Southeastern. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,15 +45,15 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays while we fix a faulty train at Hackney Wick. "
+        "reason": "Mildmay Line: Severe delays between Willesden Junction and Stratford while we fix a fault with the overhead power lines at Caledonian Road & Barnsbury. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays due to to an fire alert at Acton Town. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, South Western Railway and Great Northern. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: No service between Victoria and Brixton and SEVERE DELAYS on the rest of the line while we fix a signal failure at Brixton. Tickets will be accepted on London Buses, South Western Railway and Southeastern services.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
