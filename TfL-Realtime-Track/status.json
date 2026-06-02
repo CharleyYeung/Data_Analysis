@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays due to strike action. Services are operating approximately every 10 minutes. "
+        "reason": "District Line: No service on the entire line due to strike action. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays while we fix a signal system failure at Gidea Park and due to an earlier faulty train at Paddington. London Underground are accepting tickets via any reasonable routes.\r\n "
+        "reason": "Severe delays between Whitechapel and Shenfield due to an earlier signal system failure at Gidea Park. London Underground are accepting tickets via any reasonable routes. GOOD SERVICE on the rest of the line.\r\n "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
         "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking and SEVERE DELAYS on the rest of the line due to strike action. Services are operating approximately every 15 minutes. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to strike action. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,12 +44,12 @@
         "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Harrow-on-the-Hill and Amersham every 30 minutes / Chesham every 60 minutes, between Harrow-on-the-Hill and Uxbridge / Watford every 15 minutes and between Baker Street and Harrow-on-the-Hill every 15 minutes. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays between Willesden Junction and Richmond and MINOR DELAYS between Willesden Junction and Stratford while we fix a faulty train at Acton Central. London Underground are accepting tickets via reasonable routes. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Golders Green and Battersea Power Station via Charing Cross southbound only and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Edgware and Golders Green every 8 minutes. Services are operating approximately every 15 minutes on the rest of the line. "
+        "reason": "Northern Line: No service between Golders Green and Battersea Power Station via Charing Cross and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Edgware and Golders Green every 8 minutes. Services are operating approximately every 15 minutes on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": true,
