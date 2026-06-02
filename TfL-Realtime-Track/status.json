@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes, between Liverpool Street and Woodford via Hainault every 10 minutes, between Leytonstone and Epping every 30 minutes and between Woodford and Hainault via Chigwell every 20 minutes. "
+        "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action and due to an earlier signal failure at Theydon Bois. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes, between Liverpool Street and Woodford via Hainault every 10 minutes, between Leytonstone and Epping every 30 minutes and between Woodford and Hainault via Chigwell every 20 minutes. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays while we fix a signal system failure at Gidea Park and due to an earlier faulty train at Paddington. London Underground are accepting tickets via any reasonable routes.\r\n "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -36,24 +36,24 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays due to an earlier faulty train at South Kenton. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
         "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Harrow-on-the-Hill and Amersham every 30 minutes / Chesham every 60 minutes, between Harrow-on-the-Hill and Uxbridge / Watford every 15 minutes and between Baker Street and Harrow-on-the-Hill every 15 minutes. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays between Willesden Junction and Richmond and MINOR DELAYS between Willesden Junction and Stratford while we fix a faulty train at Acton Central. London Underground are accepting tickets via reasonable routes. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays due to strike action. Services are operating approximately every 15 minutes. "
+        "reason": "Northern Line: No service between Golders Green and Battersea Power Station via Charing Cross southbound only and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Edgware and Golders Green every 8 minutes. Services are operating approximately every 15 minutes on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Arnos Grove and Acton Town/Uxbridge due to strike action and SEVERE DELAYS between Acton Town and Heathrow Terminals. Service is operating between Arnos Grove and Cockfosters every 15 minutes.\r\n\r\n "
+        "reason": "Piccadilly Line: No service between Arnos Grove and Acton Town/Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 15 minutes and between Acton Town and Heathrow Terminals 2& 3 and 4 every 30 minutes.\r\n\r\n "
     },
     "Suffragette": {
         "is_disrupted": false,
