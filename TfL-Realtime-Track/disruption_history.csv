@@ -1253,3 +1253,13 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-02 00:10:36,Piccadilly,Piccadilly Line: Minor delays due to an earlier fire alert at Acton Town. ,True
 2026-06-02 00:10:36,Victoria,Victoria Line: Minor delays due to an earlier track fault at Brixton.  ,True
 2026-06-02 00:10:36,Waterloo & City,Waterloo and City Line: Service is not expected to resume until after 06:30 due to strike action. ,True
+2026-06-02 05:00:05,Bakerloo,Bakerloo Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,Central,Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes approximately and between Liverpool Street and Epping / Woodford via Hainault every 10 minutes approximately.  ,True
+2026-06-02 05:00:05,Circle,Circle Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,District,District Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,Hammersmith & City,Hammersmith and City Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,Metropolitan,Metropolitan Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,Northern,Northern Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,Piccadilly,Piccadilly Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,Victoria,Victoria Line: No service on the entire line due to strike action. ,True
+2026-06-02 05:00:05,Waterloo & City,Waterloo and City Line: No service on the entire line due to strike action. ,True

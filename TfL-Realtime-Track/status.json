@@ -1,31 +1,31 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service on the entire line due to strike action. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes approximately and between Liverpool Street and Epping / Woodford via Hainault every 10 minutes approximately.  "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: No service on the entire line due to strike action. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays due to an earlier signalling problem at Parsons Green. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C and South Western Railway. "
+        "reason": "District Line: No service on the entire line due to strike action. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "ELIZABETH LINE: Monday 1, Tuesday 2 and Wednesday 3 June, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell."
-    },
-    "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Hammersmith & City": {
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: No service on the entire line due to strike action. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,20 +40,20 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service on the entire line due to strike action. "
     },
     "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service on the entire line due to strike action. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays due to an earlier fire alert at Acton Town. "
+        "reason": "Piccadilly Line: No service on the entire line due to strike action. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,11 +65,11 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier track fault at Brixton.  "
+        "reason": "Victoria Line: No service on the entire line due to strike action. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service is not expected to resume until after 06:30 due to strike action. "
+        "reason": "Waterloo and City Line: No service on the entire line due to strike action. "
     },
     "Weaver": {
         "is_disrupted": false,
