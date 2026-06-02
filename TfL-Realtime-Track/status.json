@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle every 6 minutes. "
+        "reason": "Bakerloo Line: No service due to strike action.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action and due to an earlier signal failure at Theydon Bois. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes, between Liverpool Street and Woodford via Hainault every 10 minutes, between Leytonstone and Epping every 30 minutes and between Woodford and Hainault via Chigwell every 20 minutes. "
+        "reason": "Central Line: No service on the entire line due to strike action. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield due to an earlier signal system failure at Gidea Park. London Underground are accepting tickets via any reasonable routes. GOOD SERVICE on the rest of the line.\r\n "
+        "reason": "ELIZABETH LINE: Monday 1, Tuesday 2 and Wednesday 3 June, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell."
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking and SEVERE DELAYS on the rest of the line due to strike action. Services are operating approximately every 15 minutes. "
+        "reason": "Hammersmith and City Line: No service due to strike action. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Harrow-on-the-Hill and Amersham every 30 minutes / Chesham every 60 minutes, between Harrow-on-the-Hill and Uxbridge / Watford every 15 minutes and between Baker Street and Harrow-on-the-Hill every 15 minutes. "
+        "reason": "Metropolitan Line: No service on the whole line due to strike action.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Golders Green and Battersea Power Station via Charing Cross and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Edgware and Golders Green every 8 minutes. Services are operating approximately every 15 minutes on the rest of the line. "
+        "reason": "Northern Line: No service on the entire line due to strike action. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Arnos Grove and Acton Town/Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 15 minutes and between Acton Town and Heathrow Terminals 2& 3 and 4 every 30 minutes.\r\n\r\n "
+        "reason": "Piccadilly Line: No service due to strike action.  "
     },
     "Suffragette": {
         "is_disrupted": false,
