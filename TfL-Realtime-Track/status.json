@@ -68,8 +68,8 @@
         "reason": "Victoria Line: Minor delays due to an earlier track fault at Brixton.  "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service is not expected to resume until after 06:30 due to strike action. "
     },
     "Weaver": {
         "is_disrupted": false,
