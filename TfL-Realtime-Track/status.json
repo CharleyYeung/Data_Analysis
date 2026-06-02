@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service on the entire line due to strike action. "
+        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle every 6 minutes. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes approximately and between Liverpool Street and Epping / Woodford via Hainault every 10 minutes approximately.  "
+        "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes and between Liverpool Street and Epping / Woodford via Hainault every 10 minutes. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -13,19 +13,19 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service on the entire line due to strike action. "
+        "reason": "District Line: Severe delays due to strike action. Services are operating approximately every 10 minutes. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Paddington and Reading / Heathrow Terminals while we fix a points failure at Slough. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service on the entire line due to strike action. "
+        "reason": "Hammersmith and City Line: Severe delays due to strike action. Services are operating approximately every 15 minutes. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,19 +41,19 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service on the entire line due to strike action. "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Harrow-on-the-Hill and Amersham / Chesham every 30 minutes, between Harrow-on-the-Hill and Uxbridge / Watford every 15 minutes and between Baker Street and Harrow-on-the-Hill every 15 minutes. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays between Willesden Junction and Stratford due to an earlier fault with the overhead power lines in the Willesden Junction area. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service on the entire line due to strike action. "
+        "reason": "Northern Line: Minor delays due to strike action. Services are operating approximately every 6 minutes. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service on the entire line due to strike action. "
+        "reason": "Piccadilly Line: No service between Arnos Grove and Heathrow Airport / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 10 minutes.\r\n\r\n "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: No service on the entire line due to strike action. "
+        "reason": "Victoria Line: Severe delays due to strike action. Services are operating approximately every 4 minutes. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
