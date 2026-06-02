@@ -1275,3 +1275,14 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-02 09:16:55,Piccadilly,Piccadilly Line: No service between Arnos Grove and Heathrow Airport / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 10 minutes.   ,True
 2026-06-02 09:16:55,Victoria,Victoria Line: Severe delays due to strike action. Services are operating approximately every 4 minutes. ,True
 2026-06-02 09:16:55,Waterloo & City,Waterloo and City Line: No service on the entire line due to strike action. ,True
+2026-06-02 12:55:00,Bakerloo,Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle every 6 minutes. ,True
+2026-06-02 12:55:00,Central,Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip every 10 minutes  between Liverpool Street and Woodford via Hainault every 10 minutes  between Leytonstone and Epping every 30 minutes and between Woodford and Hainault via Chigwell every 20 minutes. ,True
+2026-06-02 12:55:00,Circle,Circle Line: No service on the entire line due to strike action. ,True
+2026-06-02 12:55:00,District,District Line: Severe delays due to strike action. Services are operating approximately every 10 minutes. ,True
+2026-06-02 12:55:00,Hammersmith & City,Hammersmith and City Line: No service between Liverpool Street and Barking and SEVERE DELAYS on the rest of the line due to strike action. Services are operating approximately every 15 minutes. ,True
+2026-06-02 12:55:00,Lioness,Lioness Line: Severe delays due to an earlier faulty train at South Kenton. ,True
+2026-06-02 12:55:00,Metropolitan,Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Harrow-on-the-Hill and Amersham every 30 minutes / Chesham every 60 minutes  between Harrow-on-the-Hill and Uxbridge / Watford every 15 minutes and between Baker Street and Harrow-on-the-Hill every 15 minutes. ,True
+2026-06-02 12:55:00,Northern,Northern Line: Severe delays due to strike action. Services are operating approximately every 15 minutes. ,True
+2026-06-02 12:55:00,Piccadilly,Piccadilly Line: No service between Arnos Grove and Acton Town/Uxbridge due to strike action and SEVERE DELAYS between Acton Town and Heathrow Terminals. Service is operating between Arnos Grove and Cockfosters every 15 minutes.   ,True
+2026-06-02 12:55:00,Victoria,Victoria Line: Minor delays due to strike action. Services are operating approximately every 4 minutes. ,True
+2026-06-02 12:55:00,Waterloo & City,Waterloo and City Line: No service on the entire line due to strike action. ,True
