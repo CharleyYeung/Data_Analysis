@@ -1342,3 +1342,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-03 00:16:45,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-06-03 00:16:45,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-06-03 00:16:45,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-06-03 05:24:41,Circle,Circle Line: Severe delays due to train cancellations. ,True
+2026-06-03 05:24:41,District,District Line: Minor delays between Turnham Green and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-06-03 05:24:41,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
