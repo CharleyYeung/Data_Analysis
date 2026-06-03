@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -44,16 +44,16 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction while we remove a tree from the track at Shepherd's Bush. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays due to an earlier obstruction on the track at Barons Court. London Buses, Elizabeth Line, Great Northern, Weaver Line and South Western Railway are accepting tickets via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
