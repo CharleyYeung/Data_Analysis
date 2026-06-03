@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Whitechapel and Shenfield and MINOR DELAYS between Paddington and Abbey Wood while we fix a fault with the overhead power lines at Gidea Park. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction while we remove a tree from the track at Shepherd's Bush. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier obstruction on the track at Barons Court. London Buses, Elizabeth Line, Great Northern, Weaver Line and South Western Railway are accepting tickets via any reasonable route. "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals / Uxbridge due to an earlier obstruction on the track at Barons Court.  GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Sydenham and West Croydon. NO SERVICE between Surrey Quays and New Cross and SEVERE DELAYS between New Cross Gate and Crystal Palace while we remove a tree from the track at Brockley. GOOD SERVICE on the rest of the line.  "
     }
 }

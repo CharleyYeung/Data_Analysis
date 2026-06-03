@@ -1348,3 +1348,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-03 15:13:12,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-06-03 15:13:12,Mildmay,Mildmay Line: Minor delays between Willesden Junction and Clapham Junction while we remove a tree from the track at Shepherd's Bush. GOOD SERVICE on the rest of the line.  ,True
 2026-06-03 15:13:12,Piccadilly,Piccadilly Line: Severe delays due to an earlier obstruction on the track at Barons Court. London Buses  Elizabeth Line  Great Northern  Weaver Line and South Western Railway are accepting tickets via any reasonable route. ,True
+2026-06-03 18:59:51,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-06-03 18:59:51,Elizabeth line,Severe delays between Whitechapel and Shenfield and MINOR DELAYS between Paddington and Abbey Wood while we fix a fault with the overhead power lines at Gidea Park. GOOD SERVICE on the rest of the line.  ,True
+2026-06-03 18:59:51,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals / Uxbridge due to an earlier obstruction on the track at Barons Court.  GOOD SERVICE on the rest of the line. ,True
+2026-06-03 18:59:51,Windrush,Windrush Line: No service between Sydenham and West Croydon. NO SERVICE between Surrey Quays and New Cross and SEVERE DELAYS between New Cross Gate and Crystal Palace while we remove a tree from the track at Brockley. GOOD SERVICE on the rest of the line.  ,True
