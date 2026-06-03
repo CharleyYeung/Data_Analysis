@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield and MINOR DELAYS between Paddington and Abbey Wood while we fix a fault with the overhead power lines at Gidea Park. GOOD SERVICE on the rest of the line.  "
+        "reason": "ELIZABETH LINE: Monday 1, Tuesday 2 and Wednesday 3 June, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell."
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -48,12 +48,12 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Kennington and Morden due to flooding. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals / Uxbridge due to an earlier obstruction on the track at Barons Court.  GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Sydenham and West Croydon. NO SERVICE between Surrey Quays and New Cross and SEVERE DELAYS between New Cross Gate and Crystal Palace while we remove a tree from the track at Brockley. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
