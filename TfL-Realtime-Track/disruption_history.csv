@@ -1322,3 +1322,23 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-02 22:33:04,Piccadilly,Piccadilly Line: No service due to strike action.  ,True
 2026-06-02 22:33:04,Victoria,Victoria Line: Minor delays due to strike action. Services are operating approximately every 4 minutes. ,True
 2026-06-02 22:33:04,Waterloo & City,Waterloo and City Line: No service on the entire line due to strike action. ,True
+2026-06-03 00:16:45,Bakerloo,Bakerloo Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Central,Central Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Circle,Circle Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,District,District Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,DLR,Docklands Light Railway: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Elizabeth line,ELIZABETH LINE: Monday 1  Tuesday 2 and Wednesday 3 June  after 2200 each evening  a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4  West Drayton  Langley  Slough  Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway  Southall and Hayes & Harlington. After 2300  trains will not call at Acton Main Line  West Ealing and Hanwell.,True
+2026-06-03 00:16:45,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Jubilee,Jubilee Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Liberty,Liberty Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Lioness,Lioness Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Metropolitan,Metropolitan Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Mildmay,Mildmay Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Northern,Northern Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Piccadilly,Piccadilly Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Suffragette,Suffragette Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Tram,London Tramlink: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Victoria,Victoria Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-06-03 00:16:45,Weaver,Weaver Line: Service will resume later this morning. ,True
+2026-06-03 00:16:45,Windrush,Windrush Line: Service will resume later this morning. ,True
