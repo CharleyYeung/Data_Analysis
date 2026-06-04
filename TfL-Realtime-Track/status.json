@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays while we fix a signal failure at Paddington and due to strike action. London Overground are operating a more frequent service between Queen's Park and Harrow & Wealdstone. \r\n "
+        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Services are operating approximately every 8 minutes. Please use the Lioness line between Harrow & Wealdstone and Central London. \r\n "
     },
     "Central": {
         "is_disrupted": true,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to strike action. Services are operating approximately every 30 minutes. "
+        "reason": "Hammersmith and City Line: No service between Barking and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating approximately every 15 minutes. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to strike action. MINOR DELAYS on the rest of the line. Services are operating between Baker Street and Amersham / Chesham every 30 minutes and between Baker Street and Watford / Uxbridge every 15 minutes. "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to strike action. SEVERE DELAYS between Harrow-on-the-Hill and Watford due to train cancellations. MINOR DELAYS on the rest of the line. Services are operating between Baker Street and Amersham / Chesham every 30 minutes and between Baker Street and Watford / Uxbridge every 15 minutes. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between High Barnet and East Finchley and MINOR DELAYS between Edgware and Golders Green due to strike action.  SEVERE DELAYS on the rest of the line.\r\n\r\n\r\n "
+        "reason": "Northern Line: No service between Golders Green and Battersea Power Station via Charing Cross and SEVERE DELAYS on the rest of line due to strike action. Service is operating approximately every 10 minutes.  "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Arnos Grove and Heathrow Airport / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 15 minutes.\r\n\r\n\r\n\r\n\r\n "
+        "reason": "Piccadilly Line: No service between Arnos Grove and Heathrow Airport / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 15 minutes. \r\n\r\n "
     },
     "Suffragette": {
         "is_disrupted": false,
