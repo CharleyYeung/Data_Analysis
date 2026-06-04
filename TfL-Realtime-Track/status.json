@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Services are operating approximately every 8 minutes. Please use the Lioness line between Harrow & Wealdstone and Central London. \r\n "
+        "reason": "Bakerloo Line: No service due to strike action.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between White City and Liverpool Street and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway every 30 minutes, between White City and West Ruislip every 15 minutes,  between Leytonstone and Epping every 25 minutes, Between Liverpool Street and Hainault via Newbury Park every 10 minutes, and between Woodford and Hainault via Grange Hill every 20 minutes. Please complete your journeys by 22:30. "
+        "reason": "Central Line: No service due to strike action.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays on the entire line due to strike action. Services are operating approximately every 10 minutes.  "
+        "reason": "District Line: No service due to strike action.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to strike action. Service is operating approximately every 30 minutes. "
+        "reason": "Hammersmith and City Line: No service due to strike action. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Amersham / Chesham every 30 minutes and between Baker Street and Watford / Uxbridge every 15 minutes. "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and between Chalfont & Latimer and Chesham and SEVERE DELAYS on the rest of the line due to strike action. Services are operating between Baker Street and Amersham / Chesham every 30 minutes and between Baker Street and Watford / Uxbridge every 15 minutes. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Arnos Grove and Acton Town and between Acton Town and Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating every 15 minutes. "
+        "reason": "Piccadilly Line: No service between Cockfosters and Acton Town and between Acton Town and Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating every 15 minutes. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to strike action. "
+        "reason": "Victoria Line: No service due to strike action.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
