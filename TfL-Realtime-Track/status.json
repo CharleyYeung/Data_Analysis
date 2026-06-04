@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to strike action. Services are operating approximately every 6 minutes. SEVERE DELAYS on the rest of the line.  A shuttle service is operating between Queen's Park and Harrow & Wealdstone approximately every 60 minutes. London Overground are operating a more frequent service between Queen's Park and Harrow & Wealdstone.  "
+        "reason": "Bakerloo Line: Severe delays while we fix a signal failure at Paddington and due to strike action. London Overground are operating a more frequent service between Queen's Park and Harrow & Wealdstone. \r\n "
     },
     "Central": {
         "is_disrupted": true,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to strike action. Services are operating approximately every 15 minutes. "
+        "reason": "Hammersmith and City Line: Severe delays due to strike action. Services are operating approximately every 30 minutes. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays due to strike action.  Services are operating approximately every 10 minutes. Services are running between High Barnet and Morden via Bank and between Edgware and Battersea Power Station via Charing Cross. Please change where necessary. "
+        "reason": "Northern Line: Minor delays between High Barnet and East Finchley and MINOR DELAYS between Edgware and Golders Green due to strike action.  SEVERE DELAYS on the rest of the line.\r\n\r\n\r\n "
     },
     "Piccadilly": {
         "is_disrupted": true,
