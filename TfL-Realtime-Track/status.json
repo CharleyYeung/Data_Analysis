@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to strike action. Service is operating approximately every 15 minutes. "
+        "reason": "Hammersmith and City Line: Severe delays due to strike action. Service is operating approximately every 30 minutes. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays westbound only between Stratford and North Greenwich due to an earlier trespasser on the track at Stratford. GOOD SERVICE on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Golders Green and Camden Town and between Camden Town and Battersea Power Station via Charing Cross and SEVERE DELAYS on the rest of line due to strike action. Service is operating approximately every 10 minutes.  "
+        "reason": "Northern Line: No service on the entire line due to strike action. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between King's Cross St. Pancras and Acton Town and between Acton Town and Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating every 15 minutes. "
+        "reason": "Piccadilly Line: No service between Arnos Grove and Acton Town and between Acton Town and Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating every 15 minutes. "
     },
     "Suffragette": {
         "is_disrupted": false,
