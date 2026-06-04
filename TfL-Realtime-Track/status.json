@@ -1,82 +1,82 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to strike action. Services are operating approximately every 6 minutes. SEVERE DELAYS on the rest of the line.  A shuttle service is operating between Queen's Park and Harrow & Wealdstone approximately every 60 minutes. London Overground are operating a more frequent service between Queen's Park and Harrow & Wealdstone.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Central Line: No service between White City and Liverpool Street and MINOR DELAYS on the rest of the line due to strike action. Service is operating between White City and Ealing Broadway / West Ruislip and between Liverpool Street and Epping / Woodford via Hainault every 10 minutes. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Circle Line: No service on the entire line due to strike action. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "District Line: Severe delays on the entire line due to strike action. Services are operating approximately every 10 minutes.  "
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Hammersmith and City Line: Minor delays due to strike action. Services are operating approximately every 15 minutes. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate due to strike action. MINOR DELAYS on the rest of the line. Services are operating between Baker Street and Amersham / Chesham every 30 minutes and between Baker Street and Watford / Uxbridge every 15 minutes. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Northern Line: Severe delays due to strike action.  Services are operating approximately every 10 minutes. Services are running between High Barnet and Morden via Bank and between Edgware and Battersea Power Station via Charing Cross. Please change where necessary. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Piccadilly Line: No service between Arnos Grove and Heathrow Airport / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 15 minutes.\r\n\r\n\r\n\r\n\r\n "
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Victoria Line: Minor delays due to strike action. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "TUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike, no service is expected on the Circle line, Piccadilly line, the Metropolitan line between Baker Street and Aldgate, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However, there will be disruption to journeys and service levels will vary across the London Underground network. On both days, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June, Wednesday 3 June and Friday 5 June"
+        "reason": "Waterloo and City Line: No service on the entire line due to strike action. "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
