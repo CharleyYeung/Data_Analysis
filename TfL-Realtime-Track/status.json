@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: No service on the entire line due to strike action. "
+        "reason": "Circle Line: No service due to strike action. "
     },
     "District": {
         "is_disrupted": true,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service on the entire line due to strike action. "
+        "reason": "Northern Line: No service due to strike action. "
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Cockfosters and Acton Town and between Acton Town and Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating every 15 minutes. "
+        "reason": "Piccadilly Line: No service due to strike action.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -69,7 +69,7 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: No service on the entire line due to strike action. "
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": false,
