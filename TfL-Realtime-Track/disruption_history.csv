@@ -1459,3 +1459,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-05 00:02:40,Piccadilly,Piccadilly Line: No service due to strike action.  ,True
 2026-06-05 00:02:40,Victoria,Victoria Line: No service due to strike action.  ,True
 2026-06-05 00:02:40,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-06-05 04:46:08,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-06-05 04:46:08,Piccadilly,Piccadilly Line: Minor delays between Heathrow Airport and Cockfosters eastbound only due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-06-05 04:46:08,Victoria,Victoria Line: Minor delays following a late finish of engineering work at Highbury & Islington.  ,True
+2026-06-05 04:46:08,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
