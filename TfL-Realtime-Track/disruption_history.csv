@@ -1473,3 +1473,4 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-05 14:40:57,Bakerloo,Bakerloo Line: Minor delays due to an earlier signal failure at Willesden Junction. ,True
 2026-06-05 14:40:57,Central,Central Line: Minor delays due to train cancellations.     ,True
 2026-06-05 17:03:16,Central,Central Line: Minor delays due to train cancellations.     ,True
+2026-06-05 19:07:12,Central,Central Line: Minor delays due to train cancellations.     ,True
