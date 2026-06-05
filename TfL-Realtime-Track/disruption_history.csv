@@ -1463,3 +1463,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-05 04:46:08,Piccadilly,Piccadilly Line: Minor delays between Heathrow Airport and Cockfosters eastbound only due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-06-05 04:46:08,Victoria,Victoria Line: Minor delays following a late finish of engineering work at Highbury & Islington.  ,True
 2026-06-05 04:46:08,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-06-05 08:41:25,Bakerloo,Bakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure at Willesden Junction. GOOD SERVICE on the rest of the line.   ,True
+2026-06-05 08:41:25,Central,Central Line: Minor delays due to train cancellations ,True
+2026-06-05 08:41:25,Piccadilly,Piccadilly Line: Minor delays between King's Cross St Pancras and Arnos Grove due to a signalling problem. GOOD SERVICE on the rest of the line.   ,True
+2026-06-05 08:41:25,Weaver,Weaver Line: Severe delays between Chingford and Liverpool Street and MINOR DELAYS on the rest of the line while we fix a points failure at Liverpool Street. London Underground are accepting tickets via any reasonable route.  ,True
