@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Canary Wharf and Lewisham due to a customer incident at Island Gardens. GOOD SERVICE on all other DLR routes. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Minor delays while we remove an obstruction from the overhead power lines at Liverpool Street. "
     },
     "Windrush": {
         "is_disrupted": false,
