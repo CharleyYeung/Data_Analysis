@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure at Willesden Junction. Tickets are being accepted on London Buses, the Lioness line and London Northwestern Railway "
+        "reason": "Bakerloo Line: Minor delays due to an earlier signal failure at Willesden Junction. "
     },
     "Central": {
         "is_disrupted": true,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Minor delays while we fix a signal failure at Willesden Junction. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": false,

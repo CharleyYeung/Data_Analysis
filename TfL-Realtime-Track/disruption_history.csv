@@ -1470,3 +1470,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-05 11:49:28,Bakerloo,Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure at Willesden Junction. Tickets are being accepted on London Buses  the Lioness line and London Northwestern Railway ,True
 2026-06-05 11:49:28,Central,Central Line: Minor delays due to train cancellations.     ,True
 2026-06-05 11:49:28,Lioness,Lioness Line: Minor delays while we fix a signal failure at Willesden Junction. ,True
+2026-06-05 14:40:57,Bakerloo,Bakerloo Line: Minor delays due to an earlier signal failure at Willesden Junction. ,True
+2026-06-05 14:40:57,Central,Central Line: Minor delays due to train cancellations.     ,True
