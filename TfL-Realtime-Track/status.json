@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure at Willesden Junction. GOOD SERVICE on the rest of the line.   "
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure at Willesden Junction. Tickets are being accepted on London Buses, the Lioness line and London Northwestern Railway "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations "
+        "reason": "Central Line: Minor delays due to train cancellations. \r\n\r\n\r\n "
     },
     "Circle": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Minor delays while we fix a signal failure at Willesden Junction. "
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between King's Cross St Pancras and Arnos Grove due to a signalling problem. GOOD SERVICE on the rest of the line.   "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Severe delays between Chingford and Liverpool Street and MINOR DELAYS on the rest of the line while we fix a points failure at Liverpool Street. London Underground are accepting tickets via any reasonable route.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
