@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays due to an earlier faulty track at Kilburn. Tickets are being accepted on London Buses, Elizabeth line, Mildmay line, DLR, C2C and Thameslink via any reasonable route.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and MINOR DELAYS on the rest of the line while we fix a faulty track at Kilburn. Please use the Jubilee line to / from Wembley Park. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink services via any reasonable route.  "
+        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while we fix a track fault at Kilburn. Please use the Jubilee line to / from Wembley Park. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink services via any reasonable route.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations "
     },
     "Waterloo & City": {
         "is_disrupted": true,
