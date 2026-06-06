@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier track fault at Kilburn.  Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink services via any reasonable route.  "
+        "reason": "Metropolitan Line: Minor delays due to an earlier track fault at Kilburn.  "
     },
     "Mildmay": {
         "is_disrupted": false,
