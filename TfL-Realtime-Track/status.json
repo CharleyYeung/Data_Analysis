@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Sunday 7 June, until 1200 and after 2030, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground connections."
     },
     "Metropolitan": {
         "is_disrupted": false,
