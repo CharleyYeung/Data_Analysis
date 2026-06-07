@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Sunday 7 June, until 1015, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Please use London Underground and London Buses connections between Liverpool Street and Hackney Downs / Seven Sisters. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs or Seven Sisters. Replacement buses operate. PLEASE NOTE: Due to roadworks, service L2 will not serve Theobalds Grove or Cheshunt and is revised to start and terminate at Waltham Cross (Lidl). This is around a 20 minute walk from Theobalds Grove and 40 minute walk from Cheshunt. Limited bus services operate on non-TfL routes 242 and 310 between Waltham Cross Bus Station (five minutes north of Lidl), Theobalds Grove Station and Cheshunt (Old Pond), ten minutes from the station. For Cheshunt, please use GREATER ANGLIA services where possible."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
