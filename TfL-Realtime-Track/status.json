@@ -16,8 +16,8 @@
         "reason": "DISTRICT LINE: Saturday 6 and Sunday 7 June, no service between Turnham Green and Ealing Broadway. Replacement buses operate."
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: No service between Bank and Shadwell while we respond to a fire alert at Bank. GOOD SERVICE on all other DLR routes.  "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Sunday 7 June, until 1200 and after 2030, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground connections."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": false,
