@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to an earlier trespasser on the track at Stratford.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -48,12 +48,12 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays due an earlier points failure at Camden Town. London Buses are accepting tickets via any reasonable route. Southbound trains from High Barnet and Mill Hill East will run via Bank only. Southbound trains from Edgware will run via Charing Cross. Please change at Camden Town if necessary. If you are travelling to Battersea Power Station please change Kennington. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: No service between Hatton Cross and Heathrow Terminals and MINOR DELAYS between Hatton Cross and Acton Town while we fix a signal failure at Hatton Cross. Please use the Elizabeth line for inter-terminal travel. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,

@@ -1652,3 +1652,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-08 01:59:30,Waterloo & City,Waterloo and City Line: Service will resume at 06:00.  ,True
 2026-06-08 01:59:30,Weaver,Weaver Line: Service closed. ,True
 2026-06-08 01:59:30,Windrush,Windrush Line: Service closed. ,True
+2026-06-08 13:49:45,Jubilee,Jubilee Line: Minor delays due to an earlier trespasser on the track at Stratford.  ,True
+2026-06-08 13:49:45,Northern,Northern Line: Severe delays due an earlier points failure at Camden Town. London Buses are accepting tickets via any reasonable route. Southbound trains from High Barnet and Mill Hill East will run via Bank only. Southbound trains from Edgware will run via Charing Cross. Please change at Camden Town if necessary. If you are travelling to Battersea Power Station please change Kennington. ,True
+2026-06-08 13:49:45,Piccadilly,Piccadilly Line: No service between Hatton Cross and Heathrow Terminals and MINOR DELAYS between Hatton Cross and Acton Town while we fix a signal failure at Hatton Cross. Please use the Elizabeth line for inter-terminal travel. GOOD SERVICE on the rest of the line. ,True
