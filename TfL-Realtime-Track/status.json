@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between Leytonstone and Epping / Hainault via Newbury Park due to an earlier faulty train at Leytonstone and MINOR DELAYS between White City and Ealing Broadway / West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate and MINOR DELAYS on the rest of the line while we fix a points failure at Wembley Park. Good service on the rest of the line. Tickets are being accepted on London Buses, the Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Richmond due to an earlier signal failure at South Acton. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: No service between Willesden Junction and Richmond while we fix signal failure at South Acton. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between New Cross Gate and West Croydon/Crystal Palace. NO SERVICE between Surrey Quays and New Cross and NO SERVICE between Dalston Junction and Highbury & Islington while we respond to a fire alert in the New Cross Gate area. SEVERE DELAYS on the rest of the line.\r\nLondon Underground are accepting tickets via any reasonable route.  "
     }
 }
