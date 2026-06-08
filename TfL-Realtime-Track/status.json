@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate and MINOR DELAYS on the rest of the line while we fix a points failure at Wembley Park. Good service on the rest of the line. Tickets are being accepted on London Buses, the Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
+        "reason": "Metropolitan Line: Minor delays due to an earlier points failure at Wembley Park.  "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Richmond while we fix signal failure at South Acton. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Kennington and Battersea Power Station due to a points failure at Camden Town. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. Southbound trains from High Barnet and Mill Hill East will run via Bank only. Please change at Camden Town if necessary. If you are travelling to Battersea Power Station please change Kennington. "
+        "reason": "Northern Line: Minor delays due to a points failure at Camden Town. London Buses are accepting tickets via any reasonable route. Southbound trains from High Barnet and Mill Hill East will run via Bank only. Please change at Camden Town if necessary. If you are travelling to Battersea Power Station please change Kennington. "
     },
     "Piccadilly": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between New Cross Gate and West Croydon/Crystal Palace. NO SERVICE between Surrey Quays and New Cross and NO SERVICE between Dalston Junction and Highbury & Islington while we respond to a fire alert in the New Cross Gate area. SEVERE DELAYS on the rest of the line.\r\nLondon Underground are accepting tickets via any reasonable route.  "
+        "reason": "Windrush Line: No service between Surrey Quays and New Cross and MINOR DELAYS between Dalston Junction and Clapham Junction while we respond to a fire alert in the New Cross Gate area. GOOD SERVICE on the rest of the line. "
     }
 }
