@@ -4,24 +4,24 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Leytonstone and Epping / Hainault via Newbury Park due to an earlier faulty train at Leytonstone and MINOR DELAYS between White City and Ealing Broadway / West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: No service while we fix a points failure at Gloucester Road. Tickets are being accepted on London Buses and the Elizabeth Line via any reasonable route   "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: No service between Tower Hill and Earl's Court westbound while we fix a points failure at Gloucester Road. Tickets are being accepted on London Buses and the Elizabeth Line via any reasonable route   "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Paddington and Heathrow Terminals / Reading while we fix a signal system failure at Ealing Broadway "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -48,12 +48,12 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and High Barnet and MINOR DELAYS on the rest of the line due to a points failure at Camden Town and train cancellations. London Buses are accepting tickets via any reasonable route. Southbound trains from High Barnet and Mill Hill East will run via Bank only. Please change at Camden Town if necessary. If you are travelling to Battersea Power Station please change at Kennington. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Hatton Cross and Heathrow Terminal 4 for the rest of the day while we fix a signal failure at Hatton Cross. Please use the Elizabeth line for inter-terminal travel. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,11 +72,11 @@
         "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 8, Tuesday 9, Wednesday 10 and Thursday 11 June, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213), 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate. PLEASE NOTE: Due to roadworks, service L2 will not serve Theobalds Grove. Replacement buses instead serve stops near Waltham Cross, Lidl on Hertford Road. Use the Bullsmoor Lane / Mollison Avenue stop for buses towards Cheshunt, and southbound buses serve the Arlington Crescent stop. Theobalds Grove station is a 20 minute walk."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Surrey Quays and New Cross and MINOR DELAYS between Dalston Junction and Clapham Junction while we respond to a fire alert in the New Cross Gate area. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
