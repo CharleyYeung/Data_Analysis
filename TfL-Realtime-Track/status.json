@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminals / Reading due to an earlier signal failure at West Ealing. GOOD SERVICE on the rest of the line.\r\n\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham due to an earlier tree on the track at Rickmansworth. Chiltern Railway services are also disrupted. GOOD SERVICE on the rest of the line. \r\n "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham due to an earlier tree on the track at Rickmansworth. GOOD SERVICE on the rest of the line. \r\n "
     },
     "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays while we fix a points failure at Camden Town. All northbound Bank branch trains will run to High Barnet/Mill Hill East. All northbound Charing Cross branch trains will run to Edgware. Please change at Camden Town where necessary.   "
     },
     "Piccadilly": {
         "is_disrupted": false,
