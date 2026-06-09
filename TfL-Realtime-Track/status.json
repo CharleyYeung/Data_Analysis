@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Paddington and Heathrow Terminals / Reading due to an earlier signal failure at West Ealing. GOOD SERVICE on the rest of the line.\r\n\r\n "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham due to an earlier tree on the track at Rickmansworth. Chiltern Railway services are also disrupted. GOOD SERVICE on the rest of the line. \r\n "
     },
     "Mildmay": {
         "is_disrupted": false,
