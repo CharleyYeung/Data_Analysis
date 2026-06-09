@@ -8,12 +8,12 @@
         "reason": "Central Line: Minor delays between Leytonstone and Epping / Hainault via Newbury Park due to an earlier faulty train at Leytonstone and MINOR DELAYS between White City and Ealing Broadway / West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: No service while we fix a points failure at Gloucester Road. Tickets are being accepted on London Buses and the Elizabeth Line via any reasonable route   "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: No service between Tower Hill and Earl's Court westbound while we fix a points failure at Gloucester Road. Tickets are being accepted on London Buses and the Elizabeth Line via any reasonable route   "
     },
     "DLR": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to a points failure at Camden Town. London Buses are accepting tickets via any reasonable route. Southbound trains from High Barnet and Mill Hill East will run via Bank only. Please change at Camden Town if necessary. If you are travelling to Battersea Power Station please change Kennington. "
+        "reason": "Northern Line: Severe delays between Camden Town and High Barnet and MINOR DELAYS on the rest of the line due to a points failure at Camden Town and train cancellations. London Buses are accepting tickets via any reasonable route. Southbound trains from High Barnet and Mill Hill East will run via Bank only. Please change at Camden Town if necessary. If you are travelling to Battersea Power Station please change at Kennington. "
     },
     "Piccadilly": {
         "is_disrupted": true,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
     },
     "Weaver": {
         "is_disrupted": true,
