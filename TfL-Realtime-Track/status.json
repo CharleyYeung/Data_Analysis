@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham due to an earlier tree on the track at Rickmansworth. GOOD SERVICE on the rest of the line. \r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays while we fix a points failure at Camden Town. All northbound Bank branch trains will run to High Barnet/Mill Hill East. All northbound Charing Cross branch trains will run to Edgware. Please change at Camden Town where necessary.   "
+        "reason": "Northern Line: Severe delays between Camden Town and High Barnet, and MINOR DELAYS on the rest of the line while we fix a points failure at Camden Town. All northbound Bank branch trains will run to High Barnet/Mill Hill East. All northbound Charing Cross branch trains will run to Edgware. Please change at Camden Town where necessary.   "
     },
     "Piccadilly": {
         "is_disrupted": false,

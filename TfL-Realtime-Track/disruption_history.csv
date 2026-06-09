@@ -1691,3 +1691,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-09 19:11:07,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-06-09 19:11:07,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham due to an earlier tree on the track at Rickmansworth. GOOD SERVICE on the rest of the line.   ,True
 2026-06-09 19:11:07,Northern,Northern Line: Minor delays while we fix a points failure at Camden Town. All northbound Bank branch trains will run to High Barnet/Mill Hill East. All northbound Charing Cross branch trains will run to Edgware. Please change at Camden Town where necessary.   ,True
+2026-06-09 21:10:54,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-06-09 21:10:54,Northern,Northern Line: Severe delays between Camden Town and High Barnet  and MINOR DELAYS on the rest of the line while we fix a points failure at Camden Town. All northbound Bank branch trains will run to High Barnet/Mill Hill East. All northbound Charing Cross branch trains will run to Edgware. Please change at Camden Town where necessary.   ,True
