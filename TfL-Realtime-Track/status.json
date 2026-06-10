@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford southbound/eastbound while we fix a signal failure at St John's Wood. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to a points failure at Camden Town. All northbound Bank branch trains will run to High Barnet/Mill Hill East. All northbound Charing Cross branch trains will run to Edgware. Please change at Camden Town where necessary. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 8, Tuesday 9, Wednesday 10 and Thursday 11 June, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213), 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate. PLEASE NOTE: Due to roadworks, service L2 will not serve Theobalds Grove. Replacement buses instead serve stops near Waltham Cross, Lidl on Hertford Road. Use the Bullsmoor Lane / Mollison Avenue stop for buses towards Cheshunt, and southbound buses serve the Arlington Crescent stop. Theobalds Grove station is a 20 minute walk."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
