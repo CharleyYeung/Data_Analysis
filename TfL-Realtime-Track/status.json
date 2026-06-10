@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Acton Town and Uxbridge while we fix a faulty train at South Harrow. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier faulty train at South Harrow. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WEAVER LINE: Monday 8, Tuesday 9, Wednesday 10 and Thursday 11 June, after 2245 each evening, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and for Rectory Road and Stoke Newington, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213), 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate. PLEASE NOTE: Due to roadworks, service L2 will not serve Theobalds Grove. Replacement buses instead serve stops near Waltham Cross, Lidl on Hertford Road. Use the Bullsmoor Lane / Mollison Avenue stop for buses towards Cheshunt, and southbound buses serve the Arlington Crescent stop. Theobalds Grove station is a 20 minute walk."
     },
     "Windrush": {
         "is_disrupted": false,
