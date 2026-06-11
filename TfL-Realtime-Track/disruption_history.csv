@@ -1730,3 +1730,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-11 11:08:13,Tram,London Tramlink: No service between Wimbledon and Mitcham Junction while we fix a track fault at Mitcham. GOOD SERVICE on all other tram routes. ,True
 2026-06-11 11:08:13,Victoria,Victoria Line: Minor delays line due to a track fault at Walthamstow Central.  ,True
 2026-06-11 14:53:40,Victoria,Victoria Line: Minor delays line due to a track fault at Walthamstow Central.  ,True
+2026-06-11 18:09:56,Elizabeth line,Severe delays between Whitechapel and Shenfield while due an obstruction earlier from the track at Chadwell Heath. GOOD SERVICE on the rest of the line. ,True
+2026-06-11 18:09:56,Mildmay,Mildmay Line: No service between Willesden Junction and Richmond while we fix a points failure at South Acton. MINOR DELAYS on the rest of the line. ,True
+2026-06-11 18:09:56,Victoria,Victoria Line: Minor delays line due to a track fault at Walthamstow Central.  ,True
