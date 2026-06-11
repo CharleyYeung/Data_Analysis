@@ -1727,3 +1727,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-11 01:38:19,Weaver,Weaver Line: Service will resume later this morning.  ,True
 2026-06-11 01:38:19,Windrush,Windrush Line: Service will resume later this morning.  ,True
 2026-06-11 06:25:26,Victoria,Victoria Line: Minor delays due to a track fault at Walthamstow Central. ,True
+2026-06-11 11:08:13,Tram,London Tramlink: No service between Wimbledon and Mitcham Junction while we fix a track fault at Mitcham. GOOD SERVICE on all other tram routes. ,True
+2026-06-11 11:08:13,Victoria,Victoria Line: Minor delays line due to a track fault at Walthamstow Central.  ,True

@@ -60,12 +60,12 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: No service between Wimbledon and Mitcham Junction while we fix a track fault at Mitcham. GOOD SERVICE on all other tram routes. "
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow Central. "
+        "reason": "Victoria Line: Minor delays line due to a track fault at Walthamstow Central.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
