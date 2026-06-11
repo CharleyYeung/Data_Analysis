@@ -1733,3 +1733,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-11 18:09:56,Elizabeth line,Severe delays between Whitechapel and Shenfield while due an obstruction earlier from the track at Chadwell Heath. GOOD SERVICE on the rest of the line. ,True
 2026-06-11 18:09:56,Mildmay,Mildmay Line: No service between Willesden Junction and Richmond while we fix a points failure at South Acton. MINOR DELAYS on the rest of the line. ,True
 2026-06-11 18:09:56,Victoria,Victoria Line: Minor delays line due to a track fault at Walthamstow Central.  ,True
+2026-06-11 20:34:59,District,District Line: Minor delays between Turnham Green and Richmond westbound only while we fix a points failure at South Acton. GOOD SERVICE on the rest of the line. ,True
+2026-06-11 20:34:59,Mildmay,Mildmay Line: No service between Willesden Junction and Richmond while we fix a points failure at South Acton. MINOR DELAYS on the rest of the line. ,True
+2026-06-11 20:34:59,Victoria,Victoria Line: Minor delays line due to a track fault at Walthamstow Central.  ,True
