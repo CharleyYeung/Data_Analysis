@@ -68,8 +68,8 @@
         "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow Central. "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Minor delays due to train cancellations. "
     },
     "Weaver": {
         "is_disrupted": false,
