@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and West Ruislip due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. MINOR DELAYS on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Walthamstow Central. Tickets being accepted on London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Southeastern, South Western and Greater Anglia Railway services.  "
+        "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow Central. "
     },
     "Waterloo & City": {
         "is_disrupted": false,

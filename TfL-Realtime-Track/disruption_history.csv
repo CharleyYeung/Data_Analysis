@@ -1755,3 +1755,4 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-12 15:49:03,Victoria,Victoria Line: Severe delays due to a track fault at Walthamstow Central. Tickets being accepted on London Buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  Southeastern  South Western and Greater Anglia Railway services.  ,True
 2026-06-12 18:03:00,Central,Central Line: Severe delays between North Acton and West Ruislip due to train cancellations. Tickets will be accepted on London Buses via any reasonable route. MINOR DELAYS on the rest of the line.  ,True
 2026-06-12 18:03:00,Victoria,Victoria Line: Severe delays due to a track fault at Walthamstow Central. Tickets being accepted on London Buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  Southeastern  South Western and Greater Anglia Railway services.  ,True
+2026-06-12 20:25:15,Victoria,Victoria Line: Minor delays due to a track fault at Walthamstow Central. ,True
