@@ -1749,3 +1749,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-12 09:11:14,Metropolitan,Metropolitan Line: Minor delays between Uxbridge and Harrow-on-the-Hill due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-06-12 09:11:14,Victoria,Victoria Line: Minor delays due to a track fault at Walthamstow Central. ,True
 2026-06-12 12:30:11,Victoria,Victoria Line: Minor delays due to a track fault at Walthamstow Central. ,True
+2026-06-12 15:49:03,Bakerloo,Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to an earlier faulty train at Paddington. GOOD SERVICE on the rest of the line. ,True
+2026-06-12 15:49:03,Central,Central Line: Minor delays eastbound only due to an earlier faulty train at Notting Hill Gate. GOOD SERVICE on the rest of the line.  ,True
+2026-06-12 15:49:03,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-06-12 15:49:03,Victoria,Victoria Line: Severe delays due to a track fault at Walthamstow Central. Tickets being accepted on London Buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  Southeastern  South Western and Greater Anglia Railway services.  ,True

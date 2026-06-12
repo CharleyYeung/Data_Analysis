@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to an earlier faulty train at Paddington. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays eastbound only due to an earlier faulty train at Notting Hill Gate. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow Central. "
+        "reason": "Victoria Line: Severe delays due to a track fault at Walthamstow Central. Tickets being accepted on London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Southeastern, South Western and Greater Anglia Railway services.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
