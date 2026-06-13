@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to an earlier faulty train at Stonebridge Park. GOOD SERVICE on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 13 June, until 1030, no service on the entire line."
+        "reason": "CIRCLE LINE: Saturday 13 June, between 1030 and 1400, no service between Edgware Road and Tower Hill (via Victoria)."
     },
     "District": {
         "is_disrupted": true,
@@ -20,28 +20,28 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 13 and Sunday 14 June, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar), East India, Canning Town, Royal Victoria (Victoria Dock Road), Custom House, Prince Regent, Beckton Park, Cyprus and Beckton,"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Hayes & Harlington and Heathrow Terminals due to an earlier customer incident at Heathrow Airport. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
         "reason": "Hammersmith and City Line: Severe delays due to the short-notice cancellation of engineering work. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Severe delays due to an earlier faulty train at Stonebridge Park. London Underground are accepting tickets via any reasonable route. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate, and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street due to the short-notice cancellation of engineering work. GOOD SERVICE rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate due to an earlier person ill on a train at Aldgate. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
