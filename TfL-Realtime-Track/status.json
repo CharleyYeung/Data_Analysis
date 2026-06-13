@@ -8,12 +8,12 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 13 June, between 1030 and 1400, no service between Edgware Road and Tower Hill (via Victoria)."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays due to the short-notice cancellation of engineering work. "
+        "reason": "District Line: Minor delays due to the short-notice cancellation of engineering work. "
     },
     "DLR": {
         "is_disrupted": true,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Baker Street and Aldgate due to an earlier passenger incident at King's Cross St. Pancras. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 13 June, between 0445 and 1400, no service between Hyde Park Corner and Acton Town. Replacement buses operate."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
