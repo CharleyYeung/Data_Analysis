@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to an earlier faulty train at Stonebridge Park. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to the short-notice cancellation of engineering work. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays due to an earlier faulty train at Stonebridge Park. London Underground are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate due to an earlier person ill on a train at Aldgate. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Baker Street and Aldgate due to an earlier passenger incident at King's Cross St. Pancras. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
