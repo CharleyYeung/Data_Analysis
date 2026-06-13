@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -9,43 +9,43 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Service will resume this morning. There will be no service until 10:30 and no service between Edgware Road and Tower Hill until 14:00 due to planned engineering works. "
+        "reason": "CIRCLE LINE: Saturday 13 June, until 1030, no service on the entire line."
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning.\r\n "
+        "reason": "District Line: Severe delays due to the short-notice cancellation of engineering work. "
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume this morning. There will be no service between Poplar and Beckton due to planned engineering works. "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 13 and Sunday 14 June, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar), East India, Canning Town, Royal Victoria (Victoria Dock Road), Custom House, Prince Regent, Beckton Park, Cyprus and Beckton,"
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Service will resume later this morning.\r\n "
+        "reason": "Severe delays between Hayes & Harlington and Heathrow Terminals due to an earlier customer incident at Heathrow Airport. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning.\r\n "
+        "reason": "Hammersmith and City Line: Severe delays due to the short-notice cancellation of engineering work. "
     },
     "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+    },
+    "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning.\r\n "
-    },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate, and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street due to the short-notice cancellation of engineering work. GOOD SERVICE rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,27 +53,27 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 13 June, between 0145 and 0445, no service on the entire line. Replacement buses operate."
+        "reason": "PICCADILLY LINE: Saturday 13 June, between 0445 and 1400, no service between Hyde Park Corner and Acton Town. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning.\r\n "
-    },
-    "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning.\r\n "
-    },
-    "Victoria": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
+    "Tram": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Victoria": {
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow Central. "
+    },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,

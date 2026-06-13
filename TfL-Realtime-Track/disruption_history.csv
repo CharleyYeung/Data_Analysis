@@ -1774,3 +1774,13 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-13 02:57:26,Tram,London Tramlink: Service will resume later this morning.  ,True
 2026-06-13 02:57:26,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday.  ,True
 2026-06-13 02:57:26,Weaver,Weaver Line: Service will resume later this morning.  ,True
+2026-06-13 08:18:31,Circle,CIRCLE LINE: Saturday 13 June  until 1030  no service on the entire line.,True
+2026-06-13 08:18:31,District,District Line: Severe delays due to the short-notice cancellation of engineering work. ,True
+2026-06-13 08:18:31,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 13 and Sunday 14 June  no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)  East India  Canning Town  Royal Victoria (Victoria Dock Road)  Custom House  Prince Regent  Beckton Park  Cyprus and Beckton ,True
+2026-06-13 08:18:31,Elizabeth line,Severe delays between Hayes & Harlington and Heathrow Terminals due to an earlier customer incident at Heathrow Airport. GOOD SERVICE on the rest of the line. ,True
+2026-06-13 08:18:31,Hammersmith & City,Hammersmith and City Line: Severe delays due to the short-notice cancellation of engineering work. ,True
+2026-06-13 08:18:31,Jubilee,Jubilee Line: Minor delays due to train cancellations. ,True
+2026-06-13 08:18:31,Metropolitan,Metropolitan Line: No service between Baker Street and Aldgate  and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street due to the short-notice cancellation of engineering work. GOOD SERVICE rest of the line. ,True
+2026-06-13 08:18:31,Piccadilly,PICCADILLY LINE: Saturday 13 June  between 0445 and 1400  no service between Hyde Park Corner and Acton Town. Replacement buses operate.,True
+2026-06-13 08:18:31,Victoria,Victoria Line: Minor delays due to a track fault at Walthamstow Central. ,True
+2026-06-13 08:18:31,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
