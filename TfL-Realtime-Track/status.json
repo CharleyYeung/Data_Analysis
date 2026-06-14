@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to short notice cancellation of engineering works. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Watford while we fix a signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. Tickets will be accepted on London Buses, London Overground and London Northwestern Railway via any reasonable route. "
     },
     "Mildmay": {
         "is_disrupted": false,
