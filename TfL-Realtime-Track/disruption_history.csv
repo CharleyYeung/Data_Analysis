@@ -1838,3 +1838,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-14 00:02:56,Metropolitan,Metropolitan Line:  Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-06-14 00:02:56,Victoria,Victoria Line: Minor delays due to a track fault at Walthamstow Central.  ,True
 2026-06-14 00:02:56,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-06-14 05:05:27,District,District Line: Minor delays between Earl's Court and Wimbledon due to short notice cancellation of engineering works. GOOD SERVICE on the rest of the line. ,True
+2026-06-14 05:05:27,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 13 and Sunday 14 June  no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)  East India  Canning Town  Royal Victoria (Victoria Dock Road)  Custom House  Prince Regent  Beckton Park  Cyprus and Beckton ,True
+2026-06-14 05:05:27,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
