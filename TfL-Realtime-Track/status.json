@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Edgware road and Wimbledon due to short notice cancellations of engineering works. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": true,
