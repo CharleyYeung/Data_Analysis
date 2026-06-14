@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No Service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Wembley Central. MINOR DELAYS on the rest of the line due to train cancellations. London Buses, Lioness Line and London Northwestern Railway are accepting tickets via any reasonable route.  "
     },
     "Central": {
         "is_disrupted": false,
