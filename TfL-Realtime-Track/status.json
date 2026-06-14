@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Watford while we fix a signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. Tickets will be accepted on London Buses, London Overground and London Northwestern Railway via any reasonable route. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford due to an earlier signal failure at Harrow-on-the-Hill. Tickets will be accepted on London Buses, London Overground and London Northwestern Railway via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow Central. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
