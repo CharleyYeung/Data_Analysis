@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays while we fix a signal failure at Holborn. Tickets being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern, Great Western Railway and Greater Anglia services.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Reading/Heathrow Airport while we fix a fault with the overhead power lines at Hanwell. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service while we fix a faulty train at Camden road. Tickets will be accepted on London Underground via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,20 +56,20 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Severe delays due to train cancellations. Tickets will be accepted on the London Underground.  "
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow.  "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
