@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays while we fix a signal failure at Holborn. Tickets being accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern, Great Western Railway and Greater Anglia services.  "
+        "reason": "Central Line: Minor delays between White City and West Ruislip / Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to an earlier signal failure at Holborn. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due an earlier trespasser on the track at Paddington. "
     },
     "District": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "No service between Abbey Wood and Whitechapel and SEVERE DELAYS between Whitechapel and Reading / Heathrow Airport while we deal with a trespasser on the track at Custom House. London Underground is accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: No service while we fix a faulty train at Camden road. Tickets will be accepted on London Underground via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays due to train cancellations. Tickets will be accepted on the London Underground.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to a track fault at Walthamstow.  "
+        "reason": "Victoria Line: Severe delays due to a track fault at Walthamstow Central. London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern are accepting tickets via any reasonable route. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
