@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between High Street Kensington and Edgware Road due to an earlier fire alert at Bayswater. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -52,12 +52,12 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals/Uxbridge due to an earlier trespasser on the track at South Ealing. Tickets are being accepted on London Buses and the Elizabeth line MINOR delays on the rest of the line "
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Severe delays between due to an earlier faulty freight train at Wanstead Park.  "
     },
     "Tram": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays while we fix a track fault at Walthamstow Central.  "
+        "reason": "Victoria Line: Severe delays while we fix a track fault at Walthamstow Central.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
