@@ -1960,3 +1960,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-17 09:27:48,District,District Line: Severe delays between Turnham Green and Richmond due to infrastructure damage. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses  London Overground and South Western Rail. ,True
 2026-06-17 09:27:48,Mildmay,Mildmay Line: No service between Willesden Junction and Clapham Junction due to a fault with the overhead power lines at Shepherd's Bush. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
 2026-06-17 09:27:48,Victoria,Victoria Line: Minor delays while we fix a track fault at Walthamstow Central. ,True
+2026-06-17 13:00:47,District,District Line: Severe delays between Turnham Green and Richmond due to infrastructure damage. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses  London Overground and South Western Rail. ,True
+2026-06-17 13:00:47,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-06-17 13:00:47,Mildmay,Mildmay Line: No service between Willesden Junction and Clapham Junction due to a fault with the overhead power lines at Shepherd's Bush. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
+2026-06-17 13:00:47,Victoria,Victoria Line: Minor delays while we fix a track fault at Walthamstow Central. ,True
