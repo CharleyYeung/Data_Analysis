@@ -8,12 +8,12 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Richmond due to infrastructure damage. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Overground and South Western Rail. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction due to a fault with the overhead power lines at Shepherd's Bush. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: No service between Willesden Junction and Kensington (Olympia) and SEVERE DELAYS between Kensington (Olympia) and Clapham Junction due to a fault with the overhead power lines at Shepherd's Bush. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays while we fix a track fault at Walthamstow Central. "
+        "reason": "Victoria Line: Severe delays while we fix a track fault at Walthamstow Central. Tickets are being accepted on London Buses, the Suffragette line, the Weaver line, Greater Anglia, South Western Railway, Southeastern, Great Northern and Thameslink.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,

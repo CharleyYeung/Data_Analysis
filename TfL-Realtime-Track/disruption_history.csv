@@ -1964,3 +1964,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-17 13:00:47,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
 2026-06-17 13:00:47,Mildmay,Mildmay Line: No service between Willesden Junction and Clapham Junction due to a fault with the overhead power lines at Shepherd's Bush. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
 2026-06-17 13:00:47,Victoria,Victoria Line: Minor delays while we fix a track fault at Walthamstow Central. ,True
+2026-06-17 16:43:35,Circle,Circle Line: Minor delays due to train cancellations.  ,True
+2026-06-17 16:43:35,Mildmay,Mildmay Line: No service between Willesden Junction and Kensington (Olympia) and SEVERE DELAYS between Kensington (Olympia) and Clapham Junction due to a fault with the overhead power lines at Shepherd's Bush. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
+2026-06-17 16:43:35,Victoria,Victoria Line: Severe delays while we fix a track fault at Walthamstow Central. Tickets are being accepted on London Buses  the Suffragette line  the Weaver line  Greater Anglia  South Western Railway  Southeastern  Great Northern and Thameslink.  ,True
