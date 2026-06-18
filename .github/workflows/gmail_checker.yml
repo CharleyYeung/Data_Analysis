@@ -22,6 +22,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+        working-directory: ./jobapp-tracker
 
       - name: Run Gmail Checker
         env:
@@ -30,6 +31,7 @@ jobs:
         run: |
           echo "$GMAIL_TOKEN_JSON" > token.json
           python quickstart.py
+        working-directory: ./jobapp-tracker
 
       - name: Update token
         if: always() # Always run this step to save the refreshed token
@@ -37,3 +39,4 @@ jobs:
         with:
           commit_message: "chore: Update Gmail token"
           file_pattern: token.json
+        working-directory: ./jobapp-tracker
