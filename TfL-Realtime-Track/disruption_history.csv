@@ -1996,3 +1996,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-18 16:15:35,Victoria,Victoria Line: Severe delays due to a track fault at Brixton. London Underground tickets will be accepted on London buses  Weaver line  Suffragette line  Great Northern and Greater Anglia South Western railways and Southeastern. ,True
 2026-06-18 18:40:34,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Amersham and between Uxbridge and Harrow-on-the-Hill due to train cancellations. After the 19:29 departure from Amersham  the next southbound train will be at 20:13. GOOD SERVICE on the rest of the line. ,True
 2026-06-18 18:40:34,Victoria,Victoria Line: Minor delays due to a track fault at Brixton. ,True
+2026-06-18 21:13:10,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-06-18 21:13:10,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/Amersham/Chesham/Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-06-18 21:13:10,Piccadilly,Piccadilly Line: Severe delays due to an earlier fire alert at Green Park. London Underground tickets will be accepted on London buses  Weaver line  Elizabeth line  Great Northern and South Western Railway. ,True
+2026-06-18 21:13:10,Victoria,Victoria Line: Minor delays due to a track fault at Brixton. ,True
