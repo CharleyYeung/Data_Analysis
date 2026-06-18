@@ -1990,3 +1990,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-18 09:44:36,District,District Line: No service between Parsons Green and Wimbledon while we respond to a fire alert at Putney Bridge. London Buses and South Western Railway are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
 2026-06-18 09:44:36,Victoria,Victoria Line: Minor delays due to a track fault at Brixton. ,True
 2026-06-18 09:44:36,Windrush,Windrush Line: Severe delays between Sydenham and West Croydon due to an earlier trespasser on the track at West Croydon. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-06-18 12:41:22,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-06-18 12:41:22,Piccadilly,Piccadilly Line: Minor delays between Acton town and Uxbridge while we fix a track fault at Ealing Common. GOOD SERVICE on the rest of the line. ,True
+2026-06-18 12:41:22,Victoria,Victoria Line: Minor delays due to a track fault at Brixton. ,True
