@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham and between Uxbridge and Harrow-on-the-Hill due to train cancellations. After the 19:29 departure from Amersham, the next southbound train will be at 20:13. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Brixton. London Underground tickets will be accepted on London buses, Weaver line, Suffragette line, Great Northern and Greater Anglia South Western railways and Southeastern. "
+        "reason": "Victoria Line: Minor delays due to a track fault at Brixton. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
