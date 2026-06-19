@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we fix a signal failure at South Kenton. MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on London Buses, London Overground and London Northwestern Railway. "
+        "reason": "Bakerloo Line: Severe delays between Harrow & Wealdstone and Stonebridge Park due to an earlier signal failure at South Kenton. MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on London Buses, London Overground and London Northwestern Railway. "
     },
     "Central": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Amersham / Chesham / Watford and Harrow-on-the-Hill due to an earlier fire alert at Northwood. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway and Chiltern Railways.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to a track fault at Brixton.  "
+        "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on London Buses, Weaver Line, Suffragette Line, Greater Anglia, South Western Railway and Southeastern.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
