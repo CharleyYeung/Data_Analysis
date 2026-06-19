@@ -2029,3 +2029,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-19 09:26:16,District,District Line: Minor delays between Earl's Court and Wimbledon due to an earlier signal failure at Parsons Green. GOOD SERVICE on the rest of the line. ,True
 2026-06-19 09:26:16,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
 2026-06-19 09:26:16,Victoria,Victoria Line: Minor delays due to a track fault at Brixton. ,True
+2026-06-19 12:58:14,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate while we fix a signal failure at Northwick Park and Pinner.  MINOR DELAYS on the rest of the line. ,True
+2026-06-19 12:58:14,Northern,Northern Line: Minor delays due to an earlier fire alert at Woodside Park. ,True
+2026-06-19 12:58:14,Victoria,Victoria Line: Minor delays due to a track fault at Brixton. ,True
