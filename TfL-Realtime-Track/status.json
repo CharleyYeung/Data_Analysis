@@ -4,8 +4,8 @@
         "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we fix a signal failure at South Kenton. MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on London Buses, London Overground and London Northwestern Railway. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip, and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -16,12 +16,12 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Bank / Tower Gateway and Poplar / West India Quay while we fix a track fault at Westferry. Good service on other routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Abbey Wood / Shenfield and MINOR DELAYS on the rest of the line due to an earlier signal failure at Forest Gate. Tickets are being accepted on London Underground. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
