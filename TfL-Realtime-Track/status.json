@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Amersham / Chesham / Watford and Harrow-on-the-Hill due to an earlier fire alert at Northwood. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway and Chiltern Railways.  "
+        "reason": "Metropolitan Line: Minor delays due to an earlier fire alert at Northwood.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "PICCADILLY LINE: Saturday 20 June, from 0045, and all day Sunday 21 June, no service between Cockfosters and Uxbridge, including Friday and Saturday Night Tube. Trains continue to run between Acton Town and Heathrow (all terminals). Use METROPOLITAN LINE services between Rayners Lane and Uxbridge."
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,11 +65,11 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on London Buses, Weaver Line, Suffragette Line, Greater Anglia, South Western Railway and Southeastern.  "
+        "reason": "Victoria Line: We apologise for the ongoing disruption on the Victoria line. Although we successfully resolved the track defect at Walthamstow, another defect was discovered in the Brixton area which we are working hard to fix. As a result, Victoria line Night Tube services will be suspended tonight.\r\n \r\nCustomers are advised to complete journeys on the Victoria line by midnight."
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
         "is_disrupted": false,
