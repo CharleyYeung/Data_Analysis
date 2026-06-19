@@ -2032,3 +2032,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-19 12:58:14,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate while we fix a signal failure at Northwick Park and Pinner.  MINOR DELAYS on the rest of the line. ,True
 2026-06-19 12:58:14,Northern,Northern Line: Minor delays due to an earlier fire alert at Woodside Park. ,True
 2026-06-19 12:58:14,Victoria,Victoria Line: Minor delays due to a track fault at Brixton. ,True
+2026-06-19 16:08:38,Bakerloo,Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we fix a track fault at Harrow & Wealdstone. GOOD SERVICE on the rest of the line. Tickets will be accepted on London Buses and London Northwestern Railway. ,True
+2026-06-19 16:08:38,Lioness,Lioness Line: No service between Euston and Kilburn High Road while we fix a track fault at Harrow & Wealdstone. SEVERE DELAYS on the rest of the line. ,True
+2026-06-19 16:08:38,Victoria,Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on London Buses  Suffragette line  Weaver line  Great Northern  Greater Anglia  South Western Railway and Southeastern services. ,True
