@@ -24,6 +24,10 @@ SEARCH_KEYWORDS = ' OR '.join(['"application received"', '"coding challenge"', '
 # The topic URL for ntfy notifications. We'll use a GitHub secret for this.
 NTFY_TOPIC_URL = os.environ.get('NTFY_TOPIC_URL')
 
+# --- Hugging Face Configuration ---
+HF_API_KEY = os.environ.get('HF_API_KEY')
+HF_API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
+
 # --- AWS S3 Configuration ---
 AWS_S3_BUCKET = os.environ.get('AWS_S3_BUCKET')
 # AWS credentials will be read automatically by boto3 from the environment variables
@@ -93,6 +97,33 @@ def send_notification(title, body):
     except requests.exceptions.RequestException as e:
         print(f"Error sending ntfy notification: {e}")
 
+def is_job_update_hf(subject, snippet):
+    """Uses a Hugging Face zero-shot model to classify if an email is a genuine job update."""
+    if not HF_API_KEY:
+        print("HF_API_KEY not set. Skipping LLM classification and assuming true.")
+        return True # Fallback if API key is not set
+
+    headers = {"Authorization": f"Bearer {HF_API_KEY}"}
+    payload = {
+        "inputs": f"{subject}. {snippet}",
+        "parameters": {"candidate_labels": ["genuine job application update", "promotional job advertisement"]},
+    }
+
+    try:
+        response = requests.post(HF_API_URL, headers=headers, json=payload)
+        response.raise_for_status()
+        result = response.json()
+        # Check if the top-scoring label is the one we want
+        if result['labels'][0] == "genuine job application update":
+            print(f"LLM classification: Genuine update (Score: {result['scores'][0]:.2f})")
+            return True
+        else:
+            print(f"LLM classification: Promotional ad (Score: {result['scores'][0]:.2f})")
+            return False
+    except Exception as e:
+        print(f"An error occurred during Hugging Face classification: {e}")
+        return True # Default to true in case of an error to avoid missing updates
+
 def upload_to_s3(file_name, bucket, object_name=None):
     """Upload a file to an S3 bucket."""
     if not bucket:
@@ -150,6 +181,11 @@ def main():
                 subject = next((h['value'] for h in headers if h['name'] == 'Subject'), 'No Subject')
                 sender = next((h['value'] for h in headers if h['name'] == 'From'), 'Unknown Sender')
                 snippet = msg_details['snippet']
+
+                # Use the Hugging Face LLM to classify the email
+                if not is_job_update_hf(subject, snippet):
+                    print(f"Skipping promotional email: {subject}")
+                    continue
 
                 print(f"\n--- New Update ---")
                 print(f"From: {sender}")

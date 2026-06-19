@@ -41,6 +41,7 @@ jobs:
           GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
           NTFY_TOPIC_URL: ${{ secrets.NTFY_TOPIC_URL }}
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          HF_API_KEY: ${{ secrets.HF_API_KEY }}
         run: |
           echo "$GMAIL_TOKEN_JSON" > token.json
           python main.py
