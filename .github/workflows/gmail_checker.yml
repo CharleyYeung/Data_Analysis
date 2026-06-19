@@ -28,17 +28,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          # You can set a default region, e.g., eu-west-2
+          aws-region: eu-west-2
+
       - name: Run Gmail Checker
         env:
           GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
           NTFY_TOPIC_URL: ${{ secrets.NTFY_TOPIC_URL }}
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
         run: |
           echo "$GMAIL_TOKEN_JSON" > token.json
-          python quickstart.py
+          python main.py
 
       - name: Update token
         if: always() # Always run this step to save the refreshed token
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: Update Gmail token"
-          file_pattern: token.json
+          commit_message: "chore: Update job alerts and Gmail token"
+          file_pattern: "jobapp-tracker/job_alert.csv jobapp-tracker/token.json"

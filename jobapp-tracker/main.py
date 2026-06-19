@@ -2,13 +2,16 @@ from __future__ import print_function
 
 import os.path
 from datetime import datetime, timedelta
+import csv
 
 import requests
+import boto3
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+from botocore.exceptions import ClientError
 
 
 # If modifying these scopes, delete the file token.json.
@@ -20,6 +23,12 @@ SEARCH_KEYWORDS = ' OR '.join(['"application received"', '"coding challenge"', '
 
 # The topic URL for ntfy notifications. We'll use a GitHub secret for this.
 NTFY_TOPIC_URL = os.environ.get('NTFY_TOPIC_URL')
+
+# --- AWS S3 Configuration ---
+AWS_S3_BUCKET = os.environ.get('AWS_S3_BUCKET')
+# AWS credentials will be read automatically by boto3 from the environment variables
+# set in the GitHub Actions workflow.
+CSV_FILE_NAME = 'job_alert.csv'
 
 def get_gmail_service():
     """Authenticates with the Gmail API and returns a service object."""
@@ -84,6 +93,27 @@ def send_notification(title, body):
     except requests.exceptions.RequestException as e:
         print(f"Error sending ntfy notification: {e}")
 
+def upload_to_s3(file_name, bucket, object_name=None):
+    """Upload a file to an S3 bucket."""
+    if not bucket:
+        print("AWS_S3_BUCKET not set. Skipping S3 upload.")
+        return False
+    # If S3 object_name was not specified, use file_name
+    if object_name is None:
+        object_name = os.path.basename(file_name)
+
+    # Upload the file
+    s3_client = boto3.client('s3')
+    try:
+        response = s3_client.upload_file(file_name, bucket, object_name)
+        print(f"File {file_name} uploaded to {bucket}/{object_name}.")
+        # Generate a presigned URL that expires in 15 minutes (900 seconds)
+        url = s3_client.generate_presigned_url('get_object', Params={'Bucket': bucket, 'Key': object_name}, ExpiresIn=900)
+        return url
+    except ClientError as e:
+        print(f"Error uploading file to S3: {e}")
+        return None
+
 def main():
     """The main function to run the job application monitoring script."""
     service = get_gmail_service()
@@ -101,9 +131,21 @@ def main():
         print("No new job application updates found in the last hour.")
     else:
         print(f"Found {len(messages)} new email(s).")
-        for msg_summary in messages:
-            msg_details = get_email_details(service, msg_summary['id'])
-            if msg_details:
+
+        # Check if the CSV file exists to determine if we need to write headers
+        csv_file_exists = os.path.exists(CSV_FILE_NAME)
+
+        with open(CSV_FILE_NAME, 'a', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            # Write header only if the file is new
+            if not csv_file_exists:
+                writer.writerow(['Timestamp', 'Sender', 'Subject', 'Snippet'])
+
+            for msg_summary in messages:
+                msg_details = get_email_details(service, msg_summary['id'])
+                if not msg_details:
+                    continue
+
                 headers = msg_details['payload']['headers']
                 subject = next((h['value'] for h in headers if h['name'] == 'Subject'), 'No Subject')
                 sender = next((h['value'] for h in headers if h['name'] == 'From'), 'Unknown Sender')
@@ -114,7 +156,20 @@ def main():
                 print(f"Subject: {subject}")
                 print(f"Snippet: {snippet}")
 
-                send_notification(f"Job Update: {subject}", f"From: {sender}\n\n{snippet}")
+                # Write data to CSV
+                timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                writer.writerow([timestamp, sender, subject, snippet])
+
+                # We'll send one summary notification at the end
+
+        # After processing all messages, upload the updated CSV to S3
+        presigned_url = upload_to_s3(CSV_FILE_NAME, AWS_S3_BUCKET)
+
+        # Send one notification with a link to the CSV
+        notification_body = f"Found {len(messages)} new job update(s)."
+        if presigned_url:
+            notification_body += f"\n\nView the updated list here (link expires in 15 mins):\n{presigned_url}"
+        send_notification("Job Application Summary", notification_body)
 
 if __name__ == '__main__':
     main()
