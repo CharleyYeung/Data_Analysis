@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Harrow & Wealdstone and Stonebridge Park due to an earlier signal failure at South Kenton. MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on London Buses, London Overground and London Northwestern Railway. "
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Poplar and Beckton / Stratford International and Woolwich Arsenal due to planned engineering work. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays due to an earlier fire alert at Northwood.  "
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,24 +56,24 @@
         "reason": "PICCADILLY LINE: Saturday 20 June, from 0045, and all day Sunday 21 June, no service between Cockfosters and Uxbridge, including Friday and Saturday Night Tube. Trains continue to run between Acton Town and Heathrow (all terminals). Use METROPOLITAN LINE services between Rayners Lane and Uxbridge."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: We apologise for the ongoing disruption on the Victoria line. Although we successfully resolved the track defect at Walthamstow, another defect was discovered in the Brixton area which we are working hard to fix. As a result, Victoria line Night Tube services will be suspended tonight.\r\n \r\nCustomers are advised to complete journeys on the Victoria line by midnight."
+        "reason": "Victoria Line: Minor delays due to a track fault at Brixton. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
         "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": false,
