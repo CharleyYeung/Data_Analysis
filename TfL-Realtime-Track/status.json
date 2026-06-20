@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
-    },
-    "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. "
-    },
-    "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Poplar and Beckton / Stratford International and Woolwich Arsenal due to planned engineering work. "
-    },
-    "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
-    },
-    "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Liberty": {
+    "District": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "DLR": {
         "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 20 June, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE between Stratford and Canning Town, and ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate. Service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar), East India, Canning Town, Royal Victoria (Victoria Dock Road), Custom House, Prince Regent, Beckton Park, Cyprus and Beckton. Service DLR5 operates between Canning Town and King George V (Albert Road) via West Silvertown, Pontoon Dock and London City Airport, and additional service DLR6, between 0630 and 1300 only, operates between Canning Town and London City Airport via West Silvertown and Pontoon Dock."
+    },
+    "Elizabeth line": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Hammersmith & City": {
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses. "
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+    },
+    "Liberty": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,12 +56,12 @@
         "reason": "PICCADILLY LINE: Saturday 20 June, from 0045, and all day Sunday 21 June, no service between Cockfosters and Uxbridge, including Friday and Saturday Night Tube. Trains continue to run between Acton Town and Heathrow (all terminals). Use METROPOLITAN LINE services between Rayners Lane and Uxbridge."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": true,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
