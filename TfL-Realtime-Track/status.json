@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses.  "
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": false,
