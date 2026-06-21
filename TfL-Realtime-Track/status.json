@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to an earlier fire alert at Liverpool Street.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "ELIZABETH LINE: Sunday 21 June, no service between Paddington and Abbey Wood due to planned engineering work. Trains will operate between Paddington National Rail Station and Heathrow Airport / Reading, and between Liverpool Street National Rail Station and Shenfield but will not call at Whitechapel."
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to an earlier fire alert at Liverpool Street. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Baker Street and Aldgate due to an earlier fire alert at Liverpool Street. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
