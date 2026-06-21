@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to an earlier trespasser at Edgware road.  "
     },
     "Central": {
         "is_disrupted": true,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on London Buses, Weaver Line, Suffragette Line, Greater Anglia, South Western Railway and Southeastern.  "
+        "reason": "Victoria Line: No service between Warren Street and Brixton while we deal with a trespasser at Victoria. SEVERE DELAYS on the rest of the line due to a track fault at Brixton. Tickets are being accepted on London Buses, Weaver Line, Suffragette Line, Greater Anglia, South Western Railway and Southeastern.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
