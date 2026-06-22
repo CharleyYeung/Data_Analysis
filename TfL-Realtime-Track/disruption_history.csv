@@ -2291,3 +2291,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-22 17:48:29,Piccadilly,Piccadilly Line: Severe delays between Arnos Grove and Cockfosters due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-06-22 20:39:41,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-06-22 20:39:41,Mildmay,Mildmay Line: Minor delays due to an earlier faulty train at Finchley Road & Frognal.  ,True
+2026-06-22 22:25:23,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-06-22 22:25:23,Mildmay,MILDMAY LINE: Monday 22  Tuesday 23 and Thursday 25 June  the 2147 Clapham Junction to Stratford train will not operate. Trains at 2203 and 2234 from Clapham Junction and 2148 and 2249 from Richmond terminate at Willesden Junction instead of Stratford.,True
+2026-06-22 22:25:23,Suffragette,SUFFRAGETTE LINE: Monday 22  Tuesday 23  Wednesday 24  Thursday 25 and Friday 26 June  the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338,True
