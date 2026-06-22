@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Kensal Green. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays between Wembley Park and Stratford eastbound only MINOR DELAYS on the rest of the line due to an earlier fire alert at Neasden.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays due to an earlier fire alert at Neasden. London Buses are accepting valid tickets via any reasonable route.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: No service between Brixton and Victoria while we fix a signal failure at Brixton. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern. "
+        "reason": "Victoria Line: Minor delays due to an earlier signal failure at Brixton.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,

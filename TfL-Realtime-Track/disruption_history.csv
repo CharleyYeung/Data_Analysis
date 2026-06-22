@@ -2279,3 +2279,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-22 01:40:05,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-06-22 07:03:24,Bakerloo,Bakerloo Line: Minor delays between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Kensal Green. GOOD SERVICE on the rest of the line. ,True
 2026-06-22 07:03:24,Victoria,Victoria Line: No service between Brixton and Victoria while we fix a signal failure at Brixton. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  Greater Anglia  South Western Railway and Southeastern. ,True
+2026-06-22 13:05:06,Jubilee,Jubilee Line: Severe delays between Wembley Park and Stratford eastbound only MINOR DELAYS on the rest of the line due to an earlier fire alert at Neasden.  ,True
+2026-06-22 13:05:06,Metropolitan,Metropolitan Line: Severe delays due to an earlier fire alert at Neasden. London Buses are accepting valid tickets via any reasonable route.  ,True
+2026-06-22 13:05:06,Victoria,Victoria Line: Minor delays due to an earlier signal failure at Brixton.  ,True
