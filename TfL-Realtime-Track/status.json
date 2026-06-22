@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at South Kenton. Lioness line and London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays between Wembley Park and Stratford eastbound only MINOR DELAYS on the rest of the line due to an earlier fire alert at Neasden.  "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Neasden.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,19 +41,19 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier fire alert at Neasden. London Buses are accepting valid tickets via any reasonable route.  "
+        "reason": "Metropolitan Line: Minor delays between Watford and Harrow-on-the-Hill due to train cancellations. The next southbound train will be at 18:34. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays due to an earlier faulty train at Finchley Road & Frognal.  "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Edgware and Colindale, and  SEVERE DELAYS between Colindale and Camden Town, and  between Kennington and Battersea Power Station, MINOR DELAYS on the rest of the line while we fix a signal failure at Edgware. Tickets are being accepted on London Buses.  "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Arnos Grove and Cockfosters due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier signal failure at Brixton.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
