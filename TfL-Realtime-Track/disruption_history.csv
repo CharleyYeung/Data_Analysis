@@ -2319,3 +2319,12 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-23 02:49:42,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-06-23 02:49:42,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-06-23 02:49:42,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-06-23 08:26:38,Bakerloo,Bakerloo Line: Minor delays due to an earlier signal failure at Harlesden.  ,True
+2026-06-23 08:26:38,Circle,Circle Line: No service while we fix a signal system failure. Tickets are being accepted on London Buses ,True
+2026-06-23 08:26:38,District,District Line: No service between Whitechapel and Wimbledon / Kensington (Olympia) / Edgware Road / Ealing Broadway / Richmond  SEVERE DELAYS between Upminster and Whitechapel while we fix a signal system failure. Tickets will be accepted London Buses  Mildmay Line  DLR  Elizabeth line  c2c and South Western Railway services.  ,True
+2026-06-23 08:26:38,Elizabeth line,No service between Heathrow Terminals 2&3 and Heathrow Terminal 4 due to flooding caused by heavy rain and SEVERE DELAYS between Paddington and Heathrow Terminal 5 / Reading due to an earlier points failure at Southall. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via any reasonable route. ,True
+2026-06-23 08:26:38,Hammersmith & City,Hammersmith and City Line: No service between Moorgate and Barking while we fix a signal system failure. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses ,True
+2026-06-23 08:26:38,Metropolitan,Metropolitan Line: No service between Aldgate and Moorgate while we fix a signal system failure. SEVERE DELAYS between Moorgate and Baker Street and MINOR DELAYS on the rest of the line due to a signal failure at Pinner. Tickets are being accepted on London Buses. ,True
+2026-06-23 08:26:38,Mildmay,Mildmay Line: Operating at a reduced service due to hot weather mitigation. ,True
+2026-06-23 08:26:38,Suffragette,Suffragette Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. ,True
+2026-06-23 08:26:38,Tram,London Tramlink: Severe between Sandilands and Elmers End / Beckenham Junction due to earlier flooding caused by heavy rain. GOOD SERVICE on the rest of the line. ,True
