@@ -2346,3 +2346,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-23 16:40:36,Mildmay,Mildmay Line: Severe delays due to heat-related temporary speed restrictions. London Underground are accepting tickets via any reasonable route. ,True
 2026-06-23 16:40:36,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Rayners Lane due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-06-23 16:40:36,Tram,London Tramlink: No service between Therapia lane and Mitcham Junction while we fix a fault with the overhead power lines at Mitcham Junction. GOOD SERVICE on the rest of the line.  ,True
+2026-06-23 18:30:46,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-06-23 18:30:46,District,District Line: Severe delays between High Street Kensington and Richmond  and between Kensington(Olympia) and Upminster due to an earlier signal system failure and heat-related temporary speed restrictions. Tickets will be accepted London Buses  Mildmay Line  DLR  Elizabeth line  c2c and South Western Railway services. GOOD SERVICE on the rest of the line. ,True
+2026-06-23 18:30:46,Elizabeth line,Minor delays between Whitechapel and Shenfield due to an earlier signal system failure at Stratford. GOOD SERVICE on the rest of the line. ,True
+2026-06-23 18:30:46,Jubilee,Jubilee Line: Minor delays due to an earlier faulty train at Canary Wharf.  ,True
+2026-06-23 18:30:46,Mildmay,Mildmay Line: Severe delays due to heat-related temporary speed restrictions. London Underground are accepting tickets via any reasonable route. ,True
+2026-06-23 18:30:46,Tram,London Tramlink: No service between Therapia lane and Mitcham Junction while we fix a fault with the overhead power lines at Mitcham Junction. GOOD SERVICE on the rest of the line.  ,True
