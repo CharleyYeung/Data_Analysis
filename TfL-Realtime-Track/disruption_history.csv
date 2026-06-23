@@ -2328,3 +2328,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-23 08:26:38,Mildmay,Mildmay Line: Operating at a reduced service due to hot weather mitigation. ,True
 2026-06-23 08:26:38,Suffragette,Suffragette Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. ,True
 2026-06-23 08:26:38,Tram,London Tramlink: Severe between Sandilands and Elmers End / Beckenham Junction due to earlier flooding caused by heavy rain. GOOD SERVICE on the rest of the line. ,True
+2026-06-23 11:38:32,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-06-23 11:38:32,Circle,Circle Line: Severe delays due to an earlier signal system failure. Tickets are being accepted on London Buses ,True
+2026-06-23 11:38:32,District,District Line: Severe delays due to an earlier signal system failure. Tickets will be accepted London Buses  Mildmay Line  DLR  Elizabeth line  c2c and South Western Railway services.  ,True
+2026-06-23 11:38:32,Elizabeth line,Severe delays between Paddington and Heathrow Terminals while we fix a points failure at Southall. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via any reasonable route. ,True
+2026-06-23 11:38:32,Metropolitan,Metropolitan Line: Severe delays between Aldgate and Baker Street due to an earlier signal system failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. ,True
+2026-06-23 11:38:32,Mildmay,Mildmay Line: Operating at a reduced service due to hot weather mitigation. ,True
