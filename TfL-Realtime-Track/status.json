@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier signal system failure. Tickets are being accepted on London Buses "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays due to an earlier signal system failure. Tickets will be accepted London Buses, Mildmay Line, DLR, Elizabeth line, c2c and South Western Railway services.  "
+        "reason": "District Line: Severe delays between High Street Kensington and Richmond, and between Kensington(Olympia) and Upminster due to an earlier signal system failure and heat-related temporary speed restrictions. Tickets will be accepted London Buses, Mildmay Line, DLR, Elizabeth line, c2c and South Western Railway services. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -41,19 +41,19 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Aldgate and Baker Street due to an earlier signal system failure. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+        "reason": "Metropolitan Line: Minor delays between Chalfont & Latimer and Chesham due to train heat-related temporary speed restrictions. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Operating at a reduced service due to hot weather mitigation. "
+        "reason": "Mildmay Line: Severe delays due to heat-related temporary speed restrictions. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Rayners Lane due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
