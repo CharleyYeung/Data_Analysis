@@ -20,16 +20,16 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier signal system failure at Stratford. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Canary Wharf.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,11 +45,11 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to heat-related temporary speed restrictions. London Underground are accepting tickets via any reasonable route. "
+        "reason": "MILDMAY LINE: Monday 22, Tuesday 23 and Thursday 25 June, the 2147 Clapham Junction to Stratford train will not operate. Trains at 2203 and 2234 from Clapham Junction and 2148 and 2249 from Richmond terminate at Willesden Junction instead of Stratford."
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays between Camden Town and Kennington via Charing Cross due to earlier faulty train at Camden Town. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
