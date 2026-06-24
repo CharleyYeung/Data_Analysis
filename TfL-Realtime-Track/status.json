@@ -8,12 +8,12 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Severe delays between Edgware Road and Barbican clockwise only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Edgware Road. Tickets are being accepted on London Buses. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway eastbound only / Edgware Road due to an earlier faulty train at West Kensington and between Turnham Green and Richmond due to heat-related temporary speed restrictions. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+        "reason": "District Line: Severe delays between Turnham Green and Richmond and MINOR DELAYS between Tower Hill and Upminster due to heat-related temporary speed restrictions. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Hayes & Harlington and Heathrow Terminals while we fix a fault with the signalling system. Operating at a reduced service due to hot weather mitigation. "
+        "reason": "Severe delays between Paddington and Heathrow Airport / Reading while we fix signal failures at Heathrow Airport and Twyford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railways.  "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
         "reason": "Hammersmith and City Line: Minor delays due to an earlier faulty train at Edgware Road. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to hot weather mitigation measures.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,15 +45,15 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Operating at a reduced service due to hot weather mitigation "
+        "reason": "Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation. "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays due to an earlier signal failure at Tooting Broadway. Tickets will be accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway "
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Severe delays we fix a points failure at Walthamstow Central. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Great Northern, Thameslink, Greater Anglia, South western Railway and Southeastern services.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,

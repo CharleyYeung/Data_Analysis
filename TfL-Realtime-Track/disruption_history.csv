@@ -2401,3 +2401,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-24 11:30:36,Hammersmith & City,Hammersmith and City Line: Minor delays due to an earlier faulty train at Edgware Road. ,True
 2026-06-24 11:30:36,Mildmay,Mildmay Line: Operating at a reduced service due to hot weather mitigation ,True
 2026-06-24 11:30:36,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-06-24 13:52:54,Bakerloo,Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Willesden Junction. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. ,True
+2026-06-24 13:52:54,District,District Line: Severe delays between Turnham Green and Richmond and MINOR DELAYS between Tower Hill and Upminster due to heat-related temporary speed restrictions. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. ,True
+2026-06-24 13:52:54,Elizabeth line,Severe delays between Paddington and Heathrow Airport / Reading while we fix signal failures at Heathrow Airport and Twyford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London underground  London Buses  Great Western Railway  South Western Railway and Chiltern Railways.  ,True
+2026-06-24 13:52:54,Hammersmith & City,Hammersmith and City Line: Minor delays due to an earlier faulty train at Edgware Road. ,True
+2026-06-24 13:52:54,Jubilee,Jubilee Line: Minor delays due to hot weather mitigation measures.  ,True
+2026-06-24 13:52:54,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation. ,True
+2026-06-24 13:52:54,Northern,Northern Line: Severe delays due to an earlier signal failure at Tooting Broadway. Tickets will be accepted on London Buses  London Trams  Southeastern  Thameslink and South Western Railway ,True
+2026-06-24 13:52:54,Victoria,Victoria Line: Severe delays we fix a points failure at Walthamstow Central. Tickets are being accepted on London Buses  Suffragette line  Weaver line  Great Northern  Thameslink  Greater Anglia  South western Railway and Southeastern services.  ,True
