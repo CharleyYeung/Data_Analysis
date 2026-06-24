@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure at Willesden Junction. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. "
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Willesden Junction. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Circle Line: Severe delays between Edgware Road and Barbican clockwise only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Edgware Road. Tickets are being accepted on London Buses. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway eastbound only / Edgware Road due to an earlier faulty train at West Kensington and between Turnham Green and Richmond due to heat-related temporary speed restrictions. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Operating at a reduced service due to hot weather mitigation. "
+        "reason": "Severe delays between Hayes & Harlington and Heathrow Terminals while we fix a fault with the signalling system. Operating at a reduced service due to hot weather mitigation. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier faulty train at Edgware Road. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Aldgate and Baker Street due to an earlier faulty train at Farringdon. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,

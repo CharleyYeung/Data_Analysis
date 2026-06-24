@@ -2394,3 +2394,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-24 08:43:06,Metropolitan,Metropolitan Line: Minor delays between Aldgate and Baker Street due to an earlier faulty train at Farringdon. GOOD SERVICE on the rest of the line. ,True
 2026-06-24 08:43:06,Mildmay,Mildmay Line: Operating at a reduced service due to hot weather mitigation ,True
 2026-06-24 08:43:06,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-06-24 11:30:36,Bakerloo,Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Willesden Junction. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. ,True
+2026-06-24 11:30:36,Circle,Circle Line: Severe delays between Edgware Road and Barbican clockwise only and MINOR DELAYS on the rest of the line due to an earlier faulty train at Edgware Road. Tickets are being accepted on London Buses. ,True
+2026-06-24 11:30:36,District,District Line: Severe delays between Earl's Court and Ealing Broadway eastbound only / Edgware Road due to an earlier faulty train at West Kensington and between Turnham Green and Richmond due to heat-related temporary speed restrictions. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. ,True
+2026-06-24 11:30:36,Elizabeth line,Severe delays between Hayes & Harlington and Heathrow Terminals while we fix a fault with the signalling system. Operating at a reduced service due to hot weather mitigation. ,True
+2026-06-24 11:30:36,Hammersmith & City,Hammersmith and City Line: Minor delays due to an earlier faulty train at Edgware Road. ,True
+2026-06-24 11:30:36,Mildmay,Mildmay Line: Operating at a reduced service due to hot weather mitigation ,True
+2026-06-24 11:30:36,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to train cancellations. GOOD SERVICE on the rest of the line. ,True
