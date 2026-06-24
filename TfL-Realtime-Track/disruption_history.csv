@@ -2386,3 +2386,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-24 01:23:26,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-06-24 01:23:26,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-06-24 05:33:12,Bakerloo,Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone northbound only and NO SERVICE between Harrow & Wealdstone and Stonebridge Park southbound only while we fix a signal failure at Willesden Junction. MINOR DELAYS between Stonebridge Park and Queen's Park southbound only. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. ,True
+2026-06-24 08:43:06,Bakerloo,Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure at Willesden Junction. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. ,True
+2026-06-24 08:43:06,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-06-24 08:43:06,Circle,Circle Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. ,True
+2026-06-24 08:43:06,Elizabeth line,Operating at a reduced service due to hot weather mitigation. ,True
+2026-06-24 08:43:06,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-06-24 08:43:06,Metropolitan,Metropolitan Line: Minor delays between Aldgate and Baker Street due to an earlier faulty train at Farringdon. GOOD SERVICE on the rest of the line. ,True
+2026-06-24 08:43:06,Mildmay,Mildmay Line: Operating at a reduced service due to hot weather mitigation ,True
+2026-06-24 08:43:06,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
