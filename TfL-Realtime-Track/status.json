@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 due to a signal system failure at Heathrow Airport. If you're travelling to or from Terminal 5, please board the first train and change at Terminals 2&3 where necessary. A REDUCED SERVICE operates between Paddington and Heathrow Terminal 4 and Reading due to heat mitigation measures. GOOD SERVICE on the rest of the line.  "
+        "reason": "A reduced service operates between Paddington and Heathrow Terminal 4 due to heat mitigation measures."
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -29,15 +29,15 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to hot weather mitigation measures.  "
+        "reason": "Jubilee Line: Severe delays due to hot weather mitigation measures. Tickets are being accepted on London Buses, DLR, Mildmay line and Elizabeth line. "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: No service between Kilburn High Road and Euston while we fix a signal failure at Euston. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -72,11 +72,11 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Severe delays due to earlier faulty overhead wires at Clapton. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays between Sydenham and West Croydon while we fix a signal failure at West Croydon. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "reason": "Windrush Line: Severe delays between Sydenham and West Croydon while we fix a signal failure at West Croydon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.  "
     }
 }
