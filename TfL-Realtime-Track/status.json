@@ -4,16 +4,16 @@
         "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Willesden Junction. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays between White City and Ealing Broadway / West Ruislip due to heat-related temporary speed restrictions. SEVERE DELAYS between Leytonstone and Epping / Hainault via Newbury Park. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: No service clockwise only while we fix a points failure at Edgware Road. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Richmond and MINOR DELAYS between Tower Hill and Upminster due to heat-related temporary speed restrictions. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+        "reason": "District Line: No service between Earl's Court and Edgware Road due to a points failure at Edgware Road. SEVERE DELAYS between Turnham Green and Richmond and MINOR DELAYS on the rest of the line due to heat-related temporary speed restrictions. Tickets are being accepted on London Buses. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,23 +21,23 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Heathrow Airport / Reading while we fix signal failures at Heathrow Airport and Twyford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railways.  "
+        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 due to a signal system failure at Heathrow Airport. If you're travelling to or from Terminal 5, please board the first train and change at Terminals 2&3 where necessary. A REDUCED SERVICE operates between Paddington and Heathrow Terminal 4 and Reading due to heat mitigation measures. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to an earlier faulty train at Edgware Road. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to hot weather mitigation measures.  "
+        "reason": "Jubilee Line: Severe delays due to hot weather mitigation measures.  "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: No service between Kilburn High Road and Euston while we fix a signal failure at Euston. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays due to an earlier signal failure at Tooting Broadway. Tickets will be accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway "
+        "reason": "Northern Line: Severe delays due to an earlier signal failure at Tooting Broadway and an earlier points failure at East Finchley. Tickets will be accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays we fix a points failure at Walthamstow Central. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Great Northern, Thameslink, Greater Anglia, South western Railway and Southeastern services.  "
+        "reason": "Victoria Line: Severe delays due to a points failure at Walthamstow Central. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Great Northern, Thameslink, Greater Anglia, South western Railway and Southeastern services.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Severe delays between Sydenham and West Croydon while we fix a signal failure at West Croydon. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     }
 }
