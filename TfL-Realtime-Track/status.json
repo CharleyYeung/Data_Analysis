@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Earl's Court and Edgware Road due to a points failure at Edgware Road. SEVERE DELAYS between Turnham Green and Richmond and MINOR DELAYS on the rest of the line due to heat-related temporary speed restrictions. Tickets are being accepted on London Buses. "
+        "reason": "District Line: No service between Edgware Road and High Street Kensington due to a points failure at Edgware Road. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation. "
+        "reason": "MILDMAY LINE: Wednesday 24 June, the 2129 and 2159 trains from Stratford to Richmond, and 2135 train from Stratford to Clapham Junction, will terminate at Camden Road. The 2203 and 2234 trains from Clapham Junction terminate at Willesden Junction instead of Stratford."
     },
     "Northern": {
         "is_disrupted": true,
@@ -72,11 +72,11 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Hackney Downs and Chingford and SEVERE DELAYS between Liverpool Street and Cheshunt / Enfield Town while we fix a fault with the overhead power lines at Clapton. "
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal failure at West Croydon. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
