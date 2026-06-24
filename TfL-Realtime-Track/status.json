@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Willesden Junction. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. "
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Camden Road. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between White City and Ealing Broadway / West Ruislip due to heat-related temporary speed restrictions. SEVERE DELAYS between Leytonstone and Epping / Hainault via Newbury Park. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Central Line: Minor delays due to heat-related temporary speed restrictions.  "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: No service clockwise only while we fix a points failure at Edgware Road. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
+        "reason": "Circle Line: No service clockwise only while we fix a points failure at Edgware Road. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses.  "
     },
     "District": {
         "is_disrupted": true,
@@ -72,11 +72,11 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Severe delays due to earlier faulty overhead wires at Clapton. London Underground are accepting tickets via any reasonable route.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays between Sydenham and West Croydon while we fix a signal failure at West Croydon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.  "
+        "reason": "Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal failure at West Croydon. GOOD SERVICE on the rest of the line.  "
     }
 }
