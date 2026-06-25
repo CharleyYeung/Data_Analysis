@@ -2478,3 +2478,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-25 04:32:49,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation. ,True
 2026-06-25 04:32:49,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals following a late finish of engineering work. GOOD SERVICE on the rest of the line. ,True
 2026-06-25 04:32:49,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-06-25 08:19:50,Circle,Circle Line: Minor delays due to train cancellations ,True
+2026-06-25 08:19:50,Elizabeth line,A reduced service operates between Paddington and Heathrow Terminal 4 & 5 due to heat mitigation measures and earlier signal system failure.,True
+2026-06-25 08:19:50,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation. ,True
