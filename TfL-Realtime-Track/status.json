@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays while we respond to a fire alert at Shepherd's Bush. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Great Western Railway, Chiltern Railways and Greater Anglia .  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations "
+        "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a points failure at Chalfont & Latimer. MINOR DELAYS between Rickmansworth and Amersham. SEVERE DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Camden Road and Stratford while we fix a signal failure at Hackney Central and SEVERE DELAYS on the rest of the line. "
+        "reason": "Mildmay Line: Severe delays due to an earlier signal failure at Hackney Central. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
