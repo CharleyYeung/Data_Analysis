@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Richmond and Turnham Green due to hot weather mitigation measures. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Edgware Road and Wimbledon due to an earlier points failure at Parsons Green. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Rickmansworth and Amersham / Chesham due to an earlier points failure at Chalfont & Latimer. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,

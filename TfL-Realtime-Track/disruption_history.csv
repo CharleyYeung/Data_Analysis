@@ -2503,3 +2503,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-25 18:24:27,Jubilee,Jubilee Line: Minor delays due to train cancellations. ,True
 2026-06-25 18:24:27,Metropolitan,Metropolitan Line: Minor delays between Rickmansworth and Amersham / Chesham due to an earlier points failure at Chalfont & Latimer. GOOD SERVICE on the rest of the line. ,True
 2026-06-25 18:24:27,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Hackney Central. London Underground are accepting tickets via any reasonable route. ,True
+2026-06-25 20:29:38,Central,Central Line: Severe delays due to an earlier fire alert at Shepherd's Bush. Tickets are being accepted on London Buses  Liberty line  Elizabeth line  Great Western Railway  Chiltern Railways and Greater Anglia. ,True
+2026-06-25 20:29:38,District,District Line: Minor delays between Edgware Road and Wimbledon due to an earlier points failure at Parsons Green. GOOD SERVICE on the rest of the line.  ,True
+2026-06-25 20:29:38,Elizabeth line,A reduced service operates between Paddington and Heathrow Terminal 4 & 5 due to heat mitigation measures and earlier signal system failure.,True
+2026-06-25 20:29:38,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-06-25 20:29:38,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Hackney Central. London Underground are accepting tickets via any reasonable route. ,True
