@@ -68,8 +68,8 @@
         "reason": "Victoria Line: Severe delays due to a points failure at Walthamstow Central. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Great Northern, Thameslink, Greater Anglia, South western Railway and Southeastern services.  "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": true,
