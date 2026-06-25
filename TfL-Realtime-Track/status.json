@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Camden Road. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to heat-related temporary speed restrictions.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: No service clockwise only while we fix a points failure at Edgware Road. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: No service between Edgware Road and High Street Kensington due to a points failure at Edgware Road. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "A reduced service operates between Paddington and Heathrow Terminal 4 due to heat mitigation measures."
+        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 due to a signal system failure at Heathrow Airport. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to hot weather mitigation measures. Tickets are being accepted on London Buses, DLR, Mildmay line and Elizabeth line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,15 +45,15 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Monday 22, Tuesday 23, Wednesday 24 and Thursday 25 June, after 2345 each evening, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344, or local bus routes 30, 274, 388, 393 or 488. In addition, the 2300 Stratford to Richmond train will not run."
+        "reason": "Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation. "
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Severe delays due to an earlier signal failure at Tooting Broadway and an earlier points failure at East Finchley. Tickets will be accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway. "
-    },
-    "Piccadilly": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Piccadilly": {
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals following a late finish of engineering work. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,19 +64,19 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a points failure at Walthamstow Central. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Great Northern, Thameslink, Greater Anglia, South western Railway and Southeastern services.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
         "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: No service between Hackney Downs and Chingford and SEVERE DELAYS between Liverpool Street and Cheshunt / Enfield Town while we fix a fault with the overhead power lines at Clapton. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Monday 22, Tuesday 23, Wednesday 24 and Thursday 25 June, after 2330 each evening, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate, Brockley. Honor Oak Park, Forest Hill, Sydenham, Crystal Palace, Gipsy Hill, West Norwood, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate,  Brockley, Honor Oak Park, Forest Hill, Sydenham, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359, calling at all stations to London Bridge via New Cross Gate. Alternatively, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324, Crystal Palace to New Cross Gate / Highbury & Islington 2332; New Cross Gate to West Croydon 2330, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2237 trains from Highbury & Islington operate to Crystal Palace instead of West Croydon and the 2338 Dalston Junction to New Cross Gate train will not run."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
