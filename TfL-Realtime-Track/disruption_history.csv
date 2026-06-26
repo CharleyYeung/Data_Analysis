@@ -2538,3 +2538,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-26 01:53:03,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-06-26 01:53:03,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-06-26 01:53:03,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-06-26 08:27:39,Bakerloo,Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park while we fix a signal failure at Queen's Park. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
+2026-06-26 08:27:39,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-06-26 08:27:39,Elizabeth line,The Elizabeth Line is operating with a reduced service due to extreme weather.,True
+2026-06-26 08:27:39,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation.,True
+2026-06-26 08:27:39,Victoria,Victoria Line: Minor delays while we fix a points failure at Walthamstow Central. ,True
