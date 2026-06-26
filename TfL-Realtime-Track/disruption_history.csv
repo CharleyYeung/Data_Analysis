@@ -2556,3 +2556,12 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-26 13:27:28,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation.,True
 2026-06-26 13:27:28,Victoria,Victoria Line: Minor delays due to an earlier points failure at Walthamstow Central. ,True
 2026-06-26 13:27:28,Weaver,Weaver Line: No service between Edmonton Green and Cheshunt while we fix a signal failure at Hackney Downs. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  ,True
+2026-06-26 15:39:23,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-06-26 15:39:23,District,District Line: Severe delays between Edgware Road and  Wimbledon due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  ,True
+2026-06-26 15:39:23,Elizabeth line,ELIZABETH LINE: A reduced service operates between Paddington and Heathrow Airport due to hot weather mitigation measures.,True
+2026-06-26 15:39:23,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-06-26 15:39:23,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-06-26 15:39:23,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation.,True
+2026-06-26 15:39:23,Victoria,Victoria Line: Minor delays while we fix a faulty train at Brixton. ,True
+2026-06-26 15:39:23,Waterloo & City,Waterloo and City Line: Minor delays due to hot weather mitigation measures.  ,True
+2026-06-26 15:39:23,Weaver,Weaver Line: Severe delays while we fix a signal failure at Hackney Downs. London Underground are accepting tickets via any reasonable route.  ,True

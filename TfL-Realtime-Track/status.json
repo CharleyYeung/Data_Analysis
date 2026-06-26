@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Severe delays between Edgware Road and  Wimbledon due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix a signal system failure. London Underground are accepting tickets on the Piccadilly line. Please use the Piccadilly line to travel between All Heathrow Airport Terminals. A reduced service operates between Paddington and Heathrow Airport due to hot weather mitigations measures. GOOD SERVICE on the rest of the line.  "
+        "reason": "ELIZABETH LINE: A reduced service operates between Paddington and Heathrow Airport due to hot weather mitigation measures."
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -65,15 +65,15 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier points failure at Walthamstow Central. "
+        "reason": "Victoria Line: Minor delays while we fix a faulty train at Brixton. "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Minor delays due to hot weather mitigation measures.  "
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: No service between Edmonton Green and Cheshunt while we fix a signal failure at Hackney Downs. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+        "reason": "Weaver Line: Severe delays while we fix a signal failure at Hackney Downs. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
         "is_disrupted": false,
