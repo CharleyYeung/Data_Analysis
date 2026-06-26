@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at South Kenton. Tickets are being accepted on London Buses, London Northwestern Railway and Lioness line services. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
         "is_disrupted": true,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Barking and Upminster westbound only due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Severe delays between Wimbledon and Edgware Road due to an earlier signal failure at Parsons Green. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "ELIZABETH LINE: A reduced service operates between Paddington and Heathrow Airport due to hot weather mitigation measures."
+        "reason": "No service between Hayes & Harlington and Heathrow Terminals and SEVERE DELAYS between Paddington and Hayes & Harlington due to emergency engineering work to fix a signal fault at Heathrow. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and London Underground via any reasonable route. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Amersham/Chesham and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge/Watford due to train cancellations. The next southbound departure from Amersham will be at 20:52. The next southbound departure from Chesham will be at 21:03. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/Watford/Amersham/Chesham due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -68,12 +68,12 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Minor delays due to an earlier faulty train at Bank.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Severe delays while we fix a signal failure at Hackney Downs. London Underground are accepting tickets via any reasonable route.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
