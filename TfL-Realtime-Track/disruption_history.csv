@@ -2543,3 +2543,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-26 08:27:39,Elizabeth line,The Elizabeth Line is operating with a reduced service due to extreme weather.,True
 2026-06-26 08:27:39,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation.,True
 2026-06-26 08:27:39,Victoria,Victoria Line: Minor delays while we fix a points failure at Walthamstow Central. ,True
+2026-06-26 11:23:47,District,District Line: Minor delays between Turnham Green and Richmond due to hot weather mitigation measures. GOOD SERVICE on the rest of the line. ,True
+2026-06-26 11:23:47,Elizabeth line,The Elizabeth Line is operating with a reduced service due to extreme weather.,True
+2026-06-26 11:23:47,Metropolitan,Metropolitan Line: Minor delays between Wembley Park and Aldgate due to an earlier customer incident. GOOD SERIVCE on the rest of the line.  ,True
+2026-06-26 11:23:47,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation.,True
+2026-06-26 11:23:47,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier signal failure at Ealing Common. GOOD SERVICE on the rest of the line. ,True
+2026-06-26 11:23:47,Victoria,Victoria Line: Minor delays due to an earlier points failure at Walthamstow Central. ,True
