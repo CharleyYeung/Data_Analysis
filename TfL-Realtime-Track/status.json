@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "reason": "Central Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Edgware Road and  Wimbledon due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Wimbledon and Edgware Road and MINOR DELAYS between Tower Hill and Upminster due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to trains cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/Watford/Chesham and Amersham due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -52,16 +52,16 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier points failure at Ealing Common. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Minor delays due to an earlier faulty tram at Sandilands.  "
     },
     "Victoria": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Weaver Line: Severe delays while we fix a signal failure at Hackney Downs. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction due to a faulty train at Denmark Hill. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
     }
 }

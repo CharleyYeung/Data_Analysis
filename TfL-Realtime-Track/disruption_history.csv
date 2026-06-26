@@ -2565,3 +2565,16 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-26 15:39:23,Victoria,Victoria Line: Minor delays while we fix a faulty train at Brixton. ,True
 2026-06-26 15:39:23,Waterloo & City,Waterloo and City Line: Minor delays due to hot weather mitigation measures.  ,True
 2026-06-26 15:39:23,Weaver,Weaver Line: Severe delays while we fix a signal failure at Hackney Downs. London Underground are accepting tickets via any reasonable route.  ,True
+2026-06-26 17:22:50,Central,Central Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. ,True
+2026-06-26 17:22:50,District,District Line: Minor delays between Wimbledon and Edgware Road and MINOR DELAYS between Tower Hill and Upminster due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  ,True
+2026-06-26 17:22:50,Elizabeth line,ELIZABETH LINE: A reduced service operates between Paddington and Heathrow Airport due to hot weather mitigation measures.,True
+2026-06-26 17:22:50,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-06-26 17:22:50,Jubilee,Jubilee Line: Minor delays due to trains cancellations. ,True
+2026-06-26 17:22:50,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/Watford/Chesham and Amersham due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-06-26 17:22:50,Mildmay,Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation.,True
+2026-06-26 17:22:50,Piccadilly,Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier points failure at Ealing Common. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
+2026-06-26 17:22:50,Tram,London Tramlink: Minor delays due to an earlier faulty tram at Sandilands.  ,True
+2026-06-26 17:22:50,Victoria,Victoria Line: Minor delays while we fix a faulty train at Brixton. ,True
+2026-06-26 17:22:50,Waterloo & City,Waterloo and City Line: Minor delays due to hot weather mitigation measures.  ,True
+2026-06-26 17:22:50,Weaver,Weaver Line: Severe delays while we fix a signal failure at Hackney Downs. London Underground are accepting tickets via any reasonable route.  ,True
+2026-06-26 17:22:50,Windrush,Windrush Line: No service between Surrey Quays and Clapham Junction due to a faulty train at Denmark Hill. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route.  ,True
