@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Turnham Green and Richmond due to hot weather mitigation measures. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays between Earl's Court and Wimbledon due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "The Elizabeth Line is operating with a reduced service due to extreme weather."
+        "reason": "No service between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix a signal system failure. London Underground are accepting tickets on the Piccadilly line. Please use the Piccadilly line to travel between All Heathrow Airport Terminals. A reduced service operates between Paddington and Heathrow Airport due to hot weather mitigations measures. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Wembley Park and Aldgate due to an earlier customer incident. GOOD SERIVCE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier signal failure at Ealing Common. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Edmonton Green and Cheshunt while we fix a signal failure at Hackney Downs. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
         "is_disrupted": false,
