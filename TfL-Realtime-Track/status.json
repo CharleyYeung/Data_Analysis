@@ -8,12 +8,12 @@
         "reason": "Central Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Wimbledon and Edgware Road and MINOR DELAYS between Tower Hill and Upminster due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Barking and Upminster westbound only due to an earlier signal failure at Parsons Green. MINOR DELAYS between Turnham Green and Richmond due to hot weather mitigation measures. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "ELIZABETH LINE: A reduced service operates between Paddington and Heathrow Airport due to hot weather mitigation measures."
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to trains cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/Watford/Chesham and Amersham due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Amersham/Chesham and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge/Watford due to train cancellations. The next southbound departure from Amersham will be at 20:52. The next southbound departure from Chesham will be at 21:03. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -52,31 +52,31 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier points failure at Ealing Common. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Minor delays due to an earlier faulty tram at Sandilands.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays while we fix a faulty train at Brixton. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Minor delays due to hot weather mitigation measures.  "
+        "reason": "Waterloo and City Line: Minor delays due to an earlier faulty train at Bank.  "
     },
     "Weaver": {
         "is_disrupted": true,
         "reason": "Weaver Line: Severe delays while we fix a signal failure at Hackney Downs. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction due to a faulty train at Denmark Hill. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
