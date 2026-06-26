@@ -8,8 +8,8 @@
         "reason": "Central Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Monday 22, Tuesday 23, Wednesday 24, Thursday 25 and Friday 26 June, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
     },
     "Tram": {
         "is_disrupted": false,
