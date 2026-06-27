@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at South Kenton. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays while we fix a signal system failure. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
@@ -20,12 +20,12 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 June, no service between Prince Regent and Beckton. Please use local London Buses services."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Heathrow Terminals 2&3 and Terminal 5 while we fix a points failure at Heathrow Terminal 5. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to an earlier signal system failure at Bromley-By-Bow. Tickets being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line and C2C railway services. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Severe delays while we fix a signal failure at Kilburn High Road and South Kenton. "
     },
     "Metropolitan": {
         "is_disrupted": false,

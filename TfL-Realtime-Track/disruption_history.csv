@@ -2627,3 +2627,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-27 07:46:02,Hammersmith & City,Hammersmith and City Line: Severe delays due to an earlier signal system failure at Bromley-By-Bow. Tickets being accepted on London Buses  Mildmay Line  DLR  Elizabeth Line and C2C railway services. ,True
 2026-06-27 07:46:02,Piccadilly,PICCADILLY LINE: Saturday 27 June  from 0430 and all day Sunday 28 June  no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
 2026-06-27 07:46:02,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-06-27 10:02:25,Bakerloo,Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at South Kenton. GOOD SERVICE on the rest of the line. ,True
+2026-06-27 10:02:25,District,DISTRICT LINE: Saturday 27 and Sunday 28 June  no service between Turnham Green and Ealing Broadway. Replacement buses operate,True
+2026-06-27 10:02:25,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 June  no service between Prince Regent and Beckton. Please use local London Buses services.,True
+2026-06-27 10:02:25,Elizabeth line,Severe delays between Heathrow Terminals 2&3 and Terminal 5 while we fix a points failure at Heathrow Terminal 5. GOOD SERVICE on the rest of the line. ,True
+2026-06-27 10:02:25,Lioness,Lioness Line: Severe delays while we fix a signal failure at Kilburn High Road and South Kenton. ,True
+2026-06-27 10:02:25,Piccadilly,PICCADILLY LINE: Saturday 27 June  from 0430 and all day Sunday 28 June  no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
+2026-06-27 10:02:25,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
