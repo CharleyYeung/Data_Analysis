@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at South Kenton. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses via any reasonable route. "
+        "reason": "Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone due to an earlier signal failure at South Kenton. GOOD SERVICE on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": true,
@@ -57,15 +57,15 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Minor delays due to train cancellations "
+        "reason": "SUFFRAGETTE LINE: Saturday 27 June, the 2310 train from Gospel Oak to Barking Riverside will not run"
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Severe delays while we deal with a customer incident at Euston.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
