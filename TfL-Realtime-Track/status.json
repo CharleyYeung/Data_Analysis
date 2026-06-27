@@ -1,67 +1,67 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at South Kenton. Tickets are being accepted on London Buses, London Northwestern Railway and Lioness line services. GOOD SERVICE on the rest of the line. "
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. "
-    },
-    "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Circle": {
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Wimbledon and Edgware Road due to an earlier signal failure at Parsons Green. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work. "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Prince Regent and Beckton due to planned engineering work. "
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Hayes & Harlington and Heathrow Terminals and SEVERE DELAYS between Paddington and Hayes & Harlington due to emergency engineering work to fix a signal fault at Heathrow. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and London Underground via any reasonable route. "
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Service is operating at a reduced frequency due to hot weather mitigation."
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "PICCADILLY LINE: Saturday 27 June, between 0200 and 0430, no service between Kings Cross St Pancras and Heathrow due to planned engineering works. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": false,
