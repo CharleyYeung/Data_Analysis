@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to train cancellations and an earlier fire alert at Stanmore. Tickets will be accepted on London Buses, Mildmay Line, DLR, Elizabeth Line, C2C, Southeastern and Thameslink services. "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow on the Hill and Uxbridge, and between Moor Park and Watford due to train cancellations.Tickets will be accepted on the Lioness line and London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow on the Hill and Uxbridge and between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
