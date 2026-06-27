@@ -2621,3 +2621,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-27 02:44:59,Tram,London Tramlink: Service will resume later this morning. ,True
 2026-06-27 02:44:59,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
 2026-06-27 02:44:59,Weaver,Weaver Line: Service will resume later this morning. ,True
+2026-06-27 07:46:02,Circle,Circle Line: Minor delays while we fix a signal system failure. ,True
+2026-06-27 07:46:02,District,DISTRICT LINE: Saturday 27 and Sunday 28 June  no service between Turnham Green and Ealing Broadway. Replacement buses operate,True
+2026-06-27 07:46:02,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 June  no service between Prince Regent and Beckton. Please use local London Buses services.,True
+2026-06-27 07:46:02,Hammersmith & City,Hammersmith and City Line: Severe delays due to an earlier signal system failure at Bromley-By-Bow. Tickets being accepted on London Buses  Mildmay Line  DLR  Elizabeth Line and C2C railway services. ,True
+2026-06-27 07:46:02,Piccadilly,PICCADILLY LINE: Saturday 27 June  from 0430 and all day Sunday 28 June  no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
+2026-06-27 07:46:02,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True

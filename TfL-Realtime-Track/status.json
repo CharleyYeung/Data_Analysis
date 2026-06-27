@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -9,43 +9,43 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
+        "reason": "Circle Line: Minor delays while we fix a signal system failure. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work. "
+        "reason": "DISTRICT LINE: Saturday 27 and Sunday 28 June, no service between Turnham Green and Ealing Broadway. Replacement buses operate"
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Prince Regent and Beckton due to planned engineering work. "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 June, no service between Prince Regent and Beckton. Please use local London Buses services."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "reason": "Hammersmith and City Line: Severe delays due to an earlier signal system failure at Bromley-By-Bow. Tickets being accepted on London Buses, Mildmay Line, DLR, Elizabeth Line and C2C railway services. "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,15 +53,15 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 27 June, between 0200 and 0430, no service between Kings Cross St Pancras and Heathrow due to planned engineering works. Replacement buses operate."
+        "reason": "PICCADILLY LINE: Saturday 27 June, from 0430 and all day Sunday 28 June, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
