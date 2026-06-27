@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at South Kenton. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 June, no service between Prince Regent and Beckton. Please use local London Buses services."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Heathrow Terminals 2&3 and Terminal 5 while we fix a points failure at Heathrow Terminal 5. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -36,16 +36,16 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays while we fix a signal failure at Kilburn High Road and South Kenton. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays while we fix a signal failure at Willesden Junction. London Underground are accepting tickets via any reasonable route.  "
     },
     "Northern": {
         "is_disrupted": false,
