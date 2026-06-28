@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to train cancellations.  "
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
         "is_disrupted": true,
@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets will be accepted on London Buses via any reasonable route.  GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Sunday 28 June, from 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (for Piccadilly line) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
     },
     "Northern": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 28 June, no service between Surrey Quays and Clapham Junction / Battersea Park. Rail replacement buses will run as follows: Service M: Canada Water - Surrey Quays - New Cross Gate - Queens Road Peckham - Peckham Rye - Denmark Hill - Clapham High Street - Wandsworth Road - Clapham Junction"
+        "reason": "WINDRUSH LINE: Sunday 28 June, after 2215, no service between Highbury & Islington and Dalston Junction. Rail replacement buses will run as follows: Service S: Highbury & Islington - Canonbury (St Paul's Road) - Dalston Junction. Alternatively, use local bus route 30 between Highbury & Islington, Canonbury and Dalston. Last through trains: Highbury & Islington to Dalston Junction 2219; Dalston Junction to Highbury & Islington 2210 (A later train runs from Dalston Kingsland to Highbury & Islington at 2218). The 2159 train from New Cross to Dalston Junction will not run"
     }
 }
