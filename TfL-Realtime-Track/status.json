@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 28 June, the 0916 0931 and 0946 trains from Stratford to Richmond, and 0923 train from Stratford to Clapham Junction all start from Willesden Junction"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Saturday 27 June, from 0430 and all day Sunday 28 June, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Sunday 28 June, from 0945, no service between Barking and Barking Riverside. Use local London Buses services EL1 and EL3. At Barking, all SUFFRAGETTE LINE trains terminate and start at Platform 1."
     },
     "Tram": {
         "is_disrupted": false,
