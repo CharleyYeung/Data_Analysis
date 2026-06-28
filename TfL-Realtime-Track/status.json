@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Minor delays while we fix a signal failure at Wembley Central.  "
     },
     "Metropolitan": {
         "is_disrupted": true,
