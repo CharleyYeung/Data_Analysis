@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line:  Minor delays due to trains cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
