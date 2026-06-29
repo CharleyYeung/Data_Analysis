@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays clockwise due to an earlier customer incident at Baker Street. London Buses are accepting tickets via any reasonable route. GOOD service on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to an earlier customer incident at Baker Street. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier customer incident at Baker Street. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays between North Greenwich and Stratford while we fix a points failure at North Greenwich. GOOD SERVICE on the rest of the line. "
+        "reason": "Jubilee Line: Minor delays between North Greenwich and Stratford due to an earlier points failure at North Greenwich. GOOD SERVICE on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
