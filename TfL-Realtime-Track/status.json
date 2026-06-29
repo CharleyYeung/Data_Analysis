@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: No service clockwise only while we deal with a customer incident at Baker Street. GOOD SERVICE on the rest of the line.  "
+        "reason": "Circle Line: Minor delays clockwise due to an earlier customer incident at Baker Street. London Buses are accepting tickets via any reasonable route. GOOD service on the rest of the line. "
     },
     "District": {
         "is_disrupted": false,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Whitechapel and Shenfield while we deal with a customer incident at Harold Wood. Tickets will be accepted on London Underground via reasonable routes. GOOD SERVICE on the rest of the line. "
+        "reason": "ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell."
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service eastbound only while we deal with a customer incident at Baker Street. GOOD SERVICE on the rest of the line.  "
+        "reason": "Hammersmith and City Line: Severe delays due to an earlier customer incident at Baker Street. London Buses are accepting tickets via any reasonable route. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays between North Greenwich and Stratford while we fix a points failure at North Greenwich. GOOD SERVICE on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham due to train cancellations. the next Southbound train from Amersham is at 20:52 and the next southbound train from Chesham is at 21:03. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to a late running freight train.  "
+        "reason": "MILDMAY LINE: Monday 29, Tuesday 30 June, Wednesday 1 and Thursday 2 July, the 2203 and 2234 trains from Clapham Junction terminate at Willesden Junction instead of Stratford."
     },
     "Northern": {
         "is_disrupted": false,
