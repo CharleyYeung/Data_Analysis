@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Parsons Green and Wimbledon while we deal with a signalling problem at East Putney. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
     },
     "DLR": {
         "is_disrupted": false,
