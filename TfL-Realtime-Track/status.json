@@ -1,82 +1,82 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
+        "reason": "Circle Line: Minor delays clockwise only due to train cancellations.  "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 27 and Sunday 28 June, no service between Turnham Green and Ealing Broadway. Replacement buses operate"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 June, no service between Prince Regent and Beckton. Please use local London Buses services."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 28 June, from 2215, no service between Camden Road and Stratford. Rail replacement buses will run as follows: Service S: Camden Road - Holloway Road (for Piccadilly line) - Highbury & Islington - Canonbury - Dalston Junction (for Dalston Kingsland) - Hackney Central - Homerton - Hackney Wick - Stratford. For Caledonian Road & Barnsbury use local bus route 274 to/from Camden Road or walk to/from Highbury & Islington. Some buses continue on request westbound-only from Camden Road as follows: Camden Road - Kentish Town West - Gospel Oak (bus stop in Southampton Road) - Hampstead Heath - Finchley Road Tube (for Finchley Road & Frognal) - West Hampstead - Brondesbury (bus stops in Kilburn High Road) - Queen's Park (walk/local buses for Brondesbury Park) - Kensal Rise - Willesden Junction - Acton Central - South Acton - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - Richmond. Last through trains: Richmond to Stratford 2126; Camden Road to Stratford 2203; Stratford to Richmond 2201; Stratford to Clapham Junction 2208"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 27 June, from 0430 and all day Sunday 28 June, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Sunday 28 June, from 0945, no service between Barking and Barking Riverside. Use local London Buses services EL1 and EL3. At Barking, all SUFFRAGETTE LINE trains terminate and start at Platform 1."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 29 June, the 0048 Liverpool Street to Chingford train will not run."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 28 June, after 2215, no service between Highbury & Islington and Dalston Junction. Rail replacement buses will run as follows: Service S: Highbury & Islington - Canonbury (St Paul's Road) - Dalston Junction. Alternatively, use local bus route 30 between Highbury & Islington, Canonbury and Dalston. Last through trains: Highbury & Islington to Dalston Junction 2219; Dalston Junction to Highbury & Islington 2210 (A later train runs from Dalston Kingsland to Highbury & Islington at 2218). The 2159 train from New Cross to Dalston Junction will not run"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
