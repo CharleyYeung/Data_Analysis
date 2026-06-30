@@ -4,8 +4,8 @@
         "reason": "Bakerloo Line: Severe delays between Queen's Park and Elephant & Castle due to an operational incident. GOOD SERVICE on the rest of the line. Tickets will be accepted on London buses, Lioness line, London Northwestern Railway and Thameslink services. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge while we respond to a fire alert at Ruislip. GOOD SERVICE on the rest of the line. Ticket are being accepted on London Buses. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier fire alert at Ruislip. GOOD SERVICE on the rest of the line. Ticket are being accepted on London Buses. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service while we fix a signal failure at Willesden Junction. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between South Harrow and Uxbridge while we respond to a fire alert at Ruislip. SEVERE DELAYS due to an earlier person ill on a train at Turnpike Lane. Tickets are being accepted on London Buses, Elizabeth line, Great Northern and Weaver line services via any reasonable route. "
+        "reason": "Piccadilly Line: Severe delays due to an earlier person ill on a train at Turnpike Lane and a fire alert at Ruislip. Tickets are being accepted on London Buses, Elizabeth line, Great Northern and Weaver line services via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
