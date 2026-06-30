@@ -2887,3 +2887,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-06-30 01:36:33,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-06-30 05:55:41,Northern,Northern Line: Minor delays between Kennington and Battersea Power Station due to an earlier points failure at Moorgate. GOOD SERVICE on the rest of the line. ,True
 2026-06-30 05:55:41,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport following a late of finishing engineering work. GOOD SERVICE on the rest of the line. ,True
+2026-06-30 09:28:59,Bakerloo,Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses  Lioness line  London Northwestern Railway and Thameslink services. ,True
+2026-06-30 09:28:59,Windrush,Windrush Line: No service between Wandsworth Road and Clapham Junction. SEVERE DELAYS between Wandsworth Road and Surrey Quays due to an earlier person ill on a train at Whitechapel. GOOD SERVICE on the rest of the line. ,True

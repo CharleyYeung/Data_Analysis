@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line, London Northwestern Railway and Thameslink services. "
     },
     "Central": {
         "is_disrupted": false,
@@ -48,12 +48,12 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Kennington and Battersea Power Station due to an earlier points failure at Moorgate. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Airport following a late of finishing engineering work. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Wandsworth Road and Clapham Junction. SEVERE DELAYS between Wandsworth Road and Surrey Quays due to an earlier person ill on a train at Whitechapel. GOOD SERVICE on the rest of the line. "
     }
 }
