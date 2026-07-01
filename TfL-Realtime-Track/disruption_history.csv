@@ -2977,3 +2977,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-01 22:39:12,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,True
 2026-07-01 22:39:12,Northern,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,True
 2026-07-01 22:39:12,Suffragette,Suffragette Line: Minor delays due to an earlier signal failure at Woodgrange Park. ,True
+2026-07-01 23:55:05,Bakerloo,Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses  Lioness line and Thameslink services. ,True
+2026-07-01 23:55:05,Elizabeth line,ELIZABETH LINE: Monday 29 June  Tuesday 30 and Wednesday 1 July  after 2200 each evening  a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4  West Drayton  Langley  Slough  Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway  Southall and Hayes & Harlington. After 2300  trains will not call at Acton Main Line  West Ealing and Hanwell.,True
+2026-07-01 23:55:05,Lioness,LIONESS LINE: Monday 29  Tuesday 30 June  Wednesday 1 and Thursday 2 July  the 2345 Euston to Watford Junction train will not run.,True
+2026-07-01 23:55:05,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,True
+2026-07-01 23:55:05,Mildmay,MILDMAY LINE: Monday 29  Tuesday 30 June  Wednesday 1 and Thursday 2 July  after 2345 each evening  no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction  Northern line from Camden Town  or local bus routes 1  24  46 88 and 214 from Camden Road / Camden Town.,True
+2026-07-01 23:55:05,Northern,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,True
+2026-07-01 23:55:05,Suffragette,Suffragette Line: Minor delays due to an earlier signal failure at Woodgrange Park. ,True
+2026-07-01 23:55:05,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
