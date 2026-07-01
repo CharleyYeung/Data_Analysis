@@ -2954,3 +2954,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-01 12:47:46,Mildmay,Mildmay Line: No service between Camden Road and Willesden Junction while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. ,True
 2026-07-01 12:47:46,Piccadilly,Piccadilly Line: Severe delays between Acton town and Cockfosters and MINOR DELAYS on the rest of the line due to an operational incident and an earlier signal failure at Finsbury Park. Tickets are being accepted on London Buses  Elizabeth line and South Western Railway services.  ,True
 2026-07-01 12:47:46,Suffragette,Suffragette Line: No service between Gospel Oak and South Tottenham while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route.  ,True
+2026-07-01 15:38:35,Bakerloo,Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses  Lioness line and Thameslink services. ,True
+2026-07-01 15:38:35,Circle,Circle Line: Minor delays due to an earlier faulty train at Bayswater.  ,True
+2026-07-01 15:38:35,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Gospel Oak. London Underground are accepting tickets via any reasonable route. ,True
+2026-07-01 15:38:35,Suffragette,Suffragette Line: No service while we fix a signal failure at Gospel Oak. London Underground and London Buses are accepting tickets via any reasonable route.  ,True
