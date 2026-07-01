@@ -2961,3 +2961,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-01 17:32:33,Bakerloo,Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses  Lioness line and Thameslink services. ,True
 2026-07-01 17:32:33,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-07-01 17:32:33,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Gospel Oak. London Underground are accepting tickets via any reasonable route. ,True
+2026-07-01 19:23:03,Bakerloo,Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses  Lioness line and Thameslink services. ,True
+2026-07-01 19:23:03,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-07-01 19:23:03,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park  and MINOR DELAYS between Harrow-on-the-Hill and Watford due to train cancellations.. GOOD SERVICE on the rest of the line.  ,True
+2026-07-01 19:23:03,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Gospel Oak. London Underground are accepting tickets via any reasonable route. ,True
+2026-07-01 19:23:03,Northern,Northern Line: Severe delays between Camden Town and High Barnet/Mill Hill East  and MINOR DELAYS between Kennington and Battersea Power Station due to an earlier fire alert at West Finchley. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
