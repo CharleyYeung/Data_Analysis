@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line, Thameslink and London Northwestern Railway services. "
+        "reason": "Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. "
     },
     "Central": {
         "is_disrupted": false,
@@ -12,20 +12,20 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Turnham Green and Richmond due to a signal failure at Willesden Junction on the Mildmay line. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Paddington and Heathrow Airport / Reading while we fix a signal fault at Hayes & Harlington. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a points failure at Wembley Park. GOOD service on the rest of the line. "
+        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate while we deal with a trespasser on the track at Northwick Park. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service on the entire line while we fix a signal failure at Willesden Junction. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Mildmay Line: No service between Richmond / Shepherd's Bush and Gospel Oak while we fix a signal failure at Willesden Junction. MINOR DELAYS between Clapham Junction and Shepherd's Bush and between Gospel Oak and Stratford. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Airport due to an operational incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, he Elizabeth line and South Western Railway.  "
+        "reason": "Piccadilly Line: Severe delays due to an operational incident and an earlier signal failure at Finsbury Park. Tickets are being accepted on London Buses, Elizabeth line and South Western Railway services.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a points failure at Norwood Junction. GOOD SERVICE on the rest of the line. "
     }
 }
