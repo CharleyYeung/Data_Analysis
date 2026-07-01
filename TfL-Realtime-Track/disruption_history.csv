@@ -2933,3 +2933,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-01 01:32:45,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-07-01 01:32:45,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-07-01 01:32:45,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-07-01 06:10:16,Bakerloo,Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses  Lioness line  Thameslink and London Northwestern Railway services. ,True
+2026-07-01 06:10:16,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a points failure at Wembley Park. GOOD service on the rest of the line. ,True
+2026-07-01 06:10:16,Mildmay,Mildmay Line: No service on the entire line while we fix a signal failure at Willesden Junction. London Underground are accepting tickets via any reasonable route. ,True
+2026-07-01 06:10:16,Piccadilly,Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Airport due to an operational incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses  he Elizabeth line and South Western Railway.  ,True
