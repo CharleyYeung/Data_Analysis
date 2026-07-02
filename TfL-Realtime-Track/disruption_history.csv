@@ -3017,3 +3017,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-02 17:01:51,Elizabeth line,Minor delays between Hayes & Harlington and Reading while we help a person ill on the station at Burnham. GOOD SERVICE on the rest of the line.  ,True
 2026-07-02 17:01:51,Jubilee,Jubilee Line: Severe delays due to an earlier fire alert at Westminster. Tickets are being accepted on London Buses  Elizabeth Line  Mildmay Line and the DLR.  ,True
 2026-07-02 17:01:51,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Cockfosters. GOOD SERVICE on the rest of the line. ,True
+2026-07-02 18:47:02,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
+2026-07-02 18:47:02,Circle,Circle Line: Minor delays clockwise only due to an earlier faulty train. GOOD SERVICE on the rest of the line.  ,True
+2026-07-02 18:47:02,Jubilee,Jubilee Line: Severe delays due to an earlier fire alert at Westminster. Tickets are being accepted on London Buses  Elizabeth Line  Mildmay Line and the DLR.  ,True
+2026-07-02 18:47:02,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Cockfosters. GOOD SERVICE on the rest of the line. ,True
+2026-07-02 18:47:02,Tram,London Tramlink: No service between Reeves Corner and East Croydon while the Police respond to an incident. GOOD SERVICE on the rest of the line.  ,True
