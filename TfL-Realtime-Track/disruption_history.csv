@@ -3024,3 +3024,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-02 18:47:02,Tram,London Tramlink: No service between Reeves Corner and East Croydon while the Police respond to an incident. GOOD SERVICE on the rest of the line.  ,True
 2026-07-02 20:16:22,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Westminster.  ,True
 2026-07-02 20:16:22,Tram,London Tramlink: No service between Reeves Corner and New Addington / Elmers End / Beckenham Junction while the Police respond to an incident. GOOD SERVICE on the rest of the line.  ,True
+2026-07-02 21:42:35,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-07-02 21:42:35,Mildmay,MILDMAY LINE: Monday 29  Tuesday 30 June  Wednesday 1 and Thursday 2 July  the 2203 and 2234 trains from Clapham Junction terminate at Willesden Junction instead of Stratford.,True
+2026-07-02 21:42:35,Tram,London Tramlink: No service between Reeves Corner and New Addington / Elmers End / Beckenham Junction while the Police respond to an incident. GOOD SERVICE on the rest of the line.  ,True
