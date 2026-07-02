@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to a track fault at Wembley Park. If you are travelling northbound to Preston Road or Northwick Park, you will need to alight at Wembley Park and wait for a train serving these stations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays due to an earlier fire alert at Cockfosters. Tickets will be accepted on London Buses, Elizabeth Line, Weaver Line and Great Northern.   "
     },
     "Suffragette": {
         "is_disrupted": false,
