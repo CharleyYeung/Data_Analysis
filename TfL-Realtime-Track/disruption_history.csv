@@ -3022,3 +3022,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-02 18:47:02,Jubilee,Jubilee Line: Severe delays due to an earlier fire alert at Westminster. Tickets are being accepted on London Buses  Elizabeth Line  Mildmay Line and the DLR.  ,True
 2026-07-02 18:47:02,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Cockfosters. GOOD SERVICE on the rest of the line. ,True
 2026-07-02 18:47:02,Tram,London Tramlink: No service between Reeves Corner and East Croydon while the Police respond to an incident. GOOD SERVICE on the rest of the line.  ,True
+2026-07-02 20:16:22,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Westminster.  ,True
+2026-07-02 20:16:22,Tram,London Tramlink: No service between Reeves Corner and New Addington / Elmers End / Beckenham Junction while the Police respond to an incident. GOOD SERVICE on the rest of the line.  ,True
