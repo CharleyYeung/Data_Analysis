@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London Buses, Lioness Line, and Thameslink Railway services.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Monday 29, Tuesday 30 June, Wednesday 1 and Thursday 2 July, the 2345 Euston to Watford Junction train will not run."
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Monday 29, Tuesday 30 June, Wednesday 1 and Thursday 2 July, the 2203 and 2234 trains from Clapham Junction terminate at Willesden Junction instead of Stratford."
+        "reason": "MILDMAY LINE: Monday 29, Tuesday 30 June, Wednesday 1 and Thursday 2 July, after 2345 each evening, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction, Northern line from Camden Town, or local bus routes 1, 24, 46 88 and 214 from Camden Road / Camden Town."
     },
     "Northern": {
         "is_disrupted": false,
