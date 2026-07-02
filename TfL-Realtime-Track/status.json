@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line, Thameslink and London Northwestern Railway services. "
+        "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -20,16 +20,16 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Hayes & Harlington and Reading while we help a person ill on the station at Burnham. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Westminster. Tickets are being accepted on London Buses, Elizabeth Line, Mildmay Line and the DLR.  "
     },
     "Liberty": {
         "is_disrupted": false,

@@ -3013,3 +3013,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-02 12:54:18,Piccadilly,Piccadilly Line: Severe delays due to an earlier fire alert at Cockfosters. Tickets will be accepted on London Buses  Elizabeth Line  Weaver Line and Great Northern.   ,True
 2026-07-02 15:11:40,Bakerloo,Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses  Lioness line  Thameslink and London Northwestern Railway services. ,True
 2026-07-02 15:11:40,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Cockfosters. GOOD SERVICE on the rest of the line. ,True
+2026-07-02 17:01:51,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
+2026-07-02 17:01:51,Elizabeth line,Minor delays between Hayes & Harlington and Reading while we help a person ill on the station at Burnham. GOOD SERVICE on the rest of the line.  ,True
+2026-07-02 17:01:51,Jubilee,Jubilee Line: Severe delays due to an earlier fire alert at Westminster. Tickets are being accepted on London Buses  Elizabeth Line  Mildmay Line and the DLR.  ,True
+2026-07-02 17:01:51,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Cockfosters. GOOD SERVICE on the rest of the line. ,True
