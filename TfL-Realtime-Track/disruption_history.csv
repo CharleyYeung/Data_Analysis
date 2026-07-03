@@ -3057,3 +3057,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-03 14:54:02,Central,Central Line: Minor delays due to train cancellations.  ,True
 2026-07-03 14:54:02,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Wembley Park.  ,True
 2026-07-03 14:54:02,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-07-03 16:22:07,Bakerloo,Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier fire alert at Queen's Park. MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on London Buses and Lioness line via any reasonable route. ,True
+2026-07-03 16:22:07,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-07-03 16:22:07,District,District Line: No service between Turnham Green and Richmond while we respond to a fire alert at Gunnersbury. London Buses and Southwestern Railway are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-07-03 16:22:07,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Wembley Park.  ,True
+2026-07-03 16:22:07,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-07-03 16:22:07,Mildmay,Mildmay Line: No service between South Acton and Richmond while we respond to a fire alert at Gunnersbury. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True

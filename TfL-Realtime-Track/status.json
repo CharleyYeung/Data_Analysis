@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Queen's Park. Tickets will be accepted on London Buses and Lioness line via any reasonable route. "
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier fire alert at Queen's Park. MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on London Buses and Lioness line via any reasonable route. "
     },
     "Central": {
         "is_disrupted": true,
@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: No service between Turnham Green and Richmond while we respond to a fire alert at Gunnersbury. London Buses and Southwestern Railway are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between South Acton and Richmond while we respond to a fire alert at Gunnersbury. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
