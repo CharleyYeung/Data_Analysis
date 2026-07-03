@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to an earlier fire alert at Gunnersbury. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service Surrey Quays to New Cross, Sydenham to West Croydon and from Dalston Junction and Highbury & Islington while we fix a points failure at Highbury & Islington. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     }
 }
