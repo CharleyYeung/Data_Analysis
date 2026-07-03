@@ -4,16 +4,16 @@
         "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Stonebridge Park. Tickets are being accepted on London Buses.  "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to an earlier faulty train at Oxford Circus. Tickets are being accepted on London Buses, the Elizabeth line, Greater Anglia, Great Western Railway, Chiltern Railway and the Liberty line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Severe delays between Upminster and Tower Hill Westbound only due to an earlier trespasser on the track at Upminster. GOOD service on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
