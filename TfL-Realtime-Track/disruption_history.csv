@@ -3044,3 +3044,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-03 07:59:14,Bakerloo,Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to train cancellations. GOOD SERIVCE on the rest of the line. ,True
 2026-07-03 07:59:14,Jubilee,Jubilee Line: Minor delays while we fix a fault with the signalling system at Neasden. ,True
 2026-07-03 07:59:14,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-07-03 10:44:49,Bakerloo,Bakerloo Line: Minor delays due train to train cancellations. ,True
+2026-07-03 10:44:49,Lioness,Lioness Line: Minor delays due to an earlier faulty train at Harlesden. ,True
+2026-07-03 10:44:49,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-07-03 10:44:49,Weaver,Weaver Line: No service between Hackney Downs and Chingford and SEVERE DELAYS on the rest of the line while we fix a points failure at Clapton. London Underground are accepting tickets via any reasonable route. ,True

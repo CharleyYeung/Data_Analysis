@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to train cancellations. GOOD SERIVCE on the rest of the line. "
+        "reason": "Bakerloo Line: Minor delays due train to train cancellations. "
     },
     "Central": {
         "is_disrupted": false,
@@ -28,16 +28,16 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays while we fix a fault with the signalling system at Neasden. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Minor delays due to an earlier faulty train at Harlesden. "
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Hackney Downs and Chingford and SEVERE DELAYS on the rest of the line while we fix a points failure at Clapton. London Underground are accepting tickets via any reasonable route. "
     },
     "Windrush": {
         "is_disrupted": false,
