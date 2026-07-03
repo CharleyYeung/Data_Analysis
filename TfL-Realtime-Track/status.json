@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London Buses, Lioness Line, and Thameslink Railway services.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: No service between Wimbledon and Earl's Court while we fix a points failure at Parsons Green. London Underground tickets will be accepted on London buses and South West Trains. GOOD service on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Monday 29, Tuesday 30 June, Wednesday 1 and Thursday 2 July, after 2345 each evening, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction, Northern line from Camden Town, or local bus routes 1, 24, 46 88 and 214 from Camden Road / Camden Town."
+        "reason": "MILDMAY LINE: Tuesday 30 June, Wednesday 1, Thursday 2 and Friday 3 July, until 0615, no southbound service from Willesden Junction to Shepherds Bush. The 0611 train from Stratford to Clapham Junction starts from Shepherds Bush and the 0651 from Stratford to Richmond will start from Acton Central. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228."
     },
     "Northern": {
         "is_disrupted": false,
@@ -60,8 +60,8 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: No service between Reeves Corner and New Addington / Elmers End / Beckenham Junction while the Police respond to an incident. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
