@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone due to an earlier customer incident at Harrow & Wealdstone. MINOR DELAYS on the rest of the line due train to train cancellations. Tickets will be accepted on London Buses via any reasonable route. "
+        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Queen's Park. Tickets will be accepted on London Buses and Lioness line via any reasonable route. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,15 +29,15 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Wembley Park. Tickets are being accepted on London Buses. "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Wembley Park.  "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays while we deal with a customer incident at Harrow & Wealdstone.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Severe delays due to an earlier points failure at Clapton. London Underground are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,
