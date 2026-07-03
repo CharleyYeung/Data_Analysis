@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Richmond due to an earlier fire alert at Gunnersbury. London Buses and South Western Railway are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Wembley Park.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to an earlier fire alert at Gunnersbury. London Underground are accepting valid tickets via any reasonable route.  "
+        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to an earlier fire alert at Gunnersbury. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,
