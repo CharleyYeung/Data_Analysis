@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
+        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Stonebridge Park. Tickets are being accepted on London Buses.  "
     },
     "Central": {
         "is_disrupted": true,
@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Upminster and Tower Hill Westbound only due to an earlier trespasser on the track at Upminster. GOOD service on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Severe delays due to an earlier fire alert at Stonebridge Park. "
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service Surrey Quays to New Cross, Sydenham to West Croydon and from Dalston Junction and Highbury & Islington while we fix a points failure at Highbury & Islington. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: No service between Surrey Quays and New Cross and Dalston Junction and Highbury & Islington while we fix a points failure at Highbury & Islington. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     }
 }
