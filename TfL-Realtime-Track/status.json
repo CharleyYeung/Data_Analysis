@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Hammersmith and Heathrow Airport/Uxbridge while we fix a signal failure at Acton Town. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London Buses and Elizabeth line via any reasonable routes.  "
+        "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Acton Town. Tickets will be accepted on London Buses and Elizabeth line via any reasonable routes.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction while we fix a track fault at Peckham Rye. GOOD SERVICE on the rest of the line. "
     }
 }
