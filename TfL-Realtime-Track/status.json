@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+        "reason": "Jubilee Line: Severe delays between Stanmore and Wembley Park due to an earlier trespasser on the track at Neasden and MINOR DELAYS due to train cancellations. Tickets are being accepted on London Buses. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier signal failure at Acton Town. SEVERE DELAYS between King's Cross and Cockfosters due to an earlier faulty train at Piccadilly Circus. Tickets will be accepted on London Buses and Elizabeth line via any reasonable routes. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow due to an earlier faulty train at Piccadilly Circus and an earlier customer incident. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "reason": "Victoria Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses, Weaver line, Suffragette line, Great Northern and Greater Anglia, South Western railways and Southeastern. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
