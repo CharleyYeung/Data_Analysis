@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. MINOR DELAYS Harrow-on-the-Hill to Uxbridge, Chalfont & Latimer to Chesham and Watford to Moor Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. MINOR DELAYS Harrow-on-the-Hill to Uxbridge / Chesham / Watford and Amersham due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
