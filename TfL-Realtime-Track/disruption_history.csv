@@ -3105,3 +3105,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-04 01:18:09,Tram,London Tramlink: Service will resume later this morning. ,True
 2026-07-04 01:18:09,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
 2026-07-04 01:18:09,Weaver,Weaver Line: Service will resume later this morning. ,True
+2026-07-04 05:05:45,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
+2026-07-04 05:05:45,Circle,Circle Line: Minor delays between Hammersmith and Aldgate Anticlockwise only due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-04 05:05:45,District,DISTRICT LINE: Saturday 4 and Sunday 5 July  no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.,True
+2026-07-04 05:05:45,DLR,DOCKLANDS LIGHT RAILWAY: Saturday 4 and Sunday 5 July  no service between Prince Regent and Beckton. Please use local London Buses services.,True
+2026-07-04 05:05:45,Hammersmith & City,HAMMERSMITH & CITY LINE: Saturday 4 and Sunday 5 July  no service on the entire line. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.,True
+2026-07-04 05:05:45,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-07-04 05:05:45,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
