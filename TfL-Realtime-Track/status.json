@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Stonebridge Park. Tickets are being accepted on London Buses.  "
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays due to an earlier fire alert at Stonebridge Park. "
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,12 +56,12 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": false,
