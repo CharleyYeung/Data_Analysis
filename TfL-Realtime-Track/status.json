@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier police incident at West Ham. London Underground tickets will be accepted on London buses, Mildmay line, Elizabeth Line, Southeastern, Thameslink and C2C. "
+        "reason": "Jubilee Line: Minor delays due to an earlier police incident at West Ham. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "reason": "Victoria Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
