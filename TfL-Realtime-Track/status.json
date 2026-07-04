@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Acton Town. Tickets will be accepted on London Buses and Elizabeth line via any reasonable routes.  "
+        "reason": "Piccadilly Line: Severe delays between Cockfosters and Arnos Grove, and between Acton Town and Uxbridge / Heathrow Terminals due to an earlier signal failure at Acton Town. Tickets will be accepted on London Buses and Elizabeth line via any reasonable routes. MINOR DELAYS on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction while we fix a track fault at Peckham Rye. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
