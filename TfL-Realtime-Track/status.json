@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays between Elephant & Castle and Queen's Park Northbound only due to an earlier customer incident at Baker Street. GOOD service on the rest of the line. "
     },
     "Central": {
         "is_disrupted": false,
@@ -29,19 +29,19 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe due to an earlier police incident at West Ham. London Underground tickets will be accepted on London buses, Mildmay line, Elizabeth Line, Southeastern, Thameslink and C2C. "
+        "reason": "Jubilee Line: Severe delays due to an earlier police incident at West Ham. London Underground tickets will be accepted on London buses, Mildmay line, Elizabeth Line, Southeastern, Thameslink and C2C. "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Saturday 4 and Sunday 5 July: On Saturday and Sunday a reduced service will run at certain times between Kilburn High Road and Euston. On Saturday, trains departing Watford Junction, between 0630 and 2030, at 30 minutes past each hour, will terminate at Kilburn High Road. Trains departing Euston, between 0715 and 2115, at 15 minutes each hour will start from Kilburn High Road. On Sunday, trains departing Watford Junction, between 1130 and 2030, at 30 minutes past each hour, will terminate at Kilburn High Road. Trains departing Euston, between 1215 and 2115, at 15 minutes each hour will start from Kilburn High Road."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. MINOR DELAYS between Watford and Moor Park due to train cancellations. The next southbound departure will be at 21:08. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
