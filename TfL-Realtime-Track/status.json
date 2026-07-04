@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays between Stanmore and Wembley Park due to an earlier trespasser on the track at Neasden and MINOR DELAYS due to train cancellations. Tickets are being accepted on London Buses. "
+        "reason": "Jubilee Line: Severe due to an earlier police incident at West Ham. London Underground tickets will be accepted on London buses, Mildmay line, Elizabeth Line, Southeastern, Thameslink and C2C. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: From 1930 Saturday 4 until 1200 Sunday 5 July, no service between Shepherds Bush and Willesden Junction. There will also be no SOUTHERN service between Shepherds Bush and Watford Junction at these times. Please use local London Buses and London Underground connections."
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow due to an earlier faulty train at Piccadilly Circus and an earlier customer incident. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow due to an earlier customer incident at Hyde Park Corner. London Underground tickets will be accepted on London buses, Elizabeth line and South Western Railway. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses, Weaver line, Suffragette line, Great Northern and Greater Anglia, South Western railways and Southeastern. "
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
