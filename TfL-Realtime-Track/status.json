@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Wembley Park and Stanmore and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Stanmore. London Buses, Mildmay line, DLR, Elizabeth line and Thameslink services are accepting tickets via any reasonable route. "
+        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Stanmore. London Buses, Mildmay line, DLR, Elizabeth line and Thameslink services are accepting tickets via any reasonable route. "
     },
     "Liberty": {
         "is_disrupted": false,
