@@ -28,8 +28,8 @@
         "reason": "HAMMERSMITH & CITY LINE: Saturday 4 and Sunday 5 July, no service on the entire line. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate."
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
