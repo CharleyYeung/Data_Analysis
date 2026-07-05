@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stanmore. "
+        "reason": "Jubilee Line: No service between Wembley Park and Stanmore and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Stanmore. London Buses, Mildmay line, DLR, Elizabeth line and Thameslink services are accepting tickets via any reasonable route. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Baker Street and Watford while we fix a track fault at Wembley Park and due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Baker Street and Harrow-on-the-Hill due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
