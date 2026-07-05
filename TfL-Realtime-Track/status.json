@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays between Elephant & Castle and Queen's Park while we fix a signal failure at Lambeth North. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street while we fix a track fault at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: From 1930 Saturday 4 until 1200 Sunday 5 July, no service between Shepherds Bush and Willesden Junction. There will also be no SOUTHERN service between Shepherds Bush and Watford Junction at these times. Please use local London Buses and London Underground connections."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
