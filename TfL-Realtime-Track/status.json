@@ -12,12 +12,12 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Barking and Upminster due to an earlier faulty train at Barking. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Bank and Canary Wharf, and Tower Gateway and Poplar due to an earlier faulty train. GOOD SERVICE on the rest of the line. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Kilburn.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Wembley Park and Aldgate while we respond to a fire alert at Kilburn. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chalfont & Latimer. SEVERE DELAYS between Harrow-on-the-Hill and Uxbridge due to an earlier fire alert at Kilburn. Tickets will be accepted on London Buses via any reasonable route. MINOR DELAYS between Wembley Park and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to an earlier faulty train at Oxford Circus. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays between Sydenham and West Croydon due to an earlier customer incident at Norwood Junction. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: No service between New Cross Gate and West Croydon / Crystal Palace and SEVERE DELAYS between New Cross Gate and Highbury & Islington while emergency service deal with a casualty on the track. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
     }
 }
