@@ -3327,3 +3327,23 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-05 23:43:59,Metropolitan,Metropolitan Line: Minor delays between Baker Street and Harrow-on-the-Hill due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
 2026-07-05 23:43:59,Piccadilly,Piccadilly Line: Severe delays due to an earlier signal failure at Hammersmith. Tickets are being accepted on London Buses  Elizabeth line  London Overground and Great Northern via any reasonable route. ,True
 2026-07-05 23:43:59,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-07-06 01:25:59,Bakerloo,Bakerloo Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Central,Central Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Circle,Circle Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,District,District Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,DLR,Docklands Light Railway: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Elizabeth line,Service will resume later this morning. ,True
+2026-07-06 01:25:59,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Jubilee,Jubilee Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Liberty,Liberty Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Lioness,Lioness Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Metropolitan,Metropolitan Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Mildmay,Mildmay Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Northern,Northern Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Piccadilly,Piccadilly Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Suffragette,Suffragette Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Tram,London Tramlink: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Victoria,Victoria Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-07-06 01:25:59,Weaver,Weaver Line: Service will resume later this morning. ,True
+2026-07-06 01:25:59,Windrush,Windrush Line: Service will resume later this morning. ,True
