@@ -68,12 +68,12 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 6 and Tuesday 7 July, after 2100 each evening until 0030 the following morning, a reduced half hourly service operates between Liverpool Street and Chingford."
+        "reason": "WEAVER LINE: Tuesday 7 and Wednesday 8 July, from 0030 each morning to end of service, no service northbound between Liverpool Street and Chingford. Use London Underground or London Buses via any reasonable route. Rail replacement buses will run as follows: Service L3: Liverpool Street - Bethnal Green - Cambridge Heath - London Fields - Hackney Downs - Clapton - St. James Street - Walthamstow Central - Wood St - Highams Park - Chingford; Buses depart at 0044 and 0114. Last train: Liverpool Street to Chingford 0018"
     },
     "Windrush": {
         "is_disrupted": false,
