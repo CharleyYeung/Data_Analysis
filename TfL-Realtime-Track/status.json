@@ -4,20 +4,20 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Barking and Upminster due to an earlier faulty train at Barking. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Bank and Canary Wharf, and Tower Gateway and Poplar due to an earlier faulty train. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Kilburn.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a signal failure at Chalfont & Latimer. SEVERE DELAYS between Harrow-on-the-Hill and Uxbridge due to an earlier fire alert at Kilburn. Tickets will be accepted on London Buses via any reasonable route. MINOR DELAYS between Wembley Park and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Severe delays between Chalfont & Latimer and Chesham due to a signal failure at Chalfont & Latimer. Tickets will be accepted on London Buses via any reasonable route. MINOR DELAYS between Uxbridge and Aldgate due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Airport due to an earlier fire alert at Barons Court. Tickets are being accepted on London Buses and Elizabeth line. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier faulty train at Oxford Circus. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between New Cross Gate and West Croydon / Crystal Palace and SEVERE DELAYS between New Cross Gate and Highbury & Islington while emergency service deal with a casualty on the track. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
