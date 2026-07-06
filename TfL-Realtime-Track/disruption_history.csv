@@ -3348,3 +3348,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-06 01:25:59,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-07-06 01:25:59,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-07-06 05:54:07,Metropolitan,Metropolitan Line: Minor delays between Rickmansworth and Amersham/Chesham while we fix a signal failure at Rickmansworth. The next southbound train from Chesham will be at 07:03. MINOR DELAYS between Wembley Park and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-07-06 10:09:30,Metropolitan,Metropolitan Line: No service between Wembley Park and Aldgate while we respond to a fire alert at Kilburn. GOOD SERVICE on the rest of the line. ,True
+2026-07-06 10:09:30,Windrush,Windrush Line: Severe delays between Sydenham and West Croydon due to an earlier customer incident at Norwood Junction. GOOD SERVICE on the rest of the line. ,True
