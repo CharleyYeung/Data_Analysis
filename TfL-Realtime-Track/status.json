@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Chalfont & Latimer and Chesham due to a signal failure at Chalfont & Latimer. Tickets will be accepted on London Buses via any reasonable route. MINOR DELAYS between Uxbridge and Aldgate due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Airport due to an earlier fire alert at Barons Court. Tickets are being accepted on London Buses and Elizabeth line. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Airport due to an earlier fire alert at Barons Court. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
