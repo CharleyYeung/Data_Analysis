@@ -3410,3 +3410,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-07 16:26:42,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier person taken ill at Gloucester Road  MINOR DELAYS between Acton Town and Uxbridge due to an earlier signal fault at North Ealing. GOOD SERVICE on the rest of the line. ,True
 2026-07-07 16:26:42,Waterloo & City,Waterloo and City Line: Minor delays due to an earlier faulty train at Waterloo.  ,True
 2026-07-07 16:26:42,Windrush,Windrush Line: No service between Sydenham and West Croydon due to a signal failure at West Croydon. GOOD service on the rest of the line.  ,True
+2026-07-07 18:30:02,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-07-07 18:30:02,Circle,Circle Line: Minor delays anticlockwise only while we help a person ill on a train at Royal Oak. GOOD SERVICE on the rest of the line.  ,True
+2026-07-07 18:30:02,Elizabeth line,Minor delays between Whitechapel and Shenfield while we fix a signal failure at Stratford. GOOD SERVICE on the rest of the line.  ,True
+2026-07-07 18:30:02,Hammersmith & City,Hammersmith and City Line: Minor delays between Edgware Road and Hammersmith while we help a person ill on a train at Royal Oak. GOOD SERVICE on the rest of the line.  ,True
+2026-07-07 18:30:02,Metropolitan,Metropolitan Line: Minor delays between Wembley Park and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line.  ,True
+2026-07-07 18:30:02,Waterloo & City,Waterloo and City Line: Minor delays due to an earlier faulty train at Waterloo.  ,True
+2026-07-07 18:30:02,Windrush,Windrush Line: No service between Sydenham and West Croydon due to a signal failure at West Croydon. GOOD service on the rest of the line.  ,True
