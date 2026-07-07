@@ -3403,3 +3403,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-07 13:54:02,Northern,Northern Line: Severe delays between Camden Town and Edgware due to an earlier fire alert at Colindale. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
 2026-07-07 13:54:02,Waterloo & City,Waterloo and City Line: Minor delays due to an earlier faulty train at Waterloo.  ,True
 2026-07-07 13:54:02,Windrush,Windrush Line: No service between Sydenham and West Croydon due to a signal failure at West Croydon. GOOD service on the rest of the line.  ,True
+2026-07-07 16:26:42,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-07-07 16:26:42,District,District Line: Severe delays between Earl's Court and Wimbledon while we fix a signal failure at Wimbledon. GOOD SERVICE on the rest of the line. ,True
+2026-07-07 16:26:42,Metropolitan,Metropolitan Line: Minor delays between Wembley Park and Baker Street due to a track fault at Wembley Park. GOOD SERVICE on the rest of the line.  ,True
+2026-07-07 16:26:42,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Harlesden Junction. Tickets are being accepted on London Underground. ,True
+2026-07-07 16:26:42,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier person taken ill at Gloucester Road  MINOR DELAYS between Acton Town and Uxbridge due to an earlier signal fault at North Ealing. GOOD SERVICE on the rest of the line. ,True
+2026-07-07 16:26:42,Waterloo & City,Waterloo and City Line: Minor delays due to an earlier faulty train at Waterloo.  ,True
+2026-07-07 16:26:42,Windrush,Windrush Line: No service between Sydenham and West Croydon due to a signal failure at West Croydon. GOOD service on the rest of the line.  ,True
