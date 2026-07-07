@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. GOOD service on the rest of the line.  "
     }
 }
