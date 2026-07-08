@@ -3468,3 +3468,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-08 11:31:24,Bakerloo,Bakerloo Line: Severe delays due to an earlier trespasser on the track at Piccadilly Circus. Tickets will be accepted on London Buses  London Overground  London Northwestern Railway and Thameslink. ,True
 2026-07-08 11:31:24,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  ,True
 2026-07-08 11:31:24,Windrush,Windrush Line: Severe between Sydenham and West Croydon due an earlier power supply failure. GOOD SERVICE on the rest of the line. ,True
+2026-07-08 13:15:15,Bakerloo,Bakerloo Line: Minor delays due to an earlier trespasser on the track at Piccadilly Circus.  ,True
+2026-07-08 13:15:15,District,District Line: Severe delays between Earl's Court and Wimbledon due to an earlier signal failure at Wimbledon. MINOR DELAYS between Ealing Broadway and Tower Hill eastbound only due to an earlier train fault at Hammersmith. Tickets will be accepted on London buses via reasonable routes. GOOD SERVICE on the rest of the line.  ,True
+2026-07-08 13:15:15,Elizabeth line,Minor delays between Abbey Wood and Whitechapel due to an earlier customer incident at Acton Main Line. GOOD SERVICE on the rest of the line. ,True
+2026-07-08 13:15:15,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  ,True

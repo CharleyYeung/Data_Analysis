@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier trespasser on the track at Piccadilly Circus. Tickets will be accepted on London Buses, London Overground, London Northwestern Railway and Thameslink. "
+        "reason": "Bakerloo Line: Minor delays due to an earlier trespasser on the track at Piccadilly Circus.  "
     },
     "Central": {
         "is_disrupted": false,
@@ -12,16 +12,16 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Earl's Court and Wimbledon due to an earlier signal failure at Wimbledon. MINOR DELAYS between Ealing Broadway and Tower Hill eastbound only due to an earlier train fault at Hammersmith. Tickets will be accepted on London buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Abbey Wood and Whitechapel due to an earlier customer incident at Acton Main Line. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Severe between Sydenham and West Croydon due an earlier power supply failure. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
