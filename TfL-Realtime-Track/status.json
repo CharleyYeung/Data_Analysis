@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Bakerloo Line: No service between Queen's Park and Elephant & Castle while we deal with trespassers on the track at Piccadilly Circus. Tickets will be accepted on London Buses, London Overground, London Northwestern Railway and Thameslink. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
         "is_disrupted": false,
@@ -12,20 +12,20 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Barking and Upminster while we respond to a fire alert at Bromley-By-Bow. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Abbey Wood and Whitechapel and MINOR DELAYS between Shenfield and Whitechapel due to an earlier faulty train at Stratford. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking, and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Bromley-by-Bow. London Buses, DLR  and C2C are accepting tickets via any reasonable route "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham, SEVERE DELAYS between Amersham and Rickmansworth while we fix a signal failure at Chesham. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
