@@ -3483,3 +3483,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-08 17:06:25,District,District Line: Severe delays while we fix a points failure at Whitechapel. Tickets will be accepted on London Buses  Mildmay line  Elizabeth line and  C2C via any reasonable route. ,True
 2026-07-08 17:06:25,Hammersmith & City,Hammersmith and City Line: Severe delays while we fix a points failure at Whitechapel. Tickets are accepted on London buses and Elizabeth line via reasonable routes.    ,True
 2026-07-08 17:06:25,Jubilee,Jubilee Line: Severe delays due to an earlier fire alert at Kingsbury. Tickets are being accepted on London Buses  Mildmay line and Elizabeth line via reasonable routes. ,True
+2026-07-08 18:42:55,Central,Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-08 18:42:55,District,District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond/Upminster while we fix a points failure at Whitechapel. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses  Mildmay line  Elizabeth line and C2C via any reasonable route. ,True
+2026-07-08 18:42:55,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Kingsbury.  ,True
+2026-07-08 18:42:55,Metropolitan,Metropolitan Line: Minor delays between Baker Street and Aldgate  due to an earlier points failure at Whitechapel. ,True
+2026-07-08 18:42:55,Piccadilly,Piccadilly Line: Minor delays between Arnos Grove and Acton Town eastbound only due to an earlier ill person on a train at Covent Garden. GOOD SERVICE on the rest of the line. ,True

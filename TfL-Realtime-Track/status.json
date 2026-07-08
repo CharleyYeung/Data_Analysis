@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier trespasser on the track at Piccadilly Circus. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
         "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Severe delays while we fix a points failure at Whitechapel. Tickets are accepted on London buses via reasonable routes. \r\n\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays while we fix a points failure at Whitechapel. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line and  C2C via any reasonable route. "
+        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway/Richmond/Upminster while we fix a points failure at Whitechapel. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line and C2C via any reasonable route. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays while we fix a points failure at Whitechapel. Tickets are accepted on London buses and Elizabeth line via reasonable routes. \r\n\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Kingsbury. Tickets are being accepted on London Buses, Mildmay line and Elizabeth line via reasonable routes. "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Kingsbury.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Baker Street and Aldgate  due to an earlier points failure at Whitechapel. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Arnos Grove and Acton Town eastbound only due to an earlier ill person on a train at Covent Garden. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
