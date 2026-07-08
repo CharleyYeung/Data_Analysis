@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Elephant & Castle while we deal with trespassers on the track at Piccadilly Circus. Tickets will be accepted on London Buses, London Overground, London Northwestern Railway and Thameslink. GOOD SERVICE on the rest of the line. "
+        "reason": "Bakerloo Line: Severe delays due to an earlier trespasser on the track at Piccadilly Circus. Tickets will be accepted on London Buses, London Overground, London Northwestern Railway and Thameslink. "
     },
     "Central": {
         "is_disrupted": false,
@@ -20,16 +20,16 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Abbey Wood and Whitechapel and MINOR DELAYS between Shenfield and Whitechapel due to an earlier faulty train at Stratford. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Chalfont & Latimer and Chesham, SEVERE DELAYS between Amersham and Rickmansworth while we fix a signal failure at Chesham. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Sydenham and West Croydon while due to a power supply failure. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: Severe between Sydenham and West Croydon due an earlier power supply failure. GOOD SERVICE on the rest of the line. "
     }
 }
