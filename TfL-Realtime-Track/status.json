@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Kingsbury.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Richmond due to an earlier fault with the overhead power lines at West Hampstead. SEVERE DELAYS on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Mildmay Line: Severe delays due to an earlier fault with the overhead power lines at West Hampstead. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Cockfosters due to an earlier person ill on a train at Cockfosters. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Minor delays between Uxbridge and Acton town eastbound only due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WEAVER LINE: Wednesday 8 July, after 2245, no service between Hackney Downs and Chingford. Use London Underground or London Buses via any reasonable route. Rail replacement buses will run as follows: Service L3: Hackney Downs - Clapton - St. James Street - Walthamstow Central - Wood Street - Highams Park - Chingford. The last three northbound buses  will start from Liverpool Street at 0014, 0044 and 0114, and will call additionally at Bethnal Green, Cambridge Heath and London Fields. Last trains: Liverpool Street to Chingford 2231; Chingford to Liverpool Street 2253"
     },
     "Windrush": {
         "is_disrupted": false,
