@@ -9,11 +9,11 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays while we fix a points failure at Whitechapel. \r\n\r\n\r\n "
+        "reason": "Circle Line: Severe delays while we fix a points failure at Whitechapel. Tickets are accepted on London buses via reasonable routes. \r\n\r\n "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays while we fix a points failure at Whitechapel. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line and  C2C via any reasonable route. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays while we fix a points failure at Whitechapel. \r\n\r\n\r\n "
+        "reason": "Hammersmith and City Line: Severe delays while we fix a points failure at Whitechapel. Tickets are accepted on London buses and Elizabeth line via reasonable routes. \r\n\r\n "
     },
     "Jubilee": {
         "is_disrupted": true,
