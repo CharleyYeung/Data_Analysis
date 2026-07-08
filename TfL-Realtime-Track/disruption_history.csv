@@ -3472,3 +3472,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-08 13:15:15,District,District Line: Severe delays between Earl's Court and Wimbledon due to an earlier signal failure at Wimbledon. MINOR DELAYS between Ealing Broadway and Tower Hill eastbound only due to an earlier train fault at Hammersmith. Tickets will be accepted on London buses via reasonable routes. GOOD SERVICE on the rest of the line.  ,True
 2026-07-08 13:15:15,Elizabeth line,Minor delays between Abbey Wood and Whitechapel due to an earlier customer incident at Acton Main Line. GOOD SERVICE on the rest of the line. ,True
 2026-07-08 13:15:15,Jubilee,Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  ,True
+2026-07-08 15:40:03,Bakerloo,Bakerloo Line: Minor delays due to an earlier trespasser on the track at Piccadilly Circus. ,True
+2026-07-08 15:40:03,Central,Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-08 15:40:03,Circle,Circle Line: Minor delays while we fix a points failure at Whitechapel.     ,True
+2026-07-08 15:40:03,Hammersmith & City,Hammersmith and City Line: Minor delays while we fix a points failure at Whitechapel.     ,True
+2026-07-08 15:40:03,Jubilee,Jubilee Line: Severe delays due to an earlier fire alert at Kingsbury. Tickets are being accepted on London Buses  Mildmay line and Elizabeth line via reasonable routes. ,True
