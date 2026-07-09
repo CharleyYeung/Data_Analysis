@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line while we fix a signal failure at Hillingdon. London Buses are accepting tickets via any reasonable route.  "
+        "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge / Watford and MINOR DELAYS on the rest of the line while we fix a signal failure at Hillingdon. London Buses are accepting tickets via any reasonable route.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. Tickets are being accepted on London Buses. MINOR DELAYS westbound only due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. Tickets are being accepted on London Buses.  GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -68,12 +68,12 @@
         "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WEAVER LINE: Friday 10 July, from 0030 each morning to end of service, no service northbound between Liverpool Street and Chingford. Use London Underground or London Buses via any reasonable route. Rail replacement buses will run as follows: Service L3: Liverpool Street - Bethnal Green - Cambridge Heath - London Fields - Hackney Downs - Clapton - St. James Street - Walthamstow Central - Wood St - Highams Park - Chingford; Buses depart at 0044 and 0114. Last train: Liverpool Street to Chingford 0018"
     },
     "Windrush": {
         "is_disrupted": true,
