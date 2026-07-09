@@ -3562,3 +3562,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-09 20:55:36,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
 2026-07-09 20:55:36,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
 2026-07-09 20:55:36,Windrush,Windrush Line: No service between Sydenham and Crystal Palace while we fix a track fault at Crystal Palace. GOOD SERVICE on the rest of the line. ,True
+2026-07-09 22:19:14,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-07-09 22:19:14,Circle,Circle Line: No service clockwise only due to a points failure at Edgware Road. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses.  ,True
+2026-07-09 22:19:14,District,District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. Please use the Circle line to complete your journey. GOOD SERVICE on the rest of the line.  ,True
+2026-07-09 22:19:14,Jubilee,Jubilee Line: No service between Green Park and Stratford and SEVERE DELAYS on the rest of the line while we fix a faulty train at Southwark. Tickets are being accepted on London Buses  Mildmay line  DLR  Elizabeth Line  and Thameslink services. ,True
+2026-07-09 22:19:14,Metropolitan,Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line while we fix a signal failure at Hillingdon. London Buses are accepting tickets via any reasonable route.  ,True
+2026-07-09 22:19:14,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. Tickets are being accepted on London Buses. MINOR DELAYS westbound only due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-09 22:19:14,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
+2026-07-09 22:19:14,Windrush,Windrush Line: No service between Sydenham and Crystal Palace while we fix a track fault at Crystal Palace. GOOD SERVICE on the rest of the line. ,True
