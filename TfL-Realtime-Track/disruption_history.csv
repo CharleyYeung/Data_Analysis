@@ -3530,3 +3530,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-09 08:54:13,Windrush,Windrush Line: No service between Sydenham and Crystal Palace while we fix a track fault at Sydenham. GOOD SERVICE on the rest of the line. ,True
 2026-07-09 11:53:11,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-07-09 11:53:11,Windrush,Windrush Line: No service between Sydenham and Crystal Palace while we fix a track fault at Sydenham. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. ,True
+2026-07-09 14:48:10,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-09 14:48:10,District,District Line: Minor delays between Barking and Upminster due to an earlier points failure at Edgware Road. GOOD SERVICE on the rest of the line.  ,True
+2026-07-09 14:48:10,Mildmay,Mildmay Line: Severe delays between Willesden Junction and Clapham Junction while we fix a track fault at Kensington (Olympia). GOOD SERVICE on the rest of the line.  ,True
+2026-07-09 14:48:10,Windrush,Windrush Line: No service between Sydenham and Crystal Palace while we fix a track fault at Crystal Palace. GOOD SERVICE on the rest of the line. ,True
