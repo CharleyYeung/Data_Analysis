@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,23 +13,23 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Barking and Upminster due to an earlier points failure at Edgware Road. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between High Street Kensington and Edgware Road while we fix a points failure at Edgware Road. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Paddington and Reading/Heathrow Terminals due to an earlier fault with overhead powerlines. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,20 +40,20 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Hillingdon and MINOR DELAYS between Aldgate and Harrow-on-the-Hill while we fix a points failure at Aldgate. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays between Willesden Junction and Clapham Junction while we fix a track fault at Kensington (Olympia). GOOD SERVICE on the rest of the line.  "
+        "reason": "Mildmay Line: Severe delays while we fix a track fault at Kensington (Olympia). "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Morden and Camden Town via Bank northbound only while we fix a points failure at Camden Town. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
