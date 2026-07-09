@@ -3553,3 +3553,12 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-09 19:06:20,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. ,True
 2026-07-09 19:06:20,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
 2026-07-09 19:06:20,Windrush,Windrush Line: No service between Sydenham and Crystal Palace while we fix a track fault at Crystal Palace. GOOD SERVICE on the rest of the line. ,True
+2026-07-09 20:55:36,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-07-09 20:55:36,District,District Line: Minor delays between High Street Kensington and Edgware Road due to a points failure at Edgware Road. GOOD SERVICE on the rest of the line.  ,True
+2026-07-09 20:55:36,Elizabeth line,Minor delays between Paddington and Reading / Heathrow Airport due to an earlier fault with overhead power lines at Paddington. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  ,True
+2026-07-09 20:55:36,Jubilee,Jubilee Line: No service between Green Park and Stratford and SEVERE DELAYS on the rest of the line while we fix a faulty train at Southwark. Tickets are being accepted on London Buses  Mildmay line  DLR  Elizabeth Line  and Thameslink services. ,True
+2026-07-09 20:55:36,Metropolitan,Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line while we fix a signal failure at Hillingdon. London Buses are accepting tickets via any reasonable route.  ,True
+2026-07-09 20:55:36,Mildmay,Mildmay Line: Minor delays due to an earlier track fault at Kensington (Olympia). ,True
+2026-07-09 20:55:36,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. ,True
+2026-07-09 20:55:36,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
+2026-07-09 20:55:36,Windrush,Windrush Line: No service between Sydenham and Crystal Palace while we fix a track fault at Crystal Palace. GOOD SERVICE on the rest of the line. ,True

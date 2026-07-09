@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between High Street Kensington and Edgware Road while we fix a points failure at Edgware Road. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between High Street Kensington and Edgware Road due to a points failure at Edgware Road. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Reading/Heathrow Terminals due to an earlier fault with overhead powerlines. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Minor delays between Paddington and Reading / Heathrow Airport due to an earlier fault with overhead power lines at Paddington. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays while we fix a faulty train at Southwark.  "
+        "reason": "Jubilee Line: No service between Green Park and Stratford and SEVERE DELAYS on the rest of the line while we fix a faulty train at Southwark. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth Line, and Thameslink services. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge while we fix a signal failure at Hillingdon and earlier points failure at Aldgate. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line while we fix a signal failure at Hillingdon. London Buses are accepting tickets via any reasonable route.  "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays while we fix a track fault at Kensington (Olympia). "
+        "reason": "Mildmay Line: Minor delays due to an earlier track fault at Kensington (Olympia). "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
