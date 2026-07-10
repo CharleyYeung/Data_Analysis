@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Whitechapel and Shenfield and SEVERE DELAYS between Abbey Wood and Hayes & Harlington/Heathrow Terminals while we respond to a fire alert at Stratford. Tickets will be accepted on London Underground via any reasonable routes. GOOD SERVICE on the rest of the line.  Stratford station is closed due to a fire alert. "
+        "reason": "No service between Whitechapel and Shenfield and MINOR DELAYS between Abbey Wood and Hayes & Harlington/Heathrow Terminals while we respond to a fire alert at Stratford. Tickets will be accepted on London Underground via any reasonable routes. GOOD SERVICE on the rest of the line.  Stratford station is closed due to a fire alert. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays due to an earlier signalling problem at Harrow-on-the-Hill. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -56,16 +56,16 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Friday 10 July, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
