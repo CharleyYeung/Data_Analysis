@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to an earlier signal failure at Queen's Park. London Buses, Lioness line, London Northwester Railway and Thameslink are accepting tickets via any reasonable route. "
     },
     "Central": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service due to an earlier faulty train at Southwark. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
+        "reason": "Jubilee Line: Severe delays due to an earlier faulty train at Southwark. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge following a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge due to a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
+        "reason": "Piccadilly Line: Minor delays due to an earlier signal failure at Heathrow Terminals 2&3 and following a late finish of engineering works at Hillingdon.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays between Sydenham and West Croydon due to a signalling problem at West Croydon. GOOD SERVICE on the rest of the line.  "
     }
 }

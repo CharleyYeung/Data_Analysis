@@ -3603,3 +3603,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-10 05:31:36,Jubilee,Jubilee Line: No service due to an earlier faulty train at Southwark. Tickets are being accepted on London Buses  London Overground  DLR  Elizabeth line  C2C  Southeastern and Thameslink. ,True
 2026-07-10 05:31:36,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  ,True
 2026-07-10 05:31:36,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge due to a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  ,True
+2026-07-10 08:50:12,Bakerloo,Bakerloo Line: Severe delays due to an earlier signal failure at Queen's Park. London Buses  Lioness line  London Northwester Railway and Thameslink are accepting tickets via any reasonable route. ,True
+2026-07-10 08:50:12,Jubilee,Jubilee Line: Severe delays due to an earlier faulty train at Southwark. Tickets are being accepted on London Buses  London Overground  DLR  Elizabeth line  C2C  Southeastern and Thameslink. ,True
+2026-07-10 08:50:12,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge following a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line.  ,True
+2026-07-10 08:50:12,Piccadilly,Piccadilly Line: Minor delays due to an earlier signal failure at Heathrow Terminals 2&3 and following a late finish of engineering works at Hillingdon.  ,True
+2026-07-10 08:50:12,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-07-10 08:50:12,Windrush,Windrush Line: Minor delays between Sydenham and West Croydon due to a signalling problem at West Croydon. GOOD SERVICE on the rest of the line.  ,True
