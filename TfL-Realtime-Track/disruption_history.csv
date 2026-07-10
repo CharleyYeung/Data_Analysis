@@ -3600,3 +3600,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-10 01:17:25,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-07-10 01:17:25,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-07-10 01:17:25,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-07-10 05:31:36,Jubilee,Jubilee Line: No service due to an earlier faulty train at Southwark. Tickets are being accepted on London Buses  London Overground  DLR  Elizabeth line  C2C  Southeastern and Thameslink. ,True
+2026-07-10 05:31:36,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  ,True
+2026-07-10 05:31:36,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge due to a late finish of engineering works at Hillingdon. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  ,True
