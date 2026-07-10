@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip, and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. Stratford station is closed due to a fire alert. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -17,11 +17,11 @@
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Stratford and Bow Church while we respond to a fire alert at Bow Church. Good Service on the rest of the line. "
+        "reason": "Docklands Light Railway: No service between Stratford and Bow Church while we respond to a fire alert at Stratford. Good Service on the rest of the line.  Stratford station is closed due to a fire alert. "
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Whitechapel and Shenfield and SEVERE DELAYS between Abbey Wood and Hayes & Harlington/Heathrow Terminals while we respond to a fire alert at Stratford. Tickets will be accepted on London Underground via any reasonable routes. GOOD SERVICE on the rest of the line. "
+        "reason": "No service between Whitechapel and Shenfield and SEVERE DELAYS between Abbey Wood and Hayes & Harlington/Heathrow Terminals while we respond to a fire alert at Stratford. Tickets will be accepted on London Underground via any reasonable routes. GOOD SERVICE on the rest of the line.  Stratford station is closed due to a fire alert. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford, and SEVERE DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth line, C2C, Southeastern and Thameslink. "
+        "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford, and SEVERE DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth line, C2C, Southeastern and Thameslink.  Stratford station is closed due to a fire alert. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,15 +45,15 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Gospel Oak and Stratford, and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Stratford. London Underground are accepting valid tickets via any reasonable route. "
+        "reason": "MILDMAY LINE: Friday 10 July, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Minor delays while we fix a signal failure at Bethnal Green. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
