@@ -3636,3 +3636,14 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-10 18:11:03,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
 2026-07-10 18:11:03,Weaver,Weaver Line: Severe delays while we fix a signal failure at Bethnal Green. London Buses are accepting valid tickets via any reasonable route. ,True
 2026-07-10 18:11:03,Windrush,Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal fault at West Croydon. GOOD SERVICE on the rest of the line.  ,True
+2026-07-10 19:50:28,Central,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip  and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-10 19:50:28,DLR,Docklands Light Railway: No service between Stratford and Bow Church while we respond to a fire alert at Bow Church. Good Service on the rest of the line. ,True
+2026-07-10 19:50:28,Elizabeth line,No service between Whitechapel and Shenfield and SEVERE DELAYS between Abbey Wood and Hayes & Harlington/Heathrow Terminals while we respond to a fire alert at Stratford. Tickets will be accepted on London Underground via any reasonable routes. GOOD SERVICE on the rest of the line. ,True
+2026-07-10 19:50:28,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-07-10 19:50:28,Jubilee,Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford  and SEVERE DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses  London Overground  DLR  Elizabeth line  C2C  Southeastern and Thameslink. ,True
+2026-07-10 19:50:28,Metropolitan,Metropolitan Line: Minor delays due to an earlier signalling problem at Harrow-on-the-Hill. ,True
+2026-07-10 19:50:28,Mildmay,Mildmay Line: No service between Gospel Oak and Stratford  and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Stratford. London Underground are accepting valid tickets via any reasonable route. ,True
+2026-07-10 19:50:28,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the rest of the line. ,True
+2026-07-10 19:50:28,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-07-10 19:50:28,Weaver,Weaver Line: Minor delays while we fix a signal failure at Bethnal Green. ,True
+2026-07-10 19:50:28,Windrush,Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal fault at West Croydon. GOOD SERVICE on the rest of the line.  ,True
