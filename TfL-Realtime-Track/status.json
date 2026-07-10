@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. Stratford station is closed due to a fire alert. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Stratford and Bow Church while we respond to a fire alert at Stratford. Good Service on the rest of the line.  Stratford station is closed due to a fire alert. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": true,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford, and SEVERE DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth line, C2C, Southeastern and Thameslink.  Stratford station is closed due to a fire alert. "
+        "reason": "Jubilee Line: Minor delays due to a fire alert at Stratford. Stratford station is open only for the Jubilee line, Central line and DLR services. The Elizabeth line, Mildmay line and National Rail services are not stopping at Stratford due to a fire alert. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Friday 10 July, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
+        "reason": "Mildmay Line: No service between Highbury & Islington and Stratford, and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Stratford. London Underground are accepting valid tickets via any reasonable route. Stratford station is open only for the Jubilee line, Central line and DLR services. The Elizabeth line, Mildmay line and National Rail services are not stopping at Stratford due to a fire alert. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Friday 10 July, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal fault at West Croydon. GOOD SERVICE on the rest of the line.  "
+        "reason": "Windrush Line: No service between New Cross Gate and West Croydon / Crystal Palace while we conduct urgent repairs to the track at Sydenham. GOOD SERVICE on the rest of the line.  "
     }
 }
