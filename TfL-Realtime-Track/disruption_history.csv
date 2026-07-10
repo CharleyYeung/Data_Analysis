@@ -3615,3 +3615,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-10 11:46:51,Mildmay,Mildmay Line: Minor delays between Clapham Junction and Stratford while we fix a signal failure at Clapham Junction. GOOD SERVICE on the rest of the line.  ,True
 2026-07-10 11:46:51,Piccadilly,Piccadilly Line: Severe delays due to an earlier signal failure at Caledonian Road. London Buses  Elizabeth line  Weaver line  Great Northern and South Western Railway are accepting tickets via any reasonable route. ,True
 2026-07-10 11:46:51,Windrush,Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal fault at West Croydon. GOOD SERVICE on the rest of the line.  ,True
+2026-07-10 14:12:16,Bakerloo,Bakerloo Line: No service between Elephant & Castle and Lambeth North  and SEVERE DELAYS on the rest of the line while we fix a signal failure at Elephant & Castle. London Buses are accepting valid tickets via any reasonable route. ,True
+2026-07-10 14:12:16,Hammersmith & City,Hammersmith and City Line: Minor delays between Barking and Hammersmith westbound only due to train cancellations. GOOD SERVICE on the eastbound. ,True
+2026-07-10 14:12:16,Jubilee,Jubilee Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses  London Overground  DLR  Elizabeth line  C2C  Southeastern and Thameslink. ,True
+2026-07-10 14:12:16,Mildmay,Mildmay Line: Minor delays due to an earlier signal failure at Clapham Junction. ,True
+2026-07-10 14:12:16,Piccadilly,Piccadilly Line: Severe delays due to an earlier signal failure at Caledonian Road. London Buses  Elizabeth line  Weaver line  Great Northern and South Western Railway are accepting tickets via any reasonable route. ,True
+2026-07-10 14:12:16,Windrush,Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal fault at West Croydon. GOOD SERVICE on the rest of the line.  ,True
