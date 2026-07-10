@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Elephant & Castle and Lambeth North, and SEVERE DELAYS on the rest of the line while we fix a signal failure at Elephant & Castle. London Buses are accepting valid tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -16,16 +16,16 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Bank/Tower Gateway and Canary Wharf/Poplar due to an earlier faulty train at Bank. GOOD SERVICE on the rest of the line. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Barking and Hammersmith westbound only due to train cancellations. GOOD SERVICE on the eastbound. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound departure from Amersham will be at 17:41. GOOD service on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Caledonian Road. London Buses, Elizabeth line, Weaver line, Great Northern and South Western Railway are accepting tickets via any reasonable route. "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Airport/Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,16 +64,16 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Severe delays while we fix a points failure at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeasten railway are accepting valid tickets via any reasonable route. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Severe delays while we fix a signal failure at Bethnal Green. London Buses are accepting valid tickets via any reasonable route. "
     },
     "Windrush": {
         "is_disrupted": true,
