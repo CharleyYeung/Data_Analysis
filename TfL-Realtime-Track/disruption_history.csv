@@ -3629,3 +3629,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-10 16:33:50,Victoria,Victoria Line: Severe delays while we fix a points failure at Brixton. London Buses  Weaver line  Suffragette line  Great Northern  Thameslink  Greater Anglia  South Western Railway and Southeasten railway are accepting valid tickets via any reasonable route. ,True
 2026-07-10 16:33:50,Weaver,Weaver Line: Severe delays while we fix a signal failure at Bethnal Green. London Buses are accepting valid tickets via any reasonable route. ,True
 2026-07-10 16:33:50,Windrush,Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal fault at West Croydon. GOOD SERVICE on the rest of the line.  ,True
+2026-07-10 18:11:03,Central,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip  and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-10 18:11:03,Jubilee,Jubilee Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses  London Overground  DLR  Elizabeth line  C2C  Southeastern and Thameslink. ,True
+2026-07-10 18:11:03,Mildmay,Mildmay Line: Minor delays due to an earlier signal failure at Clapham Junction. ,True
+2026-07-10 18:11:03,Piccadilly,Piccadilly Line: Severe delays between Arnos Grove and Cockfosters due to an earlier fire alert at Oakwood. London Buses are accepting valid tickets via any reasonable route. MINOR DELAYS between Acton Town and Heathrow Airport/Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the rest of the line. ,True
+2026-07-10 18:11:03,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-07-10 18:11:03,Weaver,Weaver Line: Severe delays while we fix a signal failure at Bethnal Green. London Buses are accepting valid tickets via any reasonable route. ,True
+2026-07-10 18:11:03,Windrush,Windrush Line: Minor delays between Sydenham and West Croydon due to an earlier signal fault at West Croydon. GOOD SERVICE on the rest of the line.  ,True
