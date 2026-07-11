@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Elizabeth Line: Services between Whitechapel and Shenfield may be disrupted on Saturday morning, 12 July. This is due to a line side fire at Stratford which occurred on Friday afternoon. Please check before you travel."
+        "reason": "No service between Whitechapel and Ilford and SEVERE DELAYS on the rest of the line due to a lineside fire at Stratford on Friday and  late finish of engineering works Tottenham Court Road. Tickets are being accepted on London Underground. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to a fire alert at Stratford. Stratford station is open only for the Jubilee line, Central line and DLR services. The Elizabeth line, Mildmay line and National Rail services are not stopping at Stratford due to a fire alert. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Services between Stratford and Highbury & Islington may be disrupted on Saturday morning, 12 July. This is due to a line side fire at Stratford which occurred on Friday afternoon. Please check before you travel."
+        "reason": "Mildmay Line: No service between Highbury & Islington and Stratford and SEVERE DELAYS on the rest of the line following a lineside fire at Stratford on Friday. Tickets are being accepted on London Underground.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Wandsworth Road and Clapham Junction due to a points failure at Clapham junction. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
     }
 }
