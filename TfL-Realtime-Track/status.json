@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield due to emergency engineering work following a lineside fire at Stratford on Friday. London Underground is accepting tickets via reasonable routes. GOOD SERVICE on the rest of the line.  "
+        "reason": "Minor delays between Whitechapel and Shenfield due to emergency engineering work following a lineside fire at Stratford on Friday. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Richmond while we fix a fault with the overhead power lines. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: No service between Willesden Junction and Richmond due to a fault with the overhead power lines at Acton Central. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
