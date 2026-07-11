@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays westbound only while we fix a signal failure at Holborn. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays while we fix a signal failure at Holborn. "
     },
     "Circle": {
         "is_disrupted": false,
