@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": true,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Whitechapel and Ilford and SEVERE DELAYS on the rest of the line due to a lineside fire at Stratford on Friday and  late finish of engineering works Tottenham Court Road. Tickets are being accepted on London Underground. "
+        "reason": "Minor delays between Whitechapel and Shenfield due to a lineside fire at Stratford on Friday. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Highbury & Islington and Stratford and SEVERE DELAYS on the rest of the line following a lineside fire at Stratford on Friday. Tickets are being accepted on London Underground.  "
+        "reason": "Mildmay Line: Severe delays between Willesden Junction and Clapham Junction following a lineside fire at Stratford on Friday. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Wandsworth Road and Clapham Junction due to a points failure at Clapham junction. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
