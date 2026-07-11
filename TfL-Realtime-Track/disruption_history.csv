@@ -3669,3 +3669,19 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-10 23:14:28,Jubilee,Jubilee Line: Minor delays due to a fire alert at Stratford. Stratford station is open only for the Jubilee line  Central line and DLR services. The Elizabeth line  Mildmay line and National Rail services are not stopping at Stratford due to a fire alert. ,True
 2026-07-10 23:14:28,Mildmay,Mildmay Line: No service between Highbury & Islington and Stratford  and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Stratford. London Underground are accepting valid tickets via any reasonable route. Stratford station is open only for the Jubilee line  Central line and DLR services. The Elizabeth line  Mildmay line and National Rail services are not stopping at Stratford due to a fire alert. ,True
 2026-07-10 23:14:28,Windrush,Windrush Line: No service between New Cross Gate and West Croydon / Crystal Palace while we conduct urgent repairs to the track at Sydenham. GOOD SERVICE on the rest of the line.  ,True
+2026-07-11 00:11:17,Bakerloo,Bakerloo Line: Service will resume later this morning. ,True
+2026-07-11 00:11:17,Circle,Circle Line: Service will resume later this morning. ,True
+2026-07-11 00:11:17,District,District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering works.  ,True
+2026-07-11 00:11:17,DLR,Docklands Light Railway: Service will resume later this morning. ,True
+2026-07-11 00:11:17,Elizabeth line,Service will resume later this morning. Services between Whitechapel and Shenfield may be disrupted on Saturday morning  12 July. This is due to a line side fire at Stratford which occurred on Friday afternoon. Please check before you travel. ,True
+2026-07-11 00:11:17,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning. ,True
+2026-07-11 00:11:17,Jubilee,Jubilee Line: Minor delays due to a fire alert at Stratford. Stratford station is open only for the Jubilee line  Central line and DLR services. The Elizabeth line  Mildmay line and National Rail services are not stopping at Stratford due to a fire alert. ,True
+2026-07-11 00:11:17,Liberty,Liberty Line: Service will resume later this morning. ,True
+2026-07-11 00:11:17,Lioness,Lioness Line: Service will resume later this morning. ,True
+2026-07-11 00:11:17,Metropolitan,Metropolitan Line: Service will resume later this morning. There will be no service between Harrow-on-the-Hill and Uxbridge due to planned engineering works.  ,True
+2026-07-11 00:11:17,Mildmay,Mildmay Line: Service will resume later this morning. Services between Stratford and Highbury & Islington may be disrupted on Saturday morning  12 July. This is due to a line side fire at Stratford which occurred on Friday afternoon. Please check before you travel.  ,True
+2026-07-11 00:11:17,Piccadilly,PICCADILLY LINE: Saturday 11  from 0045  and all day Sunday 12 July  no service between Hammersmith and Heathrow (all terminals) / Uxbridge. The METROPOLITAN LINE will also be suspended between Harrow-on-the-Hill and Uxbridge. Use HEATHROW EXPRESS and ELIZABETH LINE for transfers between Heathrow terminals. Replacement bus services operate.,True
+2026-07-11 00:11:17,Suffragette,Suffragette Line: Service will resume later this morning. ,True
+2026-07-11 00:11:17,Tram,London Tramlink: Service will resume later this morning. ,True
+2026-07-11 00:11:17,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
+2026-07-11 00:11:17,Weaver,Weaver Line: Service will resume later this morning. ,True
