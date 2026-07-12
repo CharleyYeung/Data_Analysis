@@ -44,8 +44,8 @@
         "reason": "METROPOLITAN LINE: Saturday 11 and Sunday 12 July, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Hammersmith and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue), Rayners Lane, Eastcote, Ruislip Manor, Ruislip, West Ruislip (for Central line and Chiltern Railways), Ickenham and Hillingdon."
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Gospel Oak and Stratford while we respond to a fire alert at Dalston Kingsland. SEVERE DELAYS on the rest of the line due to an earlier fire alert at Imperial Wharf. "
     },
     "Northern": {
         "is_disrupted": false,
