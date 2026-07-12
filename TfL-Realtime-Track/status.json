@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 12 July, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Elizabeth line: All day on Sunday, 12 July, service will operate at a reduced frequency between Whitechapel and Shenfield while we undertake repairs following a line side fire at Stratford on Friday. Normal service will operate on the of the line."
     },
     "Hammersmith & City": {
         "is_disrupted": false,
