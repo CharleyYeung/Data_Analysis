@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Hackney Downs and Chingford and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Walthamstow Central. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
         "is_disrupted": false,
