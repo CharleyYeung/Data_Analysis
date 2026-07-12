@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays anti-clockwise only due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "District": {
         "is_disrupted": true,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to an earlier fire alert at Imperial Wharf. "
+        "reason": "Mildmay Line: Minor delays due to an earlier fire alert at Imperial Wharf. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Saturday 11, from 0045, and all day Sunday 12 July, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. The METROPOLITAN LINE will also be suspended between Harrow-on-the-Hill and Uxbridge. Use HEATHROW EXPRESS and ELIZABETH LINE for transfers between Heathrow terminals. Replacement bus services operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Sunday 12 July, the 2324 train from Barking Riverside to Willesden Junction will not run. Customers should use the previous train at 2301"
     },
     "Tram": {
         "is_disrupted": false,
@@ -73,7 +73,7 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: No service between Hackney Downs and Chingford and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Walthamstow Central. London Underground are accepting tickets via any reasonable route.  "
+        "reason": "Weaver Line: No service between Hackney Downs and Chingford and SEVERE DELAYS on the rest of the line due to a line side fire near Wood Street. London Underground are accepting tickets via any reasonable route.  Please note, the Weaver line will not operate between Hackney Downs and Chingford all day tomorrow, Monday 13 July. "
     },
     "Windrush": {
         "is_disrupted": false,
