@@ -68,12 +68,12 @@
         "reason": "Victoria Line: Severe delays due to an earlier points failure at Brixton. Tickets are being accepted on London Buses, South Western Railway and Southeastern.  "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: Until Thursday 16th July, there will be no service between Hackney Downs and Chingford while we conduct urgent repairs to the track following a line side fire near Wood Street. Please use London Underground and London Buses to complete your journey. SEVERE DELAYS on the rest of the line. "
+        "reason": "Weaver Line: Until Thursday 16th July, there will be no service between Hackney Downs and Chingford while we conduct urgent repairs to the track following a line side fire near Wood Street. Please use London Underground and London Buses to complete your journey."
     },
     "Windrush": {
         "is_disrupted": false,
