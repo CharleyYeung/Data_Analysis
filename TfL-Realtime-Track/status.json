@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: No service between Victoria and Brixton while we fix a points failure at Brixton. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, South Western Railway and Southeastern.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
