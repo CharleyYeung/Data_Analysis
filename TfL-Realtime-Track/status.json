@@ -16,12 +16,12 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays while we fix a signal failure at Poplar. "
-    },
-    "Elizabeth line": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Elizabeth line": {
+        "is_disrupted": true,
+        "reason": "Minor delays between Paddington and Heathrow Airport/Reading due to an earlier track fault at Acton Mainline. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -64,12 +64,12 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": true,
