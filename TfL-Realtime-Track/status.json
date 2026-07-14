@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Severe delays between Stratford International and Canning Town due to an earlier trespasser on the track at Stratford High Street. GOOD SERVICE on all other DLR routes.  "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
