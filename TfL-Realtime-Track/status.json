@@ -44,16 +44,16 @@
         "reason": "Metropolitan Line: Minor delays due to train cancellations. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Monday 13, Tuesday 14, Wednesday 15 and Thursday 16 July, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Angel. London Buses are accepting tickets via any reasonable route. "
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier faulty train at Piccadilly Circus. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
