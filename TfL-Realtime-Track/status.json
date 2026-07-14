@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Kennington via Bank southbound only, and MINOR DELAYS on the rest of the line due to an earlier signal failure at Angel. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Northern Line: Minor delays due to an earlier signal failure at Angel. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
     },
     "Weaver": {
         "is_disrupted": true,
