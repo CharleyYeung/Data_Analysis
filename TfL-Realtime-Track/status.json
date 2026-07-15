@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Richmond and South Acton, and SEVERE DELAYS on the rest of the line due to late running freight trains in the Willesden Junction area. Tickets are being accepted on London Underground. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
