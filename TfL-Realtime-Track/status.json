@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and MINOR DELAYS between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
