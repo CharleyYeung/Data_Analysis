@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier track fault at Neasden. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railway and Thameslink via any reasonable route. "
+        "reason": "Metropolitan Line: Minor delays due to an earlier track fault at Neasden. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Morden and Kennington northbound only due to an earlier faulty train at South Wimbledon. GOOD SERVICE on the rest of the line. "
+        "reason": "Northern Line: No service between Camden Town and Edgware while we respond to a fire alert at Brent Cross. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
     },
     "Piccadilly": {
         "is_disrupted": false,
