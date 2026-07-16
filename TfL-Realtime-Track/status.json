@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford due to a signal failure at West Ham. Tickets are being accepted on London Buses, DLR, Elizabeth line, C2C, Southeastern and Thameslink. GOOD SERVICE on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays while we fix a signal fault at Gospel Oak. Tickets are being accepted on London Underground. "
+        "reason": "MILDMAY LINE: Monday 13, Tuesday 14, Wednesday 15 and Thursday 16 July, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249"
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays while we fix a signal fault at Gospel Oak. Tickets are being accepted on London Underground. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
