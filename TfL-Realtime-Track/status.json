@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses.  "
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure in the Willesden Junction area. SEVERE DELAYS between Stonebridge Park and Queen's Park. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Leytonstone and Epping/Hainault via Newbury Park and between White City and Ealing Broadway/West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -52,12 +52,12 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier fire alert at Osterley. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a signal fault at Gospel Oak. GOOD SERVICE on the rest of the line. "
+        "reason": "Suffragette Line: Severe delays while we fix a signal fault at Gospel Oak. Tickets are being accepted on London Underground. "
     },
     "Tram": {
         "is_disrupted": false,
