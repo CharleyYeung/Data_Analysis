@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Wembley Park and Aldgate due to a track fault at Neasden. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railway and Thameslink. MINOR DELAYS on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,16 +64,16 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
-    },
-    "Weaver": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Weaver": {
+        "is_disrupted": true,
+        "reason": "Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. "
     },
     "Windrush": {
         "is_disrupted": false,
