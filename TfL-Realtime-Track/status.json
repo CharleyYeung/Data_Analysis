@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure in the Willesden Junction area. Tickets being accepted by London Buses.  "
     },
     "Central": {
         "is_disrupted": true,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays while we fix a points failure at Stratford. "
+        "reason": "Mildmay Line: Severe delays while we fix a signal fault at Gospel Oak. Tickets are being accepted on London Underground. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,11 +53,11 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Northfields and Heathrow Terminals eastbound only while we respond to a fire alert at Osterley. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier fire alert at Osterley. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a signal fault at Gospel Oak. GOOD SERVICE on the rest of the line. "
     },
     "Tram": {
         "is_disrupted": false,
