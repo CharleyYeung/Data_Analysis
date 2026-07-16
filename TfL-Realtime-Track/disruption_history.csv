@@ -4107,3 +4107,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-16 07:20:31,Metropolitan,Metropolitan Line: No service between Wembley Park and Aldgate due to a track fault at Neasden. Tickets are being accepted on London Buses  Lioness line  London Northwestern Railway  Chiltern Railway and Thameslink. MINOR DELAYS on the rest of the line. ,True
 2026-07-16 07:20:31,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
 2026-07-16 07:20:31,Weaver,Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. ,True
+2026-07-16 09:33:43,Bakerloo,Bakerloo Line: Severe delays due to an earlier track fault at Waterloo. Tickets will be accepted on London Buses  Lioness line  London Northwestern and Thameslink via any reasonable route. ,True
+2026-07-16 09:33:43,Metropolitan,Metropolitan Line: Severe delays due to an earlier track fault at Neasden. Tickets are being accepted on London Buses  Lioness line  London Northwestern Railway  Chiltern Railway and Thameslink via any reasonable route. ,True
+2026-07-16 09:33:43,Weaver,Weaver Line: Minor Delays due to a line side fire near Wood Street on Sunday. ,True
