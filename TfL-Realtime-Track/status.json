@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -72,11 +72,11 @@
         "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Until Thursday 16th July, there will be no service between Walthamstow Central and Chingford while we conduct urgent repairs to the track following a line side fire near Wood Street. Please use London Underground and London Buses to complete your journey. SEVERE DELAYS on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Tuesday 14 and Wednesday 15 June, after 2315 each evening, no service between Surrey Quays and Clapham Junction / Battersea Park. Use local bus route 35 (for Denmark Hill, Brixton, Clapham High Street and Clapham Junction); bus route 37 (for Peckham Rye, Brixton, Clapham High Street and Clapham Junction); and bus route 381 (for Surrey Quays, South Bermondsey, Queens Road Peckham and Peckham Rye). For Wandsworth Road, use Clapham High Street, which is a short walk away. Last through trains: Surrey Quays to Clapham Junction 2307 (Departs Dalston Junction at 2249); Clapham Junction to Dalston Junction 2330"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
