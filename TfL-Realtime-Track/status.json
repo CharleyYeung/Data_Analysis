@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Richmond / Clapham Junction due to a track side fire at Acton Central. London Underground accepting tickets via any reasonable routes. SEVERE DELAYS on the rest of the line. "
+        "reason": "Mildmay Line: Severe delays due to an earlier line side fire at Acton Central. London Underground accepting tickets via any reasonable routes. "
     },
     "Northern": {
         "is_disrupted": false,
