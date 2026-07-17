@@ -4176,3 +4176,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-17 07:13:13,Victoria,Victoria Line: Severe delays while we fix a points failure at Walthamstow Central. ,True
 2026-07-17 07:13:13,Weaver,Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  ,True
 2026-07-17 07:13:13,Windrush,Windrush Line: No service while we deal with a trespasser at Whitechapel. Tickets are being accepted on London Underground. ,True
+2026-07-17 09:21:37,District,District Line: Minor delays due to an earlier fire alert at Bromley-by-Bow.   ,True
+2026-07-17 09:21:37,Hammersmith & City,Hammersmith and City Line: Minor delays due to an earlier fire alert at Bromley-By-Bow.  ,True
+2026-07-17 09:21:37,Mildmay,Mildmay Line: Severe delays due to an earlier fire alert at Stratford.  ,True
+2026-07-17 09:21:37,Suffragette,Suffragette Line: Severe delays while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. ,True
+2026-07-17 09:21:37,Victoria,Victoria Line: Severe delays while we fix a points failure at Walthamstow Central. Tickets are being accepted on London buses  Weaver Line  Suffragette Line  Great Northern  Thameslink  Greater Anglia  South Western Railway services via any reasonable route ,True
+2026-07-17 09:21:37,Weaver,Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  ,True
+2026-07-17 09:21:37,Windrush,Windrush Line: Severe delays due to an earlier trespasser at Whitechapel. Tickets are being accepted on London Underground. ,True
