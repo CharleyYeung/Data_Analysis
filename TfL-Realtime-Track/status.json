@@ -12,20 +12,20 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays due to an earlier fire alert at Bromley-by-Bow. \r\n "
-    },
-    "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "DLR": {
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: No service between Crossharbour and Lewisham while we fix an electrical fault. GOOD SERVICE on other DLR routes. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to an earlier fire alert at Bromley-By-Bow.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to an earlier fire alert at Stratford.  "
+        "reason": "Mildmay Line: No service between Willesden Junction and Camden Road while we fix a signal failure at Gospel Oak. SEVERE DELAYS on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. "
+        "reason": "Suffragette Line: No service while we fix a signal failure at Gospel Oak. London Underground are accepting valid tickets via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  "
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays due to an earlier trespasser at Whitechapel. Tickets are being accepted on London Underground. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
