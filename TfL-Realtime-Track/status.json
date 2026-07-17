@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals / Rayners Lane due to an earlier signal failure at South Ealing. GOOD SERVICE on the rest of the line. "
+        "reason": "PICCADILLY LINE: Saturday 18 July, between 0030 and 0400, no service between Hyde Park Corner and Cockfosters. Replacement buses operate."
     },
     "Suffragette": {
         "is_disrupted": true,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
     },
     "Weaver": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between New Cross Gate and Crystal Palace/West Croydon due to emergency engineering work to fix a track fault in the Norwood Junction area. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: Severe delays between New Cross Gate and Crystal Palace/West Croydon due to earlier emergency engineering work to fix a track fault in the Norwood Junction area. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     }
 }
