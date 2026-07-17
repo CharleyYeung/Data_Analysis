@@ -4220,3 +4220,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-17 19:30:56,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier signal failure at South Ealing. GOOD SERVICE on the rest of the line. ,True
 2026-07-17 19:30:56,Suffragette,Suffragette Line: Severe delays while we fix a signal failure at Gospel Oak. London Underground accepting tickets via any reasonable routes.  ,True
 2026-07-17 19:30:56,Weaver,Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  ,True
+2026-07-17 20:31:10,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-07-17 20:31:10,Mildmay,Mildmay Line: No service due to a track side fire at Acton Central. London Underground accepting tickets via any reasonable routes.  ,True
+2026-07-17 20:31:10,Piccadilly,Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier signal failure at South Ealing. Tickets being accepted on London Buses and Elizabeth Line. GOOD SERVICE on the rest of the line. ,True
+2026-07-17 20:31:10,Suffragette,Suffragette Line: Minor delays due to an earlier signal failure at Gospel Oak. ,True
+2026-07-17 20:31:10,Weaver,Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  ,True
