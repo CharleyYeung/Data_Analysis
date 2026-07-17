@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier signal failure at Stratford. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays while we fix a signal failure at Gospel Oak. London Underground accepting tickets via any reasonable routes.  "
+        "reason": "Mildmay Line: No service between Willesden Junction and Richmond while we respond to a fire alert at Acton Central. SEVERE DELAYS on the rest of the line while we fix a signal failure at Gospel Oak. London Underground accepting tickets via any reasonable routes.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals, and MINOR DELAYS between Cockfosters and Acton Town westbound only while we fix a signal failure at South Ealing. Tickets being accepted on London Buses and Elizabeth Line. GOOD SERVICE on the rest of the line.  "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier signal failure at South Ealing. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": true,
