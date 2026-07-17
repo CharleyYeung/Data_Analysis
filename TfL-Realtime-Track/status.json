@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Crossharbour and Lewisham while we fix an electrical fault. GOOD SERVICE on other DLR routes. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals and MINOR DELAYS on the rest of the line while we fix a signal failure at South Ealing. Tickets are being accepted on the Elizabeth line and London Buses.  "
     },
     "Suffragette": {
         "is_disrupted": true,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays while we fix a points failure at Walthamstow Central. Tickets are being accepted on London buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway services via any reasonable route "
+        "reason": "Victoria Line: Minor delays while we fix a points failure at Walthamstow Central.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
