@@ -4168,3 +4168,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-17 04:10:36,Elizabeth line,No service between Paddington and Abbey Wood while we fix a track fault in the Whitechapel area. London Underground are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.  ,True
 2026-07-17 04:10:36,Waterloo & City,Waterloo and City Line: Service will resume at 06:00.  ,True
 2026-07-17 04:10:36,Weaver,Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  ,True
+2026-07-17 07:13:13,DLR,Docklands Light Railway: No service between Pudding Mill Lane and Stratford while we respond to a fire alert at Stratford ,True
+2026-07-17 07:13:13,Hammersmith & City,Hammersmith and City Line: Minor delays eastbound due to train cancellations ,True
+2026-07-17 07:13:13,Jubilee,Jubilee Line: No service between West Ham and Stratford while we respond to a fire alert at Stratford. MINOR DELAYS on the rest of the line. Tickets will be accepted on London Buses via any reasonable route. ,True
+2026-07-17 07:13:13,Mildmay,Mildmay Line: Severe delays while we fix a faulty train ,True
+2026-07-17 07:13:13,Suffragette,Suffragette Line: No service between Barking and Barking Riverside  and SEVERE DELAYS on the rest of line while we fix a signal failure at Barking. London Underground are accepting valid tickets via any reasonable route. ,True
+2026-07-17 07:13:13,Victoria,Victoria Line: Severe delays while we fix a points failure at Walthamstow Central. ,True
+2026-07-17 07:13:13,Weaver,Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday.  ,True
+2026-07-17 07:13:13,Windrush,Windrush Line: No service while we deal with a trespasser at Whitechapel. Tickets are being accepted on London Underground. ,True
