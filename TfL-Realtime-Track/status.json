@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
-    },
-    "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. "
-    },
-    "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Bank/Tower Gateway and Poplar/West India Quay "
-    },
-    "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
-    },
-    "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Liberty": {
+    "District": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "DLR": {
         "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 July, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use local London Buses services."
+    },
+    "Elizabeth line": {
+        "is_disrupted": true,
+        "reason": "No service between Paddington and Abbey Wood due to emergency engineering work to fix a track fault in the Whitechapel area London Underground are accepting valid tickets via any reasonable route.. GOOD SERVICE on the rest of the line.  "
+    },
+    "Hammersmith & City": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to an earlier points failure at Stratford. "
+    },
+    "Liberty": {
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "reason": "Metropolitan Line: Minor delays between Wembley Park and Baker Street due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,15 +53,15 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 18 July, between 0030 and 0400, no service between Hyde Park Corner and Cockfosters. Replacement buses operate."
+        "reason": "PICCADILLY LINE: Saturday 18 July, from 0400 and all day Sunday 19 July, including Saturday Night Tube, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday.\r\n "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "reason": "Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday. "
     },
     "Windrush": {
         "is_disrupted": false,
