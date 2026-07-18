@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 July, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use local London Buses services."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "ELIZABETH LINE: Saturday 18 July, from 2300, no service between Hayes & Harlington and Heathrow (All Terminals). Please use local London Buses services or the Piccadilly line."
     },
     "Hammersmith & City": {
         "is_disrupted": false,
