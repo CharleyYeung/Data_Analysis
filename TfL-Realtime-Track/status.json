@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "reason": "Central Line: Minor delays between Leytonstone and Epping/ Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line  "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Upminster and Barking due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge and MINOR DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge and SEVERE DELAYS between Moor Park and Watford due to train cancellations. The next southbound train from Watford will be at 19:38. GOOD SERVICE on the rest of the line.\r\n "
     },
     "Mildmay": {
         "is_disrupted": false,
