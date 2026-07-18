@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Leytonstone and Epping/ Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and MINOR DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.\r\n "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham / Watford due to train cancellations. GOOD SERVICE on the rest of the line.\r\n "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Weaver Line: Minor delays due to a line side fire near Wood Street on Sunday. "
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction while we deal with a trespasser on the track at Peckham Rye. London Underground accepting tickets via any reasonable routes. GOOD SERVICE on the rest of the line.  "
     }
 }
