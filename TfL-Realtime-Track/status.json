@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Elephant & Castle and Lambeth North while we fix a signal failure at Elephant & Castle. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Bakerloo Line: Minor delays due to an earlier signal failure at Elephant & Castle. "
     },
     "Central": {
         "is_disrupted": false,
