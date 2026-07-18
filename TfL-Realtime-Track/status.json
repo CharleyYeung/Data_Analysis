@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Saturday 18 and Sunday 19 July: On Saturday and Sunday a reduced service will run at certain times between Kilburn High Road and Euston. On Saturday, trains departing Watford Junction, between 0630 and 2030, at 30 minutes past each hour, will terminate at Kilburn High Road. Trains departing Euston, between 0715 and 2115, at 15 minutes each hour will start from Kilburn High Road. On Sunday, trains departing Watford Junction, between 1130 and 2030, at 30 minutes past each hour, will terminate at Kilburn High Road. Trains departing Euston, between 1215 and 2115, at 15 minutes each hour will start from Kilburn High Road."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge and MINOR DELAYS between Moor Park and Watford due to train cancellations. The next southbound train from Watford will be at 20:23. GOOD SERVICE on the rest of the line.\r\n "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge and MINOR DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.\r\n "
     },
     "Mildmay": {
         "is_disrupted": false,
