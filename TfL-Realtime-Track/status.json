@@ -20,28 +20,28 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 July, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use local London Buses services."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "No service between Paddington and Abbey Wood due to emergency engineering work to fix a track fault in the Whitechapel area London Underground are accepting valid tickets via any reasonable route.. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier points failure at Stratford. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Saturday 18 and Sunday 19 July: On Saturday and Sunday a reduced service will run at certain times between Kilburn High Road and Euston. On Saturday, trains departing Watford Junction, between 0630 and 2030, at 30 minutes past each hour, will terminate at Kilburn High Road. Trains departing Euston, between 0715 and 2115, at 15 minutes each hour will start from Kilburn High Road. On Sunday, trains departing Watford Junction, between 1130 and 2030, at 30 minutes past each hour, will terminate at Kilburn High Road. Trains departing Euston, between 1215 and 2115, at 15 minutes each hour will start from Kilburn High Road."
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Wembley Park and Baker Street due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
