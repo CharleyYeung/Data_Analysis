@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge and MINOR DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Euston and Battersea Power Station via Charing Cross due to an earlier customer incident at East Finchley. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": true,
