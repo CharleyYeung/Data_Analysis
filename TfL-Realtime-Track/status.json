@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Saturday 18 July, from 0400 and all day Sunday 19 July, including Saturday Night Tube, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway while we fix a faulty train at Gospel Oak. GOOD SERVICE on the rest of the line. "
     },
     "Tram": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Sunday 19 July, until 1015, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use London Underground or London Buses via any reasonable route. GREATER ANGLIA trains will not call at Hackney Downs.\r\n\r\nRail replacement buses will run as follows: Service L1: Seven Sisters - Bruce Grove - White Hart Lane - Silver Street - Edmonton Green - Bush Hill Park - Enfield Town; Service L2: Seven Sisters - Bruce Grove - White Hart Lane - Silver Street - Edmonton Green - Bush Hill Park - Southbury - Turkey Street - Theobalds Grove - Cheshunt; Service L3: Hackney Downs - Clapton - St. James Street - Walthamstow Central - Wood Street - Highams Park - Chingford. \r\n\r\nFirst trains: Enfield Town to Liverpool Street 09:57; Liverpool Street to Enfield Town 10:20; First Liverpool Street to Cheshunt 10:12; Cheshunt to Liverpool Street 10:01; Liverpool Street to Chingford 10:02; Chingford to Liverpool Street 10:08"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
