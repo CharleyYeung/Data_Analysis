@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations. "
+        "reason": "Jubilee Line: Severe delays between Stanmore and Wembley Park while we respond to a fire alert at Canons Park. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
