@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge / Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge and between Moor Park and Watford and between Chalfont & Latimer and Chesham due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
