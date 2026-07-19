@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays while we respond to a customer incident at Willesden Green. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Edgware and Golders Green and MINOR DELAYS between Golders Green and Camden Town while we respond to a fire alert at Brent Cross. London Buses are accepting tickets. GOOD SERVICE on the rest of the line. "
+        "reason": "Northern Line: Severe delays between Camden Town and Edgware due to an earlier fire alert at Brent Cross. London Buses are accepting tickets. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": true,
