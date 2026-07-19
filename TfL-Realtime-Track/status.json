@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Edgware due to an earlier fire alert at Brent Cross. London Buses are accepting tickets. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays while we fix a signal failure at Seven Sisters.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
