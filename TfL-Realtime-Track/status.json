@@ -28,8 +28,8 @@
         "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays while we respond to a customer incident at Willesden Green. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays while we fix a signal failure at Seven Sisters.  "
+        "reason": "Victoria Line: Severe delays while we fix a signal failure at Seven Sisters. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, Southeastern and South Western Railway. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
