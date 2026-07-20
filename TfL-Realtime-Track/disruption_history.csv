@@ -4556,3 +4556,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-20 01:12:59,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-07-20 01:12:59,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-07-20 04:53:13,Metropolitan,Metropolitan Line: Severe delays due to train cancellations.  ,True
+2026-07-20 07:55:04,Metropolitan,Metropolitan Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses  Lioness line  London Northwestern Railway  Chiltern Railways and Thameslink.  ,True
+2026-07-20 07:55:04,Mildmay,Mildmay Line: Minor delays between Willesden Junction and Richmond due to an earlier person ill on a train. GOOD SERVICE on the rest of the line. ,True
+2026-07-20 07:55:04,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
