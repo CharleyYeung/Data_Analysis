@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "reason": "Central Line: Service will resume later this morning. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to train cancellations. "
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 July, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use local London Buses services."
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Service will resume later this morning. "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to train cancellations. London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink are accepting tickets via any reasonable route. "
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,30 +53,30 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 18 July, from 0400 and all day Sunday 19 July, including Saturday Night Tube, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate."
+        "reason": "Piccadilly Line: Service will resume later this morning. "
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "WEAVER LINE: Sunday 19 July, from 2100, no service between Hackney Downs and Chingford due to emergency engineering works. Please use local London Buses and London Underground services."
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 19 July, no service between Sydenham and West Croydon. Customers for Penge West and Anerley should use local buses from Crystal Palace. Customers for Norwood Junction and West Croydon should use Southern Railway services between Crystal Palace and East Croydon via Norwood Junction, where tickets will be accepted. Alternatively, customers may use local buses or trams via any reasonable route. Rail replacement buses (Operated by Southern Railway) will run between East Croydon and West Croydon, for onward travel to Sutton and Epsom Downs."
+        "reason": "Windrush Line: Service will resume later this morning. "
     }
 }
