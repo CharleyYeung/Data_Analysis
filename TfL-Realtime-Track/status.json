@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
+        "reason": "Metropolitan Line: Severe delays due to train cancellations and SEVERE DELAYS between Moor Park and Chesham due to an earlier faulty train. The next southbound train from Chesham will be at 12:30. Tickets will be accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Richmond due to an earlier person ill on a train. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
