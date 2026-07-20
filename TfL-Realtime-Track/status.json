@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: No service clockwise only while we fix a points failure at Gloucester Road. Tickets are being accepted on London Buses.  "
     },
     "District": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to train cancellations and SEVERE DELAYS between Moor Park and Chesham due to an earlier faulty train. The next southbound train from Chesham will be at 19:29 & 19:59. Tickets will be accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
+        "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Lioness line, London Northwestern Railway, Chiltern Railways and Thameslink.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Angel. MINOR DELAYS on the rest of line. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Northern Line: No service between Camden Town and Golders Green and SEVERE DELAYS on the rest of line while we fix a signal fault at Golders Green. London Buses, Trams, Southeastern, Thameslink and South Western Railway are accepting tickets via any reasonable route. "
     },
     "Piccadilly": {
         "is_disrupted": true,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays while we respond to a fire alert at Green Park. Tickets being accepted on London Buses.  "
+        "reason": "Victoria Line: Severe delays due to an earlier fire alert at Green Park. Tickets being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western and Southeastern railway services.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
