@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we deal with a customer incident at Heathrow Terminal 5. SEVERE DELAYS on the rest of the line due to a signal failure at South Ealing. London Buses, Elizabeth Line and South Western Railway are accepting tickets via any reasonable route. "
+        "reason": "Piccadilly Line: Severe delays while we fix a signal failure at South Ealing. London Buses, Elizabeth Line and South Western Railway are accepting tickets via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Victoria Line: Severe delays due to an earlier fire alert at Green Park. Tickets being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western and Southeastern railway services.  "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06.00. "
     },
     "Weaver": {
         "is_disrupted": true,
