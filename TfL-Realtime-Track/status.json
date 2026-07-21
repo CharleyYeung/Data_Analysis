@@ -12,16 +12,16 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Earl's Court and Wimbledon eastbound only due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Hayes & Harlington while we fix a track fault at Iver. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction while we fix a faulty train at Shepherd's Bush. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Kennington and Morden / Camden Town via Bank due to an earlier customer incident at Clapham North. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": true,
