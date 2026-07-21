@@ -4625,3 +4625,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-21 11:58:42,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford while we fix a signal failure at Harrow-on-the-Hill and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-07-21 14:04:57,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-07-21 14:04:57,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport while we fix a signal failure at Osterley. GOOD SERVICE on the rest of the line.  ,True
+2026-07-21 15:52:19,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-07-21 15:52:19,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-07-21 15:52:19,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport while we fix a signal failure at Osterley. GOOD SERVICE on the rest of the line.  ,True
