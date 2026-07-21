@@ -4617,3 +4617,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-21 01:07:52,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-07-21 04:30:33,District,District Line: Minor delays between Turnham Green and Ealing Broadway following a late finish of engineering work. GOOD SERVICE on the rest of the line. ,True
 2026-07-21 04:30:33,Waterloo & City,Waterloo and City Line: Service will resume at 06.00. ,True
+2026-07-21 10:04:12,Elizabeth line,Severe delays between Paddington and Heathrow Terminals / Reading while we fix a faulty train at Hayes & Harlington. GOOD SERVICE on the rest of the line. ,True
+2026-07-21 10:04:12,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. ,True
+2026-07-21 10:04:12,Tram,London Tramlink: No service between Lloyd Park and New Addington while we fix a faulty Tram at Addington Village. GOOD SERVICE on the rest of the line.  ,True
