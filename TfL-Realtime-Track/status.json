@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Chesham and Chalfont & Latimer due to an earlier trespasser on the tracks at Chesham. The next southbound train to depart from Chesham will be the 20:31. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Edgware while we fix a signal failure at Brent Cross. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway. \r\n\r\n "
+        "reason": "Northern Line: No service between Kennington and Morden while we fix a signal failure at Tooting Broadway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
