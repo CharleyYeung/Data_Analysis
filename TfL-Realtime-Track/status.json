@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking due to an earlier signal failure. GOOD SERVICE on the rest of the line.  "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays while we fix a faulty train at Westminster. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WEAVER LINE: Monday 20, Tuesday 21, Wednesday 22 and Thursday 23 July, after 2245 each evening, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2213 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead"
     },
     "Windrush": {
         "is_disrupted": false,
