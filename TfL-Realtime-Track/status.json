@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. "
+        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations  "
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": false,
@@ -40,16 +40,16 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Chesham and Chalfont & Latimer while we deal with a trespasser on the tracks at Chesham. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
     },
     "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays between Camden Town and Edgware and MINOR DELAYS between Camden Town and Kennington via Charing Cross Southbound only while we fix a signal failure at Brent Cross. London Buses are accepting tickets. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
