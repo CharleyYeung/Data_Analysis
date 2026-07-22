@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays anticlockwise due to train cancellations.  "
     },
     "District": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays while we fix a faulty train at Westminster. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Kennington and Morden while we fix a signal failure at Tooting Broadway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway.  "
+        "reason": "Northern Line: Severe delays due to an earlier signal failure at Tooting Broadway.  Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway.  "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow westbound only due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
