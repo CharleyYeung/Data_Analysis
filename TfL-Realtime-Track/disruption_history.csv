@@ -4670,3 +4670,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-22 01:06:15,Windrush,Windrush Line: Service will resume later this morning. ,True
 2026-07-22 04:32:47,District,District Line: Minor delays between Earl's Court and Wimbledon while we fix a signal failure at Parsons Green. GOOD SERVICE on the rest of the line. ,True
 2026-07-22 04:32:47,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
+2026-07-22 07:31:42,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. ,True
+2026-07-22 07:31:42,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Hillingdon. GOOD SERVICE on the rest of the line. ,True
+2026-07-22 07:31:42,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Hillingdon. GOOD SERVICE on the rest of the line. ,True
