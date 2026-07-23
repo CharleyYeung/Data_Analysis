@@ -4731,3 +4731,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-23 16:09:18,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford due to an earlier signal failure at Northwood. GOOD SERVICE on the rest of the line.    ,True
 2026-07-23 17:44:10,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-07-23 17:44:10,DLR,Docklands Light Railway: Minor delays between Bank and Woolwich Arsenal while we fix a faulty train ,True
+2026-07-23 18:50:42,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-07-23 18:50:42,DLR,Docklands Light Railway: Minor delays between Bank and Woolwich Arsenal while we fix a faulty train ,True
