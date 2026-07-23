@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier signal failure at Harlesden. Tickets are being accepted on London Buses and London Overground. "
-    },
-    "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Central": {
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Watford due to an earlier signal failure at Northwood. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway. \r\n\r\n\r\n "
     },
     "Mildmay": {
         "is_disrupted": false,

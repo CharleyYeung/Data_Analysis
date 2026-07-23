@@ -4723,3 +4723,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-23 10:00:45,Bakerloo,Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and London Overground. ,True
 2026-07-23 12:01:45,Bakerloo,Bakerloo Line: Severe delays due to an earlier signal failure at Harlesden. Tickets are being accepted on London Buses and London Overground. ,True
 2026-07-23 12:01:45,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-07-23 14:29:15,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-07-23 14:29:15,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-07-23 14:29:15,Metropolitan,Metropolitan Line: Severe delays between Moor Park and Watford due to an earlier signal failure at Northwood. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses  London Overground  London Northwestern Railway.     ,True
