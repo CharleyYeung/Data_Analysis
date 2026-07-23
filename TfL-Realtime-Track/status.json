@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to an earlier trespasser on the track at Earl's Court. Tickets will be accepted on London Buses via reasonable routes. "
     },
     "District": {
         "is_disrupted": false,
