@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Thursday 23 July, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
     },
     "Northern": {
         "is_disrupted": false,
