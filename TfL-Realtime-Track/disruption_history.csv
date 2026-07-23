@@ -4721,3 +4721,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-23 04:18:47,Circle,Circle Line: Severe delays between Hammersmith and Aldgate clockwise only due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-07-23 04:18:47,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-07-23 10:00:45,Bakerloo,Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and London Overground. ,True
+2026-07-23 12:01:45,Bakerloo,Bakerloo Line: Severe delays due to an earlier signal failure at Harlesden. Tickets are being accepted on London Buses and London Overground. ,True
+2026-07-23 12:01:45,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True

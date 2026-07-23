@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a signal failure at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and London Overground. "
+        "reason": "Bakerloo Line: Severe delays due to an earlier signal failure at Harlesden. Tickets are being accepted on London Buses and London Overground. "
     },
     "Central": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
         "is_disrupted": false,
