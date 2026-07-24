@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to train cancellations and an earlier signal failure at White City. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, Chiltern Railways, Great Western Railway and Greater Anglia via any reasonable route. "
+        "reason": "Central Line: Severe delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, Chiltern Railways, Great Western Railway and Greater Anglia via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Canary Wharf and Stratford while we fix a points failure at North Greenwich. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth Line, C2C, Southeastern and Thameslink.  "
+        "reason": "Jubilee Line: No service between Waterloo and Canary Wharf due to a points failure at London Bridge and an earlier points failure at North Greenwich. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth Line, C2C, Southeastern and Thameslink.  "
     },
     "Liberty": {
         "is_disrupted": false,
