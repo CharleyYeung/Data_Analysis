@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: No service between Upminster and Barking westbound only due to a late finish of engineering work. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Canons Park. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays due to train cancellations. Ticket are being accepted on London Buses and the Lioness line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Thursday 23 July, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
