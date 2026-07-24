@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Severe delays due to train cancellations. Ticket are being accepted on London Buses and the Lioness line. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Clapham Junction and Willesden Junction, and MINOR DELAYS on the rest of the line due to train cancellations.\r\n\r\n\r\n "
     },
     "Northern": {
         "is_disrupted": false,
