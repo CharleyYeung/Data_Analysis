@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and West Ruislip/Ealing Broadway, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, Chiltern Railways, Great Western Railway and Greater Anglia via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": false,
