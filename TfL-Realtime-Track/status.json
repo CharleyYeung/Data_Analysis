@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, Chiltern Railways, Great Western Railway and Greater Anglia via any reasonable route. "
+        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays anticlockwise only due to train cancellations. GOOD SERVICE rest of the line. "
     },
     "District": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Waterloo and Canary Wharf due to a points failure at London Bridge and an earlier points failure at North Greenwich. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth Line, C2C, Southeastern and Thameslink.  "
+        "reason": "Jubilee Line: Severe delays due to an earlier points failure. Tickets are being accepted on London Buses, DLR, Elizabeth Line, C2C, Southeastern and Thameslink.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford and between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. "
+        "reason": "Mildmay Line: Minor delays due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": false,
