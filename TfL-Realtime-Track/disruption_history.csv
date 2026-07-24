@@ -4792,3 +4792,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-24 18:16:41,Circle,Circle Line: Minor delays due to train cancellations.  ,True
 2026-07-24 18:16:41,Metropolitan,Metropolitan Line: Severe delays due to train cancellations. Ticket are being accepted on London Buses and the Lioness line. ,True
 2026-07-24 18:16:41,Mildmay,Mildmay Line: Severe delays due to an earlier customer incident at Willesden Junction. ,True
+2026-07-24 19:53:27,Central,Central Line: Severe delays due to train cancellations and an earlier signal failure at White City. Tickets are being accepted on London Buses  London Overground  Elizabeth Line  Chiltern Railways  Great Western Railway and Greater Anglia via any reasonable route. ,True
+2026-07-24 19:53:27,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations ,True
+2026-07-24 19:53:27,Jubilee,Jubilee Line: No service between Canary Wharf and Stratford while we fix a points failure at North Greenwich. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses  DLR  Elizabeth Line  C2C  Southeastern and Thameslink.  ,True
+2026-07-24 19:53:27,Metropolitan,Metropolitan Line: Severe delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and the Lioness line.   ,True
+2026-07-24 19:53:27,Mildmay,Mildmay Line: Severe delays due to train cancellations. ,True
