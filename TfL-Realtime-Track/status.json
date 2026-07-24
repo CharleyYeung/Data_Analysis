@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, Chiltern Railways, Great Western Railway and Greater Anglia via any reasonable route. "
+        "reason": "Central Line: Severe delays due to train cancellations and an earlier signal failure at White City. Tickets are being accepted on London Buses, London Overground, Elizabeth Line, Chiltern Railways, Great Western Railway and Greater Anglia via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses.  "
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
         "is_disrupted": false,
@@ -20,12 +20,12 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Hayes & Harlington and Reading while we fix a signal failure at Iver. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to a vehicle hitting a bridge at West Ham.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays while we deal with a customer incident  "
+        "reason": "Mildmay Line: Severe delays due to an earlier customer incident at Willesden Junction. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
