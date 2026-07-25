@@ -12,20 +12,20 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: District: Minor delays between Whitechapel and Earl's Court due to an earlier trespasser on the track at Barking. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Hayes & Harlington and Heathrow Terminal 4 due to a track defect at Heathrow Terminal 2&3. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays between Liverpool Street and Barking due to an earlier trespasser on the track at Barking. Tickets being accepted by London Buses via any reasonable routes. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Edgware while we respond to a fire alert at Golders Green. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Northern Line: Severe delays between Camden Town and Edgware due to an earlier fire alert at Golders Green. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -73,7 +73,7 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: Minor delays between Edmonton Green and Enfield Town due to an earlier signal failure at Enfield Town. GOOD SERVICE on the rest of the line. "
+        "reason": "Weaver Line: No service on the entire line while we fix a signal failure at Liverpool Street. Tickets will be accepted on London Underground. "
     },
     "Windrush": {
         "is_disrupted": false,
