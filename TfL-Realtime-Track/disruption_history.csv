@@ -4843,3 +4843,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-25 11:49:09,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport/Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the rest of the line.  ,True
 2026-07-25 11:49:09,Victoria,Victoria Line: Minor delays due to an earlier points failure at Walthamstow Central.  ,True
 2026-07-25 11:49:09,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-07-25 13:15:01,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-07-25 13:15:01,Elizabeth line,Minor delays between Hayes & Harlington and Heathrow Terminal 4 due to a track defect at Heathrow Terminal 2&3. GOOD SERVICE on the rest of the line.  ,True
+2026-07-25 13:15:01,Jubilee,Jubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets being accepted on London Buses.  ,True
+2026-07-25 13:15:01,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-25 13:15:01,Victoria,Victoria Line: No service between Highbury & Islington and Walthamstow Central and SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses  Weaver line  Suffragette line  Great Northern  Thameslink  Greater Anglia  South Western Railway and Southeastern services.  ,True
+2026-07-25 13:15:01,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-07-25 13:15:01,Weaver,Weaver Line: No service between Edmonton Green and Enfield Town while we fix a signal failure at Enfield Town. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.  ,True

@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Hayes & Harlington and Heathrow Terminal 4 due to a track defect at Heathrow Terminal 2&3. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Airport/Uxbridge due to an earlier signal failure at Caledonian Road. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,15 +65,15 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier points failure at Walthamstow Central.  "
+        "reason": "Victoria Line: No service between Highbury & Islington and Walthamstow Central and SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Edmonton Green and Enfield Town while we fix a signal failure at Enfield Town. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.  "
     },
     "Windrush": {
         "is_disrupted": false,
