@@ -5,19 +5,19 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to an earlier customer incident at Bank and train cancellations. Tickets are being accepted on London Buses. "
+        "reason": "Central Line: No service between Newbury Park and Woodford via Hainault while we fix a faulty train at Hainault. SEVERE DEKAYS on the rest of the line due to an earlier customer incident at Bank and train cancellations. Tickets are being accepted on London Buses. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Barking and Upminster due to an earlier trespassers on the track at Barking. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Bank/Tower Gateway and Canning Town/Canary Wharf due to an earlier trespasser on the track at Limehouse. GOOD SERVICE on all other DLR routes. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,

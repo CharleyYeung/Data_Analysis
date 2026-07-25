@@ -4895,3 +4895,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-25 19:01:59,Victoria,Victoria Line: Minor delays due to an earlier customer incident.  ,True
 2026-07-25 19:01:59,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
 2026-07-25 19:01:59,Weaver,Weaver Line: Severe delays due to an earlier signal failure at Liverpool Street. Tickets will be accepted on London Underground. ,True
+2026-07-25 20:14:29,Central,Central Line: No service between Newbury Park and Woodford via Hainault while we fix a faulty train at Hainault. SEVERE DEKAYS on the rest of the line due to an earlier customer incident at Bank and train cancellations. Tickets are being accepted on London Buses. ,True
+2026-07-25 20:14:29,Jubilee,Jubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets being accepted on London Buses.  ,True
+2026-07-25 20:14:29,Metropolitan,Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham while we respond to a fire alert at Rickmansworth. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge/Watford due to train cancellations. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.   ,True
+2026-07-25 20:14:29,Mildmay,Mildmay Line: Severe delays between Willesden Junction and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-07-25 20:14:29,Victoria,Victoria Line: Minor delays due to an earlier customer incident.  ,True
+2026-07-25 20:14:29,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-07-25 20:14:29,Weaver,Weaver Line: Severe delays due to an earlier signal failure at Liverpool Street. Tickets will be accepted on London Underground. ,True
