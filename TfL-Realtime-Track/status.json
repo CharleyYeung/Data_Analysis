@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Newbury Park and Woodford via Hainault while we fix a faulty train at Hainault. SEVERE DEKAYS on the rest of the line due to an earlier customer incident at Bank and train cancellations. Tickets are being accepted on London Buses. "
+        "reason": "Central Line: Severe delays due to an earlier faulty train at Hainault and train cancellations. Tickets are being accepted on London Buses. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham while we respond to a fire alert at Rickmansworth. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge/Watford due to train cancellations. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.\r\n\r\n "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of the line.\r\n\r\n "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays due to an earlier security alert at Caledonian Road. "
     },
     "Suffragette": {
         "is_disrupted": false,
