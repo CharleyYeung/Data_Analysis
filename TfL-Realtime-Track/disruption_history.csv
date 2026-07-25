@@ -4823,3 +4823,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-25 03:46:33,Central,Central Line: Minor delays between North Acton and Ealing Broadway due to an earlier points failure at Woodford. GOOD SERVICE on the rest of the line. ,True
 2026-07-25 03:46:33,Jubilee,Jubilee Line: Severe delays due to an earlier points failure. Tickets are being accepted on London Buses  DLR  Elizabeth Line  C2C  Southeastern and Thameslink.  ,True
 2026-07-25 03:46:33,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-07-25 07:11:44,Central,Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations.  ,True
+2026-07-25 07:11:44,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True

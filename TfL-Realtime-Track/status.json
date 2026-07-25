@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway due to an earlier points failure at Woodford. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier points failure. Tickets are being accepted on London Buses, DLR, Elizabeth Line, C2C, Southeastern and Thameslink.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
