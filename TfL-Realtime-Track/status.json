@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Barking and Upminster due to an earlier trespassers on the track at Barking. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham while we respond to a fire alert at Rickmansworth. SEVERE DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
         "reason": "Mildmay Line: Severe delays between Willesden Junction and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Edgware due to an earlier fire alert at Golders Green. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": false,
