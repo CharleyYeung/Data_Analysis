@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations.  "
+        "reason": "Central Line: Severe delays due to an earlier customer incident at Bank and train cancellations. Tickets are being accepted on London Buses. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -16,8 +16,8 @@
         "reason": "District Line: Minor delays between Barking and Upminster due to an earlier trespassers on the track at Barking. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Bank/Tower Gateway and Canning Town/Canary Wharf due to an earlier trespasser on the track at Limehouse. GOOD SERVICE on all other DLR routes. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham while we respond to a fire alert at Rickmansworth. SEVERE DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham while we respond to a fire alert at Rickmansworth. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge/Watford due to train cancellations. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.\r\n\r\n "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -73,7 +73,7 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: No service on the entire line while we fix a signal failure at Liverpool Street. Tickets will be accepted on London Underground. "
+        "reason": "Weaver Line: Severe delays due to an earlier signal failure at Liverpool Street. Tickets will be accepted on London Underground. "
     },
     "Windrush": {
         "is_disrupted": false,
