@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway due to an earlier points failure at Woodford. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays anticlockwise only due to train cancellations. GOOD SERVICE rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford and between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -69,7 +69,7 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
         "is_disrupted": false,
