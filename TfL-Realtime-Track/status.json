@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays between Queen's Park and Elephant & Castle while we fix a signal failure at Charing Cross. GOOD SERVICE on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations.  "
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Willesden Green and Stanmore and MINOR DELAYS on the rest of the line while we fix a points failure at Wembley Park. Tickets are being accepted on London Buses.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Cockfosters and Acton Town westbound only while we fix a signal failure at Caledonian Road. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: No service between Seven Sisters and Walthamstow Central and SEVERE DELAYS on the rest of the line while we fix a points failure at Walthamstow Central. Tickets will be accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and South Western Railway services.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
