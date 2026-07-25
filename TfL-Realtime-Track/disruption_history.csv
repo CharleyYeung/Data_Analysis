@@ -4919,3 +4919,13 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-25 22:09:12,Victoria,Victoria Line: Minor delays due to an earlier customer incident.  ,True
 2026-07-25 22:09:12,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
 2026-07-25 22:09:12,Weaver,Weaver Line: Severe delays due to an earlier signal failure at Liverpool Street. Tickets will be accepted on London Underground. ,True
+2026-07-25 23:10:38,Central,Central Line: Minor delays due to train cancellations  ,True
+2026-07-25 23:10:38,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-07-25 23:10:38,Jubilee,Jubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets being accepted on London Buses.  ,True
+2026-07-25 23:10:38,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of the line.   ,True
+2026-07-25 23:10:38,Mildmay,Mildmay Line: Severe delays between Willesden Junction and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-07-25 23:10:38,Piccadilly,Piccadilly Line: Minor delays due to an earlier security alert at Caledonian Road. ,True
+2026-07-25 23:10:38,Victoria,Victoria Line: Minor delays due to an earlier customer incident.  ,True
+2026-07-25 23:10:38,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-07-25 23:10:38,Weaver,Weaver Line: Severe delays due to an earlier signal failure at Liverpool Street. Tickets will be accepted on London Underground. ,True
+2026-07-25 23:10:38,Windrush,WINDRUSH LINE: Sunday 26 July  no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction  where tickets will be accepted. In addition  the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.,True
