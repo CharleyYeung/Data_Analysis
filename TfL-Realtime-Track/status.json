@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to an earlier obstruction on the track at Queen's Park. Tickets are being accepted on London Buses, London Overground and Northwestern Railway. "
     },
     "Central": {
         "is_disrupted": true,
@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Tower Gateway and Beckton and between Bank and Woolwich Arsenal due to an earlier customer incident. GOOD SERVICE on all other DLR routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -29,15 +29,15 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Stanmore and Willesden Green while we respond to a fire alert at Canons Park. Tickets being accepted on London Buses. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Canons Park. Tickets being accepted on London Buses.  "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Severe delays while we remove an obstruction from the track at Queen's Park.  "
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -48,8 +48,8 @@
         "reason": "MILDMAY LINE: Sunday 26 July, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day, there will be no step-free access via the Grant Road entrance, please use the Brighton Yard entrance instead."
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross while we fix a signal failure at Euston. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
