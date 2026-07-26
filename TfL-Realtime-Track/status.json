@@ -48,12 +48,12 @@
         "reason": "MILDMAY LINE: Sunday 26 July, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day, there will be no step-free access via the Grant Road entrance, please use the Brighton Yard entrance instead."
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Camden town and Edgware while we deal with a trespasser at Brent Cross. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between King's Cross St.Pancras and Cockfosters eastbound only while we fix a track fault at Bounds Green. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
