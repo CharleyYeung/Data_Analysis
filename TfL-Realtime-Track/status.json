@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier obstruction on the track at Queen's Park. Tickets are being accepted on London Buses, London Overground and Northwestern Railway. "
+        "reason": "Bakerloo Line: Minor delays due to an earlier obstruction on the track at Queen's Park.  "
     },
     "Central": {
         "is_disrupted": true,
@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Barking and Earl's Court due to a faulty train at Gunnersbury. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays while we remove an obstruction from the track at Queen's Park.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross while we fix a signal failure at Euston. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Northern Line: Severe delays due to an earlier signal failure at Euston. Tickets being accepted on London Buses.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
