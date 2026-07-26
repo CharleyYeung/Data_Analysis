@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -17,7 +17,7 @@
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Westferry and Beckton while we respond to a customer incident. GOOD SERVICE on all other DLR routes.  "
+        "reason": "Docklands Light Railway: Minor delays between Tower Gateway and Beckton and between Bank and Woolwich Arsenal due to an earlier customer incident. GOOD SERVICE on all other DLR routes.  "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Stanmore and Willesden Green while we respond to a fire alert at Canons Park. Tickets being accepted on London Buses. SEVERE DELAYS on the rest of the line.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge/Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to an earlier points failure at Brixton.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
