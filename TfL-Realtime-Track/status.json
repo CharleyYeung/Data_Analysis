@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -49,11 +49,11 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden town and Edgware while we deal with a trespasser at Brent Cross. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Northern Line: Minor delays between Camden Town and Edgware due to an earlier trespasser on the track at Brent Cross. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between King's Cross St.Pancras and Cockfosters eastbound only while we fix a track fault at Bounds Green. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
