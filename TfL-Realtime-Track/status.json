@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Tower Hill and Earl's Court and SEVERE DELAYS between Edgware Road and Wimbledon while we fix a points failure at Earl's Court. Tickets being accepted on London Buses. MINOR DELAYS between Earl's Court and Ealing Broadway/Richmond. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Severe delays between Tower Hill and Upminster due to an earlier points failure at Earl's Court. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to train cancellations. After 23:00 tonight there will be no service between Gospel Oak and Stratford while we undertake urgent repairs to the overhead power lines at Hackney Central. "
+        "reason": "Mildmay line: after 23:00 tonight, Monday 27 July - there will be no service between Gospel Oak and Stratford while we undertake urgent repairs to the overhead power lines at Hackney Central. Please use London Buses and London Underground services to complete your journey after this time."
     },
     "Northern": {
         "is_disrupted": false,
