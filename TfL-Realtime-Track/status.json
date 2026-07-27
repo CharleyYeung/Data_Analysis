@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays due to train cancellations. After 23:00 tonight there will be no service between Gospel Oak and Stratford while we undertake urgent repairs to the overhead power lines at Hackney Central. "
     },
     "Northern": {
         "is_disrupted": false,
