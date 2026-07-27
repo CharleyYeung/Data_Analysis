@@ -5055,3 +5055,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-27 08:26:06,Central,Central Line: Minor delays due to train cancellations. ,True
 2026-07-27 08:26:06,Metropolitan,Metropolitan Line: Minor delays due to train cancellations.  ,True
 2026-07-27 11:50:13,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-07-27 14:22:30,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-07-27 14:22:30,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-07-27 14:22:30,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier faulty train at Hyde Park Corner. GOOD service on the rest of the line. ,True
