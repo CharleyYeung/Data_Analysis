@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to a signal failure at Camden Road and an earlier signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Mildmay Line: No service from South Acton to Richmond and Shepherd's Bush to Clapham Junction, SEVERE DELAYS on the rest of the line due to a signal failure at Camden Road and an earlier signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
