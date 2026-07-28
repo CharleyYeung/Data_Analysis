@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier faulty train at Shepherd's Bush. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": true,
         "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Upminster due to an earlier fire alert at Upton Park. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 16:54 departure from Amersham, the next southbound train will be at 17:25. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Gospel Oak and Stratford while we fix a signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Mildmay Line: Severe delays due to an earlier signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service due to a vehicle hitting a bridge at Leyton Midland Road. Tickets are being accepted on London Underground via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": false,
