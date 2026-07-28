@@ -5113,3 +5113,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-28 16:22:44,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 16:54 departure from Amersham  the next southbound train will be at 17:25. GOOD SERVICE on the rest of the line. ,True
 2026-07-28 16:22:44,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. ,True
 2026-07-28 16:22:44,Suffragette,Suffragette Line: No service due to a vehicle hitting a bridge at Leyton Midland Road. Tickets are being accepted on London Underground via any reasonable route. ,True
+2026-07-28 17:51:01,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-07-28 17:51:01,Jubilee,Jubilee Line: Severe delays due to a points failure at Wembley Park. Tickets will be accepted on London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services. ,True
+2026-07-28 17:51:01,Mildmay,Mildmay Line: Severe delays due to an earlier signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. ,True
+2026-07-28 17:51:01,Piccadilly,Piccadilly Line: Severe delays while we fix a signal failure at Holborn. Tickets are being accepted on the Weaver line  Great Northern  Thameslink and the Elizabeth line. ,True
+2026-07-28 17:51:01,Suffragette,Suffragette Line: Minor delays due to a vehicle hitting a bridge at Leyton Midland Road. ,True
