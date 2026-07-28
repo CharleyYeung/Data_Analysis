@@ -8,12 +8,12 @@
         "reason": "Central Line: Minor delays due to an earlier faulty train at Shepherd's Bush. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Earl's Court and Upminster due to an earlier fire alert at Upton Park. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Gospel Oak and Stratford while we fix a signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,

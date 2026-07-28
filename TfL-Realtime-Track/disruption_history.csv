@@ -5102,3 +5102,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-28 10:14:05,Jubilee,Jubilee Line: Severe delays due to a points failure at Wembley Park. Tickets will be accepted on London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services. ,True
 2026-07-28 12:14:57,Central,Central Line: Minor delays due to an earlier faulty train at Shepherd's Bush. ,True
 2026-07-28 12:14:57,Jubilee,Jubilee Line: Severe delays due to a points failure at Wembley Park. Tickets will be accepted on London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services. ,True
+2026-07-28 14:40:43,Central,Central Line: Minor delays due to an earlier faulty train at Shepherd's Bush. ,True
+2026-07-28 14:40:43,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-07-28 14:40:43,District,District Line: Minor delays between Earl's Court and Upminster due to an earlier fire alert at Upton Park. ,True
+2026-07-28 14:40:43,Jubilee,Jubilee Line: Severe delays due to a points failure at Wembley Park. Tickets will be accepted on London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services. ,True
+2026-07-28 14:40:43,Mildmay,Mildmay Line: No service between Gospel Oak and Stratford while we fix a signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. SEVERE DELAYS on the rest of the line.  ,True
