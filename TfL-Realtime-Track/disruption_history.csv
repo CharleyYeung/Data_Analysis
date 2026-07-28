@@ -5100,3 +5100,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-28 07:34:52,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate while we fix a track fault at Willesden Green. GOOD SERVICE on the rest of the line.  ,True
 2026-07-28 10:14:05,Central,Central Line: Minor delays due to an earlier faulty train at Shepherd's Bush. ,True
 2026-07-28 10:14:05,Jubilee,Jubilee Line: Severe delays due to a points failure at Wembley Park. Tickets will be accepted on London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services. ,True
+2026-07-28 12:14:57,Central,Central Line: Minor delays due to an earlier faulty train at Shepherd's Bush. ,True
+2026-07-28 12:14:57,Jubilee,Jubilee Line: Severe delays due to a points failure at Wembley Park. Tickets will be accepted on London Buses  Mildmay line  DLR  Elizabeth line  c2c  Southeastern and Thameslink services. ,True
