@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to an earlier signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Mildmay Line: Severe delays due to a signal failure at Camden Road and an earlier signal failure at Kentish Town West. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,11 +53,11 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Holborn. Tickets are being accepted on the Weaver line, Great Northern, Thameslink and the Elizabeth line. "
+        "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Holborn. Tickets are being accepted on the Weaver line, Great Northern, Thameslink and the Elizabeth line. "
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Minor delays due to a vehicle hitting a bridge at Leyton Midland Road. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": false,
