@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and SEVERE DELAYS between Woodford and Hainault due to an earlier signal failure at Leytonstone.  MINOR DELAYS on the rest of the line London Buses are accepting tickets via any reasonable route. "
+        "reason": "Central Line: Severe delays due to train cancellations. London Buses, London Overground, Elizabeth line, Chiltern Railway, Great Western Railway and Greater Anglia are accepting tickets via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays due to an earlier fire alert at Barking and an earlier points failure at Acton Town.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
