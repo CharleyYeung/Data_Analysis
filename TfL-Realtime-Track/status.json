@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between East Finchley and Archway, and SEVERE DELAYS between Archway and Battersea Power Station via Charing cross while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "Northern Line: Severe delays due to an earlier faulty train at East Finchley. Tickets are being accepted on London Buses.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Highbury & Islington. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
+        "reason": "Victoria Line: Minor delays due to a track fault at Highbury & Islington. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
