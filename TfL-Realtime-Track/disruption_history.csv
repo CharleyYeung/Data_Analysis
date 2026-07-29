@@ -5204,3 +5204,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-29 18:40:47,Northern,Northern Line: Severe delays while we fix a signal failure at Clapham South. Tickets are being accepted on London Buses  London Trams  Southeastern  Thameslink and South Western Railway services. ,True
 2026-07-29 18:40:47,Piccadilly,Piccadilly Line: Severe delays due to a points failure at Acton Town. London Buses  Elizabeth line  Great Northern  London Overground and South Western Railway are accepting tickets via any reasonable route. ,True
 2026-07-29 18:40:47,Victoria,Victoria Line: Minor delays due to a track fault at Highbury & Islington. ,True
+2026-07-29 20:00:01,Central,Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and SEVERE DELAYS between Woodford and Hainault due to an earlier signal failure at Leytonstone.  MINOR DELAYS on the rest of the line London Buses are accepting tickets via any reasonable route. ,True
+2026-07-29 20:00:01,District,District Line: Minor delays due to an earlier fire alert at Barking and an earlier points failure at Acton Town.  ,True
+2026-07-29 20:00:01,Northern,Northern Line: Severe delays while we fix a signal failure at Clapham South. Tickets are being accepted on London Buses  London Trams  Southeastern  Thameslink and South Western Railway services. ,True
+2026-07-29 20:00:01,Piccadilly,Piccadilly Line: Severe delays due to a points failure at Acton Town. London Buses  Elizabeth line  Great Northern  London Overground and South Western Railway are accepting tickets via any reasonable route. ,True
+2026-07-29 20:00:01,Victoria,Victoria Line: Minor delays due to a track fault at Highbury & Islington. ,True
