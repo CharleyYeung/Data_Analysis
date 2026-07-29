@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
         "is_disrupted": true,
@@ -13,23 +13,23 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Earl's Court and Ealing Broadway/Richmond while we fix a points failure at Acton Town. Tickets are being accepted on the Elizabeth line and London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Severe delays while we respond to a fire alert at Barking and an earlier points failure at Acton Town. Tickets are being accepted on the Elizabeth line and London Buses.  "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Abbey Wood and Hayes & Harlington due to a faulty train at Hanwell. GOOD SERVICE on the rest of the line. "
-    },
-    "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
+    "Hammersmith & City": {
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays between Liverpool Street and Barking due to an earlier fire alert at Barking. GOOD SERVICE on the rest of the line. "
+    },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays while we fix a faulty train at Canada Water. "
+        "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Canada Water. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Watford due to train cancellations. Tickets are being accepted on London Buses and the Lioness line. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Watford and Harrow-on-the-Hill while we fix a signal failure at Neasden. Tickets are being accepted on London Buses and the Lioness line. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays while we fix a points failure at Acton Town. "
+        "reason": "Piccadilly Line: Severe delays due to a points failure at Acton Town. London Buses, Elizabeth line, Great Northern, London Overground and South Western Railway are accepting tickets via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to a track fault at Highbury & Islington. "
+        "reason": "Victoria Line: Severe delays due to a track fault at Highbury & Islington. London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western and Souteastern are accepting tickets via any reasonable route. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -73,7 +73,7 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: Minor delays between Liverpool Street and Hackney Downs while we fix a points failure at Liverpool Street. GOOD SERVICE on the rest of the line. "
+        "reason": "Weaver Line: Minor delays between Liverpool Street and Cheshunt/Enfield Town due to an earlier points failure at Liverpool Street. GOOD SERVICE on the rest of the line. "
     },
     "Windrush": {
         "is_disrupted": false,
