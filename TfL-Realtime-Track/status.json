@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and MINOR DELAYS on the rest of the line due to an earlier signal failure at Leytonstone. "
+        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and SEVERE DELAYS between Woodford and Hainault due to an earlier signal failure at Leytonstone.  MINOR DELAYS on the rest of the line London Buses are accepting tickets via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking due to an earlier fire alert at Barking. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier points failure at Hampstead. "
+        "reason": "Northern Line: Severe delays while we fix a signal failure at Clapham South. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway services. "
     },
     "Piccadilly": {
         "is_disrupted": true,
@@ -60,12 +60,12 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Minor delays between Elmers End and Wimbledon and between New Addington and East Croydon while we fix faulty Trams. GOOD SERVICE on all other Tram routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to a track fault at Highbury & Islington. London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western and Souteastern are accepting tickets via any reasonable route. "
+        "reason": "Victoria Line: Minor delays due to a track fault at Highbury & Islington. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
