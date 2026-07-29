@@ -5,31 +5,31 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip while we fix a faulty train at East Acton. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: No service between Earl's Court and Ealing Broadway/Richmond while we fix a points failure at Acton Town. Tickets are being accepted on the Elizabeth line and London Buses. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Abbey Wood and Hayes & Harlington due to a faulty train at Hanwell. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays while we fix a faulty train at Canada Water. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Watford due to train cancellations. Tickets are being accepted on London Buses and the Lioness line. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,19 +49,19 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier faulty train at East Finchley. "
+        "reason": "Northern Line: Severe delays due to an earlier points failure at Hampstead. Tickets are being accepted on London Buses, London Trams, Southeastern and Thameslink services via any reasonable route. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays while we fix a points failure at Acton Town. "
     },
     "Suffragette": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Minor delays between Elmers End and Wimbledon and between New Addington and East Croydon while we fix faulty Trams. GOOD SERVICE on all other Tram routes.  "
     },
     "Victoria": {
         "is_disrupted": true,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Minor delays between Liverpool Street and Hackney Downs while we fix a points failure at Liverpool Street. GOOD SERVICE on the rest of the line. "
     },
     "Windrush": {
         "is_disrupted": false,
