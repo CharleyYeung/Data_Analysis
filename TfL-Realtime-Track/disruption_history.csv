@@ -5162,3 +5162,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-29 07:39:43,Victoria,Victoria Line: Severe delays due to a track fault at Highbury & Islington. Tickets are being accepted on London Buses  Weaver line  Suffragette line  Great Northern  Thameslink  Greater Anglia  South Western Railway and Southeastern services via any reasonable route. ,True
 2026-07-29 10:16:38,Northern,Northern Line: Severe delays due to an earlier faulty train at East Finchley. Tickets are being accepted on London Buses.  ,True
 2026-07-29 10:16:38,Victoria,Victoria Line: Minor delays due to a track fault at Highbury & Islington. ,True
+2026-07-29 12:27:38,Central,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip while we fix a faulty train at East Acton. GOOD SERVICE on the rest of the line. ,True
+2026-07-29 12:27:38,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-07-29 12:27:38,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-07-29 12:27:38,Northern,Northern Line: Minor delays due to an earlier faulty train at East Finchley. ,True
+2026-07-29 12:27:38,Victoria,Victoria Line: Minor delays due to a track fault at Highbury & Islington. ,True
