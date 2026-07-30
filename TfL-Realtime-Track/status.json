@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while Network Rail fix a track fault at Kenton. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and London Northwestern Railway. "
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while Network Rail fix a fault at Kenton. Tickets are being accepted on London Buses and London North Western Railway. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield while we fix a signal system failure. GOOD SERVICE on the rest of the line. London Underground are accepting tickets. "
+        "reason": "Severe delays between Whitechapel and Shenfield while we fix a  signal system failure at Harold Wood. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations "
+        "reason": "Mildmay Line: Minor delays due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": false,
