@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield while we fix a  signal system failure at Harold Wood. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line.  "
+        "reason": "Minor delays between Whitechapel and Shenfield while we fix a  signal system failure at Harold Wood. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford and MINOR DELAYS between Harrow-on-the-Hill and Amersham / Chesham while we fix a signal failure at Moor Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on the Lioness Line, London Buses and London Northwestern Railway.  "
     },
     "Mildmay": {
         "is_disrupted": true,
