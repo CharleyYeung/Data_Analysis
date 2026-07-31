@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we respond to a fire alert at Harrow & Wealdstone. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Harrow & Wealdstone. Tickets are being accepted on London Buses.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Leytonstone and Liverpool Street while emergency service deal with a casualty on the track. Tickets are being accepted on London Buses and Greater Anglia. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Central Line: No service between Leytonstone and White City westbound only while emergency service deal with a casualty on the track. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at West Hampstead. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink services via any reasonable route. "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert West Hampstead.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -37,11 +37,11 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: No service while we respond to a fire alert at Harrow & Wealdstone. Tickets are being accepted on London Underground via any reasonable route.  "
+        "reason": "Lioness Line: Severe delays due to an earlier fire alert at Harrow & Wealdstone. Tickets are being accepted on London Underground via any reasonable route.  "
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford / Amersham / Chesham due to an earlier signal failure at Northwood. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Thursday 30 and Friday 31 July, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals), Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate."
+        "reason": "PICCADILLY LINE: Saturday 1 and Sunday 2 August, between 0030 and 0430 each day, no service throughout the line. Replacement buses operate."
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -68,15 +68,15 @@
         "reason": "Victoria Line: Minor delays due to an earlier customer incident.  "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Highbury & Islington and Dalston Junction while we fix a signal failure at Highbury & Islington. GOOD SERVICE on the rest of the line. "
     }
 }
