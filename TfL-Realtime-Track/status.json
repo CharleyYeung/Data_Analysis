@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to an earlier fire alert at West Hampstead "
     },
     "District": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier fire alert at West Hampstead "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at West Hampstead. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink services via any reasonable route. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays due to an earlier fire alert at West Hampstead. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink services. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays between Shepherd's Bush and Clapham Junction due to earlier trespassers on the track at Clapham Junction. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
