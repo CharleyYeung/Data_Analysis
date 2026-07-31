@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we respond to a fire alert at Harrow & Wealdstone. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault due to train cancellations. "
+        "reason": "Central Line: No service between Leytonstone and Liverpool Street while emergency service deal with a casualty on the track. Tickets are being accepted on London Buses and Greater Anglia. SEVERE DELAYS on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: No service while we respond to a fire alert at Harrow & Wealdstone. Tickets are being accepted on London Underground via any reasonable route.  "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford / Amersham / Chesham while we fix a signal failure at Northwood. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford / Amersham / Chesham due to an earlier signal failure at Northwood. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
