@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier track fault at Elephant & Castle and train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Barking due to an earlier faulty train at East Ham. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays between Shepherd's Bush and Clapham Junction due to earlier trespassers on the track at Clapham Junction. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
