@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to an earlier fire alert at West Hampstead "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to an earlier fire alert at West Hampstead "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier fire alert at West Hampstead. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink services. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier fire alert at West Hampstead. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
