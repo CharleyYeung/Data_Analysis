@@ -5280,3 +5280,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-31 10:34:04,Bakerloo,Bakerloo Line: Severe delays due to an earlier track fault at Elephant & Castle and train cancellations. Tickets being accepted on London Buses. ,True
 2026-07-31 10:34:04,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
 2026-07-31 10:34:04,Piccadilly,PICCADILLY LINE: Thursday 30 and Friday 31 July  no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals)  Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
+2026-07-31 12:31:03,Bakerloo,Bakerloo Line: Minor delays due to an earlier track fault at Elephant & Castle and train cancellations. ,True
+2026-07-31 12:31:03,District,District Line: Minor delays between Earl's Court and Barking due to an earlier faulty train at East Ham. GOOD SERVICE on the rest of the line. ,True
+2026-07-31 12:31:03,Piccadilly,PICCADILLY LINE: Thursday 30 and Friday 31 July  no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals)  Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.,True
