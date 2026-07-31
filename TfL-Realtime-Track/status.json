@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Kenton. GOOD SERVICE on the rest of the line. "
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone and NO SERVICE between Queen's Park and Elephant & Castle southbound only while we fix a signal failure at Kenton. Tickets will be accepted on Lioness line services. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
         "is_disrupted": true,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": false,
