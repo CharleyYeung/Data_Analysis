@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Woodford and Hainault via Grange Hill anticlockwise only and SEVERE DELAYS between Leytonstone and Epping while we fix a signal failure at Woodford. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays due to an earlier signal failure at Woodford. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Shenfield due to an earlier trespasser on the track at Ilford. GOOD SERVICE on the rest of the line.  "
+        "reason": "Severe delays between Whitechapel and Shenfield due to an earlier trespasser on the track at Ilford. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays due to an earlier obstruction on the track and due to train cancellations. "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Watford due to train cancellations. The next southbound train from Watford will be at 21:08. MINOR DELAYS on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": false,
