@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -60,8 +60,8 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Minor delays between Phipps Bridge and Wimbledon due to an earlier faulty tram at Merton Park. GOOD SERVICE on all other tram routes. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
