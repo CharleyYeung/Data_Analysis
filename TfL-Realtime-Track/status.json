@@ -4,8 +4,8 @@
         "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between Northolt and West Ruislip due to a track fault at South Ruislip. GOOD service on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays between Finchley Road and Stratford while we fix a faulty train at Waterloo. Tickets are being accepted on London Buses. Minor delays on the rest of the line due to train cancellations.  "
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
