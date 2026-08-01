@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier customer incident.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,15 +53,15 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 1 and Sunday 2 August, between 0030 and 0430 each day, no service throughout the line. Replacement buses operate."
+        "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning.\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": false,

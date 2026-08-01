@@ -5336,3 +5336,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-01 01:13:29,Tram,London Tramlink: Service will resume later this morning.  ,True
 2026-08-01 01:13:29,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
 2026-08-01 01:13:29,Weaver,Weaver Line: Service will resume later this morning.  ,True
+2026-08-01 04:36:16,Piccadilly,PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August  and again from 0400 Sunday 2 August to the end of service  no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate.,True
+2026-08-01 04:36:16,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
