@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Clapham Junction and Wandsworth Road while we fix a signal failure at Clapham Junction. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
