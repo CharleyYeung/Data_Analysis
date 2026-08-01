@@ -60,8 +60,8 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Minor delays between Phipps Bridge and Wimbledon due to an earlier faulty tram at Merton Park. GOOD SERVICE on all other tram routes. "
     },
     "Victoria": {
         "is_disrupted": false,
