@@ -5370,3 +5370,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-01 15:59:11,Piccadilly,PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August  and again from 0400 Sunday 2 August to the end of service  no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate.,True
 2026-08-01 15:59:11,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
 2026-08-01 15:59:11,Windrush,Windrush Line: Severe delays due to train cancellations. ,True
+2026-08-01 17:06:46,Central,Central Line: Minor delays between Leytonstone and Epping westbound only while we fix a signal failure at Woodford. GOOD SERVICE on the rest of the line. ,True
+2026-08-01 17:06:46,Elizabeth line,No service between Whitechapel and Shenfield and SEVERE DELAYS between Whitechapel and Paddington due to an earlier trespasser on the track at Ilford. GOOD SERVICE on the rest of the line. ,True
+2026-08-01 17:06:46,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-08-01 17:06:46,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier obstruction on the track. MINOR DELAYS on the rest of the line due to train cancellations. ,True
+2026-08-01 17:06:46,Piccadilly,PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August  and again from 0400 Sunday 2 August to the end of service  no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate.,True
+2026-08-01 17:06:46,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-08-01 17:06:46,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-08-01 17:06:46,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True
