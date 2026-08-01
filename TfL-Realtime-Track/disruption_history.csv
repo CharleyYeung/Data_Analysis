@@ -5320,3 +5320,19 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-07-31 23:40:44,Victoria,Victoria Line: Minor delays due to an earlier customer incident.  ,True
 2026-07-31 23:40:44,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
 2026-07-31 23:40:44,Windrush,Windrush Line: No service between Highbury & Islington and Dalston Junction while we fix a signal failure at Highbury & Islington. GOOD SERVICE on the rest of the line. ,True
+2026-08-01 01:13:29,Bakerloo,Bakerloo Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Central,Central Line: Minor delays due to an earlier customer incident.  ,True
+2026-08-01 01:13:29,Circle,Circle Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,District,District Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,DLR,Docklands Light Railway: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Elizabeth line,Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Liberty,Liberty Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Lioness,Lioness Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Metropolitan,Metropolitan Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Mildmay,Mildmay Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Piccadilly,PICCADILLY LINE: Saturday 1 and Sunday 2 August  between 0030 and 0430 each day  no service throughout the line. Replacement buses operate.,True
+2026-08-01 01:13:29,Suffragette,Suffragette Line: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Tram,London Tramlink: Service will resume later this morning.  ,True
+2026-08-01 01:13:29,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
+2026-08-01 01:13:29,Weaver,Weaver Line: Service will resume later this morning.  ,True
