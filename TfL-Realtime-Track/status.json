@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking due to an earlier customer incident. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier faulty train at Northwick Park. MINOR DELAYS on the rest of the line due to train cancellations. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Amersham / Chesham / Watford / Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service due to an earlier fault with the overhead power lines at Leytonstone High Road. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Suffragette Line: Severe delays due to an earlier fault with the overhead power lines at Leytonstone High Road. London Underground are accepting tickets via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": false,
