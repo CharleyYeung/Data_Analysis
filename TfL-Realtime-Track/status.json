@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of line.  "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Watford and due to train cancellations. The next departure from Amersham southbound will be at 15:22. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August, and again from 0400 Sunday 2 August to the end of service, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service while we fix a fault with the overhead power lines at Leytonstone High Road. London Underground are accepting tickets via any reasonable route.  "
     },
     "Tram": {
         "is_disrupted": false,
