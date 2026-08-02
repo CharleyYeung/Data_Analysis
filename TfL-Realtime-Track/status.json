@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Paddington. Tickets are being accepted on London Buses, Lioness line, Thameslink and London Northwestern Railway. "
+        "reason": "Bakerloo Line: Minor delays due to an earlier fire alert at Paddington. "
     },
     "Central": {
         "is_disrupted": true,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays due to an earlier fault with the overhead power lines at Leytonstone High Road. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Suffragette Line: Minor delays due to an earlier fault with the overhead power lines at Leytonstone High Road. "
     },
     "Tram": {
         "is_disrupted": false,
