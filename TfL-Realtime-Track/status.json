@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking due to an earlier customer incident. GOOD SERVICE on the rest of the line. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge / Watford and due to train cancellations. The next departure from Amersham southbound will be at 15:22. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham and MINOR DELAYS between Moor Park and Chesham, Harrow-on-the-Hill and Uxbridge / Watford due to train cancellations. The next departure from Amersham southbound will be at 15:22. The next departure from Chesham southbound will be at 16:30. Chiltern Railways are accepting tickets. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
