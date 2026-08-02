@@ -4,8 +4,8 @@
         "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,15 +29,15 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, the Mildmay line, DLR, the Elizabeth line, C2C, Southeastern and Thameslink.  "
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
