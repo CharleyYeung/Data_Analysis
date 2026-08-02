@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to an earlier fire alert at Paddington. Tickets are being accepted on London Buses, Lioness line, Thameslink and London Northwestern Railway. "
     },
     "Central": {
         "is_disrupted": true,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
     },
     "Metropolitan": {
         "is_disrupted": false,
