@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham and MINOR DELAYS between Moor Park and Chesham, Harrow-on-the-Hill and Uxbridge / Watford due to train cancellations. The next departure from Amersham southbound will be at 15:22. The next departure from Chesham southbound will be at 16:30. Chiltern Railways are accepting tickets. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier faulty train at Northwick Park. MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service while we fix a fault with the overhead power lines at Leytonstone High Road. London Underground are accepting tickets via any reasonable route.  "
+        "reason": "Suffragette Line: No service due to an earlier fault with the overhead power lines at Leytonstone High Road. London Underground are accepting tickets via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": false,
