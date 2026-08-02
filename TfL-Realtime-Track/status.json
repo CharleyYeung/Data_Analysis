@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+        "reason": "Jubilee Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, the Mildmay line, DLR, the Elizabeth line, C2C, Southeastern and Thameslink.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "LIONESS LINE: Sunday 2 August, before 1200 and after 2030, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston, Euston Square, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000, Euston to Watford Junction 2045"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
