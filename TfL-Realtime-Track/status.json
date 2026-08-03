@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: No service between Warren Street and Brixton and SEVERE DELAYS on the rest of the line while we help a person ill on a train at Green Park. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
