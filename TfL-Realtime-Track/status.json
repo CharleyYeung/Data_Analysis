@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Monday 3 and Tuesday 4 August, the 2147 Clapham Junction to Stratford train will not operate. Trains at 2203 and 2234 from Clapham Junction and at 2249 from Richmond terminate at Willesden Junction instead of Stratford."
     },
     "Northern": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: No service between Warren Street and Brixton and SEVERE DELAYS on the rest of the line while we help a person ill on a train at Green Park. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
+        "reason": "Victoria Line: Severe delays due to an earlier person ill on a train at Green Park. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
