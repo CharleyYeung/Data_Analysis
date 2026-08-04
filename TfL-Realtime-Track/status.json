@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Barking and Upminster due to an earlier faulty train at East Ham. MINOR DELAYS between Barking and Earl's Court. Tickets are being accepted on London Buses and DLR services. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays between Earl's Court and Upminster due to an earlier faulty train at East Ham. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Abbey Wood and Heathrow Terminals /Reading while we fix a points failure in the Ladbroke Grove area. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Greater Anglia. "
+        "reason": "Minor delays between Abbey Wood and Heathrow Terminals /Reading while we fix a points failure in the Ladbroke Grove area. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays between Liverpool Street and Barking due to an earlier faulty train at East Ham. Tickets are being accepted on London Buses and DLR services. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Monday 3 and Tuesday 4 August, the 2147 Clapham Junction to Stratford train will not operate. Trains at 2203 and 2234 from Clapham Junction and at 2249 from Richmond terminate at Willesden Junction instead of Stratford."
     },
     "Northern": {
         "is_disrupted": true,
