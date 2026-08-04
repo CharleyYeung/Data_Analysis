@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and West Ruislip / Ealing Broadway due to an earlier fire alert at Loughton and trespasser on the track at Leytonstone. Tickets are being accepted on London Buses and Chiltern Railways. MINOR DELAYS on the rest of the line. "
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Upminster due to an earlier trespasser on the track at East Ham.  "
+        "reason": "District Line: Severe delays between Barking and Upminster due to an earlier faulty train at East Ham. MINOR DELAYS between Barking and Earl's Court. Tickets are being accepted on London Buses and DLR services. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays while we fix a points failure in the Ladbroke Grove area. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Greater Anglia. "
+        "reason": "Severe delays between Abbey Wood and Heathrow Terminals /Reading while we fix a points failure in the Ladbroke Grove area. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Greater Anglia. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking eastbound only due to an earlier trespasser on the track at East Ham. GOOD SERVICE on the rest of the line "
+        "reason": "Hammersmith and City Line: Severe delays between Liverpool Street and Barking due to an earlier faulty train at East Ham. Tickets are being accepted on London Buses and DLR services. GOOD SERVICE on the rest of the line.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Angel. Tickets are being accepted on London Buses and Thameslink. MINOR DELAYS on the rest of the line.  "
+        "reason": "Northern Line: Minor delays due to an earlier signal failure at Angel.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
