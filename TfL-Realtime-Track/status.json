@@ -4,16 +4,16 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to an earlier fire alert at Loughton.  "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Earl's Court and Upminster due to an earlier trespasser on the track at East Ham. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Paddington and Heathrow Airport/Reading while we fix a points failure in the Ladbroke Grove area. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway. "
+        "reason": "Severe delays while we fix a points failure in the Ladbroke Grove area. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Greater Anglia. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays between Liverpool street and Barking due to an earlier trespasser on the track at East ham. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Angel. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and Thameslink.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
