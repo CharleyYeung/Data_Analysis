@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Heathrow Terminals/Reading while we fix a signal fault in the Paddington area. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. Westbound trains are not stopping at Acton Mainline, West Ealing and Hanwell. Please travel to Ealing Broadway or Hayes & Harlington and board an eastbound train to complete your journey.  "
+        "reason": "No service between Paddington and Heathrow Airport/Reading while we fix a points failure in the Ladbroke Grove area. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
