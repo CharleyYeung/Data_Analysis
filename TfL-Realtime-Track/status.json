@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink.  "
+        "reason": "Circle Line: Minor delays due to an earlier fire alert at Farringdon.  "
     },
     "District": {
         "is_disrupted": false,
@@ -36,8 +36,8 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Minor delays due to an earlier faulty train at Willesden Junction.  "
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Wednesday 5 and Thursday 6 August, The 2129 and 2159 trains from Stratford to Richmond, and 2135 train from Stratford to Clapham Junction, will terminate at Camden Road."
+        "reason": "MILDMAY LINE: Thursday 6 August, the 2249 train from Richmond to Stratford will not run. The 2302 train from Richmond to Stratford will terminate at Willesden Junction. The 2318 train from Richmond to Willesden Junction will not run"
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,12 +56,12 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Monday 3, Tuesday 4, Wednesday 5, Thursday 6 and Friday 7 August, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: Wednesday 5 August, between 2100 and 2300, no service between Sandilands and New Addington."
+        "reason": "LONDON TRAMS: Wednesday 5 August, after 2300, no service between Therapia Lane and Beckenham Junction / Elmers End / New Addington."
     },
     "Victoria": {
         "is_disrupted": false,
