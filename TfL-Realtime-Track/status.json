@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to train cancellations. "
+        "reason": "MILDMAY LINE: Wednesday 5 and Thursday 6 August, The 2129 and 2159 trains from Stratford to Richmond, and 2135 train from Stratford to Clapham Junction, will terminate at Camden Road."
     },
     "Northern": {
         "is_disrupted": false,
@@ -60,8 +60,8 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LONDON TRAMS: Wednesday 5 August, between 2100 and 2300, no service between Sandilands and New Addington."
     },
     "Victoria": {
         "is_disrupted": false,
