@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Edgware Road and Wimbledon due to an earlier faulty train. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Finchley Road and Waterloo due to a late finish of engineering work. GOOD SERVICE on the rest of the line. London Buses. Mildmay Line and Thameslink are accepting tickets via any reasonable route. "
+        "reason": "Jubilee Line: Minor delays following a late finish of engineering work.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
