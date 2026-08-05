@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and MINOR DELAYS on the rest of the line while we fix a signal failure at Marble Arch. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services. "
+        "reason": "Central Line: Severe delays due to an earlier signal failure at Marble Arch. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays between Westbourne Park and Hammersmith westbound only due to an earlier customer incident at Westbourne Park. GOOD SERVICE on the rest of the line. "
     },
     "District": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays between Liverpool Street and Barking due to an earlier fire alert at West Ham, and MINOR DELAYS between Westbourne Park and Hammersmith westbound only due to an earlier customer incident at Westbourne Park. GOOD SERVICE on the rest of the line.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Shepherd's Bush and Clapham Junction while we fix a faulty train at Imperial Wharf. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Severe delays due to an earlier fire alert at Northumberland Park depot. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western and South Eastern.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
