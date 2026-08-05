@@ -5705,3 +5705,5 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-05 04:28:02,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-08-05 07:35:18,District,District Line: Minor delays between Edgware Road and Wimbledon due to an earlier faulty train. GOOD SERVICE on the rest of the line.  ,True
 2026-08-05 07:35:18,Jubilee,Jubilee Line: Minor delays following a late finish of engineering work.  ,True
+2026-08-05 10:15:27,Elizabeth line,Severe delays between Whitechapel and Shenfield due to an earlier signal failure at Shenfield. GOOD SERVICE on the rest of the line.  ,True
+2026-08-05 10:15:27,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham while we fix a signal failure at Chorleywood. GOOD SERVICE on the rest of the line.  ,True
