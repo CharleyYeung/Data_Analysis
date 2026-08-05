@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and MINOR DELAYS on the rest of the line while we fix a signal failure at Marble Arch. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier signal failure at Shenfield. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Chalfont & Latimer and Chesham while we fix a signal failure at Chorleywood. GOOD SERVICE on the rest of the line.  "
-    },
-    "Mildmay": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Mildmay": {
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Shepherd's Bush and Clapham Junction while we fix a faulty train at Imperial Wharf. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
