@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield due to an earlier signal failure at Shenfield. GOOD SERVICE on the rest of the line.  "
+        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier signal failure at Shenfield. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham while we fix a signal failure at Chorleywood. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Chalfont & Latimer and Chesham while we fix a signal failure at Chorleywood. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
