@@ -5721,3 +5721,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-05 18:05:22,Hammersmith & City,Hammersmith and City Line: Minor delays between Edgware Road and Hammersmith due to an earlier customer incident at Westbourne Park. GOOD SERVICE on the rest of the line.  ,True
 2026-08-05 18:05:22,Northern,Northern Line: Minor delays due to an earlier faulty train. ,True
 2026-08-05 18:05:22,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Arnos Grove eastbound only due to an earlier signal problem at Hammersmith. GOOD SERVICE on the rest of the line. ,True
+2026-08-05 19:52:40,Circle,Circle Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink.  ,True
+2026-08-05 19:52:40,Hammersmith & City,Hammersmith and City Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses C2C  Elizabeth Line and Thameslink.  ,True
+2026-08-05 19:52:40,Metropolitan,Metropolitan Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink.  ,True
+2026-08-05 19:52:40,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
