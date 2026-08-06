@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: Severe delays due to an earlier faulty train at Leytonstone. Tickets are being accepted on London Buses, the Elizabeth line, Liberty line, Greater Anglia, Great Western Railway and Chiltern Railways. "
     },
     "Circle": {
         "is_disrupted": false,
