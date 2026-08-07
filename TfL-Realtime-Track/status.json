@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, Elizabeth Line and Great Western Railway Services.  "
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,16 +20,16 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Whitechapel and Shenfield while deal with a line side fire at Ilford. MINOR DELAYS between Paddington and Whitechapel. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Amersham/Chesham/Watford due to an earlier fire alert at Northwood. Tickets being accepted London Buses, Lioness Line and Chiltern railway service.  GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-Hill and Amersham/Chesham/Watford, and between Aldgate and Baker Street due to an earlier fire alert at Northwood. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays due to unavailability of train drivers "
     },
     "Northern": {
         "is_disrupted": false,
