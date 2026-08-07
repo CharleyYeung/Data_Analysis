@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Friday 7 August, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Monday 3, Tuesday 4, Wednesday 5, Thursday 6 and Friday 7 August, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": true,
