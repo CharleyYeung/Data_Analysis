@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip due to an earlier fire alert at Woodford. Tickets being accepted by London Buses, Elizabeth Line and Great Western Railway Services. MINOR DELAYS on the rest of the line. "
+        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, Elizabeth Line and Great Western Railway Services.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Amersham/Chesham/Watford due to an earlier fire alert at Northwood. Tickets being accepted London Buses, Lioness Line and Chiltern railway service.  GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
