@@ -16,12 +16,12 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Bank/Tower Gateway and Canning Town/Canary Wharf due to an earlier faulty train at Poplar. GOOD SERVICE on all other DLR routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield due to an earlier line side fire at Ilford. Tickets are being accepted on London Underground via any reasonable routes. Minor delays on the rest of the line. "
+        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier line side fire at Ilford. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham/Chesham/Watford while we fix a signal failure at Moor Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays between New Cross Gate and Crystal Palace, and MINOR DELAYS between Highbury & Islington and New Cross Gate due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
