@@ -16,12 +16,12 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Beckton and Tower Gateway due to an earlier trespasser on the track at Custom House. GOOD SERVICE on the rest of the line "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Ilford and Whitechapel while we fix a signal system failure at Stratford. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Monday 3, Tuesday 4, Wednesday 5, Thursday 6 and Friday 7 August, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338"
     },
     "Tram": {
         "is_disrupted": true,
