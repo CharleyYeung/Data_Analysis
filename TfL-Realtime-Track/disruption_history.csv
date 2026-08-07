@@ -5800,3 +5800,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-07 06:06:29,Victoria,Victoria Line: Minor delays while we fix a points failure at Northumberland Park.  ,True
 2026-08-07 07:39:35,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
 2026-08-07 07:39:35,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-07 08:38:26,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-08-07 08:38:26,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-08-07 08:38:26,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
