@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: No service between Woodford and Hainault via Grange Hill and between Leytonstone and Epping while we respond to a fire alert at Woodford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Canning Town and Woolwich Arsenal while we fix a faulty train at London City Airport. GOOD SERVICE on all other DLR routes.  "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -44,12 +44,12 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Stratford while we fix fault with the signalling system at Stratford. GOOD SERVICE on the rest of the line.  "
-    },
-    "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Northern": {
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays between Camden Town and Edgware due to an earlier points failure at Golders Green. GOOD SERVICE on the rest on the line. Tickets are being accepted on London Buses. "
     },
     "Piccadilly": {
         "is_disrupted": false,
