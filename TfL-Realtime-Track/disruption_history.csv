@@ -5815,3 +5815,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-07 11:30:13,Northern,Northern Line: Minor delays between Camden Town and Edgware due to an earlier points failure at Golders Green. GOOD SERVICE on the rest on the line. Tickets are being accepted on London Buses. ,True
 2026-08-07 11:30:13,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
 2026-08-07 11:30:13,Windrush,Windrush Line: Severe delays between New Cross Gate and Crystal Palace  and MINOR DELAYS between Highbury & Islington and New Cross Gate due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-08-07 12:27:02,Central,Central Line: Severe delays between Woodford and Hainault via Grange Hill and between Leytonstone and Epping due to an earlier fire alert at Woodford. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. ,True
+2026-08-07 12:27:02,DLR,Docklands Light Railway: Minor delays between Canning Town and Woolwich Arsenal while we fix a faulty train at London City Airport. GOOD SERVICE on all other DLR routes.  ,True
+2026-08-07 12:27:02,Northern,Northern Line: Minor delays between Camden Town and Edgware due to an earlier points failure at Golders Green. GOOD SERVICE on the rest on the line.  ,True
+2026-08-07 12:27:02,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-07 12:27:02,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
+2026-08-07 12:27:02,Windrush,Windrush Line: Severe delays between New Cross Gate and Crystal Palace  and MINOR DELAYS between Highbury & Islington and New Cross Gate due to train cancellations. GOOD SERVICE on the rest of the line.  ,True

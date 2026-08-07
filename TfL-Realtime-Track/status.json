@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Woodford and Hainault via Grange Hill and between Leytonstone and Epping while we respond to a fire alert at Woodford. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+        "reason": "Central Line: Severe delays between Woodford and Hainault via Grange Hill and between Leytonstone and Epping due to an earlier fire alert at Woodford. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Camden Town and Edgware due to an earlier points failure at Golders Green. GOOD SERVICE on the rest on the line. Tickets are being accepted on London Buses. "
+        "reason": "Northern Line: Minor delays between Camden Town and Edgware due to an earlier points failure at Golders Green. GOOD SERVICE on the rest on the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
