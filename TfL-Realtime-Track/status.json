@@ -17,11 +17,11 @@
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Bank/Tower Gateway and Canning Town/Canary Wharf due to a faulty Poplar. GOOD SERVICE on all other DLR routes.  "
+        "reason": "Docklands Light Railway: Minor delays between Bank/Tower Gateway and Canning Town/Canary Wharf due to an earlier faulty train at Poplar. GOOD SERVICE on all other DLR routes.  "
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Whitechapel and Shenfield, and SEVERE DELAYS on the rest of the line due to an earlier line side fire at Ilford. Tickets are being accepted on London Underground via any reasonable routes.  "
+        "reason": "Severe delays between Whitechapel and Shenfield due to an earlier line side fire at Ilford. Tickets are being accepted on London Underground via any reasonable routes. Minor delays on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
