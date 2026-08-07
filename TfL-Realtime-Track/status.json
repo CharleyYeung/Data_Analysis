@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between Leytonstone and West Ruislip/Ealing Broadway while we fix a signal failure at Queensway. Tickets are being accepted on London Buses and Chiltern Railways. MINOR DELAYS on the rest of the line. "
+        "reason": "Central Line: Severe delays between Leytonstone and Epping / Hainault via Newbury Park and between North Acton and West Ruislip / Ealing Broadway due to an earlier signal failure at Queensway. Tickets are being accepted on London Buses and Chiltern Railways. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -16,20 +16,20 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Bank/Tower Gateway and Canning Town/Canary Wharf due to a faulty Poplar. GOOD SERVICE on all other DLR routes.  "
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Whitechapel and Shenfield, and SEVERE DELAYS on the rest of the line while we deal with a line side fire at Ilford. Tickets are being accepted on London Underground via any reasonable routes.  "
+        "reason": "No service between Whitechapel and Shenfield, and SEVERE DELAYS on the rest of the line due to an earlier line side fire at Ilford. Tickets are being accepted on London Underground via any reasonable routes.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
