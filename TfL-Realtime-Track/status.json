@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier fire alert at Buckhurst Hill. Tickets are being accepted on London Busses. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Severe delays between New Cross Gate and Crystal Palace, and MINOR DELAYS between Highbury & Islington and New Cross Gate due to train cancellations. GOOD SERVICE on the rest of the line.  "
     }
 }
