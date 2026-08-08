@@ -48,8 +48,8 @@
         "reason": "Mildmay Line: Service will resume later this morning.  "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays between Camden Town and Edgware due to emergency engineering works. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
