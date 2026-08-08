@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between New Cross and Surrey Quays and between Highbury & Islington and Crystal Palace due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
