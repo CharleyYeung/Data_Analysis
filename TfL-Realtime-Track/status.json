@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Ealing Broadway / Richmond westbound only due to a signalling problem at Barons Court. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays due to train cancellations. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "reason": "Victoria Line: Severe delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
