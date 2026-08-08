@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Wembley Park. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line, C2C and DLR. "
+        "reason": "Jubilee Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Mildmay line, Elizabeth line, C2C and DLR. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to train cancellations. Tickets are accepted on London Buses, Greater Anglia, Weaver line, South Western Railway and Great Northern. "
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
