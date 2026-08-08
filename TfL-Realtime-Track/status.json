@@ -65,15 +65,15 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to train cancellations. "
+        "reason": "Victoria Line: Severe delays due to train cancellations. Tickets are accepted on London Buses, Greater Anglia, Weaver line, South Western Railway and Great Northern via reasonable routes. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Minor delays while we respond to a fire alert at Bethnal Green. "
     },
     "Windrush": {
         "is_disrupted": true,
