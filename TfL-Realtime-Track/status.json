@@ -4,8 +4,8 @@
         "reason": "BAKERLOO LINE: Saturday 8 and Sunday 9 August, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone, or SOUTHERN services, where available, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton."
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
