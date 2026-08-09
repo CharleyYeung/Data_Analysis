@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Abbey Wood and Heathrow Airport / Reading due to an earlier faulty train at Paddington. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "LIONESS LINE: Saturday 8 and Sunday 9 August, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use LONDON NORTHWESTERN RAILWAY services between Euston and Watford Junction or SOUTHERN services, where available, between Wembley Central and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone, Headstone Lane (Long Elmes), Hatch End (Harrow Arts Centre), Carpenders Park (Prestwick Road), Bushey (Eastbury Road) and Watford High Street. Some early Sunday morning LONDON NORTHWESTERN RAILWAY trains are replaced by buses. The 0639 and 0710 Milton Keynes Central to London Euston services, and the 0655 London Euston to Northampton service will not run. Rail replacement buses will operate between London Euston and Milton Keynes Central / Northampton."
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Sunday 9 August, between 0945 and 1230, a reduced service operates between Gospel Oak and Barking (platform 1)"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": true,
