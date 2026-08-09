@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "SUFFRAGETTE LINE: Sunday 9 August, until 0945, no service between Gospel Oak and Barking Riverside. Use local buses between South Tottenham and Barking via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to Barking 0954; Barking to Gospel Oak 0938"
+        "reason": "SUFFRAGETTE LINE: Sunday 9 August, between 0945 and 1230, a reduced service operates between Gospel Oak and Barking (platform 1)"
     },
     "Tram": {
         "is_disrupted": true,
