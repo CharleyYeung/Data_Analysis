@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Liverpool Street and Leytonstone while emergency services deal with a casualty on the track. SEVERE DELAYS on the rest of the line. "
+        "reason": "Central Line: No service between Liverpool Street and Leytonstone while emergency services deal with a casualty on the track. SEVERE DELAYS on the rest of the line. London Buses, Liberty Line, Elizabeth Line, Chiltern, Great Western Railway and Greater Anglia are accepting tickets via any reasonable route.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Hyde Park Corner and Uxbridge / Heathrow Terminals westbound only while we respond to a fire alert at South Kensington. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
