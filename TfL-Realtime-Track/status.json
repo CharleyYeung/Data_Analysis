@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Severe delays between Bank and Canary Wharf and SEVERE DELAYS between Poplar and Tower Gateway while we fix a faulty train at Westferry. GOOD SERVICE on other DLR routes. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
