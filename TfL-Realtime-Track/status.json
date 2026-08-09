@@ -8,44 +8,44 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
         "is_disrupted": true,
         "reason": "LIONESS LINE: Saturday 8 and Sunday 9 August, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use LONDON NORTHWESTERN RAILWAY services between Euston and Watford Junction or SOUTHERN services, where available, between Wembley Central and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green, Willesden Junction (Harrow Road), Harlesden (Jubilee Clock / Manor Park Road), Stonebridge Park (Harrow Road), Wembley Central (Park Lane and Station), North Wembley, Preston Road (for Metropolitan line and South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone, Headstone Lane (Long Elmes), Hatch End (Harrow Arts Centre), Carpenders Park (Prestwick Road), Bushey (Eastbury Road) and Watford High Street. Some early Sunday morning LONDON NORTHWESTERN RAILWAY trains are replaced by buses. The 0639 and 0710 Milton Keynes Central to London Euston services, and the 0655 London Euston to Northampton service will not run. Rail replacement buses will operate between London Euston and Milton Keynes Central / Northampton."
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "reason": "MILDMAY LINE: Sunday 9 August, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day, there will be no step-free access via the Grant Road entrance, please use the Brighton Yard entrance instead. In addition, the 0848 Willesden Junction to Clapham Junction, 0915 Gospel Oak to Clapham Junction and 0956 Camden Road to Clapham Junction trains all start at Willesden Junction. The 0951 Camden Road to Richmond train does not run."
     },
     "Northern": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. There will be no service between Gospel Oak and Barking until 09:45 and between Barking and Barking Riverside until 12:30 due to planned engineering work.  "
+        "reason": "SUFFRAGETTE LINE: Sunday 9 August, until 0945, no service between Gospel Oak and Barking Riverside. Use local buses between South Tottenham and Barking via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters, Tottenham Hale, Blackhorse Road and Walthamstow Central stations) via any reasonable route; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. First through trains: Gospel Oak to Barking 0954; Barking to Gospel Oak 0938"
     },
     "Tram": {
         "is_disrupted": true,
@@ -68,12 +68,12 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
