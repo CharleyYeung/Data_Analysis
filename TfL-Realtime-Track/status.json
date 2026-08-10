@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: No service between Woodford and Epping while we deal with a customer incident. MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. "
+        "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Acton Town and Heathrow Airport and MINOR DELAYS on the rest of the line while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting valid tickets via any reasonable route. "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals while we fix a signal failure at Osterley. London Buses and Elizabeth line are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
