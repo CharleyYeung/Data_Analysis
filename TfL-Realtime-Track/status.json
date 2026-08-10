@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays North Acton to West Ruislip / Ealing Broadway and  Leytonstone to Hainault via Newbury Park, and Leytonstone to Epping due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Parsons Green and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Hayes & Harlington and Heathrow Terminals and SEVERE DELAYS between Hayes & Harlington and Paddington due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. SEVERE DELAYS between Whitechapel and Shenfield while we fix a faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Greater Anglia and Great Western Railway.  "
+        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Whitechapel and Shenfield while we fix a faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. . "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: No service between Victoria and Brixton and SEVERE DELAYS on the rest of the line while we fix a points failure at Brixton. London Underground tickets will be accepted on London Buses, Weaver line, Suffragette line, South Western Railway, Great Northern, Thameslink, Greater Anglia and Southeastern. "
+        "reason": "Victoria Line: Minor delays due to an earlier points failure at Brixton.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
