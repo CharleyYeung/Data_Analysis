@@ -36,16 +36,16 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "LIONESS LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2345 train from Euston to Watford Junction will terminate at Willesden Junction"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Rickmansworth and Amersham/Chesham while we respond to a customer incident. Tickets being accepted on Chiltern Railway Services. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, after 2345 each evening, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction, Northern line from Camden Town, or local bus routes 1, 24, 46 88 and 214 from Camden Road / Camden Town."
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
