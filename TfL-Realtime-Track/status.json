@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Whitechapel and Shenfield due to an earlier faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. "
+        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier points failure at Brixton.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
