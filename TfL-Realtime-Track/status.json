@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        "reason": "Bakerloo Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Thameslink services via any reasonable route. "
     },
     "Central": {
         "is_disrupted": true,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Edgware while we fix a signal failure at Golders Green. Minor delays on the rest of the line. Tickets are being accepted on London Buses and Thameslink.  "
+        "reason": "Northern Line: Minor delays due to an earlier signal failure at Golders Green. "
     },
     "Piccadilly": {
         "is_disrupted": false,
