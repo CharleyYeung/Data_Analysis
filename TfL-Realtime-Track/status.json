@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "LIONESS LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2345 train from Euston to Watford Junction will terminate at Willesden Junction"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Rickmansworth and Amersham/Chesham while we respond to a customer incident. Tickets being accepted on Chiltern Railway Services. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Rickmansworth and Amersham/Chesham due to earlier customer incident. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
