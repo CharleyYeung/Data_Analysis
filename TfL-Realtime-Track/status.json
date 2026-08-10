@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Buses, Lioness line, Thameslink and London Northwestern Railway services are accepting tickets via any reasonable route. "
+        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between Leytonstone and Epping and MINOR DELAYS on the rest of the line due to an earlier fire alert at Woodford and due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Turnham Green and Richmond due to an earlier trespasser on the track at Richmond. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Severe delays between Wimbledon and Edgware Road while we respond to a fire alert. London buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
