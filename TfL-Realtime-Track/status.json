@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Parsons Green and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Whitechapel and Shenfield while we fix a faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. . "
+        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Whitechapel and Shenfield due to an earlier faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Camden Town and Edgware while we fix a signal failure at Golders Green. Minor delays on the rest of the line. Tickets are being accepted on London Buses and Thameslink.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
