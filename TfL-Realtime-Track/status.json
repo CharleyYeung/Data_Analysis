@@ -1,19 +1,19 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Buses, Lioness line, Thameslink and London Northwestern Railway services are accepting tickets via any reasonable route. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays North Acton to West Ruislip / Ealing Broadway and  Leytonstone to Hainault via Newbury Park, and Leytonstone to Epping due to train cancellations. "
+        "reason": "Central Line: Severe delays between Leytonstone and Epping and MINOR DELAYS on the rest of the line due to an earlier fire alert at Woodford and due to train cancellations. London Buses are accepting tickets via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Turnham Green and Richmond due to an earlier trespasser on the track at Richmond. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -72,11 +72,11 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: No service between Enfield Town and Edmonton Green while we remove a tree from the track at Enfield Town. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.   "
-    },
-    "Windrush": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Windrush": {
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Wandsworth Road and Clapham Junction while we fix a signal failure at Clapham Junction. GOOD SERVICE on the rest of the line. "
     }
 }
