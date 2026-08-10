@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Hayes & Harlington and Heathrow Terminals and SEVERE DELAYS between Hayes & Harlington and Paddington due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses and Great Western Railway.  "
+        "reason": "No service between Hayes & Harlington and Heathrow Terminals and SEVERE DELAYS between Hayes & Harlington and Paddington due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. SEVERE DELAYS between Whitechapel and Shenfield while we fix a faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Greater Anglia and Great Western Railway.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -65,18 +65,18 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays following a late finish of engineering work.  "
+        "reason": "Victoria Line: No service between Victoria and Brixton and SEVERE DELAYS on the rest of the line while we fix a points failure at Brixton. London Underground tickets will be accepted on London Buses, Weaver line, Suffragette line, South Western Railway, Great Northern, Thameslink, Greater Anglia and Southeastern. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Enfield Town and Edmonton Green while we remove a tree from the track at Enfield Town. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.   "
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Monday 10 August, the 0700 train from Clapham Junction to Dalston Junction will start from Surrey Quays at 0724."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
