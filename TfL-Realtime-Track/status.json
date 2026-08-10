@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. "
     },
     "Mildmay": {
         "is_disrupted": true,
