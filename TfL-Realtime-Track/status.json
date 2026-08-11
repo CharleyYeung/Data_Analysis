@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays  between High Street Kensington and Edgware Road, and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier trespasser on the track at Edgware Road. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays between Earl's Court and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Aldgate and Baker Street due to an earlier trespasser on the track at Edgware Road. London Buses are accepting valid tickets via any reasonable route. MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound train will be at 16:54. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Aldgate and Baker Street due to an earlier trespasser on the track at Edgware Road. London Buses are accepting valid tickets via any reasonable route. MINOR DELAYS between Moor Park and Chesham/Amersham due to train cancellations. The next southbound train from Chesham will be at 16:54. The next southbound train from Amersham will be at 17:08 GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
