@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Paddington and Heathrow Terminals/Reading while we fix a signal failure at Southall. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -61,7 +61,7 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
     },
     "Victoria": {
         "is_disrupted": false,
