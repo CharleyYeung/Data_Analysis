@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: No service between Turnham Green and Richmond while we fix a track fault at Gunnersbury. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel to Heathrow Airport and Central London. GOOD SERVICE on the rest of the line.  "
+        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier faulty train at Tottenham Hale. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
