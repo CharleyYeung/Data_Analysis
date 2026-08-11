@@ -8,12 +8,12 @@
         "reason": "Central Line: Minor delays between North Acton and West Ruislip / Ealing Broadway and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: No service while we deal with a trespasser on the track at Edgware Road. London Buses are accepting valid tickets via any reasonable route. "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway/Richmond while we fix a track fault at Gunnersbury. Tickets will be accepted on London Buses, Elizabeth line and South Western Railways via reasonable routes. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,11 +21,11 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. London Underground are accepting tickets via any reasonable route. MINOR DELAYS between Paddington and Hayes & Harlington while we fix a signal failure at Heathrow Terminals 2 & 3. GOOD SERVICE on the rest of the line.  "
+        "reason": "Severe delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: No service while we deal with a trespasser on the track at Edgware Road. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound train from Amersham will be at 15:52. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
