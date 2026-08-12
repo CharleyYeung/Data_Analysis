@@ -6722,3 +6722,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-12 18:35:23,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
 2026-08-12 18:35:23,Piccadilly,Piccadilly Line: No service between Northfields and Heathrow terminals while we fix a signal failure at Northfields. Please use the Elizabeth line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. ,True
 2026-08-12 18:35:23,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Arena and Elmers End at certain times. On Mondays to Fridays  no service before 0700 and after 1930  on Saturdays  no service before 0800 and after 1845  and on Sundays  no service for the whole day.,True
+2026-08-12 19:46:32,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and Between Leytonstone and Epping / Hainault due to train cancellations. ,True
+2026-08-12 19:46:32,District,District Line: Severe delays between Turnham Green and Ealing Broadway due to an earlier track fault at Northfields. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. ,True
+2026-08-12 19:46:32,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
+2026-08-12 19:46:32,Piccadilly,Piccadilly Line: Severe delays between Northfields and Heathrow terminals due to an earlier signal failure at Northfields. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. ,True
+2026-08-12 19:46:32,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Arena and Elmers End at certain times. On Mondays to Fridays  no service before 0700 and after 1930  on Saturdays  no service before 0800 and after 1845  and on Sundays  no service for the whole day.,True
+2026-08-12 19:46:32,Victoria,Victoria Line: Minor delays due to train cancellations ,True
+2026-08-12 19:46:32,Windrush,Windrush Line: Minor delays due to an earlier customer incident at Whitechapel. ,True

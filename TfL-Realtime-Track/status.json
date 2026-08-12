@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to an earlier signal failure at Leytonstone. London Buses, London Overground, Elizabeth line, Chiltern Railway, Great Western Railway and Greater Anglia are accepting tickets via any reasonable route. "
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and Between Leytonstone and Epping / Hainault due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway due to an earlier track fault at Northfields. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Northfields and Heathrow terminals while we fix a signal failure at Northfields. Please use the Elizabeth line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. "
+        "reason": "Piccadilly Line: Severe delays between Northfields and Heathrow terminals due to an earlier signal failure at Northfields. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays due to an earlier customer incident at Whitechapel. "
     }
 }
