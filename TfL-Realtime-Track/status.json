@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and Between Leytonstone and Epping / Hainault due to train cancellations. "
+        "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier trespasser on the track at Leyton. MINOR DELAYS between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Severe delays between Turnham Green and Ealing Broadway due to an earlier track fault at Northfields. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to train cancellations. "
+        "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Northfields and Heathrow terminals due to an earlier signal failure at Northfields. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier signal failure at Northfields. GOOD SERVICE on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
