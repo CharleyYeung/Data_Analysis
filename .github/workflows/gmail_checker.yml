@@ -43,7 +43,7 @@ jobs:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           HF_API_KEY: ${{ secrets.HF_API_KEY }}
         run: |
-          echo "$GMAIL_TOKEN_JSON" > token.json
+          python -c 'import os; open("token.json", "w").write(os.environ["GMAIL_TOKEN_JSON"])'
           python main.py
 
       - name: Update token
