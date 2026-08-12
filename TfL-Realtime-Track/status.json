@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays due to an earlier customer incident at Whitechapel. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
