@@ -6711,3 +6711,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-12 16:35:38,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
 2026-08-12 16:35:38,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
 2026-08-12 16:35:38,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-12 17:40:51,Central,Central Line: Severe delays due to an earlier signal failure at Leytonstone. London Buses  London Overground  Elizabeth line  Chiltern Railway  Great Western Railway and Greater Anglia are accepting tickets via any reasonable route. ,True
+2026-08-12 17:40:51,Elizabeth line,Severe delays between Whitechapel and Shenfield while we fix a signal failure at Stratford. MINOR DELAYS between Paddington and Reading/Heathrow Terminals due to an earlier signal failure at Southall. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground  London Buses  Great Western Railway  South Western Railway and Chiltern Railway's.  ,True
+2026-08-12 17:40:51,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-08-12 17:40:51,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
+2026-08-12 17:40:51,Piccadilly,Piccadilly Line: No service between Northfields and Heathrow terminals while we fix a track fault at Northfields. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. ,True
+2026-08-12 17:40:51,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
