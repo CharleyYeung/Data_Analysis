@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        "reason": "Bakerloo Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, London Overground, London Northwestern and Thameslink services. "
     },
     "Central": {
         "is_disrupted": true,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Reading/Heathrow Terminals while we fix a signal failure at Southall. GOOD SERVICE on the rest of the line. "
+        "reason": "Severe delays between Paddington and Reading/Heathrow Terminals while we fix a signal failure at Southall. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Willesden Green and Stanmore and MINOR DELAYS on the rest of the line while we respond to a fire alert at Wembley Park. Tickets are being accepted on London Buses.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Finchley Road due to an earlier fire alert at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
