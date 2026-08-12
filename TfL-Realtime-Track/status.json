@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield while we fix a signal failure at Stratford. MINOR DELAYS between Paddington and Reading/Heathrow Terminals due to an earlier signal failure at Southall. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Northfields and Heathrow terminals while we fix a track fault at Northfields. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. "
+        "reason": "Piccadilly Line: No service between Northfields and Heathrow terminals while we fix a signal failure at Northfields. Please use the Elizabeth line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -61,7 +61,7 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
     },
     "Victoria": {
         "is_disrupted": false,

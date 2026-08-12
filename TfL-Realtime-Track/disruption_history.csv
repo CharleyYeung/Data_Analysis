@@ -6717,3 +6717,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-12 17:40:51,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
 2026-08-12 17:40:51,Piccadilly,Piccadilly Line: No service between Northfields and Heathrow terminals while we fix a track fault at Northfields. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. ,True
 2026-08-12 17:40:51,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-12 18:35:23,Central,Central Line: Severe delays due to an earlier signal failure at Leytonstone. London Buses  London Overground  Elizabeth line  Chiltern Railway  Great Western Railway and Greater Anglia are accepting tickets via any reasonable route. ,True
+2026-08-12 18:35:23,Jubilee,Jubilee Line: Minor delays due to train cancellations.  ,True
+2026-08-12 18:35:23,Mildmay,Mildmay Line: Minor delays due to train cancellations. ,True
+2026-08-12 18:35:23,Piccadilly,Piccadilly Line: No service between Northfields and Heathrow terminals while we fix a signal failure at Northfields. Please use the Elizabeth line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. London Buses and the Elizabeth line are accepting tickets via any reasonable route. ,True
+2026-08-12 18:35:23,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Arena and Elmers End at certain times. On Mondays to Fridays  no service before 0700 and after 1930  on Saturdays  no service before 0800 and after 1845  and on Sundays  no service for the whole day.,True
