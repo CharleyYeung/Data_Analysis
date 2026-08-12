@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor  delays westbound entire line and MINOR DELAYS North Acton to Ealing Broadway /  West Ruislip and Leytonstone to Epping / Hainault while police carry out an investigation. GOOD service on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Tuesday 11, Wednesday 12, Thursday 13 and Friday 14 August, the 0651 train from Stratford to Richmond will start from Acton Central at 0743."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
