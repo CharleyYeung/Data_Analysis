@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses, London Northwestern Railway and Thameslink. "
+        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London Buses, London Northwestern Railway and Thameslink. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due train cancellations. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink. "
+        "reason": "Circle Line: Minor delays due to an earlier fire alert at Farringdon.  "
     },
     "District": {
         "is_disrupted": true,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, C2C, Thameslink and DLR services. "
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier fire alert at Farringdon.  "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,19 +41,19 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier points failure at Wembley Park and an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, London Overground, Northwestern Railway, Chiltern Railway and Thameslink.  "
+        "reason": "Metropolitan Line: Minor delays due to an earlier fire alert at Farringdon.  "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Canonbury and Stratford while we fix a faulty train at Hackney Central. SEVERE DELAYS on the rest of the line due to train cancellations. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Camden Town and Edgware while we respond to a fire alert at Golders Green. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and Thameslink.  "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses, London Overground and South Western Railway are accepting tickets via any reasonable route. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
