@@ -6860,3 +6860,14 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-13 16:51:59,Northern,Northern Line: Minor delays due to an earlier fire alert at Golders Green.  ,True
 2026-08-13 16:51:59,Piccadilly,Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses  London Overground and South Western Railway are accepting tickets via any reasonable route. ,True
 2026-08-13 16:51:59,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-13 17:53:52,Bakerloo,Bakerloo Line: Minor delays due to train cancellations. ,True
+2026-08-13 17:53:52,Central,Central Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due train cancellations. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 17:53:52,District,District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 17:53:52,Elizabeth line,Severe delays between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground  London Buses  Great Western Railway  South Western Railway and Chiltern Railway's ,True
+2026-08-13 17:53:52,Jubilee,Jubilee Line: Severe delays due to points failures at Stanmore and Wembley Park. Tickets will be accepted on London Buses  Thameslink  C2C and DLR via any reasonable route.  ,True
+2026-08-13 17:53:52,Metropolitan,Metropolitan Line: No service between Moor Park and Watford and SEVERE DELAYS on the rest of the line while we fix a signal failure at Watford. Tickets are being accepted on London Buses  Lioness line and London Northwestern Railway.  ,True
+2026-08-13 17:53:52,Mildmay,Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. ,True
+2026-08-13 17:53:52,Northern,Northern Line: Minor delays due to an earlier fire alert at Golders Green.  ,True
+2026-08-13 17:53:52,Piccadilly,Piccadilly Line: Severe delays while we fix a signal failure at Bounds Green. London Buses  London Overground and South Western Railway are accepting tickets via any reasonable route. ,True
+2026-08-13 17:53:52,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-13 17:53:52,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
