@@ -6806,3 +6806,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-13 10:20:28,Mildmay,Mildmay Line: Minor delays due to train cancellations.  ,True
 2026-08-13 10:20:28,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
 2026-08-13 10:20:28,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True
+2026-08-13 11:20:31,District,District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 11:20:31,Elizabeth line,Severe delays between Paddington and Reading / Heathrow Terminals while we fix a power supply failure. GOOD SERVICE on the rest of the line.  ,True
+2026-08-13 11:20:31,Mildmay,Mildmay Line: Minor delays due to train cancellations.  ,True
+2026-08-13 11:20:31,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-13 11:20:31,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True
