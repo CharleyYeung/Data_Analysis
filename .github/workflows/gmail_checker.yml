@@ -1,15 +1,15 @@
-name: Check Gmail for Job Updates
+name: Hourly Job Application Tracker
 
 on:
   schedule:
     # Runs at the start of every hour
     - cron: "0 * * * *"
-  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
   check-gmail:
     runs-on: ubuntu-latest
-    # Set the default working directory for all steps in this job
+    # Set the default working directory if your files are inside a subfolder
     defaults:
       run:
         working-directory: ./jobapp-tracker
@@ -33,22 +33,22 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          # You can set a default region, e.g., eu-west-2
           aws-region: eu-west-2
 
       - name: Run Gmail Checker
         env:
-          GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NTFY_TOPIC_URL: ${{ secrets.NTFY_TOPIC_URL }}
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-          HF_API_KEY: ${{ secrets.HF_API_KEY }}
+          GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
         run: |
+          # Write Gmail token from GitHub Secret to token.json
           python -c 'import os; open("token.json", "w").write(os.environ["GMAIL_TOKEN_JSON"])'
           python main.py
 
-      - name: Update token
-        if: always() # Always run this step to save the refreshed token
+      - name: Update token and tracker in repo
+        if: always() # Always run this step to persist refreshed tokens and CSV state
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: Update job alerts and Gmail token"
-          file_pattern: "jobapp-tracker/job_alert.csv jobapp-tracker/token.json"
+          commit_message: "chore: Auto-update job alerts and Gmail token"
+          file_pattern: "job_alert.csv token.json"

@@ -3,3 +3,6 @@ google-auth-httplib2
 google-auth-oauthlib
 requests
 boto3
+requests
+boto3
+google-auth
