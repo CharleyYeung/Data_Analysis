@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations. "
     },
     "Central": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays following a late finish of engineering work and due to an earlier points failure at Stratford. Tickets are being accepted on London buses, Mildmay line, Elizabeth line, DLR, C2C, Southeastern and Thameslink railway services via any reasonable route. "
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate following a late finish of engineering work. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. The next departure from Watford will be at 08:54. MINOR DELAYS between Harrow-on-the-Hill and Aldgate following a late finish of engineering work. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Tuesday 11, Wednesday 12, Thursday 13 and Friday 14 August, the 0651 train from Stratford to Richmond will start from Acton Central at 0743."
+        "reason": "Mildmay Line: Minor delays due to train cancellations.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations "
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays due to train cancellations.  "
     }
 }

@@ -6787,3 +6787,11 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-13 06:12:39,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate following a late finish of engineering work. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
 2026-08-13 06:12:39,Mildmay,MILDMAY LINE: Tuesday 11  Wednesday 12  Thursday 13 and Friday 14 August  the 0651 train from Stratford to Richmond will start from Acton Central at 0743.,True
 2026-08-13 06:12:39,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-13 07:53:19,Bakerloo,Bakerloo Line: Minor delays due to train cancellations. ,True
+2026-08-13 07:53:19,District,District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 07:53:19,Jubilee,Jubilee Line: Minor delays due to train cancellations. ,True
+2026-08-13 07:53:19,Metropolitan,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. The next departure from Watford will be at 08:54. MINOR DELAYS between Harrow-on-the-Hill and Aldgate following a late finish of engineering work. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 07:53:19,Mildmay,Mildmay Line: Minor delays due to train cancellations.  ,True
+2026-08-13 07:53:19,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-13 07:53:19,Victoria,Victoria Line: Minor delays due to train cancellations ,True
+2026-08-13 07:53:19,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True
