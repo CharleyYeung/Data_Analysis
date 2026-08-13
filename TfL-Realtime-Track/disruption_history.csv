@@ -6811,3 +6811,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-13 11:20:31,Mildmay,Mildmay Line: Minor delays due to train cancellations.  ,True
 2026-08-13 11:20:31,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
 2026-08-13 11:20:31,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True
+2026-08-13 12:07:40,Bakerloo,Bakerloo Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses  London Northwestern Railway and Thameslink. ,True
+2026-08-13 12:07:40,District,District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 12:07:40,Elizabeth line,No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. ,True
+2026-08-13 12:07:40,Jubilee,Jubilee Line: Minor delays between Finchley Road and Stanmore while we fix a points failure at Wembley Park. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 12:07:40,Mildmay,Mildmay Line: Minor delays due to train cancellations.  ,True
+2026-08-13 12:07:40,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-13 12:07:40,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True

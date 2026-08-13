@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses, London Northwestern Railway and Thameslink. "
     },
     "Central": {
         "is_disrupted": false,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Reading / Heathrow Terminals while we fix a power supply failure. GOOD SERVICE on the rest of the line.  "
+        "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays between Finchley Road and Stanmore while we fix a points failure at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
