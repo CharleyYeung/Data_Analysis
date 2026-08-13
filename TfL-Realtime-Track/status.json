@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
+        "reason": "Severe delays due to an earlier customer incident and a faulty train at Hanwell. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -45,11 +45,11 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
+        "reason": "MILDMAY LINE: Monday 10, Tuesday 11, Wednesday 12 and Thursday 13 August, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to an earlier fire alert at Golders Green.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": true,
