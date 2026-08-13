@@ -6818,3 +6818,13 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-13 12:07:40,Mildmay,Mildmay Line: Minor delays due to train cancellations.  ,True
 2026-08-13 12:07:40,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
 2026-08-13 12:07:40,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True
+2026-08-13 13:45:05,Bakerloo,Bakerloo Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses  London Northwestern Railway and Thameslink. ,True
+2026-08-13 13:45:05,Circle,Circle Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink. ,True
+2026-08-13 13:45:05,District,District Line: No service between High Street Kensington and Edgware Road due to a points failure at Edgware Road. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 13:45:05,Elizabeth line,No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground  Great Western Railway  South Western Railway and Chiltern Railway's. ,True
+2026-08-13 13:45:05,Hammersmith & City,Hammersmith and City Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses  C2C  Thameslink and DLR services. ,True
+2026-08-13 13:45:05,Jubilee,Jubilee Line: No service between Willesden Green and Stanmore while we fix points failures at Wembley Park and Stanmore. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line. ,True
+2026-08-13 13:45:05,Metropolitan,Metropolitan Line: Severe delays due to an customer incident at Watford and due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses  London Overground  Northwestern Railway  Chiltern Railway and Thameslink.  ,True
+2026-08-13 13:45:05,Mildmay,Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. ,True
+2026-08-13 13:45:05,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-13 13:45:05,Windrush,Windrush Line: Minor delays due to train cancellations.  ,True

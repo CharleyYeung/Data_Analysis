@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: No service between Hammersmith and Edgware Road and SEVERE DELAYS on the rest of the line due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses and Thameslink. "
     },
     "District": {
         "is_disrupted": true,
@@ -21,15 +21,15 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via reasonable routes. "
+        "reason": "No service between Paddington and Reading / Heathrow Terminals and SEVERE DELAYS between Abbey Wood and Paddington due to a power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, Great Western Railway, South Western Railway and Chiltern Railway's. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, C2C, Thameslink and DLR services. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays between Finchley Road and Stanmore while we fix a points failure at Wembley Park. GOOD SERVICE on the rest of the line. "
+        "reason": "Jubilee Line: No service between Willesden Green and Stanmore while we fix points failures at Wembley Park and Stanmore. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays due to an customer incident at Watford and due to an earlier fire alert at Farringdon. Tickets are being accepted on London Buses, London Overground, Northwestern Railway, Chiltern Railway and Thameslink.  "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to train cancellations.  "
+        "reason": "Mildmay Line: Severe delays due to train cancellations. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": false,
