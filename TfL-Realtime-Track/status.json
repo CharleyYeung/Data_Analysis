@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS between Abbey Wood and Paddington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway, South Western Railway and Chiltern Railway's "
+        "reason": "No service between Whitechapel and Shenfield while the emergency services deal with a casualty on the track. SEVERE DELAYS between Paddington and Heathrow Airport / Reading while we fix a faulty train at Hanwell. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground, London Buses, Liberty line, Great Western Railway, South Western Railway, C2C and Chiltern Railway's "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Watford and MINOR DELAYS on the rest of the line while we fix a signal failure at Watford. Tickets are being accepted on London Buses, Lioness line and London Northwestern Railway.  "
+        "reason": "Metropolitan Line: Severe delays between Moor Park and Amersham/Chesham while we fix a signal failure at Watford. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
