@@ -6973,3 +6973,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-14 11:57:41,Elizabeth line,Minor delays between Paddington and Heathrow Terminal 4 while we fix a track fault at Paddington. GOOD SERVICE on the rest of the line.  ,True
 2026-08-14 11:57:41,Northern,Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross due to an earlier faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  ,True
 2026-08-14 11:57:41,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-14 13:10:51,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
+2026-08-14 13:10:51,Circle,Circle Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses  Thameslink and Elizabeth line. Please board the first train and change where necessary to complete your journey.  ,True
+2026-08-14 13:10:51,Elizabeth line,Minor delays between Paddington and Heathrow Terminal 4 due to an earlier track fault at Paddington. GOOD SERVICE on the rest of the line.  ,True
+2026-08-14 13:10:51,Jubilee,Jubilee Line: No service between Stanmore and Willesden Green while we fix a points failure at Stanmore. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line ,True
+2026-08-14 13:10:51,Northern,Northern Line: No service between Camden Town and High Barnet / Mill Hill East and SEVERE DELAYS on the rest of the line while we fix faulty trains in the East Finchley area. Tickets are being accepted on London Buses  London Trams  Thameslink  Great Northern and South Western Railway.  ,True
+2026-08-14 13:10:51,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
