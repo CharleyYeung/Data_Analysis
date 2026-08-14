@@ -37,7 +37,7 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
+        "reason": "Lioness Line: Severe delays between Watford Junction and Willesden Junction due to an earlier faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
     },
     "Metropolitan": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Dalston Junction while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
+        "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     }
 }
