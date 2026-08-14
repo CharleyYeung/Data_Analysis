@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. Tickets are being accepted on London Underground, London Buses, DLR, Liberty Line, Thameslink, Southeastern, C2C, Greater Anglia, Great Western Railway, Chiltern Railway's and South Western Railway services. "
+        "reason": "Severe delays between Whitechapel and Abbey Wood / Heathrow Terminals / Reading and MINOR DELAYS on the rest of the line due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. Tickets are being accepted on London Underground, London Buses, DLR, Liberty Line, Thameslink, Southeastern, C2C, Greater Anglia, Great Western Railway, Chiltern Railway's and South Western Railway services. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham / Watford due to train cancellations. The next southbound from Watford will be at 22:08. The next southbound from Amersham will be at 22:22. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
