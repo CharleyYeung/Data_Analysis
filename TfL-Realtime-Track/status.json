@@ -37,11 +37,11 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays between Watford Junction and Willesden Junction due to an earlier faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
+        "reason": "Lioness Line: MINOR DELAYS due to an earlier faulty track at Harlesden. "
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham / Watford due to train cancellations. The next southbound from Watford will be at 22:08. The next southbound from Amersham will be at 22:22. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier customer incident. Tickets will be accepted on London Buses and Great Northern.  "
+        "reason": "Piccadilly Line: Minor delays due to an earlier customer incident.  "
     },
     "Suffragette": {
         "is_disrupted": false,
