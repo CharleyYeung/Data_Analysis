@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
+        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays while we fix a track fault at Stratford. Tickets are being accepted on London Buses, Chiltern Railway's and Great Western Railway. Please board the first train and change at North Acton or Loughton where necessary to complete your journey.  "
+        "reason": "Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Newbury Park due to an earlier track fault at Stratford and train cancellations. MINOR DELAYS on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier points failure at Stanmore. Tickets are being accepted on London Buses, DLR, Elizabeth line, Mildmay line and Thameslink.  "
+        "reason": "Jubilee Line: Minor delays due to an earlier points failure at Stanmore.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Lioness Line: No service between Watford Junction and Willesden Junction while we fix a faulty track at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound train from Amersham will be at 20.52. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Dalston Junction while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. "
     }
 }
