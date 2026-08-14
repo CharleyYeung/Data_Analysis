@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": true,
         "reason": "Circle Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Thameslink and Elizabeth line. Please board the first train and change where necessary to complete your journey.  "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Turnham Green and Richmond while we respond to a fire alert. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS on the rest of the line while we fix a power supply failure at Paddington. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway services. Please use the Piccadilly line to travel between Heathrow Airport and Central London. "
+        "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS on the rest of the line while we fix a power supply failure at Paddington. Tickets are being accepted on London Underground, London Buses, DLR, Liberty Line, Thameslink, Southeastern, C2C, Greater Anglia, Great Western Railway, Chiltern Railway's and South Western Railway services. Please use the Piccadilly line to travel between Heathrow Airport and Central London. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Willesden Junction and Clapham Junction while we fix a track fault between Willesden Junction and Shepherds Bush. London Underground are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": true,
