@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS on the rest of the line while we fix a power supply failure at Paddington. Tickets are being accepted on London Underground, London Buses, DLR, Liberty Line, Thameslink, Southeastern, C2C, Greater Anglia, Great Western Railway, Chiltern Railway's and South Western Railway services. Please use the Piccadilly line to travel between Heathrow Airport and Central London. "
+        "reason": "Severe delays due to an earlier power supply failure. Tickets are being accepted on London Underground, London Buses, DLR, Liberty Line, Thameslink, Southeastern, C2C, Greater Anglia, Great Western Railway, Chiltern Railway's and South Western Railway services. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays due to earlier faulty trains in the East Finchley area.  "
+        "reason": "Northern Line: Minor delays while we respond to a fire alert at Finchley Central  "
     },
     "Piccadilly": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Severe delays between Highbury & Islington and West Croydon/ Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: No service between Sydenham and West Croydon while we fix a signal failure at West Croydon. SEVERE DELAYS between Highbury & Islington and Crystal Palace while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     }
 }
