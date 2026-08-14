@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Leytonstone and Epping/Woodford via Hainault and between North Acton and Ealing Broadway/West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Paddington and Heathrow Terminal 4 while we fix a track fault at Paddington. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays between Highbury & Islington and West Croydon / Crystal Palace while we fix a track fault at Sydenham. GOOD SERVICE on the rest of the line. "
     }
 }

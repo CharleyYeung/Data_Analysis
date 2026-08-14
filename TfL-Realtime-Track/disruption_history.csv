@@ -6960,3 +6960,7 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-14 07:48:37,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
 2026-08-14 09:03:06,Central,Central Line: Minor delays between Leytonstone and Epping/Woodford via Hainault and between North Acton and Ealing Broadway/West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-08-14 09:03:06,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-14 10:15:17,Bakerloo,Bakerloo Line: Minor delays due to train cancellations.  ,True
+2026-08-14 10:15:17,Elizabeth line,Minor delays between Paddington and Heathrow Terminal 4 while we fix a track fault at Paddington. GOOD SERVICE on the rest of the line.  ,True
+2026-08-14 10:15:17,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-14 10:15:17,Windrush,Windrush Line: Minor delays between Highbury & Islington and West Croydon / Crystal Palace while we fix a track fault at Sydenham. GOOD SERVICE on the rest of the line. ,True
