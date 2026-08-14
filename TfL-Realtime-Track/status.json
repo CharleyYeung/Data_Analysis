@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between Leytonstone and Epping/Woodford via Hainault and between North Acton and Ealing Broadway/West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -41,19 +41,19 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Watford while we fix a points failure at Neasden. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Tuesday 11, Wednesday 12, Thursday 13 and Friday 14 August, the 0651 train from Stratford to Richmond will start from Acton Central at 0743."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix a signal failure at Heathrow Terminal 5. Tickets will be accepted on Elizabeth line via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 23 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
