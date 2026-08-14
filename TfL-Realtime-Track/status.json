@@ -4,8 +4,8 @@
         "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminal 4 due to an earlier track fault at Paddington. GOOD SERVICE on the rest of the line.  "
+        "reason": "No service between Paddington and Heathrow Terminals / Reading and SEVERE DELAYS on the rest of the line while we fix a power supply failure at Paddington. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway services. Please use the Piccadilly line to travel between Heathrow Airport and Central London. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Stanmore and Willesden Green while we fix a points failure at Stanmore. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line "
+        "reason": "Jubilee Line: Severe delays due to an earlier points failure at Stanmore. Tickets are being accepted on London Buses, DLR, Elizabeth line, Mildmay line and Thameslink.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and High Barnet / Mill Hill East and SEVERE DELAYS on the rest of the line while we fix faulty trains in the East Finchley area. Tickets are being accepted on London Buses, London Trams, Thameslink, Great Northern and South Western Railway.  "
+        "reason": "Northern Line: Severe delays due to earlier faulty trains in the East Finchley area. Tickets are being accepted on London Buses, London Trams, Thameslink, Great Northern and South Western Railway.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
