@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
+        "reason": "Piccadilly Line: No service between Arnos Grove and Cockfosters while we fix a signal failure at Cockfosters. SEVERE DELAYS on the rest of the line due to an earlier a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
     },
     "Suffragette": {
         "is_disrupted": false,
