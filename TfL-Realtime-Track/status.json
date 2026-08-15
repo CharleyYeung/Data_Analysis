@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier signal failure at Bond Street. Tickets are being accepted on London Buses, DLR, Elizabeth line, C2C, Southeastern and Thameslink.  "
+        "reason": "Jubilee Line: Minor delays due to earlier signal failure at Bond Street.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Arnos Grove. GOOD SERVICE on the rest of the line.  "
+        "reason": "Piccadilly Line: Severe delays while we fix a signal failure at Manor House. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
     },
     "Suffragette": {
         "is_disrupted": false,
