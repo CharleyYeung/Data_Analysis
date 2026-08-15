@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays due to an earlier points failure at Tower Hill. "
+        "reason": "District Line: Severe delays between Earl's Court and Wimbledon / Edgware Road / Kensington (Olympia) / Richmond and Ealing Broadway and MINOR DELAYS on the rest of the line due to an earlier points failure at Tower Hill. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C and Southwestern Railway. \r\n "
     },
     "DLR": {
         "is_disrupted": false,
