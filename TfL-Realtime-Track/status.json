@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 07:22 departure from Amersham, the next southbound train will be at 07:52. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Clapham Junction and Surrey Quays while we fix a track fault at Shepherd's Bush. NO SERVICE between Crystal Palace and Sydenham and between Highbury & Islington and Dalston Junction while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "reason": "Windrush Line: No service between Crystal Palace and Sydenham and between Highbury & Islington and Dalston Junction while we fix a track fault at Sydenham. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     }
 }
