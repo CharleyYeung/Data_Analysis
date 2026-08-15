@@ -4,8 +4,8 @@
         "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier customer incident at White City and an earlier track fault at Stratford. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to an earlier points failure at Stanmore.  "
+        "reason": "Jubilee Line: No service between Stanmore and Willesden Green and MINOR DELAYS on the rest of the line while we fix a points failure at Stanmore. Tickets are being accepted on London buses. "
     },
     "Liberty": {
         "is_disrupted": true,
