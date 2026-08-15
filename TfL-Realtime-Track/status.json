@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations and an earlier faulty train at Holborn. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Wembley Park. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier fire alert at Arnos Grove. Tickets are being accepted on London Buses, Elizabeth line, Great Northern, Weaver line and South Western railway.  "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Arnos Grove. Tickets are being accepted on London Buses, Elizabeth line, Great Northern, Weaver line and South Western railway. MINOR DELAYS on the rest of the line.  "
     },
     "Suffragette": {
         "is_disrupted": false,
