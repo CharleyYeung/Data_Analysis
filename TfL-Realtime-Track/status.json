@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Sloane Square and Tower Hill eastbound only due to faulty train a Slone Square. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to earlier signal failure at Bond Street.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "WINDRUSH LINE: Sunday 16 August, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction, where tickets will be accepted. In addition, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run."
     }
 }
