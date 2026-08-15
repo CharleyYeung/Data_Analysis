@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to an earlier points failure at Tower Hill. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C and Southwestern Railway. "
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier points failure at Tower Hill.  "
     },
     "Jubilee": {
         "is_disrupted": false,
