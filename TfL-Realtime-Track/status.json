@@ -1,67 +1,67 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line while we fix a faulty track at Harlesden. Tickets are being accepted on London Northwestern Railway and London Buses.  "
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to an earlier customer incident at White City and an earlier track fault at Stratford. Tickets are being accepted on London Buses.  "
+        "reason": "Central Line: Minor delays due to an earlier customer incident at White City and an earlier track fault at Stratford. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Abbey Wood / Heathrow Terminals / Reading and MINOR DELAYS on the rest of the line due to an earlier power supply failure. Please use the Piccadilly line to travel between Heathrow Airport and Central London. Tickets are being accepted on London Underground, London Buses, DLR, Liberty Line, Thameslink, Southeastern, C2C, Greater Anglia, Great Western Railway, Chiltern Railway's and South Western Railway services. "
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
         "is_disrupted": true,
         "reason": "Jubilee Line: Minor delays due to an earlier points failure at Stanmore.  "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: MINOR DELAYS due to an earlier faulty track at Harlesden. "
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush and SEVERE DELAYS between Stratford and Richmond while we fix a faulty track at Gospel Oak. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays due to an earlier customer incident.  "
-    },
-    "Suffragette": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
+    "Suffragette": {
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
+    },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
         "is_disrupted": true,
