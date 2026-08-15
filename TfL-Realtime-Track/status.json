@@ -28,8 +28,8 @@
         "reason": "Hammersmith and City Line: Minor delays due to an earlier points failure at Tower Hill.  "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Finchley Road and Waterloo and SEVERE DELAYS on the rest of the line while we fix a signal failure at Bond Street. Tickets are being accepted on London Buses, DLR, Elizabeth line, C2C, Southeastern and Thameslink.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Wembley Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Wembley Park. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Thameslink. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Cockfosters while we respond to a fire alert at Arnos Grove. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Piccadilly Line: No service between Hammersmith and Cockfosters eastbound and NO SERVICE between Cockfosters and King's Cross St. Pancras westbound while we respond to a fire alert at Arnos Grove. SEVERE  DELAYS on the rest of the line. Tickets are being accepted on London Buses, Elizabeth line, Great Northern, Weaver line and South Western railway.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross due to train cancellations. GOOD SERVICE on the rest of the line.  "
     }
 }
