@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Wembley Park. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Thameslink. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Wembley Park. MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
