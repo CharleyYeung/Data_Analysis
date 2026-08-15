@@ -7396,3 +7396,13 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-15 20:16:41,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
 2026-08-15 20:16:41,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
 2026-08-15 20:16:41,Windrush,Windrush Line: No service between Surrey Quays and New Cross and MINOR DELAYS between Highbury & Islington and Surrey Quays due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-08-15 20:46:25,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-08-15 20:46:25,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-08-15 20:46:25,Jubilee,Jubilee Line: Severe delays due to an earlier signal failure at Bond Street. Tickets are being accepted on London Buses  DLR  Elizabeth line  C2C  Southeastern and Thameslink.  ,True
+2026-08-15 20:46:25,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-08-15 20:46:25,Mildmay,Mildmay Line: No service between Willesden Junction and Shepherd's Bush due to a track fault at Shepherd's Bush. SEVERE DELAYS between Stratford and Richmond following emergency engineering work to fix overhead power lines. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  ,True
+2026-08-15 20:46:25,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier fire alert at Arnos Grove. GOOD SERVICE on the rest of the line.  ,True
+2026-08-15 20:46:25,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Arena and Elmers End at certain times. On Mondays to Fridays  no service before 0700 and after 1930  on Saturdays  no service before 0800 and after 1845  and on Sundays  no service for the whole day.,True
+2026-08-15 20:46:25,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
+2026-08-15 20:46:25,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-08-15 20:46:25,Windrush,Windrush Line: No service between Surrey Quays and New Cross and MINOR DELAYS between Highbury & Islington and Surrey Quays due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
