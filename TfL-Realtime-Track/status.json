@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush due to a track fault at Shepherd's Bush. SEVERE DELAYS between Stratford and Richmond following emergency engineering work to fix overhead power lines. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush due to a track fault at Shepherd's Bush. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Surrey Quays and New Cross and MINOR DELAYS between Highbury & Islington and Surrey Quays due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Windrush Line: Minor delays between Surrey Quays and New Cross and between Highbury & Islington and Dalston Junction due to train cancellations. GOOD SERVICE on the rest of the line.  "
     }
 }
