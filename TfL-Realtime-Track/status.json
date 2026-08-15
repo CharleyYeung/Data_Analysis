@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to an earlier points failure at Tower Hill.  "
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Hammersmith and Cockfosters eastbound and NO SERVICE between Cockfosters and King's Cross St. Pancras westbound while we respond to a fire alert at Arnos Grove. SEVERE  DELAYS on the rest of the line. Tickets are being accepted on London Buses, Elizabeth line, Great Northern, Weaver line and South Western railway.  "
+        "reason": "Piccadilly Line: Severe delays due to an earlier fire alert at Arnos Grove. Tickets are being accepted on London Buses, Elizabeth line, Great Northern, Weaver line and South Western railway.  "
     },
     "Suffragette": {
         "is_disrupted": false,
