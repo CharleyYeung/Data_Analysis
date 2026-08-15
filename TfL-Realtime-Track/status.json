@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush while we fix a track fault at Shepherd's Bush and NO SERVICE between Stratford and Willesden Junction due to emergency engineering work to fix overhead power line. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Mildmay Line: No service between Willesden Junction and Shepherd's Bush while we fix a track fault at Shepherd's Bush and NO SERVICE between Stratford and Gospel Oak due to emergency engineering work to fix overhead power line. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service due to emergency engineering work to fix overhead power line. London Underground are accepting tickets via any reasonable route.  "
     },
     "Tram": {
         "is_disrupted": true,
