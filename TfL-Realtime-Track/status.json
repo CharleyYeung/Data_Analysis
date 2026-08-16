@@ -1,31 +1,31 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. "
+        "reason": "DISTRICT LINE: Sunday 16 August, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central (The Vale), South Acton (Acton Lane), Turnham Green, Chiswick Park, Gunnersbury and Kew Gardens (Royal Botanic Gardens)."
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 16 August, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "reason": "ELIZABETH LINE: Sunday 16 August, until 0900, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. In addition, GWR trains at 0001 and 0049 from Paddington to Reading and at 0021 from Reading to Paddington will not call at Burnham and Taplow. Connecting replacement buses operate between Slough, Burnham and Taplow."
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -36,32 +36,32 @@
         "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "reason": "MILDMAY LINE: Sunday 16 August, no service between Willesden Junction and Richmond. There will also be no DISTRICT LINE service between Turnham Green and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central (The Vale), South Acton (Acton Lane), Turnham Green, Chiswick Park, Gunnersbury and Kew Gardens (Royal Botanic Gardens)."
     },
     "Northern": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier signal failure at Cockfosters. Tickets are being accepted on London Buses, the Elizabeth line, the Weaver line and South Western Railway.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. "
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
