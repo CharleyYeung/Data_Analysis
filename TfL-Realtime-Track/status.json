@@ -32,8 +32,8 @@
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
         "is_disrupted": false,
