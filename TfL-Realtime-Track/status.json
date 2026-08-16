@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays while we deal with a trespasser on the track in the Harrow area. "
     },
     "Mildmay": {
         "is_disrupted": true,
