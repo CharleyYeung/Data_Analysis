@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 16 August, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "ELIZABETH LINE: Sunday 16 August, until 0900, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. In addition, GWR trains at 0001 and 0049 from Paddington to Reading and at 0021 from Reading to Paddington will not call at Burnham and Taplow. Connecting replacement buses operate between Slough, Burnham and Taplow."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
