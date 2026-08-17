@@ -32,8 +32,8 @@
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Severe delays while we fix a faulty train at Emerson park. "
     },
     "Lioness": {
         "is_disrupted": false,
