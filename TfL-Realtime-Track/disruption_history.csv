@@ -7928,3 +7928,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-17 12:34:21,Piccadilly,Piccadilly Line: Minor delays between South Harrow and Rayners Lane while we fix a signal failure at Rayners lane. GOOD SERVICE on the rest of the line. ,True
 2026-08-17 12:34:21,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
 2026-08-17 12:34:21,Windrush,Windrush Line: Minor delays between Highbury & Islington and West Croydon due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-08-17 13:25:23,Bakerloo,Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone due to an earlier signal failure at Wembley Central. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  ,True
+2026-08-17 13:25:23,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-08-17 13:25:23,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-08-17 13:25:23,Mildmay,Mildmay Line: No service between Highbury & Islington and Stratford while we fix a points failure at Stratford. GOOD SERVICE on the rest of the line. ,True
+2026-08-17 13:25:23,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-17 13:25:23,Windrush,Windrush Line: Minor delays between Highbury & Islington and West Croydon due to train cancellations. GOOD SERVICE on the rest of the line. ,True
