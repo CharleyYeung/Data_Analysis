@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Ealing Broadway and Turnham Green, and MINOR DELAYS on the rest of the line due to an earlier signal failure at Acton Town. London Underground tickets will be accepted on South Western Railway, Elizabeth Line and local bus services. "
+        "reason": "District Line: Minor delays due to an earlier signal failure at Acton Town. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Monday 17 August, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -61,7 +61,7 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 23 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WINDRUSH LINE: Monday 17 August, the 0700 train from Clapham Junction to Dalston Junction will start from Surrey Quays at 0724."
     }
 }
