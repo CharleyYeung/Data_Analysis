@@ -7934,3 +7934,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-17 13:25:23,Mildmay,Mildmay Line: No service between Highbury & Islington and Stratford while we fix a points failure at Stratford. GOOD SERVICE on the rest of the line. ,True
 2026-08-17 13:25:23,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
 2026-08-17 13:25:23,Windrush,Windrush Line: Minor delays between Highbury & Islington and West Croydon due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-08-17 14:00:04,Central,Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Woodford via Hainault due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
+2026-08-17 14:00:04,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-08-17 14:00:04,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-08-17 14:00:04,Mildmay,Mildmay Line: No service between Highbury & Islington and Stratford while we fix a points failure at Stratford. GOOD SERVICE on the rest of the line. ,True
+2026-08-17 14:00:04,Piccadilly,Piccadilly Line: No service between Acton Town and Hammersmith eastbound only while we respond to a fire alert at Chiswick Park. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London Buses  Elizabeth line and Weaver line via reasonable routes. ,True
+2026-08-17 14:00:04,Tram,LONDON TRAMS: From Thursday 6 until Sunday 23 August  no service between Reeves Corner and East Croydon.,True
+2026-08-17 14:00:04,Windrush,Windrush Line: Minor delays between Highbury & Islington and West Croydon due to train cancellations. GOOD SERVICE on the rest of the line. ,True
