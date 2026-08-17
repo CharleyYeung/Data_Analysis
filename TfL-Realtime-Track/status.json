@@ -12,20 +12,20 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays due to an earlier signal failure at Acton Town. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Paddington and Shenfield due to an earlier passenger ill on a train at Seven Kings. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Elizabeth line, DLR and C2C services. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Monday 17 August, the 0700 train from Clapham Junction to Dalston Junction will start from Surrey Quays at 0724."
+        "reason": "Windrush Line: Minor delays between Highbury & Islington and West Croydon / Crystal Palace due to train cancellations. GOOD SERVICE on the rest of the line. "
     }
 }
