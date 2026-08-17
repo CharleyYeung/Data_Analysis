@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Earl's Court and Ealing Broadway / Richmond, and between West Ham and Upminster eastbound only while we deal with an animal on the track at St. James Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: No service between Turnham Green and Richmond while we fix a track fault at Richmond. MINOR DELAYS on the rest of the line while we deal with an animal on the track at St. James's Park. Tickets are being accepted on London Buses.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: No service between Richmond and South Acton while we fix a track fault at Richmond. GOOD SERVICE on the rest of the line.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -72,8 +72,8 @@
         "reason": "Normal Operation"
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WEAVER LINE: Monday 17, Tuesday 18, Wednesday 19 and Thursday 20 August, after 2245, no service between Hackney Downs and Chingford. Last trains are at 2231 from Liverpool Street to Chingford and at 2253 from Chingford to Liverpool Street. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses start from Liverpool Street at 0014 0044 and 0114 and also serve Bethnal Green, Cambridge Heath and London Fields (Mare Street)."
     },
     "Windrush": {
         "is_disrupted": false,
