@@ -7875,3 +7875,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-17 02:38:56,Victoria,Victoria Line: Service will resume later this morning. ,True
 2026-08-17 02:38:56,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-08-17 02:38:56,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-08-17 05:30:52,District,District Line: Severe delays between Ealing Broadway and Turnham Green  and MINOR DELAYS on the rest of the line due to an earlier signal failure at Acton Town. London Underground tickets will be accepted on South Western Railway  Elizabeth Line and local bus services. ,True
+2026-08-17 05:30:52,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations.  ,True
+2026-08-17 05:30:52,Mildmay,MILDMAY LINE: Monday 17 August  the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.,True
+2026-08-17 05:30:52,Piccadilly,Piccadilly Line: Severe delays due an earlier signal failure at Acton Town. Tickets being accepted by London Buses  Elizabeth line  Weaver line  Great Northern and South Western Railway services.  ,True
+2026-08-17 05:30:52,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Arena and Elmers End at certain times. On Mondays to Fridays  no service before 0700 and after 1930  on Saturdays  no service before 0800 and after 1845  and on Sundays  no service for the whole day.,True
