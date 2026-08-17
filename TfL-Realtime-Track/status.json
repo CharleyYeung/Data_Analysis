@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to an earlier points failure at Stratford.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge, MINOR DELAYS on the rest of the line due to an earlier fire alert at Chiswick Park. Tickets will be accepted on London Buses.  "
+        "reason": "Piccadilly Line: Severe delays between Acton Town and Uxbridge, MINOR DELAYS between Acton Town and Heathrow Terminals due to an earlier fire alert at Chiswick Park. GOOD SERVICE on the rest of the line. Tickets will be accepted on London Buses.  "
     },
     "Suffragette": {
         "is_disrupted": false,
