@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due an earlier signal failure at Acton Town. Tickets being accepted by London Buses, Elizabeth line, Weaver line, Great Northern and South Western Railway services.  "
+        "reason": "Piccadilly Line: Minor delays due an earlier signal failure at Acton Town.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: Minor delays between Highbury & Islington and West Croydon / Crystal Palace due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Windrush Line: Minor delays between Highbury & Islington and West Croydon / Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. "
     }
 }
