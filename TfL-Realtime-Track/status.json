@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Turnham Green and Richmond while we fix a track fault at Richmond. MINOR DELAYS on the rest of the line while we deal with an animal on the track at St. James's Park. Tickets are being accepted on London Buses.  "
+        "reason": "District Line: No service between Turnham Green and Richmond while we fix a track fault at Richmond. MINOR DELAYS on the rest of the line due to an earlier animal on the track at St. James's Park. Tickets are being accepted on London Buses.  "
     },
     "DLR": {
         "is_disrupted": false,
