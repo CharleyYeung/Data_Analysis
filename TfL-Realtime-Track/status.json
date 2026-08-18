@@ -4,16 +4,16 @@
         "reason": "Normal Operation"
     },
     "Central": {
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between White City and West Ruislip/Ealing Broadway and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
+    },
+    "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays anticlockwise only due to train cancellations. GOOD SERVICE clockwise. "
-    },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Turnham Green and Richmond while we fix a signal failure at Richmond. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, and South Western Railway.  "
+        "reason": "District Line: No service between Turnham Green and Richmond while we fix a signal failure at Richmond. Tickets are being accepted on London Buses, and South Western Railway. MINOR DELAYS on the rest of the line while we fix a track fault at Victoria. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Minor delays between Gidea Park and Shenfield while we fix a track fault at Harold Wood. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between South Acton and Richmond and MINOR DELAYS on the rest of the line while we fix a signal failure at Richmond.  "
+        "reason": "Mildmay Line: No service between Gunnersbury and Richmond and MINOR DELAYS on the rest of the line while we fix a signal failure at Richmond.  "
     },
     "Northern": {
         "is_disrupted": false,
