@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a track fault at Harrow & Wealdstone. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": true,
@@ -73,7 +73,7 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: Minor delays between London Liverpool Street and Chingford due to an earlier points failure at Clapton. GOOD SERVICE on the rest of the line. "
+        "reason": "Weaver Line: Severe delays due to a points failure at Clapton. London Underground are accepting tickets via any reasonable route.  "
     },
     "Windrush": {
         "is_disrupted": false,
