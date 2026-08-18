@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Turnham Green and Richmond due to an earlier signal failure at Richmond. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: No service between Turnham Green and Richmond while we fix a signal failure at Richmond. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, and South Western Railway.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to an earlier signal failure at Richmond.  "
+        "reason": "Mildmay Line: No service between South Acton and Richmond and MINOR DELAYS on the rest of the line while we fix a signal failure at Richmond.  "
     },
     "Northern": {
         "is_disrupted": false,
@@ -61,7 +61,7 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 23 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
         "is_disrupted": false,
