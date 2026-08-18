@@ -1,71 +1,71 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Woodford via Hainault due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Service will resume later this morning. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Turnham Green and Richmond while we fix a track fault at Richmond. MINOR DELAYS on the rest of the line due to an earlier animal on the track at St. James's Park. Tickets are being accepted on London Buses.  "
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Service will resume later this morning. "
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Richmond and South Acton while we fix a track fault at Richmond. GOOD SERVICE on the rest of the line.  "
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Service will resume later this morning. "
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Service will resume later this morning. "
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
@@ -73,10 +73,10 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 17, Tuesday 18, Wednesday 19 and Thursday 20 August, after 2245, no service between Hackney Downs and Chingford. Last trains are at 2231 from Liverpool Street to Chingford and at 2253 from Chingford to Liverpool Street. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton, St James Street, Walthamstow Central, Wood Street and Highams Park. The last three northbound buses start from Liverpool Street at 0014 0044 and 0114 and also serve Bethnal Green, Cambridge Heath and London Fields (Mare Street)."
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Service will resume later this morning. "
     }
 }
