@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays due to an earlier signalling system failure in the Croxley area. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
     },
     "Mildmay": {
         "is_disrupted": false,
