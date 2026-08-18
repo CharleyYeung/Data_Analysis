@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No Service between Harrow-on-the-Hill and Watford/Amersham/Chesham, and SEVERE DELAYS between Harrow-on-the-Hill and Aldgate while we fix a signal system failure in the Croxley area. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -61,7 +61,7 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon. Additional works apply on Sunday 16 and Thursday 20 August."
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Arena and Elmers End at certain times. On Mondays to Fridays, no service before 0700 and after 1930, on Saturdays, no service before 0800 and after 1845, and on Sundays, no service for the whole day."
     },
     "Victoria": {
         "is_disrupted": false,
