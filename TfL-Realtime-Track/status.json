@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a track fault at Harrow & Wealdstone. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
+        "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone due to an earlier track fault at Harrow & Wealdstone. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  "
     },
     "Central": {
         "is_disrupted": true,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Whitechapel and Shenfield due to a track fault at Harold Wood. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route.  "
+        "reason": "Minor Delays between Whitechapel and Shenfield while we fix a track fault at Harold Wood. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to an earlier signal failure at Richmond.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
