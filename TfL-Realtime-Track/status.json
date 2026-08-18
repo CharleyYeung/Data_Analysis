@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Turnham Green and Richmond while we fix a signal failure at Richmond. Tickets are being accepted on London Buses, and South Western Railway. MINOR DELAYS on the rest of the line while we fix a track fault at Victoria. "
+        "reason": "District Line: Minor delays while we fix a track fault at Victoria and due to an earlier signal failure at Richmond. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Gunnersbury and Richmond and MINOR DELAYS on the rest of the line while we fix a signal failure at Richmond.  "
+        "reason": "Mildmay Line: Minor delays due to an earlier signal failure at Richmond.  "
     },
     "Northern": {
         "is_disrupted": false,
