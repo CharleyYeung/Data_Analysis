@@ -8,8 +8,8 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays anticlockwise only due to train cancellations. GOOD SERVICE clockwise. "
     },
     "District": {
         "is_disrupted": true,
