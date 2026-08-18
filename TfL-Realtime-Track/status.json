@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays while we fix a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
+        "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate, and MINOR DELAYS on the rest of the line due to a signalling system failure in the Croxley area. For services to/from Watford, change at Rickmansworth. Tickets will be accepted on London Buses and Chiltern Railways via reasonable routes.  "
     },
     "Mildmay": {
         "is_disrupted": false,
