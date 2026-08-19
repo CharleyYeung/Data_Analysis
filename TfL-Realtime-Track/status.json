@@ -20,12 +20,12 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Hayes & Harlington and Reading due to a vehicle striking a bridge at Langley. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Liverpool Street and Barking while we help a casualty on the track. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth line, C2C and Thameslink.  "
+        "reason": "Hammersmith and City Line: No service between Edgware Road and Barking westbound only while we help a casualty on the track. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth line, C2C and Thameslink.  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service on the entire line due to a earlier track side fire near Bermondsey. "
+        "reason": "Windrush Line: No service due to an unsafe structure next to the railway. Tickets are being accepted on London Underground.  "
     }
 }
