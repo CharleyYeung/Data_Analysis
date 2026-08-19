@@ -73,10 +73,10 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: No service between Hackney Downs and Enfield Town/Cheshunt while we respond to a fire alert at Bruce Grove. GOOD SERVICE on the rest of the line. "
+        "reason": "Weaver Line: No service due to an obstruction on the track at Bruce Grove. London Underground are accepting tickets via any reasonable route. "
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service Sydenham to West Croydon and Surrey Quays to New Cross. SEVERE DELAYS between Surrey Quays and Crystal Palace and between Dalston Junction and Highbury & Islington due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.  "
+        "reason": "Windrush Line: No service between Surrey Quays and New Cross and SEVERE DELAYS between Highbury & Islington and Crystal Palace / West Croydon due to an unsafe structure near the railway. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground.  "
     }
 }
