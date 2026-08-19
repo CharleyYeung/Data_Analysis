@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays between Upminster and Tower Hill due to an earlier customer incident. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth line, Liberty line, C2C and South Western Railway. \r\n\r\n "
+        "reason": "District Line: Minor delays while we fix a track fault at Victoria.\r\n\r\n "
     },
     "DLR": {
         "is_disrupted": false,
@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service due to a faulty train at Leyton Midland Road. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Suffragette Line: Severe delays due to an earlier faulty train at Leyton Midland Road. London Underground are accepting tickets via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": true,
