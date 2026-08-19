@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate southbound only and SEVERE DELAYS on the rest of the line due to an earlier faulty train at Baker Street. Tickets are being accepted on London Buses. "
+        "reason": "Metropolitan Line: Severe delays due to an earlier faulty train at Baker Street. Tickets are being accepted on London Buses. "
     },
     "Mildmay": {
         "is_disrupted": true,
