@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Tuesday 18, Wednesday 19 and Thursday 20 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service on the entire line while we fix a faulty train at Leyton Midland Road. London Underground are accepting tickets via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": true,
