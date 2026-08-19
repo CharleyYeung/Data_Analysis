@@ -8276,3 +8276,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-19 01:51:26,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-08-19 01:51:26,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-08-19 01:51:26,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-08-19 05:24:36,Circle,Circle Line: Severe delays anticlockwise while we respond to a fire alert at Farringdon. GOOD SERVICE clockwise. ,True
+2026-08-19 05:24:36,Hammersmith & City,Hammersmith and City Line: Severe delays westbound while we respond to a fire alert at Farringdon. GOOD SERVICE eastbound. ,True
+2026-08-19 05:24:36,Metropolitan,Metropolitan Line: No service between Baker Street and Aldgate while we respond to a fire alert at Farringdon. London Underground tickets will be accepted on London buses. GOOD service on the rest of the line.  ,True
+2026-08-19 05:24:36,Piccadilly,PICCADILLY LINE: Tuesday 18  Wednesday 19 and Thursday 20 August  no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate.,True
+2026-08-19 05:24:36,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Arena and Elmers End at certain times. On Mondays to Fridays  no service before 0700 and after 1930  on Saturdays  no service before 0800 and after 1845  and on Sundays  no service for the whole day.,True
+2026-08-19 05:24:36,Windrush,Windrush Line: No service due to a earlier fire in the Bermondsey area. ,True
