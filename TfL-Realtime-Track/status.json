@@ -12,8 +12,8 @@
         "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays while we fix a track fault at Victoria.\r\n\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays between Hammersmith and Edgware Road due to train cancellations  "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays while we fix a track fault in the Brondesbury area "
+        "reason": "Mildmay Line: Minor delays while we fix a track fault in the Brondesbury area. "
     },
     "Northern": {
         "is_disrupted": false,
