@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Earls Court and Whitechapel while we help a casualty on the track. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth line, Liberty line, C2C and South Western Railway. "
+        "reason": "District Line: No service between Earl's Court and Whitechapel while we help a casualty on the track. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, DLR, Elizabeth line, Liberty line, C2C and South Western Railway. Please avoid the District line where possible.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier fire alert at Farringdon. Tickets are being accepted on accepted on London Buses, Thameslink, Lioness line, London Northwestern Railway and Chiltern Railway's.  "
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Farringdon. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays between Gunnersbury and Richmond due to an earlier obstruction on the track at Chiswick Park. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
