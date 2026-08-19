@@ -4,16 +4,16 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: No service while we respond to a casualty on the track. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
+        "reason": "Circle Line: No service due to an earlier customer incident. Please board the first train and change where necessary. Tickets are being accepted on London Buses, Thameslink and Elizabeth line.  "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: No service between Earl's Court and Embankment while we help a casualty on the track. SEVERE DELAYS on the rest of the line. Trains are running approximately every 10 minutes. Tickets are being accepted on London Buses, DLR, Elizabeth line, Liberty line, C2C and South Western Railway.  "
+        "reason": "District Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses, DLR, Elizabeth line, Liberty line, C2C and South Western Railway.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Farringdon. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service due to an unsafe structure next to the railway. Tickets are being accepted on London Underground.  "
+        "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction / New Cross and between Sydenham and Crystal Palace due to an unsafe structure near the railway. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Underground.  "
     }
 }
