@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to a points failure at White City.  "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays clockwise due to train cancellations. GOOD SERVICE anticlockwise.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -20,12 +20,12 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Paddington and Reading / Heathrow Terminals due to an earlier faulty train at Acton Main Line. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays while we help a person ill on a train at Seven Sisters. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Thameslink and Great Northern.   "
+        "reason": "Victoria Line: Minor delays due to an earlier person ill on a train at Seven Sisters. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
