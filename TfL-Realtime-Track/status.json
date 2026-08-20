@@ -28,8 +28,8 @@
         "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
