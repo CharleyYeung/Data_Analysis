@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to a points failure at White City. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays following a late finish of engineering work.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier signal failure at Shenfield. GOOD SERVICE on the rest of the line. "
+        "reason": "Minor delays between Whitechapel and Shenfield while we fix a signal failure at Shenfield. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier signal failure at Harrow-on-the-Hill. Please use the Jubilee line to travel between Wembley Park and Baker Street. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Thameslink and Chiltern Railways.  "
+        "reason": "Metropolitan Line: No service between Moor Park and Watford while we fix a signal failure at Watford. SEVERE DELAYS on the rest of the line due to an earlier signal failure at Harrow-on-the-Hill. Please use the Jubilee line to travel between Wembley Park and Baker Street. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Thameslink and Chiltern Railways.  "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Angel. Tickets are being accepted on London Buses and Thameslink. GOOD SERVICE on the rest of the line. "
+        "reason": "Northern Line: Severe delays between Camden Town and Kennington via Bank southbound only due to an earlier signal failure at Angel. Tickets are being accepted on London Buses and Thameslink. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": true,
