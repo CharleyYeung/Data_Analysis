@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Reading due to an earlier signal failure in the Slough area. GOOD SERVICE on the rest of the line  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays between Willesden Junction and Richmond and MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Underground. "
+        "reason": "Mildmay Line: Minor delays due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to an earlier customer incident at Green Park.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
