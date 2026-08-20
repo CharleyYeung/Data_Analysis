@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth line, Southeastern, DLR, Mildmay line and c2c services.  "
+        "reason": "Jubilee Line: Minor delays due to an earlier points failure at North Greenwich.  "
     },
     "Liberty": {
         "is_disrupted": false,
