@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays while we fix a points failure at White City. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Old Street. GOOD SERVICE on the rest of the line. "
+        "reason": "Northern Line: Severe delays between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Angel. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": true,
