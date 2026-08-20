@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to a points failure at White City.  "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays clockwise due to train cancellations. GOOD SERVICE anticlockwise.  "
     },
     "District": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier customer incident at Green Park.  "
+        "reason": "Victoria Line: Severe delays while we help a person ill on a train at Seven Sisters. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Thameslink and Great Northern.   "
     },
     "Waterloo & City": {
         "is_disrupted": false,
