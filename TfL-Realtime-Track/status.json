@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier faulty train at Leytonstone. MINOR DELAYS on the rest of the line due to a points failure at White City. Tickets are being accepted on London Buses. "
+        "reason": "Central Line: Minor delays due to a points failure at White City.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays between Stratford and Stanmore westbound only while we deal with a customer incident at Baker Street. GOOD SERVICE eastbound. "
+        "reason": "Jubilee Line: Minor delays due to train cancellations.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to earlier signal failures at Harrow-on-the-Hill and Watford. Please use the Jubilee line to travel between Wembley Park and Baker Street. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Thameslink and Chiltern Railways.  "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line due to an earlier signal failure at Harrow-on-the-Hill.  "
     },
     "Mildmay": {
         "is_disrupted": true,
