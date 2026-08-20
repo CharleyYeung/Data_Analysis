@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to a points failure at White City. "
+        "reason": "Central Line: Severe delays between Leytonstone and Epping due to an earlier faulty train at Leytonstone. MINOR DELAYS on the rest of the line due to a points failure at White City. Tickets are being accepted on London Buses. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,16 +20,16 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Whitechapel and Shenfield while we fix a signal failure at Shenfield. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays between Stratford and Stanmore westbound only while we deal with a customer incident at Baker Street. GOOD SERVICE eastbound. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Moor Park and Watford while we fix a signal failure at Watford. SEVERE DELAYS on the rest of the line due to an earlier signal failure at Harrow-on-the-Hill. Please use the Jubilee line to travel between Wembley Park and Baker Street. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Thameslink and Chiltern Railways.  "
+        "reason": "Metropolitan Line: Severe delays due to earlier signal failures at Harrow-on-the-Hill and Watford. Please use the Jubilee line to travel between Wembley Park and Baker Street. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway, Thameslink and Chiltern Railways.  "
     },
     "Mildmay": {
         "is_disrupted": true,
         "reason": "Mildmay Line: Minor delays due to train cancellations. "
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Camden Town and Kennington via Bank southbound only due to an earlier signal failure at Angel. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": true,
