@@ -12,8 +12,8 @@
         "reason": "Circle Line: Minor delays following a late finish of engineering work.  "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Tower Hill and Upminster eastbound only following a late finish of engineering work. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Gidea Park and Shenfield while we fix a signal failure at Shenfield. GOOD SERVICE on the rest of the line. "
+        "reason": "Minor delays between Whitechapel and Shenfield due to an earlier signal failure at Shenfield. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate southbound only and SEVERE DELAYS between Aldgate and Harrow-on-the-Hill northbound while we fix a signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Angel. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "reason": "Northern Line: No service between Camden Town and Kennington via Bank southbound only while we fix a signal failure at Angel. Tickets are being accepted on London Buses and Thameslink. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": true,
