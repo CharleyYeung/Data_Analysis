@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to an earlier track fault at Stonebridge Park. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+        "reason": "Bakerloo Line: Minor delays due to an earlier track fault at Stonebridge Park. "
     },
     "Central": {
         "is_disrupted": false,
@@ -37,7 +37,7 @@
     },
     "Lioness": {
         "is_disrupted": true,
-        "reason": "Lioness Line: Severe delays while we fix a track fault at Stonebridge Park. "
+        "reason": "Lioness Line: Minor delays due to an earlier track fault at Stonebridge Park. "
     },
     "Metropolitan": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Northfields and Heathrow Terminals due to an earlier signal failure at Hatton Cross. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Minor delays between Northfields and Heathrow Terminals and between Acton Town and Rayners Lane due to an earlier signal failure at Hatton Cross. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
