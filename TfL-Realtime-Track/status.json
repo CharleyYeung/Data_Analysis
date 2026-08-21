@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to train cancellations  "
+        "reason": "MILDMAY LINE: Friday 21 August, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run."
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to an earlier fire alert at Barons Court. Tickets will be accepted on London Buses. "
+        "reason": "Piccadilly Line: Minor delays due to an earlier fire alert at Barons Court. "
     },
     "Suffragette": {
         "is_disrupted": false,
