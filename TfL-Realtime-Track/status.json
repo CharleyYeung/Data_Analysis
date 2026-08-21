@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor Delays following a late finish to engineering work at White City. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: No service between Brixton and Victoria while we fix a track fault at Vauxhall. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses.  "
+        "reason": "Victoria Line: Severe delays due to an earlier track fault at Vauxhall. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
