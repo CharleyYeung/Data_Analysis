@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier track fault at Stonebridge Park. "
-    },
-    "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Central": {
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -36,12 +36,12 @@
         "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Minor delays due to an earlier track fault at Stonebridge Park. "
-    },
-    "Metropolitan": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Metropolitan": {
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Amersham/Chesham/Watford due to an earlier signal failure at Harrow-on-the-Hill. Tickets will be accepted on Chiltern Railways services. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Northfields and Heathrow Terminals and between Acton Town and Rayners Lane due to an earlier signal failure at Hatton Cross. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Minor delays between Northfields and Heathrow Terminals due to an earlier signal failure at Hatton Cross. MINOR DELAYS between Acton Town and Rayners Lane while we fix a signal fault at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
