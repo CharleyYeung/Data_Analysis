@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor Delays following a late finish to engineering work at White City. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
+        "reason": "Circle Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses. "
     },
     "District": {
         "is_disrupted": false,
