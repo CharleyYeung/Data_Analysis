@@ -8,12 +8,12 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to an earlier trespasser on the track at Earl's Court. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays due to an earlier trespasser on the track at Earl's Court "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
