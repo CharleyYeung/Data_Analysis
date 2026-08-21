@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Amersham/Chesham/Watford due to an earlier signal failure at Harrow-on-the-Hill. Tickets will be accepted on Chiltern Railways services. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Amersham/Chesham/Watford due to an earlier signal failure at Harrow-on-the-Hill. The next soundbound departure from Amersham will be at 16:22. The next soundbound departure from Chesham will be at 16:26. Tickets will be accepted on Chiltern Railways services. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Minor delays between Northfields and Heathrow Terminals due to an earlier signal failure at Hatton Cross. MINOR DELAYS between Acton Town and Rayners Lane while we fix a signal fault at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
+        "reason": "Piccadilly Line: Minor delays between Northfields and Heathrow Terminals due to an earlier signal failure at Hatton Cross. MINOR DELAYS between Acton Town and Rayners Lane due to an earlier signal failure at Harrow-on-the-Hill. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
