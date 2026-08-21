@@ -16,8 +16,8 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Langdon Park and Poplar while we fix a faulty train at Poplar. GOOD SERVICE on all other routes. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,
