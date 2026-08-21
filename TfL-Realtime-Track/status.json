@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we fix a track fault at Stonebridge Park. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
         "is_disrupted": true,
