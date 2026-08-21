@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Abbey Wood and Heathrow Terminals due to an earlier trespasser on the track at Hayes & Harlington. GOOD SERVICE on the rest of the line.  "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
