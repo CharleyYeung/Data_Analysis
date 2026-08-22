@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
+        "reason": "Circle Line: Severe delays due to an earlier trespasser on the track at Earl's Court. Tickets are being accepted on London Buses. "
     },
     "District": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": true,
