@@ -61,11 +61,11 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. There will be no service between Arena and Elmers End due to planned engineering work. "
+        "reason": "London Tramlink: Service will resume later this morning. There will be no service Reeves Corner to East Croydon and Arena to Elmers End due to planned engineering work. "
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "VICTORIA LINE: Saturday 22 August, between 0100 and 0500 approximately, no service between Victoria and Brixton due to emergency engineering works. Please use Night Bus N2 for stations between Victoria and Brixton, or Routes 159 or Night Buses N3 and N109 between Oxford Circus and Brixton via Westminster."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
