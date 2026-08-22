@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
@@ -9,43 +9,43 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Service will resume at 10:30. There will be no service between Edgware Road and Tower Hill due to planned engineering work. "
+        "reason": "CIRCLE LINE: Saturday 22 August, until 1030, no service on the entire line."
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Service will resume at 10:30. There will be no service Edgware Road and Embankment to Ealing Broadway, Kensington (Olympia), Richmond and Wimbledon due to planned engineering work. "
+        "reason": "DISTRICT LINE: Saturday 22 August, until 1030, no service on the entire line. Replacement buses operate."
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. There will be no service between West Drayton and Maidenhead due to planned engineering work. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume at 10:30. "
+        "reason": "HAMMERSMITH & CITY LINE: Saturday 22 August, until 1030, no service on the entire line. Replacement bus services operate."
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. There will be no service between Aldgate and Harrow-on-the-Hill due to planned engineering work. "
+        "reason": "METROPOLITAN LINE: Saturday 22 August, until 1030, no service between Harrow-on-the-Hill and Aldgate. Replacement bus service ML1 operates between Harrow-on-the-Hill and Wembley Park via Northwick Park Hospital (for Northwick Park) and Preston Road. Use JUBILEE LINE services between Wembley Park and Central London."
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -53,15 +53,15 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 22 August, between 0145 and 0445, no service on the entire line. Replacement bus services operate."
+        "reason": "PICCADILLY LINE: Saturday 22 August, between 0445 and 1400, no service between Hyde Park Corner and Acton Town. Replacement bus services operate."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. There will be no service Reeves Corner to East Croydon and Arena to Elmers End due to planned engineering work. "
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,11 +69,11 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
