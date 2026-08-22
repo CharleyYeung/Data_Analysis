@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Saturday 22 August, between 0445 and 1400, no service between Hyde Park Corner and Acton Town. Replacement bus services operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Minor delays due to an earlier signal failure at Woodgrange Park. "
     },
     "Tram": {
         "is_disrupted": true,
