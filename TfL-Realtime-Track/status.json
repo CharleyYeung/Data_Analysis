@@ -53,11 +53,11 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays due to a late finish of engineering work. "
+        "reason": "Piccadilly Line: Severe delays following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth line, Weaver line, Great Northern and Southwestern Railway services via any reasonable route. "
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Minor delays while we fix a signal failure at Woodgrange Park. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": true,
@@ -72,8 +72,8 @@
         "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: No service between Chingford and Hackney Downs and SEVERE DELAYS on the rest of the line while we fix a track fault at Wood Street. "
     },
     "Windrush": {
         "is_disrupted": true,
