@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Abbey Wood and Whitechapel and MINOR DELAYS on the rest of the line due to an earlier faulty train at Bond Street. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next southbound train will be at 13:30. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Wembley Park and Uxbridge/Watford/Amersham/Chesham while we fix a faulty train at Wembley Park. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "PICCADILLY LINE: Saturday 22 August, between 0445 and 1400, no service between Hyde Park Corner and Acton Town. Replacement bus services operate."
+        "reason": "Piccadilly Line: No service between Hyde Park Corner and Acton Town until 14:00 due to planned engineering works. MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "Suffragette": {
         "is_disrupted": true,
