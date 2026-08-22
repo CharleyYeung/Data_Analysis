@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Shenfield/Abbey Wood and Paddington due to an earlier faulty train at Bond Street. GOOD SERVICE on the rest of the line. "
+        "reason": "Severe delays between Shenfield/Abbey Wood and Paddington and MINOR DELAYS on the rest of the line while we fix a faulty train at Bond Street. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays between Green Park and Stratford while we fix a faulty train at Bermondsey. GOOD SERVICE on the rest of the line. "
+        "reason": "Jubilee Line: Minor delays due to an earlier faulty train at Bermondsey and Baker Street. "
     },
     "Liberty": {
         "is_disrupted": false,
