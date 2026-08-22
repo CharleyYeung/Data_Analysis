@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier trespasser on the track at Earl's Court. Tickets are being accepted on London Buses. "
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
         "is_disrupted": true,
@@ -44,8 +44,8 @@
         "reason": "Metropolitan Line: Severe delays between Moor Park and Watford due to train cancellations. After the 21:08 departure from Watford, the next southbound train will be at 21:23. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Saturday 22 August, the 2104 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction. The 2319 Clapham Junction to Willesden Junction train will not run."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
