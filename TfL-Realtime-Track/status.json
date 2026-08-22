@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Northolt and West Ruislip and MINOR DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses via reasonable routes.  "
+        "reason": "Central Line: No service between Northolt and West Ruislip and MINOR DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses via any reasonable route.  "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 22 August, between 1030 and 1400, no service between Edgware Road and Tower Hill (via Victoria)"
+        "reason": "CIRCLE LINE: Saturday 22 August, between 1030 and 1545, no service between Edgware Road and Tower Hill (via Victoria)"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 22 August, between 1030 and 1400, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Replacement buses operate."
+        "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service eastbound from Stamford Brook to Barons Court. Replacement bus service DL1A operates between Stamford Brook, Ravenscourt Park and Hammersmith."
     },
     "DLR": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Hyde Park Corner and Acton Town until 14:00 due to planned engineering works. MINOR DELAYS on the rest of the line due to train cancellations. "
+        "reason": "Piccadilly Line: No service between Hyde Park Corner and Acton Town due to planned engineering works. MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "Suffragette": {
         "is_disrupted": true,
