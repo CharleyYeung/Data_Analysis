@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 22 August, between 1030 and 1545, no service between Edgware Road and Tower Hill (via Victoria)"
+        "reason": "Circle Line: Severe delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": true,
@@ -53,11 +53,11 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Hyde Park Corner and Acton Town due to planned engineering works. MINOR DELAYS on the rest of the line due to train cancellations. "
+        "reason": "Piccadilly Line: Severe delays due to a late finish of engineering work. "
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: Severe delays while we fix a signal failure at Woodgrange Park. London Underground are accepting tickets via any reasonable route. "
+        "reason": "Suffragette Line: Minor delays while we fix a signal failure at Woodgrange Park. "
     },
     "Tram": {
         "is_disrupted": true,
