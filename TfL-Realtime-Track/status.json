@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Severe delays Southbound / Eastbound only due to a points failure at Wembley Park. GOOD service on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
