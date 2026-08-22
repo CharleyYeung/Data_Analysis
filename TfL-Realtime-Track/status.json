@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. Good service on the rest of the line."
+        "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. GOOD service on the rest of the line. "
     }
 }
