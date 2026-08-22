@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service eastbound from Stamford Brook to Barons Court. Replacement bus service DL1A operates between Stamford Brook, Ravenscourt Park and Hammersmith."
+        "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Earls Court and Kensington (Olympia)"
     },
     "DLR": {
         "is_disrupted": false,
