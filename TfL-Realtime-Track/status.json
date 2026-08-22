@@ -9,11 +9,11 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "CIRCLE LINE: Saturday 22 August, until 1030, no service on the entire line."
+        "reason": "CIRCLE LINE: Saturday 22 August, between 1030 and 1400, no service between Edgware Road and Tower Hill (via Victoria)"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 22 August, until 1030, no service on the entire line. Replacement buses operate."
+        "reason": "DISTRICT LINE: Saturday 22 August, between 1030 and 1400, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Replacement buses operate."
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "HAMMERSMITH & CITY LINE: Saturday 22 August, until 1030, no service on the entire line. Replacement bus services operate."
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "METROPOLITAN LINE: Saturday 22 August, until 1030, no service between Harrow-on-the-Hill and Aldgate. Replacement bus service ML1 operates between Harrow-on-the-Hill and Wembley Park via Northwick Park Hospital (for Northwick Park) and Preston Road. Use JUBILEE LINE services between Wembley Park and Central London."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
