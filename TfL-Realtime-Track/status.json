@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Shenfield/Abbey Wood and Paddington and MINOR DELAYS on the rest of the line while we fix a faulty train at Bond Street. "
+        "reason": "Severe delays between Abbey Wood and Whitechapel and MINOR DELAYS on the rest of the line due to an earlier faulty train at Bond Street. "
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next southbound train will be at 13:30. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
