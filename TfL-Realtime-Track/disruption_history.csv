@@ -9467,3 +9467,13 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-23 02:48:46,Tram,London Tramlink: Service will resume later this morning. There will be no service between Reeves Corner and East Croydon and  Arena and Elmers End due to planned engineering work. ,True
 2026-08-23 02:48:46,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday. ,True
 2026-08-23 02:48:46,Weaver,Weaver Line: Service will resume later this morning. ,True
+2026-08-23 05:23:56,Bakerloo,Bakerloo Line: No service between Queen's Park and Paddington while we fix an electrical fault. GOOD SERVICE on the rest of the line. ,True
+2026-08-23 05:23:56,Central,Central Line: No service while we fix an electrical fault. ,True
+2026-08-23 05:23:56,District,DISTRICT LINE: Saturday 22 August  from 1400  and all day Sunday 23 August  no service between Earls Court and Kensington (Olympia),True
+2026-08-23 05:23:56,Elizabeth line,ELIZABETH LINE: Sunday 23 August  until 0800  no service between West Drayton and Maidenhead. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow,True
+2026-08-23 05:23:56,Hammersmith & City,Hammersmith and City Line: No service between Barking and Baker Street while we fix an electrical fault. SEVERE DELAYS on the rest of the line. ,True
+2026-08-23 05:23:56,Mildmay,MILDMAY LINE: Sunday 23 August  until 0930  no service between Clapham Junction and Willesden Junction. Use local buses via any reasonable route. First through trains: Clapham Junction to Willesden Junction / Stratford 0959; Willesden Junction to Clapham Junction 0918. Southern Railway services will also not run during this time. In addition  the 0915 Gospel Oak to Clapham Junction train starts from Shepherds Bush and the 0931 Stratford to Richmond train starts at Willesden Junction,True
+2026-08-23 05:23:56,Northern,Northern Line: No service between Kennington and Camden Town via Bank while we fix an electrical fault. GOOD service on the rest of the line. ,True
+2026-08-23 05:23:56,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-23 05:23:56,Waterloo & City,Waterloo & City line: service operates 06:00 until 00:30  Monday to Friday only. There is no service on Saturdays  Sundays and on bank/public holidays.,True
+2026-08-23 05:23:56,Windrush,WINDRUSH LINE: Sunday 23 August  no service between New Cross Gate and Crystal Palace / West Croydon. Use local London Buses or London Trams services. SOUTHERN services via Forest Hill will not operate.,True

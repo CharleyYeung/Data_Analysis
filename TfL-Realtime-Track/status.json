@@ -1,67 +1,67 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "reason": "Bakerloo Line: No service between Queen's Park and Paddington while we fix an electrical fault. GOOD SERVICE on the rest of the line. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: No service while we fix an electrical fault. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
         "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Earls Court and Kensington (Olympia)"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Service will resume later this morning. There will be no service between West Drayton and Maidenhead due to planned engineering work.  "
+        "reason": "ELIZABETH LINE: Sunday 23 August, until 0800, no service between West Drayton and Maidenhead. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "reason": "Hammersmith and City Line: No service between Barking and Baker Street while we fix an electrical fault. SEVERE DELAYS on the rest of the line. "
     },
     "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Clapham Junction due to planned engineering work. "
+        "reason": "MILDMAY LINE: Sunday 23 August, until 0930, no service between Clapham Junction and Willesden Junction. Use local buses via any reasonable route. First through trains: Clapham Junction to Willesden Junction / Stratford 0959; Willesden Junction to Clapham Junction 0918. Southern Railway services will also not run during this time. In addition, the 0915 Gospel Oak to Clapham Junction train starts from Shepherds Bush and the 0931 Stratford to Richmond train starts at Willesden Junction"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: No service between Kennington and Camden Town via Bank while we fix an electrical fault. GOOD service on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. There will be no service between Reeves Corner and East Croydon and, Arena and Elmers End due to planned engineering work. "
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,14 +69,14 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
-    },
-    "Windrush": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Windrush": {
+        "is_disrupted": true,
+        "reason": "WINDRUSH LINE: Sunday 23 August, no service between New Cross Gate and Crystal Palace / West Croydon. Use local London Buses or London Trams services. SOUTHERN services via Forest Hill will not operate."
     }
 }
