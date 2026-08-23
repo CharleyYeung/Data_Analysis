@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier power failure. "
+        "reason": "Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone due to an earlier power failure. GOOD SERVICE one the rest of the line. "
     },
     "Central": {
         "is_disrupted": true,
@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays between Hammersmith and Edgware Road, and NO SERVICE on the rest of the line due to a power failure. London Underground tickets will be accepted on London buses and C2C. "
+        "reason": "Circle Line: Severe delays due to an earlier power failure. London Underground tickets will be accepted on London buses and C2C. "
     },
     "District": {
         "is_disrupted": true,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: No service between Barking and Baker Street due to a power failure. SEVERE DELAYS on the rest of the line. London Underground tickets will be accepted on London buses and C2C. "
+        "reason": "Hammersmith and City Line: No service between Hammersmith and Barking westbound only and SEVERE DELAYS on the rest of the line due to an earlier power failure. London Underground tickets will be accepted on London buses and C2C. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,15 +41,15 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate due to an earlier power failure. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Minor delays between Baker Street and Aldgate due to an earlier power failure. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
         "reason": "MILDMAY LINE: Sunday 23 August, until 0930, no service between Clapham Junction and Willesden Junction. Use local buses via any reasonable route. First through trains: Clapham Junction to Willesden Junction / Stratford 0959; Willesden Junction to Clapham Junction 0918. Southern Railway services will also not run during this time. In addition, the 0915 Gospel Oak to Clapham Junction train starts from Shepherds Bush and the 0931 Stratford to Richmond train starts at Willesden Junction"
     },
     "Northern": {
-        "is_disrupted": true,
-        "reason": "Northern Line: Minor delays between Kennington and Camden Town via Bank due to an earlier power failure. GOOD service on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Piccadilly": {
         "is_disrupted": false,
