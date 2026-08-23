@@ -28,8 +28,8 @@
         "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: Minor delays while we fix a points failure at Wembley Park. "
     },
     "Liberty": {
         "is_disrupted": false,
