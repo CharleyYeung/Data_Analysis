@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier power failure. London Underground tickets will be accepted on London buses and C2C. "
+        "reason": "Circle Line: Minor delays due to an earlier power failure. London Underground tickets will be accepted on London buses and C2C. "
     },
     "District": {
         "is_disrupted": true,
