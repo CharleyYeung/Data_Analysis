@@ -16,8 +16,8 @@
         "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Earls Court and Kensington (Olympia)"
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: No service between Poplar and Bank / Tower Gateway while we respond to a fire alert at Shadwell. GOOD SERVICE on all other routes.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate and MINOR DELAYS on the rest of the line while we respond to a fire alert at Wembley Park.  "
     },
     "Mildmay": {
         "is_disrupted": false,
