@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to an earlier power failure. London Underground tickets will be accepted on London buses, Liberty line, Elizabeth Line, Chiltern Railways, Great Western and Greater Anglia. "
+        "reason": "Central Line: Minor delays due to an earlier power failure.  "
     },
     "Circle": {
         "is_disrupted": true,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Severe delays while we deal with an operational problem. "
     },
     "Jubilee": {
         "is_disrupted": false,
