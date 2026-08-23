@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Service will resume later this morning. "
+    },
+    "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
-    "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier customer incident. "
-    },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations.  "
+        "reason": "Circle Line: Service will resume later this morning. "
     },
     "District": {
         "is_disrupted": true,
         "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Earls Court and Kensington (Olympia)"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Service will resume later this morning. "
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Service will resume later this morning. There will be no service between West Drayton and Maidenhead due to planned engineering work.  "
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Service will resume later this morning. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays Southbound / Eastbound only due to a points failure at Wembley Park. GOOD service on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Liberty Line: Service will resume later this morning. "
     },
     "Lioness": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Lioness Line: Service will resume later this morning. "
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Moor Park and Watford due to train cancellations. After the 21:08 departure from Watford, the next southbound train will be at 21:23. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Service will resume later this morning. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Service will resume later this morning. There will be no service between Willesden Junction and Clapham Junction due to planned engineering work. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,12 +56,12 @@
         "reason": "Normal Operation"
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: Service will resume later this morning. "
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
+        "reason": "London Tramlink: Service will resume later this morning. There will be no service between Reeves Corner and East Croydon and, Arena and Elmers End due to planned engineering work. "
     },
     "Victoria": {
         "is_disrupted": false,
@@ -69,14 +69,14 @@
     },
     "Waterloo & City": {
         "is_disrupted": true,
-        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
     },
     "Weaver": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Weaver Line: Service will resume later this morning. "
     },
     "Windrush": {
-        "is_disrupted": true,
-        "reason": "Windrush Line: No service between Surrey Quays and New Cross, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. GOOD service on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     }
 }
