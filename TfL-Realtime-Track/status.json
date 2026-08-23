@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 23 August, until 0930, no service between Clapham Junction and Willesden Junction. Use local buses via any reasonable route. First through trains: Clapham Junction to Willesden Junction / Stratford 0959; Willesden Junction to Clapham Junction 0918. Southern Railway services will also not run during this time. In addition, the 0915 Gospel Oak to Clapham Junction train starts from Shepherds Bush and the 0931 Stratford to Richmond train starts at Willesden Junction"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
