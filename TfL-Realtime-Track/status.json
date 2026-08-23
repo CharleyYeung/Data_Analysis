@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "MILDMAY LINE: Sunday 23 August, from 2215, no service between Camden Road and Stratford. There will also be no WINDRUSH LINE service between Highbury & Islington and Dalston Junction. The 2140 Richmond to Gospel Oak train terminates at Willesden Junction. Replacement buses operate. Last through trains are 2126 Richmond to Stratford; 2203 Camden Road to Stratford; 2201 Stratford to Richmond; 2208 Stratford to Clapham Junction"
     },
     "Northern": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 23 August, no service between New Cross Gate and Crystal Palace / West Croydon. Use local London Buses or London Trams services. SOUTHERN services via Forest Hill will not operate."
+        "reason": "WINDRUSH LINE: Sunday 23 August, from 2215, no service between Highbury & Islington and Dalston Kingsland. There will also be no MILDMAY LINE service between Camden Road and Stratford."
     }
 }
