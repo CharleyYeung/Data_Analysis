@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Chiltern Railway.  "
+        "reason": "Metropolitan Line: Severe delays due to an earlier fire alert at Wembley Park. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Chiltern Railway.  "
     },
     "Mildmay": {
         "is_disrupted": false,
