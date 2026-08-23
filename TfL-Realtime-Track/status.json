@@ -9,7 +9,7 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier points failure at Gloucester Road. Tickets will be accepted on London Buses via reasonable routes. "
+        "reason": "Circle Line: Minor delays due to an earlier points failure at Gloucester Road.  "
     },
     "District": {
         "is_disrupted": true,
@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to an earlier operational problem. "
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays due to an earlier fire alert at Wembley Park. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Chiltern Railway.  "
+        "reason": "Metropolitan Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Lioness line, London Northwestern Railway and Chiltern Railway.  "
     },
     "Mildmay": {
         "is_disrupted": false,
