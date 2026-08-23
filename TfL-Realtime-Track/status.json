@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Minor delays while we fix a points failure at Wembley Park. "
+        "reason": "Jubilee Line: Minor delays due to a points failure at Wembley Park. "
     },
     "Liberty": {
         "is_disrupted": false,
