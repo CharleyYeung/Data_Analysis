@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: No service between Piccadilly Circus and Elephant & Castle due to a power failure. London Underground tickets will be accepted on London buses, Lioness line, London Northwestern Railway and Thameslink. "
+        "reason": "Bakerloo Line: Minor delays due to an earlier power failure. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service from Marble Arch to Epping / Hainault via Newbury Park and SEVERE DELAYS on the rest of the line due to a power failure. London Underground tickets will be accepted on London buses, Liberty line, Elizabeth Line, Chiltern Railways, Great Western and Greater Anglia. "
+        "reason": "Central Line: Severe delays due to an earlier power failure. London Underground tickets will be accepted on London buses, Liberty line, Elizabeth Line, Chiltern Railways, Great Western and Greater Anglia. "
     },
     "Circle": {
         "is_disrupted": true,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "ELIZABETH LINE: Sunday 23 August, until 0800, no service between West Drayton and Maidenhead. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow"
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate while we fix an electrical fault and MINOR DELAYS between Moor Park and Chesham due to train cancellations. (Next southbound train from Chesham is at 08:00) GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: Severe delays between Baker Street and Aldgate due to an earlier power failure. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": true,
@@ -49,7 +49,7 @@
     },
     "Northern": {
         "is_disrupted": true,
-        "reason": "Northern Line: No service between Kennington and Camden Town via Bank due to a power failure. London Underground tickets will be accepted on London buses, London Trams, Southeastern, South Western Railway and Thameslink. GOOD service on the rest of the line. "
+        "reason": "Northern Line: Minor delays between Kennington and Camden Town via Bank due to an earlier power failure. GOOD service on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
