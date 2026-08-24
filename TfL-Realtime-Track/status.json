@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to a late running freight train. "
+        "reason": "Mildmay Line: No service between South Acton and Richmond and between Shepherd's Bush and Clapham Junction due to a late running freight train. SEVERE DELAYS on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
