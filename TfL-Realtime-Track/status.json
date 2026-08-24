@@ -16,20 +16,20 @@
         "reason": "Normal Operation"
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: No service between Canning Town and Stratford International while we deal with a trespasser on the track at Canning Town. GOOD SERVICE on the rest of the line. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
-    },
-    "Jubilee": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Jubilee": {
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Stratford and North Greenwich while we respond to a fire alert at Stratford and a trespasser on the track at Canning Town. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: No service between South Acton and Richmond and between Shepherd's Bush and Clapham Junction due to a late running freight train. SEVERE DELAYS on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
