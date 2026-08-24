@@ -9820,3 +9820,10 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-24 02:49:17,Waterloo & City,Waterloo and City Line: Service will resume at 06:00. ,True
 2026-08-24 02:49:17,Weaver,Weaver Line: Service will resume later this morning. ,True
 2026-08-24 02:49:17,Windrush,Windrush Line: Service will resume later this morning. ,True
+2026-08-24 05:33:47,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-08-24 05:33:47,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-08-24 05:33:47,Jubilee,Jubilee Line: Severe delays due to a late finish of engineering work. Tickets are being accepted on local bus services.  ,True
+2026-08-24 05:33:47,Metropolitan,Metropolitan Line: Minor delays following a late finish of engineering work. ,True
+2026-08-24 05:33:47,Piccadilly,Piccadilly Line: Severe delays between Cockfosters and Acton Town westbound only due to an earlier signal failure at Cockfosters. GOOD SERVICE on the rest of the line. Tickets will be accepted on local bus services. ,True
+2026-08-24 05:33:47,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-24 05:33:47,Weaver,Weaver Line: No service between Hackney Downs and Enfield Town / Cheshunt  and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  ,True
