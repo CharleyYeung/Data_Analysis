@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "DISTRICT LINE: Saturday 22 August, from 1400, and all day Sunday 23 August, no service between Earls Court and Kensington (Olympia)"
+        "reason": "District Line: Service will resume later this morning. "
     },
     "DLR": {
         "is_disrupted": true,
@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "MILDMAY LINE: Sunday 23 August, from 2215, no service between Camden Road and Stratford. There will also be no WINDRUSH LINE service between Highbury & Islington and Dalston Junction. The 2140 Richmond to Gospel Oak train terminates at Willesden Junction. Replacement buses operate. Last through trains are 2126 Richmond to Stratford; 2203 Camden Road to Stratford; 2201 Stratford to Richmond; 2208 Stratford to Clapham Junction"
+        "reason": "Mildmay Line: Service will resume later this morning. "
     },
     "Northern": {
         "is_disrupted": true,
@@ -61,15 +61,15 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
+        "reason": "London Tramlink: Service will resume later this morning. "
     },
     "Victoria": {
         "is_disrupted": true,
         "reason": "Victoria Line: Service will resume later this morning. "
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 23 August, from 2215, no service between Highbury & Islington and Dalston Kingsland. There will also be no MILDMAY LINE service between Camden Road and Stratford."
+        "reason": "Windrush Line: Service will resume later this morning. "
     }
 }
