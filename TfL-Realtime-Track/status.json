@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier security alert at Eastcote. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Stratford and Gospel Oak while we fix a fault with the overhead power lines at Camden Road. GOOD SERVICE on the rest of the line. "
+        "reason": "Mildmay Line: No service between Stratford and Gospel Oak and SEVERE DELAYS between Gospel Oak and Willesden Junction while we fix a fault with the overhead power lines at Camden Road. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
