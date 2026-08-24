@@ -8,12 +8,12 @@
         "reason": "Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty Line, Elizabeth line and Greater Anglia. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to an earlier security alert at Earl's Court.  "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Tower Hill and Ealing Broadway / Richmond / Edgware Road / Wimbledon and MINOR DELAYS on the rest of the line due to an earlier security alert at Earl's Court.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: No service between South Acton and Richmond while we fix a faulty train at South Acton. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
