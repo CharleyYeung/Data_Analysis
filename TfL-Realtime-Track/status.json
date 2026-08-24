@@ -45,7 +45,7 @@
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: No service between Stratford and Gospel Oak and SEVERE DELAYS on the rest of the line while we fix a fault with the overhead power lines at Camden Road. Tickets are being accepted on London Underground. "
+        "reason": "Mildmay Line: No service between Stratford and Willesden Junction, and SEVERE DELAYS on the rest of the line while we fix a fault with the overhead power lines at Camden Road and a points failure at Gospel Oak. Tickets are being accepted on London Underground. "
     },
     "Northern": {
         "is_disrupted": false,
