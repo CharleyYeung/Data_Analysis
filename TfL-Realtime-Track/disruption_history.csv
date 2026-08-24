@@ -9867,3 +9867,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-08-24 11:22:20,Elizabeth line,Severe delays between Heathrow Terminals 2 & 3 and Terminal 5 due to an earlier fire alert at Heathrow Terminal 5. GOOD SERVICE on the rest of the line. ,True
 2026-08-24 11:22:20,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
 2026-08-24 11:22:20,Weaver,Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  ,True
+2026-08-24 11:52:33,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-08-24 11:52:33,Tram,LONDON TRAMS: From Thursday 6 until Sunday 30 August  no service between Reeves Corner and East Croydon.,True
+2026-08-24 11:52:33,Weaver,Weaver Line: Severe delays due to an earlier fault with the signalling system.  ,True
