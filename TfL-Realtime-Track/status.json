@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Stratford and an earlier trespasser on the track at Canning Town. Tickets are being accepted on London Buses. "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stratford and an earlier trespasser on the track at Canning Town. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
