@@ -13,15 +13,15 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Wimbledon / Richmond / Ealing Broadway due to an earlier security alert at Earl's Court. GOOD SERVICE on the rest of the line.  "
+        "reason": "District Line: Minor delays between Earl's Court and Upminster due to an earlier security alert at Earl's Court. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Severe delays between Heathrow Terminals 2 & 3 and Terminal 5 due to an earlier fire alert at Heathrow Terminal 5. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Heathrow Terminals 2 & 3 and Terminal 5 while we respond to a fire alert at Heathrow Terminal 5. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
