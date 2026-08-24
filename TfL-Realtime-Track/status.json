@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Cockfosters and Acton Town westbound only due to an earlier signal failure at Cockfosters. GOOD SERVICE on the rest of the line. Tickets will be accepted on local bus services. "
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier signal failure at Cockfosters. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -73,7 +73,7 @@
     },
     "Weaver": {
         "is_disrupted": true,
-        "reason": "Weaver Line: No service between Hackney Downs and Enfield Town / Cheshunt, and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
+        "reason": "Weaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  "
     },
     "Windrush": {
         "is_disrupted": false,
