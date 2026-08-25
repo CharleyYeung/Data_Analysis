@@ -57,7 +57,7 @@
     },
     "Suffragette": {
         "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
+        "reason": "Suffragette Line: Severe delays due to an earlier points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
     },
     "Tram": {
         "is_disrupted": true,
