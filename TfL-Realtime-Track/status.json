@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Wembley Park and Aldgate, and MINOR DELAYS on the rest of the line while we respond to a fire alert at Kilburn. Tickets are being accepted on London Buses, Lioness line and Chiltern Railways. "
+        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier fire alert at Kilburn. Tickets are being accepted on London Buses, Lioness line and Chiltern Railways. MINOR DELAYS on the rest of the line  "
     },
     "Mildmay": {
         "is_disrupted": false,
