@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service between Gospel Oak and Upper Holloway and SEVERE DELAYS on the rest of the line while we fix a points failure at Gospel Oak. London Underground is accepting tickets via reasonable routes. "
     },
     "Tram": {
         "is_disrupted": true,
