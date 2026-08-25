@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: Severe delays due to train cancellations, an earlier track fault at Epping and an earlier signal failure at Notting Hill Gate. London Buses, Elizabeth line, Chiltern Railway, Great Western Railway and Greater Anglia are accepting tickets via any reasonable route. "
     },
     "Circle": {
         "is_disrupted": true,
