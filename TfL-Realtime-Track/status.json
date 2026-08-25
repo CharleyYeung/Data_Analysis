@@ -13,7 +13,7 @@
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Upminster and Earl's Court westbound only while we fix a faulty train at Upton Park. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays between Turnham Green and Ealing Broadway due to an earlier faulty train at Upton Park. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier trespasser on the track at Finchley Road. Tickets will be accepted on London Buses, DLR, Elizabeth line, Southeastern, c2c and Thameslink services. "
+        "reason": "Jubilee Line: Minor delays due to an earlier trespasser on the track at Finchley Road. "
     },
     "Liberty": {
         "is_disrupted": false,
