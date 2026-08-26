@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Minor delays due to an earlier faulty train at Queen's Park. "
+        "reason": "Bakerloo Line: Severe delays due to an earlier faulty train Lambeth North. Tickets are being accepted on London Buses, Lioness line and Thameslink services. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier faulty train at Liverpool Street. "
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
         "is_disrupted": false,
