@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier faulty train at Queen's Park. Tickets will be accepted on London Buses and Lioness line services. "
+        "reason": "Bakerloo Line: Minor delays due to an earlier faulty train at Queen's Park. "
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays while we fix a faulty train at Liverpool Street. "
+        "reason": "Central Line: Minor delays due to an earlier faulty train at Liverpool Street. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Whitechapel and Shenfield while we fix a track fault at Harold Wood. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
