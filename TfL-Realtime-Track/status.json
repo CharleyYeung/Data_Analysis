@@ -12,16 +12,16 @@
         "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Minor delays between Earl's Court and Tower Hill due to an earlier faulty train at Victoria. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Gidea Park and Shenfield while we fix a track fault at Harold Wood. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
