@@ -1,7 +1,7 @@
 {
     "Bakerloo": {
         "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier faulty train Lambeth North. Tickets are being accepted on London Buses, Lioness line and Thameslink services. "
+        "reason": "Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line due to an earlier faulty train at Lambeth North. Tickets are being accepted on London Buses, Lioness line and Thameslink services. "
     },
     "Central": {
         "is_disrupted": true,
