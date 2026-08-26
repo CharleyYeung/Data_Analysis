@@ -12,8 +12,8 @@
         "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays between Earl's Court and Tower Hill eastbound only and MINOR DELAYS between Tower Hill and Barking eastbound only due to an earlier faulty train at Victoria. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
