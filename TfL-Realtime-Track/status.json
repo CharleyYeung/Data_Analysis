@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between Loughton and Epping due to a signal failure at Debden. If you a travelling beyond Loughton, you will need to take the first train and change there. London Buses and Greater Anglia are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to an earlier fire alert at South Kensington. Tickets will be accepted on London Buses.  "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Severe delays due to an earlier fire alert at South Kensington. London Buses, Mildmay line, Elizabeth line, DLR, c2c and Southwestern Railway services are accepting tickets via any reasonable route.\r\n "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Minor delays due to an earlier fire alert at South Kensington. "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between West Hampstead and Stanmore and MINOR DELAYS on the rest of the line while we respond to a fire alert at Wembley Park. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Wembley Park and Aldgate while we respond to a fire alert at Wembley Park. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Severe delays due to train cancellations. "
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,8 +56,8 @@
         "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Suffragette Line: No service between Gospel Oak and Woodgrange Park while we fix a fault with the overhead power lines at Harringay Green Lanes. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
     },
     "Tram": {
         "is_disrupted": true,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
