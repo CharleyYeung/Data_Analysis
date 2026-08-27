@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). MINOR DELAYS on the rest of the line due to train cancellations. "
+        "reason": "Central Line: Severe delays between Loughton and Epping while we fix equipment damaged by vandalism, and MINOR DELAYS on the rest of the line. If you are travelling beyond Loughton you will need to take the first train and change there. Tickets are being accepted on London Buses and Greater Anglia (Liverpool Street - Harlow Town). "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to an earlier fire alert at South Kensington. Tickets will be accepted on London Buses.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Severe delays due to an earlier fire alert at South Kensington. London Buses, Mildmay line, Elizabeth line, DLR, c2c and Southwestern Railway services are accepting tickets via any reasonable route.\r\n "
+        "reason": "District Line: Minor delays between Earl's Court and Whitechapel while we deal with a trespasser on the track at Embankment. GOOD SERVICE on the rest of the line.  "
     },
     "DLR": {
         "is_disrupted": false,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to an earlier fire alert at South Kensington. "
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.\r\n "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: No service between West Hampstead and Stanmore and MINOR DELAYS on the rest of the line while we respond to a fire alert at Wembley Park. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,12 +40,12 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Wembley Park and Aldgate while we respond to a fire alert at Wembley Park. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Severe delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -56,16 +56,16 @@
         "reason": "PICCADILLY LINE: Tuesday 25, Wednesday 26 and Thursday 27 August, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate."
     },
     "Suffragette": {
-        "is_disrupted": true,
-        "reason": "Suffragette Line: No service between Gospel Oak and Woodgrange Park while we fix a fault with the overhead power lines at Harringay Green Lanes. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Tram": {
         "is_disrupted": true,
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
