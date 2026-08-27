@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: Severe delays between Loughton and Epping due to a signal failure at Debden. If you a travelling beyond Loughton, you will need to take the first train and change there. London Buses and Greater Anglia are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -28,8 +28,8 @@
         "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
-        "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Dollis Hill. Tickets are being accepted on London Buses and Elizabeth Line service "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Liberty": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": false,
