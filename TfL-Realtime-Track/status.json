@@ -4,16 +4,16 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, Elizabeth line and Chiltern Railway services. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Severe delays due to an earlier signal failure at South Kensington. Tickets will be accepted on London Buses. "
     },
     "District": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "District Line: Minor delays between Ealing Broadway/Richmond/Wimbledon and Earls Court eastbound only and MINOR DELAYS between Tower Hill and Upminster eastbound only due to an earlier signal failure at South Kensington. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations.  "
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between Wembley Park and Willesden Green, SEVERE DELAYS on the rest of the line while we respond to a fire at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, c2c and Thameslink services. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate while we respond to a fire at Neasden. SEVERE DELAYS on the rest of the line.\r\nChiltern railway services are running between Amersham and Aylesbury.\r\nTickets will be accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink services. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -64,12 +64,12 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
