@@ -4,12 +4,12 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Severe delays due to an earlier customer incident. Please take first train and change accordingly. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations.  "
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": true,
@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations.  "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Services will be curtailed as follows until early afternoon on Saturday 29 August 2026. Please check before you travel.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line."
+        "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. Please check before you travel.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and severe delays on the rest of the line."
+        "reason": "Metropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. For customers travelling to Wembley Arena, use the Bakerloo line or Lioness line to Wembley Central station. Please check before you travel. "
     },
     "Mildmay": {
         "is_disrupted": false,
