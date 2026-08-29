@@ -24,12 +24,12 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. "
+        "reason": "The emergency services are responding to a large fire near the railway at Neasden. Until it is made safe, Jubilee and Metropolitan line services are unable to run through the area. Services will be curtailed as follows until early afternoon on Saturday 29 August 2026. Please check before you travel.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and SEVERE DELAYS on the rest of the line.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line."
     },
     "Liberty": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
