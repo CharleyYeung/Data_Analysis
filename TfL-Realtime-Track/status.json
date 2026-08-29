@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Severe delays due to an earlier customer incident. Please take first train and change accordingly. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
+        "reason": "Central Line: No service between North Acton and West Ruilsip and severe delays on the rest of the line due to an earlier customer incident. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
