@@ -1,51 +1,51 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier customer incident. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Service will resume later this morning. "
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
-        "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work "
+        "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 30 and Monday 31 August, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        "reason": "Hammersmith and City Line: Minor delays between Edgware Road and Hammersmith due to train cancellations. GOOD SERVICE on the rest of the line.  "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services. "
+        "reason": "Jubilee Line: Severe delays while emergency services respond to a large fire near the railway at Neasden. Neasden station is also closed. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services.  "
     },
     "Liberty": {
-        "is_disrupted": true,
-        "reason": "Liberty Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Lioness": {
-        "is_disrupted": true,
-        "reason": "Lioness Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Metropolitan": {
         "is_disrupted": true,
         "reason": "Metropolitan line: emergency services continue to deal with a large fire in a recycling plant near the railway at Neasden. Currently, the Metropolitan line service will not run through the area. We do not expect the Metropolitan line to resume fully until lunch time on Sunday 30 August 2026. Please check before you travel."
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": true,
@@ -61,19 +61,19 @@
     },
     "Tram": {
         "is_disrupted": true,
-        "reason": "London Tramlink: Service will resume later this morning. There will be no service between Reeves Corner and East Croydon and between Elmers End and Arena due to planned engineering work "
+        "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "Weaver Line: Service will resume later this morning. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Windrush": {
         "is_disrupted": true,
