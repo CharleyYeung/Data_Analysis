@@ -9,11 +9,11 @@
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses. "
+        "reason": "Circle Line: Minor delays due to train cancellations.  "
     },
     "District": {
-        "is_disrupted": true,
-        "reason": "District Line: Severe delays between Barking and Upminster due to an earlier points failure at Tower Hill. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "DLR": {
         "is_disrupted": true,
@@ -25,11 +25,11 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays while emergency services respond to a large fire near the railway at Neasden. Neasden station is also closed. Tickets will be accepted on London Buses, DLR, Elizabeth line, Mildmay line, C2C and Thameslink services.  "
+        "reason": "Jubilee Line: Minor delays due to train cancellations. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. Service is not expected to resume fully until early afternoon. "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate, and SEVERE DELAYS between Baker Street and Harrow-on-the- Hill while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. MINOR DELAYS on the rest of the line. Service is not expected to resume fully until early afternoon. "
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays due to crowding during an event at Notting Hill. "
     },
     "Northern": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Southwestern Railway and South Eastern. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
