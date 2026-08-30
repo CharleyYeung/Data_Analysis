@@ -25,7 +25,7 @@
     },
     "Hammersmith & City": {
         "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Severe delays due to train cancellations. "
+        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
     },
     "Jubilee": {
         "is_disrupted": true,
@@ -41,11 +41,11 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Aldgate, and SEVERE DELAYS between Baker Street and Harrow-on-the- Hill while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. MINOR DELAYS on the rest of the line. "
+        "reason": "Metropolitan Line: No service between Baker Street and Aldgate, and SEVERE DELAYS between Baker Street and Harrow-on-the- Hill while emergency services respond to a large fire near the railway at Neasden. Please use the Jubilee line between Wembley Park and Baker Street.  Tickets will be accepted on London Buses, Lioness line, London Northwestern and Thameslink services. MINOR DELAYS on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays due to crowding during an event at Notting Hill. "
+        "reason": "Mildmay Line: Severe delays due to crowding during an event at Notting Hill. London Underground are accepting tickets via any reasonable route. "
     },
     "Northern": {
         "is_disrupted": true,
@@ -64,8 +64,8 @@
         "reason": "LONDON TRAMS: From Thursday 6 until Sunday 30 August, no service between Reeves Corner and East Croydon."
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
