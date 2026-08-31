@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses, Lioness Line and London Northwestern Railway services.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to an earlier signal failure at Westbourne Park. "
     },
     "District": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "DOCKLANDS LIGHT RAILWAY: Sunday 30 and Monday 31 August, no service between Shadwell and Tower Gateway."
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays between Abbey Wood and Heathrow Terminals / Reading while we remove an obstruction from the overhead power lines at Paddington. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Minor delays due to train cancellations.  "
     },
     "Mildmay": {
         "is_disrupted": false,
