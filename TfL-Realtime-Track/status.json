@@ -5,15 +5,15 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip, and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        "reason": "Central Line: Minor delays between Leytonstone and Epping while we fix a signal failure at Woodford. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: No service between Edgware Road and Hammersmith and SEVERE DELAYS on the rest of the line while we fix a signal failure at Royal Oak. London Buses are accepting tickets via any reasonable route. "
     },
     "District": {
         "is_disrupted": true,
-        "reason": "District Line: Minor delays between Edgware Road and High Street Kensington due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "reason": "District Line: Minor delays between High Street Kensington and Edgware Road due to an earlier points failure at Edgware Road. GOOD SERVICE on the rest of the line. "
     },
     "DLR": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: No service between Edgware Road and Hammersmith and SEVERE DELAYS on the rest of the line while we fix a signal failure at Royal Oak. London Buses, DLR, Elizabeth line and c2c services are accepting tickets via any reasonable route. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: Severe delays Baker Street to Aldgate and MINOR DELAYS between Harrow-on-the-Hill and Baker Street while we fix a signal failure at Royal Oak. GOOD service on the rest of the line. London Buses are accepting tickets via any reasonable route. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: Minor delays due to train cancellations. "
     }
 }

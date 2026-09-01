@@ -10500,3 +10500,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-01 01:34:07,Windrush,Windrush Line: Service will resume later this morning.  ,True
 2026-09-01 06:45:44,Central,Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip  and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line.  ,True
 2026-09-01 06:45:44,District,District Line: Minor delays between Edgware Road and High Street Kensington due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-09-01 12:18:26,Central,Central Line: Minor delays between Leytonstone and Epping while we fix a signal failure at Woodford. GOOD SERVICE on the rest of the line. ,True
+2026-09-01 12:18:26,Circle,Circle Line: No service between Edgware Road and Hammersmith and SEVERE DELAYS on the rest of the line while we fix a signal failure at Royal Oak. London Buses are accepting tickets via any reasonable route. ,True
+2026-09-01 12:18:26,District,District Line: Minor delays between High Street Kensington and Edgware Road due to an earlier points failure at Edgware Road. GOOD SERVICE on the rest of the line. ,True
+2026-09-01 12:18:26,Hammersmith & City,Hammersmith and City Line: No service between Edgware Road and Hammersmith and SEVERE DELAYS on the rest of the line while we fix a signal failure at Royal Oak. London Buses  DLR  Elizabeth line and c2c services are accepting tickets via any reasonable route. ,True
+2026-09-01 12:18:26,Metropolitan,Metropolitan Line: Severe delays Baker Street to Aldgate and MINOR DELAYS between Harrow-on-the-Hill and Baker Street while we fix a signal failure at Royal Oak. GOOD service on the rest of the line. London Buses are accepting tickets via any reasonable route. ,True
+2026-09-01 12:18:26,Windrush,Windrush Line: Minor delays due to train cancellations. ,True
