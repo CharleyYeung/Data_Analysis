@@ -10506,3 +10506,12 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-01 12:18:26,Hammersmith & City,Hammersmith and City Line: No service between Edgware Road and Hammersmith and SEVERE DELAYS on the rest of the line while we fix a signal failure at Royal Oak. London Buses  DLR  Elizabeth line and c2c services are accepting tickets via any reasonable route. ,True
 2026-09-01 12:18:26,Metropolitan,Metropolitan Line: Severe delays Baker Street to Aldgate and MINOR DELAYS between Harrow-on-the-Hill and Baker Street while we fix a signal failure at Royal Oak. GOOD service on the rest of the line. London Buses are accepting tickets via any reasonable route. ,True
 2026-09-01 12:18:26,Windrush,Windrush Line: Minor delays due to train cancellations. ,True
+2026-09-01 16:48:34,Central,Central Line: Minor delays due to train cancellations. ,True
+2026-09-01 16:48:34,Circle,Circle Line: Minor delays due to an earlier signal failure at Royal Oak.  ,True
+2026-09-01 16:48:34,Hammersmith & City,Hammersmith and City Line: Minor delays due to an earlier signal failure at Royal Oak.  ,True
+2026-09-01 16:48:34,Metropolitan,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to an earlier faulty train at Rayners Lane. GOOD SERVICE on the rest of the line.  ,True
+2026-09-01 16:48:34,Mildmay,Mildmay Line: Minor delays between Clapham Junction and Willesden Junction due to an earlier trespasser on the track at West Brompton. GOOD SERVICE on the rest of the line.  ,True
+2026-09-01 16:48:34,Piccadilly,Piccadilly Line: Minor delays between Rayners Lane and Uxbridge due to a faulty train Rayners Lane. GOOD SERVICE on the rest of the line.  ,True
+2026-09-01 16:48:34,Tram,London Tramlink: Minor delays due to a vehicle hitting a bridge at Birkbeck.  ,True
+2026-09-01 16:48:34,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
+2026-09-01 16:48:34,Windrush,Windrush Line: Minor delays due to train cancellations. ,True
