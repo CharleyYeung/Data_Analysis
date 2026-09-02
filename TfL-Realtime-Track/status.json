@@ -5,11 +5,11 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to train cancellations. "
+        "reason": "Central Line: Minor delays between Hainault and Woodford due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays between Baker Street and Hammersmith while we fix a signal failure at Baker Street. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Baker Street and Hammersmith while we fix a signal failure at Baker Street. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Baker Street and Harrow-on-the-Hill while we fix a signal failure at Baker Street. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 05:26 departure from Amersham, the next southbound train will be at 06:07. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Piccadilly Line: Minor delays between Acton Town and Heathrow due to train cancellations. GOOD SERVICE on the rest of the line. "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -72,11 +72,11 @@
         "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
-        "is_disrupted": true,
-        "reason": "WEAVER LINE: Monday 31 August, Tuesday 1, Wednesday 2 and Thursday 3 September, after 2245 each evening, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2243 from Liverpool Street to Cheshunt, 2250 from Enfield Town to Liverpool Street, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead"
-    },
-    "Windrush": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Windrush": {
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Surrey Quays and Clapham Junction due to a late finish of engineering work. GOOD SERVICE on the rest of the line. "
     }
 }
