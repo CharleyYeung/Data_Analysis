@@ -4,12 +4,12 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Epping and Debden while we fix a track fault at Theydon Bois. GOOD SERVICE on the rest of the line.  "
-    },
-    "Circle": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Circle": {
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to an earlier power fault at Earl's Court.  "
     },
     "District": {
         "is_disrupted": false,
@@ -24,8 +24,8 @@
         "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays due to train cancellations. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Severe delays while we fix a signal failure at Highbury & Islington. Tickets are being accepted on the Weaver Line, Suffragette line and Southeastern. "
     },
     "Waterloo & City": {
         "is_disrupted": false,
