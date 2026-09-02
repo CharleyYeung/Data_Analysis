@@ -8,8 +8,8 @@
         "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays between Baker Street and Hammersmith while we fix a signal failure at Baker Street. GOOD SERVICE on the rest of the line. "
     },
     "District": {
         "is_disrupted": false,
@@ -20,12 +20,12 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminals / Reading due to an earlier power supply failure at Paddington. GOOD SERVICE on the rest of the line. "
-    },
-    "Hammersmith & City": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Hammersmith & City": {
+        "is_disrupted": true,
+        "reason": "Hammersmith and City Line: Minor delays between Baker Street and Hammersmith while we fix a signal failure at Baker Street. GOOD SERVICE on the rest of the line. "
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Metropolitan Line: No service between Baker Street and Harrow-on-the-Hill while we fix a signal failure at Baker Street. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -68,8 +68,8 @@
         "reason": "Normal Operation"
     },
     "Waterloo & City": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Waterloo and City Line: Service will resume at 06:00. "
     },
     "Weaver": {
         "is_disrupted": true,
