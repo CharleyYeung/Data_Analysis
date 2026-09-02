@@ -4,12 +4,12 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to an earlier power fault at Earl's Court.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays due to an earlier points failure at Camden Town. Ticket being accepted on London Buses, Southeastern, South Western and Thameslink railway services.  "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Windrush Line: No service between Clapham Junction and Surrey Quays due to a points failure at Peckham Rye. SEVERE DELAYS on the rest of the line due to a trespasser at Sydenham. London Underground accepting tickets via any reasonable routes.    "
     }
 }
