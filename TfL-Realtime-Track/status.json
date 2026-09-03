@@ -4,12 +4,12 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Minor delays due to an earlier signal failure at Maryland. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between Stratford and North Greenwich and SEVERE DELAYS between North Greenwich and Stanmore northbound only due to a late finish of engineering work. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern Railway and Thameslink. MINOR DELAYS on the rest of the line.  "
+        "reason": "Jubilee Line: Severe delays following a late finish of engineering work. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern Railway and Thameslink. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Minor delays due to an earlier points failure at Camden Town. "
     },
     "Piccadilly": {
         "is_disrupted": false,
