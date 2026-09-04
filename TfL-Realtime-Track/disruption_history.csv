@@ -10606,3 +10606,6 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-04 09:17:18,Bakerloo,Bakerloo Line: Minor delays due to train cancellations. ,True
 2026-09-04 09:17:18,Central,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between White City and Leytonstone Eastbound only due to an earlier faulty train at Shepherd's Bush.  GOOD SERVICE on the rest of the line. ,True
 2026-09-04 09:17:18,District,District Line: Minor delays between Earl's Court and Barking Eastbound only due to an earlier faulty train at Westminster. GOOD SERVICE on the rest of the line.  ,True
+2026-09-04 17:05:11,Hammersmith & City,Hammersmith and City Line: Minor delays due to train cancellations. ,True
+2026-09-04 17:05:11,Piccadilly,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport/Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-09-04 17:05:11,Victoria,Victoria Line: Minor delays due to train cancellations.  ,True
