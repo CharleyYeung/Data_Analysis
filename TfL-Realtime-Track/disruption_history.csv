@@ -10621,3 +10621,19 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-04 23:39:17,Piccadilly,Piccadilly Line: Minor delays between King's Cross and Cockfosters while we fix a signal failure at Holborn. GOOD SERVICE on the rest of the line. ,True
 2026-09-04 23:39:17,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
 2026-09-04 23:39:17,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday.  ,True
+2026-09-05 01:24:32,Bakerloo,Bakerloo Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Circle,Circle Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,District,District Line: Service will resume later this morning. There will be no service between Edgware Road and Wimbledon due to planned engineering work.   ,True
+2026-09-05 01:24:32,DLR,Docklands Light Railway: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Elizabeth line,Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Hammersmith & City,Hammersmith and City Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Jubilee,Jubilee Line: Severe delays due to a earlier signal failure at Bond Street. Tickets are being accepted on London Buses. ,True
+2026-09-05 01:24:32,Liberty,Liberty Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Lioness,Lioness Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Metropolitan,Metropolitan Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Mildmay,Mildmay Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Suffragette,Suffragette Line: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Tram,London Tramlink: Service will resume later this morning.  ,True
+2026-09-05 01:24:32,Victoria,Victoria Line: Minor delays due to train cancellations  ,True
+2026-09-05 01:24:32,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday.  ,True
+2026-09-05 01:24:32,Weaver,Weaver Line: Service will resume later this morning.  ,True
