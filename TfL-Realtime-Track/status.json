@@ -5,19 +5,19 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: Minor delays between Northolt and West Ruislip while we fix a track fault at Northolt. GOOD SERVICE on the rest of the line. "
+        "reason": "Central Line: Minor delays between West Ruislip and Northolt due to an earlier signal failure at North Acton. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Minor delays anticlockwise due to train cancellations. GOOD SERVICE clockwise. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
         "reason": "District Line: Saturday 5 and Sunday 6 September, no service between Edgware Road and Wimbledon. Rail Replacement bus services will operate. If travelling to/from Fulham vs Crystal Palace on Saturday, it may be easier to walk to/from Hammersmith."
     },
     "DLR": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Docklands Light Railway: Minor delays between Bank and Lewisham  due to an earlier person ill on a train. GOOD SERVICE on the rest of the line. "
     },
     "Elizabeth line": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: No service between North Greenwich and Stratford while we respond to a fire alert at Stratford. SEVERE DELAYS on the rest of the line.  "
+        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Stratford. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth line, C2C, Southeastern and Thameslink. For services to Wembley Stadium please use the Bakerloo line to Wembley Central. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": true,
-        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction / Richmond due to an earlier trespasser on the track at Stratford. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Northern": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
