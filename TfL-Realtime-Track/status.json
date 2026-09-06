@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 and MINOR DELAYS between Whitechapel and Shenfield due to a earlier signal system failure in the Chadwell Heath area. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
