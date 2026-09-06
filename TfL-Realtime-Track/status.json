@@ -4,12 +4,12 @@
         "reason": "Bakerloo Line: Severe delays due to train cancellations. London Buses, Lioness Line, London Northwestern Railway and Thameslink are accepting tickets via any reasonable. "
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Minor delays due to an earlier faulty train at Chancery Lane.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": true,
-        "reason": "Circle Line: Minor delays due to train cancellations.  "
+        "reason": "Circle Line: Severe delays due to train cancellations.  "
     },
     "District": {
         "is_disrupted": true,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service between Paddington and Heathrow Terminals / Reading  due to a fire alert in the Paddington area. SEVERE DELAYS on the rest of the line. Avoid using the Elizabeth line. For trains to Heathrow Airport use the Piccadilly line. Tickets are being accepted by London Underground, London Buses, Thameslink, DLR, South Western Railway and Southeastern. "
+        "reason": "No service due to a earlier fire alert in the Paddington area. For trains to Heathrow Airport use the Piccadilly line. Tickets are being accepted by London Underground, London Buses, Thameslink, DLR, South Western Railway and Southeastern. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Amersham and Moor Park southbound only due to an earlier faulty train at Amersham. The next southbound departure from Amersham will be the 23:22. GOOD SERVICE on the rest of the line.  "
+        "reason": "Metropolitan Line: No service between Rickmansworth and Moor Park southbound only due to a faulty train at Chesham. GOOD SERVICE on the rest of the line.  "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -53,7 +53,7 @@
     },
     "Piccadilly": {
         "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier trespasser at Hammersmith. London Underground tickets will be accepted on London buses, Weaver line, Great Northern and South Western Railway. MINOR DELAYS on the rest of the line.  "
+        "reason": "Piccadilly Line: Severe delays between Northfields and Heathrow Terminals due to an earlier track fault in the Osterley area. MINOR DELAYS on the rest of the line due to an earlier trespasser at Hammersmith. London Underground tickets will be accepted on London buses, Weaver line, Great Northern and South Western Railway.  "
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Victoria Line: Minor delays due to an earlier faulty train at Seven Sisters. "
     },
     "Waterloo & City": {
         "is_disrupted": true,
