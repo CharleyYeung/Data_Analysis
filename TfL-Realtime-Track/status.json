@@ -8,20 +8,20 @@
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays due to train cancellations. "
     },
     "District": {
         "is_disrupted": true,
         "reason": "District Line: Saturday 5 and Sunday 6 September, no service between Edgware Road and Wimbledon. Rail Replacement bus services will operate. If travelling to/from Fulham vs Crystal Palace on Saturday, it may be easier to walk to/from Hammersmith."
     },
     "DLR": {
-        "is_disrupted": true,
-        "reason": "Docklands Light Railway: Minor delays between Bank and Lewisham  due to an earlier person ill on a train. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Minor delays between Whitechapel and Shenfield while we fix a signal system failure in the Chadwell Heath area. GOOD SERVICE on the rest of the line. "
+        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 and MINOR DELAYS between Whitechapel and Shenfield due to a earlier signal system failure in the Chadwell Heath area. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -29,7 +29,7 @@
     },
     "Jubilee": {
         "is_disrupted": true,
-        "reason": "Jubilee Line: Severe delays due to an earlier fire alert at Stratford. Tickets are being accepted on London Buses, London Overground, DLR, Elizabeth line, C2C, Southeastern and Thameslink. For services to Wembley Stadium please use the Bakerloo line to Wembley Central. "
+        "reason": "Jubilee Line: Minor delays due to an earlier fire alert at Stratford. "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Chalfont & Latimer and Amersham due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Sunday 6 September, until 1915, no service between Sydenham and West Croydon. Change at Crystal Palace for trains to/from Norwood Junction and connections to/from West Croydon. Use local London Buses services for Penge West and Anerley."
+        "reason": "WINDRUSH LINE: Sunday 6 September, from 1915, no service between Highbury & Islington and Battersea Park / Clapham Junction / Crystal Palace / New Cross Gate / West Croydon. Use MILDMAY LINE services between Highbury & Islington, Canonbury and Dalston Kingsland. Use SOUTHERN connections for stations south of New Cross Gate, and local buses for New Cross, Penge West and Anerley. Replacement buses operate."
     }
 }
