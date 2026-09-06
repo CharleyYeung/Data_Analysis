@@ -4,12 +4,12 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays between Northolt and West Ruislip while we fix a track fault at Northolt. GOOD SERVICE on the rest of the line. "
     },
     "Circle": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Circle Line: Minor delays anticlockwise due to train cancellations. GOOD SERVICE clockwise. "
     },
     "District": {
         "is_disrupted": true,
@@ -28,8 +28,8 @@
         "reason": "Normal Operation"
     },
     "Jubilee": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Jubilee Line: No service between North Greenwich and Stratford while we respond to a fire alert at Stratford. SEVERE DELAYS on the rest of the line.  "
     },
     "Liberty": {
         "is_disrupted": false,
@@ -44,8 +44,8 @@
         "reason": "Normal Operation"
     },
     "Mildmay": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Mildmay Line: Minor delays between Willesden Junction and Clapham Junction / Richmond due to an earlier trespasser on the track at Stratford. GOOD SERVICE on the rest of the line. "
     },
     "Northern": {
         "is_disrupted": false,
