@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "ELIZABETH LINE: Sunday 6 September, until 0745, no service between Paddington and Ealing Broadway. In addition, the 2345 Saturday evening GWR train from Didcot Parkway to Paddington terminates at Ealing Broadway and the 0638 GWR London Paddington to Reading train starts at Ealing Broadway. Please use London Underground connections."
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
