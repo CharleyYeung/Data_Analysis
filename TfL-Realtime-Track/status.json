@@ -1,15 +1,15 @@
 {
     "Bakerloo": {
-        "is_disrupted": true,
-        "reason": "Bakerloo Line: Severe delays due to train cancellations. London Buses, Lioness Line, London Northwestern Railway and Thameslink are accepting tickets via any reasonable. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Central": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Circle": {
-        "is_disrupted": true,
-        "reason": "Circle Line: Severe delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "District": {
         "is_disrupted": true,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "No service due to a earlier fire alert in the Paddington area. For trains to Heathrow Airport use the Piccadilly line. Tickets are being accepted by London Underground, London Buses, Thameslink, DLR, South Western Railway and Southeastern. "
+        "reason": "ELIZABETH LINE: Sunday 6 September, until 0745, no service between Paddington and Ealing Broadway. In addition, the 2345 Saturday evening GWR train from Didcot Parkway to Paddington terminates at Ealing Broadway and the 0638 GWR London Paddington to Reading train starts at Ealing Broadway. Please use London Underground connections."
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: No service between Rickmansworth and Moor Park southbound only due to a faulty train at Chesham. GOOD SERVICE on the rest of the line.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,20 +52,20 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: Severe delays between Northfields and Heathrow Terminals due to an earlier track fault in the Osterley area. MINOR DELAYS on the rest of the line due to an earlier trespasser at Hammersmith. London Underground tickets will be accepted on London buses, Weaver line, Great Northern and South Western Railway.  "
-    },
-    "Suffragette": {
         "is_disrupted": false,
         "reason": "Normal Operation"
+    },
+    "Suffragette": {
+        "is_disrupted": true,
+        "reason": "SUFFRAGETTE LINE: Sunday 6 September, no service between Gospel Oak and Woodgrange Park. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham), Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road). Replacement buses operate."
     },
     "Tram": {
         "is_disrupted": false,
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to an earlier faulty train at Seven Sisters. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": true,
@@ -77,6 +77,6 @@
     },
     "Windrush": {
         "is_disrupted": true,
-        "reason": "WINDRUSH LINE: Saturday 5, all day, and Sunday 6 September, until 1915, no service between Surrey Quays and Clapham Junction / Battersea Park. There will also be no SOUTHERN trains at Queens Road Peckham and Peckham Rye. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays, Queens Road Peckham, Peckham Rye, Denmark Hill, Clapham High Street and Wandsworth Road. In addition, replacement buses operate between London Bridge and Tulse Hill via South Bermondsey, Queens Road Peckham, Peckham Rye, East Dulwich, North Dulwich and Herne Hill."
+        "reason": "WINDRUSH LINE: Sunday 6 September, until 1915, no service between Sydenham and West Croydon. Change at Crystal Palace for trains to/from Norwood Junction and connections to/from West Croydon. Use local London Buses services for Penge West and Anerley."
     }
 }
