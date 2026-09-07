@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": true,
-        "reason": "Central Line: Severe delays while we fix a signal failure at Liverpool Street. Tickets will be accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railways, Great Western Railway and Greater Anglia Railways. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Circle": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix equipment damaged by vandalism in the Kensal Green area. Customers should use Piccadilly line to travel to Heathrow Airport and use the free interchange service to travel between terminals. "
+        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix equipment damaged by vandalism in the Kensal Green area. Customers should use Piccadilly line to travel to Heathrow Airport and use the free interchange service to travel between terminals. MINOR DELAYS between Paddington and Reading due to an earlier a vehicle hitting a bridge at Burnham. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -41,7 +41,7 @@
     },
     "Metropolitan": {
         "is_disrupted": true,
-        "reason": "Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge westbound only while we fix a signal failure at Rayners Lane. MINOR DELAYS between Moor Park and Watford while we fix a signal failure at Croxley. GOOD SERVICE on the rest of the line. "
+        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford while we fix a signal failure at Watford. GOOD SERVICE on the rest of the line. "
     },
     "Mildmay": {
         "is_disrupted": false,
@@ -52,8 +52,8 @@
         "reason": "Normal Operation"
     },
     "Piccadilly": {
-        "is_disrupted": true,
-        "reason": "Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Rayners Lane. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Suffragette": {
         "is_disrupted": false,
@@ -65,7 +65,7 @@
     },
     "Victoria": {
         "is_disrupted": true,
-        "reason": "Victoria Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses, Weaver line and Suffragette line. "
+        "reason": "Victoria Line: Minor delays due to train cancellations.  "
     },
     "Waterloo & City": {
         "is_disrupted": false,
