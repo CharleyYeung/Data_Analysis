@@ -5,7 +5,7 @@
     },
     "Central": {
         "is_disrupted": true,
-        "reason": "Central Line: No service between Hainault and Woodford via Grange Hill while we fix a faulty train at Hainault and MINOR DELAYS between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
+        "reason": "Central Line: No service between Leytonstone and Hainault via Grange Hill while we fix a faulty train at Hainault and MINOR DELAYS between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping due to train cancellations. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses.\r\n\r\n\r\n "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,8 +20,8 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix equipment damaged by vandalism in the Kensal Green area. Customers should use Piccadilly line to travel to Heathrow Airport and use the free interchange service to travel between terminals. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -64,8 +64,8 @@
         "reason": "Normal Operation"
     },
     "Victoria": {
-        "is_disrupted": true,
-        "reason": "Victoria Line: Minor delays due to train cancellations.  "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Waterloo & City": {
         "is_disrupted": false,
@@ -76,7 +76,7 @@
         "reason": "Normal Operation"
     },
     "Windrush": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "WINDRUSH LINE: Monday 7, Tuesday 8, Wednesday 9 and Thursday 10 September, after 2215 each evening, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction), and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147; West Croydon to Highbury & Islington 2246"
     }
 }
