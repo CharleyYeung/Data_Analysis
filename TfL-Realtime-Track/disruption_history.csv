@@ -10788,3 +10788,8 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-07 02:35:29,Waterloo & City,Waterloo and City Line: Service will resume at 06:00 on Monday.  ,True
 2026-09-07 02:35:29,Weaver,Weaver Line: Service will resume later this morning.  ,True
 2026-09-07 02:35:29,Windrush,Windrush Line: Service will resume later this morning.  ,True
+2026-09-07 09:54:34,Central,Central Line: Severe delays while we fix a signal failure at Liverpool Street. Tickets will be accepted on London Buses  Liberty Line  Elizabeth Line  Chiltern Railways  Great Western Railway and Greater Anglia Railways. ,True
+2026-09-07 09:54:34,Elizabeth line,Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix equipment damaged by vandalism in the Kensal Green area. Customers should use Piccadilly line to travel to Heathrow Airport and use the free interchange service to travel between terminals. ,True
+2026-09-07 09:54:34,Metropolitan,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge westbound only while we fix a signal failure at Rayners Lane. MINOR DELAYS between Moor Park and Watford while we fix a signal failure at Croxley. GOOD SERVICE on the rest of the line. ,True
+2026-09-07 09:54:34,Piccadilly,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Rayners Lane. GOOD SERVICE on the rest of the line. ,True
+2026-09-07 09:54:34,Victoria,Victoria Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses  Weaver line and Suffragette line. ,True
