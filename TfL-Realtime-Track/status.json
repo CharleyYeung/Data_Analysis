@@ -1,11 +1,11 @@
 {
     "Bakerloo": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Bakerloo Line: Severe delays due to a track fault at Stonebridge Park. Tickets will be accepted on local buses. "
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: No service between Hainault and Woodford via Grange Hill while we fix a faulty train at Hainault and MINOR DELAYS between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. "
     },
     "Circle": {
         "is_disrupted": false,
@@ -21,7 +21,7 @@
     },
     "Elizabeth line": {
         "is_disrupted": true,
-        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix equipment damaged by vandalism in the Kensal Green area. Customers should use Piccadilly line to travel to Heathrow Airport and use the free interchange service to travel between terminals. MINOR DELAYS between Paddington and Reading due to an earlier a vehicle hitting a bridge at Burnham. GOOD SERVICE on the rest of the line. "
+        "reason": "Severe delays between Heathrow Terminals 2&3 and Heathrow Terminal 5 while we fix equipment damaged by vandalism in the Kensal Green area. Customers should use Piccadilly line to travel to Heathrow Airport and use the free interchange service to travel between terminals. GOOD SERVICE on the rest of the line. "
     },
     "Hammersmith & City": {
         "is_disrupted": false,
@@ -40,8 +40,8 @@
         "reason": "Normal Operation"
     },
     "Metropolitan": {
-        "is_disrupted": true,
-        "reason": "Metropolitan Line: Minor delays between Moor Park and Watford while we fix a signal failure at Watford. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Mildmay": {
         "is_disrupted": false,
