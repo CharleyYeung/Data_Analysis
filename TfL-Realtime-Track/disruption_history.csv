@@ -10832,3 +10832,9 @@ timestamp,line_name,status_description,is_disrupted2026-05-17 14:44:22,Central,C
 2026-09-08 09:25:33,Tram,London Tramlink: Minor delays between East Croydon and Sundowns due to an earlier broken down road vehicle at Lebanon Road. GOOD SERVICE on other tram routes. ,True
 2026-09-08 09:25:33,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
 2026-09-08 13:45:13,Central,Central Line: Minor delays due to train cancellations.  ,True
+2026-09-08 17:42:40,Central,Central Line: Severe delays between North Acton to Ealing Broadway due to an earlier signal failure at North Acton. MINOR DELAYS on the rest of the line due to train cancellations. Tickets will be accepted on local buses. ,True
+2026-09-08 17:42:40,Circle,Circle Line: Minor delays due to train cancellations. ,True
+2026-09-08 17:42:40,District,District Line: Minor delays between Turnham Green and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line. ,True
+2026-09-08 17:42:40,Elizabeth line,Severe delays between Paddington and Heathrow Terminal 4 due to vandalism to equipment in the Paddington area. MINOR DELAYS between Hayes & Harlington and Reading. GOOD SERVICE on the rest of the line.  ,True
+2026-09-08 17:42:40,Piccadilly,Piccadilly Line: Minor delays between Cockfosters and Arnos Grove westbound only while we fix a signal failure at Oakwood. GOOD SERVICE on the rest of the line. ,True
+2026-09-08 17:42:40,Victoria,Victoria Line: Minor delays due to train cancellations. ,True
