@@ -4,8 +4,8 @@
         "reason": "Normal Operation"
     },
     "Central": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Central Line: Minor delays due to train cancellations.  "
     },
     "Circle": {
         "is_disrupted": false,
@@ -20,12 +20,12 @@
         "reason": "Normal Operation"
     },
     "Elizabeth line": {
-        "is_disrupted": true,
-        "reason": "Minor delays between Paddington and Heathrow Terminals/Reading while we fix equipment damaged by vandalism in the Paddington area. Customers should use Piccadilly line to travel to Heathrow Airport and use the free interchange service to travel between terminals. GOOD SERVICE on the rest of the line.\r\n\r\n\r\n "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Hammersmith & City": {
-        "is_disrupted": true,
-        "reason": "Hammersmith and City Line: Minor delays between Barking and Moorgate westbound only due to train cancellations. GOOD SERVICE on the rest of the line. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Jubilee": {
         "is_disrupted": false,
@@ -48,8 +48,8 @@
         "reason": "Normal Operation"
     },
     "Northern": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "Northern Line: Severe delays between Camden Town and Edgware while we respond to a fire alert at Hendon Central. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line. "
     },
     "Piccadilly": {
         "is_disrupted": false,
@@ -60,16 +60,16 @@
         "reason": "Normal Operation"
     },
     "Tram": {
-        "is_disrupted": false,
-        "reason": "Normal Operation"
+        "is_disrupted": true,
+        "reason": "London Tramlink: Minor delays between East Croydon and Sundowns due to an earlier broken down road vehicle at Lebanon Road. GOOD SERVICE on other tram routes. "
     },
     "Victoria": {
         "is_disrupted": true,
         "reason": "Victoria Line: Minor delays due to train cancellations. "
     },
     "Waterloo & City": {
-        "is_disrupted": true,
-        "reason": "Waterloo and City Line: Service will resume at 06:00. "
+        "is_disrupted": false,
+        "reason": "Normal Operation"
     },
     "Weaver": {
         "is_disrupted": false,
